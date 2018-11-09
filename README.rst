@@ -4,12 +4,14 @@ Fundamentals of Life
 
 This contains fundamental ideas about life, such as what it is, how to improve it, and what it can be. It is my hope that this can serve as a guide to live a fulfilling life for those without proper parental guidance.
 
+.. contents::
+
 Why
 ===
 
 That's the most important question. Why read this? In short, because it is just a single page that contains the essential things that everyone should know to live a good life in the right way.
 
-There are a lot of information on the Internet, in books, on TV, from family/friends, etc about how to have a happy and successful life, like good career and loving family, but all of them are scattered across different places. Access to all sources may not be available. This is intended to be a single source that contains all the essential concepts from everywhere and everyone. External links might be used to get more details for the insatiables, but essential ideas will be here, so there is no need to look elsewhere to get your life started in the right direction.
+There are a lot of information on the Internet, in books, on TV, from family/friends, etc about how to have a happy and successful life, like good career and loving family, but all of them are scattered across different places. Access to all sources may not be readily available. This is intended to be a single source that contains all the essential concepts from everywhere and everyone. External links might be used to get more details for the insatiables, but essential ideas will be here, so there is no need to look elsewhere to get your life started in the right direction.
 
 Motivation
 ==========
@@ -25,8 +27,8 @@ As a software engineer, I am always thinking about redundancy, and hence this wo
 Advice for Different Stages of Life
 ===================================
 
-Childhood
----------
+Child
+-----
 
 This is a great time to have fun as everything is new and exciting, so do savor the moments. Aside from having fun, it is also a great time to learn different skills that can accelerate latter stages of life. The brain just soaks up everything so easily, so why not.
 
