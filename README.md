@@ -1,2 +1,0 @@
-# life
-Fundamentals of Life
