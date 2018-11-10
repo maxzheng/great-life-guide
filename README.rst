@@ -89,7 +89,7 @@ Essential Skills
 
 It's not enough to train the body or mind, but both are required to get the optimal performance. 
 
-The saying "if you don't use it, you will loose it" applies to both body and mind. And both deterioates with age, and so it is important to train more and consistently.
+The saying "if you don't use it, you will loose it" applies to both body and mind. And both deterioates with age, so it is important to train more and consistently.
 
 Body
 ----
