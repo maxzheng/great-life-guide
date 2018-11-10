@@ -101,15 +101,21 @@ Mind
 
 There are many areas to train, here are some of the key ones:
 
-1. Meditate mindfully to train attention, which improves utilization of memory and cognitive processing. This also helps with awareness of emotions and other states of the body and mind, which helps to keep them in check and to maximize their use for your benefits.
+1. Meditate mindfully to clear the mind and train attention, which improves utilization of memory and cognitive processing. This also helps with awareness of emotions and other states of the body and mind, which helps to keep them in check and to maximize their use for your benefits.
 2. Read daily to learn new things to keep the mind interested and active. The entire human knowledge is written in books or on the Internet, which took thousands of years from billions of people to create, so leverage them to save yourself the time and avoid the same mistakes.
 3. Always be asking the hard questions -- why, what, how -- but try to answer them yourself first before asking others, so you become smarter.
 4. Think about what you can do to make things better for you and everyone. Creativity wins over everything else in the long run.
+5. Love what you do and be motivated by keeping `PPP (Play, Purpose, Potential) <https://hbr.org/2015/11/how-company-culture-shapes-employee-motivation>`_ in mind for everything that you do. Play is where you enjoy what you do and is the most powerful motivator. Purpose is what you get after you do something. Potential is what you might be able to do in the future after you have done it. 
+6. Be a `transcendent leader <https://www.linkedin.com/pulse/become-transcendent-leader-reid-hoffman>`_ that follows the mission, not other people, and inspires others to do the same. 
 
 Achieving Happiness
 ===================
 
-TBD
+There are 3 ways to achieve happiness:
+
+1. Work towards meaningful life goals, such as having a family or improving the world.
+2. Accept everything as they are without judgement and expectations.
+3. Meditate to clear the mind and happiness becomes the natural state.
 
 Contribution
 ============
