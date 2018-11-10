@@ -62,8 +62,8 @@ Guiding Principles
 
 Life can be complicated as there are so many choices and so many variables (people) involved. To help achieve your vision, mission, and goals in the fastest and safest way, follow these two guiding principles. 
 
-1. Do the Right Thing
-2. Be Rock Solid
+1. Do the right thing
+2. Be rock solid
 
 Do the right thing is the fastest way to get what you want as the wrong way requires redo and some things can not be undone.
 
