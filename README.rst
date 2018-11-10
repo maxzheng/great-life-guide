@@ -32,8 +32,8 @@ Child
 
 This is a great time to have fun as everything is new and exciting, so do savor the moments. Aside from having fun, it is also a great time to learn different skills that can accelerate latter stages of life. The brain just soaks up everything so easily, so why not.
 
-Teenager
---------
+Teen
+----
 
 A lot of hormones at work during this time to develop the body. Just let the body do its magic, but don't let it take over decision making. Always use your mind. Learn and experience everything that life has to offer with some care -- as long as you keep a healthy body and mind, everything is a go. 
 
@@ -42,7 +42,7 @@ School dominates this stage. Always be learning, but don't just do it, it's impo
 Adult
 -----
 
-The final stage of life is also the beginning of the real life. The earlier stages are just prepration of the body and mind. This is where we can start to make a difference and really live the life that we want.
+The final stage of life is also the beginning of the real life. The earlier stages are just prepration of the body and mind. This is where you can start to make a difference and really live the life that you want.
 
 Around 40 years old, the body and mind start to decline, so more effort is required to maintain health.
 
@@ -74,20 +74,37 @@ There is a balance between the two principles. Doing the right thing without bei
 Continuous Improvement
 ======================
 
-TBD
+To iteratively get closer to your vision and goals, follow these 5 simple steps to continously improve yourself:
+
+1. Life is a game, so relax and have fun!
+2. Set intentions based on your vision, mission, and goals. 
+3. Be mindful of the present with acceptance.
+4. Do the right thing.
+5. Be rock solid.
+
+Each step has a distinct purpose. The default state of your mind should be step #3 -- be mindful of the present with acceptance.
 
 Essential Skills
 ================
 
+It's not enough to train the body or mind, but both are required to get the optimal performance. 
+
+The saying "if you don't use it, you will loose it" applies to both body and mind. And both deterioates with age, and so it is important to train more and consistently.
+
 Body
 ----
 
-TBD
+Exercise daily at least 30 minutes a day. Any form of exercise is fine, but yoga trains BESF (Balance, Endurance, Strenth, and Flexibility) and so is recommended. 
 
 Mind
 ----
 
-TBD
+There are many areas to train, here are some of the key ones:
+
+1. Meditate mindfully to train attention, which improves utilization of memory and cognitive processing. This also helps with awareness of emotions and other states of the body and mind, which helps to keep them in check and to maximize their use for your benefits.
+2. Read daily to learn new things to keep the mind interested and active. The entire human knowledge is written in books or on the Internet, which took thousands of years from billions of people to create, so leverage them to save yourself the time and avoid the same mistakes.
+3. Always be asking the hard questions -- why, what, how -- but try to answer them yourself first before asking others, so you become smarter.
+4. Think about what you can do to make things better for you and everyone. Creativity wins over everything else in the long run.
 
 Achieving Happiness
 ===================
