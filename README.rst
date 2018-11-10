@@ -44,16 +44,32 @@ Adult
 
 The final stage of life is also the beginning of the real life. The earlier stages are just prepration of the body and mind. This is where we can start to make a difference and really live the life that we want.
 
+Around 40 years old, the body and mind start to decline, so more effort is required to maintain health.
+
 Vision, Mission, and Goals
 ==========================
 
-TBD
+The first 20 years of life is mostly spent on learning and exploring. After that, it's important to know what you want out of life so you can iteratively attain them.
+
+A vision paints a future world that you want your children to live in. This serves as a true north for everything that you do. E.g. world peace, or deprecation of poverty, or everyone is happy. This should inspire you.
+
+A mission describes how you want to achieve the vision. This can change over time as you learn, but should be the single most importannt thing that you are trying to do. E.g. I want to continuously improve myself to reach my full potential and help others to do the same, so together we can do great things.
+
+And finally, there can be many goals in your life, such as getting married, having kids, or have a great career.
 
 Guiding Principles
 ==================
 
+Life can be complicated as there are so many choices and so many variables (people) involved. To help achieve your vision, mission, and goals in the fastest and safest way, follow these two guiding principles. 
+
 1. Do the Right Thing
 2. Be Rock Solid
+
+Do the right thing is the fastest way to get what you want as the wrong way requires redo and some things can not be undone.
+
+Be rock solid is the safest way as there are many challenges and bad actors that will block you so it's important to believe in yourself, stand firmly behind your ideas, and never waver -- like a rock. 
+
+There is a balance between the two principles. Doing the right thing without being rock solid will result in a mental breakdown. Being rock solid without doing the right thing is simply stubborn and wastes a lot of time.
 
 Continuous Improvement
 ======================
