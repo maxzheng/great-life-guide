@@ -9,23 +9,34 @@ This contains fundamental ideas about life, such as what it is, how to improve i
 Why
 ===
 
-That's the most important question. Why read this? In short, because it is a single page that contains the essential things that everyone should know to live a good life in the right way.
+That's the most important question that we should always be asking.
 
-There are a lot of information on the Internet, in books, on TV, from family/friends, etc about how to have a happy and successful life, like good career and loving family, but all of them are scattered across different places. Access to all sources may not be readily available. This is intended to be a single source that contains all the essential concepts from everywhere and everyone. External links might be used to get more details, but essential ideas will be here, so there is no need to look elsewhere to get your life started in the right direction.
+Why should you read this?
 
-Motivation
-==========
+  In short, because it is a single page that contains the essential ideas that everyone should know to live a good life in the right way.
+  
+  There are a lot of information on the Internet, in books, on TV, from family/friends, etc about how to have a happy and successful life, like good career and loving family, but all of them are scattered across different places. Access to all sources may not be readily available. There are also a lot of biases and opinions mixed in, so it's unclear what the truth is that delivers real value and results for having a good life. This does contain external links to get more details and attribution, but essential ideas will be here, so there is no need to look elsewhere to get your life started in the right direction.
+  
+  Here are some of the things that you will learn:
+  
+  * Changes in the body and mind as we grow.
+  * Define what you want out of life so you can iteratively get there.
+  * Simple steps to continuously improve yourself.
+  * Essential skills to improve the body and mind.
+  * Achieving happiness so you can freely do great things.
 
-Just a bit of history to understand why I wrote this.
+Why did I write this?
 
-I grew up with little parental guidance and learned everything from TV, school, other people, trial/error, etc, and always wished that I had someone that had a full life experience to guide me in the right direction to avoid many of the common mistakes that I had made. It took me 36 years to finally realize what life is all about, so I am hoping to save others some time by sharing.
+  I grew up with little parental guidance and learned everything from TV, school, other people, trial/error, etc, and always wished that I had someone that had a full life experience to guide me in the right direction to avoid many of the common mistakes that I had made. It took me 36 years to finally realize what life is all about, so I am hoping to save others some time by sharing.
 
-As a parent now, I am glad that I can help my children grow, but I can also see other people going through the same thing that I had without any guidance, hence this could fill in some of that gap -- if they find it, LOL (hint: please share with your friends/family).
+  As a parent now, I am glad that I can help my children grow, but I can also see other people going through the same thing that I had without any guidance, hence this could fill in some of that gap -- if they find it, LOL (hint: please share with your friends/family).
 
-As a software engineer, I am always thinking about redundancy, and hence this would serve as a backup for my kids.
+  As a software engineer, I am always thinking about redundancy, and hence this would serve as a backup for my kids.
 
 Stages of Life
 ==============
+
+As we grow, there are many things changing inside our body and mind, so be prepared.
 
 1. As a child, this is a great time to have fun as everything is new and exciting, so do savor the moments. Aside from having fun, it is also a great time to learn different skills that can accelerate latter stages of life. The brain just soaks up everything so easily, so why not.
 2. As a teen, a lot of hormones are at work during this time to develop the body. Just let the body do its magic, but don't let it take over decision making. Always use your mind. Learn and experience everything that life has to offer with some care -- as long as you keep a healthy body and mind, everything is a go. School dominates this stage. Always be learning, but don't just do it, it's important to develop a love for learning. That is what separates those that will have a successful/easy life and those that don't.
@@ -52,7 +63,7 @@ Life can be complicated as there are so many choices and so many variables (peop
 1. Do the right thing.
 2. Be rock solid.
 
-Do the right thing is the fastest way to get what you want as the wrong way requires redo and some things can not be undone.
+Do the right thing is the fastest way to get what you want as the wrong way requires redo and some things can not be undone. Sometimes it's tempting to do the wrong things for a quick / short-term gain, but there are always consequences. In the long run, doing the right thing will give you everything that you want in the fastest way, so there is no need for shortcuts. 
 
 Be rock solid is the safest way as there are many challenges and bad actors that will block you so it's important to believe in yourself, stand firmly behind your ideas, and never waver -- like a rock. 
 
@@ -104,18 +115,20 @@ It's easy for our emotions to affect the health of our body (e.g. stress) and cl
 Rest
 ----
 
-The other integral part of training your body and mind is letting them rest. Rest allows both to recover and rebuild to become stronger. Without rest, they won't grow as fast or strong and may burn out. So train on weekdays, but rest on weekends. And consistently sleep about 8 hours a day with meditation before and afterward.
+The other integral part of training your body and mind is letting them rest. Rest allows both to recover and rebuild to become stronger. Without rest, they won't grow as fast or strong and may burn out. So train on weekdays, but rest on weekends. And consistently sleep `about 8 hours a day <https://www.sleepfoundation.org/press-release/national-sleep-foundation-recommends-new-sleep-times/page/0/1>`_ with meditation before and afterward.
 
 Achieving Happiness
 ===================
 
-There are 3 ways to achieve happiness -- a lasting inner peace and contentment regardless of what's going on:
+There are 3 ways to achieve happiness -- a lasting inner peace and contentment regardless of what's going on so you can freely do everything that you want without artificial hindrance:
 
 1. Work towards meaningful goals, such as having a family or improving the world.
 2. Accept everything as they are without judgement and expectations.
 3. Meditate to clear the mind and happiness becomes the natural state.
 
+Happiness isn't the same as happy, which is a fleeting joyous emotion from experiences. Both are essential to have.
+
 Contribution
 ============
 
-I do hope others find this useful and would contribute to make this better by creating pull requests. Sharing this with family and friends would be another way of contributing. Thanks!
+I do hope others find this useful and would contribute to make this better by `opening issues or creating pull requests <https://help.github.com/categories/collaborating-with-issues-and-pull-requests/>`_ at `https://github.com/maxzheng/life`. Sharing this with your family and friends would be another way of contributing. Thank you! :)
