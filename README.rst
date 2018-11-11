@@ -11,27 +11,27 @@ Why
 
 That's the most important question that we should always be asking.
 
-Why should you read this?
+**Why should you read this?**
 
-  In short, because it is a single page that contains the essential ideas that everyone should know to live a good life in the right way.
+In short, because it is a single page that contains the essential ideas that everyone should know to live a good life in the right way.
   
-  There are a lot of information on the Internet, in books, on TV, from family/friends, etc about how to have a happy and successful life, like good career and loving family, but all of them are scattered across different places. Access to all sources may not be readily available. There are also a lot of biases and opinions mixed in, so it's unclear what the truth is that delivers real value and results for having a good life. This does contain external links to get more details and attribution, but essential ideas will be here, so there is no need to look elsewhere to get your life started in the right direction.
+There are a lot of information on the Internet, in books, on TV, from family/friends, etc about how to have a happy and successful life, like good career and loving family, but all of them are scattered across different places. Access to all sources may not be readily available. There are also a lot of biases and opinions mixed in, so it's unclear what the truth is that delivers real value and results for having a good life. This does contain external links to get more details and attribution, but essential ideas will be here, so there is no need to look elsewhere to get your life started in the right direction.
   
-  Here are some of the things that you will learn:
+Here are some of the things that you will learn:
   
-  * Changes in the body and mind as we grow.
-  * Define what you want out of life so you can iteratively get there.
-  * Simple steps to continuously improve yourself.
-  * Essential skills to improve the body and mind.
-  * Achieving happiness so you can freely do great things.
+* Changes in the body and mind as we grow.
+* Define what you want out of life so you can iteratively get there.
+* Simple steps to continuously improve yourself.
+* Essential skills to improve the body and mind.
+* Achieving happiness so you can freely do great things.
 
-Why did I write this?
+**Why did I write this?**
 
-  I grew up with little parental guidance and learned everything from TV, school, other people, trial/error, etc, and always wished that I had someone that had a full life experience to guide me in the right direction to avoid many of the common mistakes that I had made. It took me 36 years to finally realize what life is all about, so I am hoping to save others some time by sharing.
+I grew up with little parental guidance and learned everything from TV, school, other people, trial/error, etc, and always wished that I had someone that had a full life experience to guide me in the right direction to avoid many of the common mistakes that I had made. It took me 36 years to finally realize what life is all about, so I am hoping to save others some time by sharing.
 
-  As a parent now, I am glad that I can help my children grow, but I can also see other people going through the same thing that I had without any guidance, hence this could fill in some of that gap -- if they find it, LOL (hint: please share with your friends/family).
+As a parent now, I am glad that I can help my children grow, but I can also see other people going through the same thing that I had without any guidance, hence this could fill in some of that gap -- if they find it, LOL (hint: please share with your friends/family).
 
-  As a software engineer, I am always thinking about redundancy, and hence this would serve as a backup for my kids.
+As a software engineer, I am always thinking about redundancy, and hence this would serve as a backup for my kids.
 
 Stages of Life
 ==============
@@ -110,12 +110,16 @@ There are many areas to train, here are some of the key ones:
 Emotion
 -------
 
-It's easy for our emotions to affect the health of our body (e.g. stress) and clarity of our mind, so it's important to `master emotional intelligence <https://www.youtube.com/watch?v=r8fcqrNO7so>`_ to better understand them and retain the ability to make good decisions while being able to fully enjoy them.
+It's easy for our emotions to affect the health of our body (e.g. stress) and clarity of our mind, so it's important to `master emotional intelligence <https://www.youtube.com/watch?v=r8fcqrNO7so>`_ to better understand and enjoy them while retaining the ability to make sound decisions. Start with training your attention using mindfulness meditation to become fully aware of your emotions, learn to accept and let them go, and finally form habits to permeate positive emotions with positive thoughts for yourself and others.
 
 Rest
 ----
 
-The other integral part of training your body and mind is letting them rest. Rest allows both to recover and rebuild to become stronger. Without rest, they won't grow as fast or strong and may burn out. So train on weekdays, but rest on weekends. And consistently sleep `about 8 hours a day <https://www.sleepfoundation.org/press-release/national-sleep-foundation-recommends-new-sleep-times/page/0/1>`_ with meditation before and afterward.
+The other integral part of training your body and mind is letting them rest. Rest allows both to recover and rebuild to become stronger. Without rest, they won't grow as fast or strong and may burn out. Here are some suggestions: 
+
+1. Train on weekdays, but rest on weekends.
+2. Consistently sleep `about 8 hours a day <https://www.sleepfoundation.org/press-release/national-sleep-foundation-recommends-new-sleep-times/page/0/1>`_ with meditation before and afterward to comfort the mind and a warm/comfortable bed to comfort the body.
+3. Lastly, go out and have fun! :D
 
 Achieving Happiness
 ===================
