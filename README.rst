@@ -2,16 +2,16 @@
 Fundamentals of Life
 ====================
 
-This contains fundamental ideas about life, such as what it is, how to improve it, and what it can be. It is my hope that this can serve as a guide to live a fulfilling life for those without proper parental guidance.
+This contains fundamental ideas about life, such as what it is, how to improve it, and what it can be. It is my hope that this can serve as a guide to live a good life for those without proper guidance.
 
 .. contents::
 
 Why
 ===
 
-That's the most important question. Why read this? In short, because it is just a single page that contains the essential things that everyone should know to live a good life in the right way.
+That's the most important question. Why read this? In short, because it is a single page that contains the essential things that everyone should know to live a good life in the right way.
 
-There are a lot of information on the Internet, in books, on TV, from family/friends, etc about how to have a happy and successful life, like good career and loving family, but all of them are scattered across different places. Access to all sources may not be readily available. This is intended to be a single source that contains all the essential concepts from everywhere and everyone. External links might be used to get more details for the insatiables, but essential ideas will be here, so there is no need to look elsewhere to get your life started in the right direction.
+There are a lot of information on the Internet, in books, on TV, from family/friends, etc about how to have a happy and successful life, like good career and loving family, but all of them are scattered across different places. Access to all sources may not be readily available. This is intended to be a single source that contains all the essential concepts from everywhere and everyone. External links might be used to get more details, but essential ideas will be here, so there is no need to look elsewhere to get your life started in the right direction.
 
 Motivation
 ==========
@@ -22,7 +22,7 @@ I grew up with little parental guidance and learned everything from TV, school, 
 
 As a parent now, I am glad that I can help my children grow, but I can also see other people going through the same thing that I had without any guidance, hence this could fill in some of that gap -- if they find it, LOL (hint: please share with your friends/family).
 
-As a software engineer, I am always thinking about redundancy, and hence this would serve as a backup for my kids in case I am gone.
+As a software engineer, I am always thinking about redundancy, and hence this would serve as a backup for my kids.
 
 Stages of Life
 ==============
@@ -49,8 +49,8 @@ Guiding Principles
 
 Life can be complicated as there are so many choices and so many variables (people) involved. To help achieve your vision, mission, and goals in the fastest and safest way, follow these two guiding principles. 
 
-1. Do the right thing
-2. Be rock solid
+1. Do the right thing.
+2. Be rock solid.
 
 Do the right thing is the fastest way to get what you want as the wrong way requires redo and some things can not be undone.
 
