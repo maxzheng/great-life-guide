@@ -94,11 +94,17 @@ There are many areas to train, here are some of the key ones:
 4. Think about what you can do to make things better for you and everyone. Creativity wins over everything else in the long run.
 5. Love what you do and be motivated by keeping `PPP (Play, Purpose, Potential) <https://hbr.org/2015/11/how-company-culture-shapes-employee-motivation>`_ in mind for everything that you do. Play is where you enjoy what you do and is the most powerful motivator. Purpose is what you get after you do something. Potential is what you might be able to do in the future after you have done it. Motivation can be negatively impacted by emotional/economic pressure and inertia -- the worst motivator where you keep doing something because you are already doing it. 
 6. Be a `transcendent leader <https://www.linkedin.com/pulse/become-transcendent-leader-reid-hoffman>`_ that follows the mission, not other people, and inspires others to do the same. Lead with meaning.
+7. Be compassionate to better understand and help others to do more together. The best way to help is to teach as other ways may actually do harm in the long run. And careful not to spend too much time helping others that may significantly affect your own goals.
+
+Emotion
+-------
+
+It's easy for our emotions to affect the health of our body (e.g. stress) and clarity of our mind, so it's important to `master emotional intelligence <https://www.youtube.com/watch?v=r8fcqrNO7so>`_ to better understand them and retain the ability to make good decisions while being able to fully enjoy them.
 
 Rest
 ----
 
-The other integral part of training your body and mind is letting them rest. Rest allows both to recover and rebuild to become stronger. Without rest, they won't grow as fast or strong, but may burn out. So train on weekdays, but rest on weekends.
+The other integral part of training your body and mind is letting them rest. Rest allows both to recover and rebuild to become stronger. Without rest, they won't grow as fast or strong and may burn out. So train on weekdays, but rest on weekends. And consistently sleep about 8 hours a day with meditation before and afterward.
 
 Achieving Happiness
 ===================
