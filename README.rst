@@ -63,18 +63,18 @@ Life can be complicated as there are so many choices and so many variables (peop
 1. Do the right thing.
 2. Be rock solid.
 
-Do the right thing is the fastest way to get what you want as the wrong way requires redo and some things can not be undone. Sometimes it's tempting to do the wrong things for a quick / short-term gain, but there are always consequences. In the long run, doing the right thing will give you everything that you want in the fastest way, so there is no need for shortcuts. 
+Do the right thing is the fastest way to get what you want as doing the wrong thing requires redo and some things can not be undone. Sometimes it's tempting to do the wrong things for a quick / short-term gain, but there are always consequences. In the long run, doing the right thing will give you everything that you want in the fastest way, so there is no need for shortcuts. 
 
 Be rock solid is the safest way as there are many challenges and bad actors that will block you so it's important to believe in yourself, stand firmly behind your ideas, and never waver -- like a rock. 
 
-There is a balance between the two principles. Doing the right thing without being rock solid will result in a mental breakdown. Being rock solid without doing the right thing is simply stubborn and wastes a lot of time.
+There is a balance between the two principles. Doing the right thing without being rock solid will result in a breakdown as everything will become too heavy and eventually crumble. Being rock solid without doing the right thing is simply stubborn, wastes a lot of time, and you probably won't get what you want.
 
 Continuous Improvement
 ======================
 
 To iteratively get closer to your vision and goals, follow these 5 simple steps to continously improve yourself:
 
-1. Life is a game, so relax and have fun!
+1. Set the context for other steps. E.g. Life is a game, so relax and have fun!
 2. Set intentions based on your vision, mission, and goals. 
 3. Be mindful of the present with acceptance.
 4. Do the right thing.
