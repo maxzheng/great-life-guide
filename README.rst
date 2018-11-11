@@ -74,7 +74,7 @@ Continuous Improvement
 
 To iteratively get closer to your vision and goals, follow these 5 simple steps to continously improve yourself:
 
-1. Set the context for other steps. E.g. Life is a game, so relax and have fun!
+1. Set stage that enables you. E.g. Life is a game, so relax and have fun!
 2. Set intentions based on your vision, mission, and goals. 
 3. Be mindful of the present with acceptance.
 4. Do the right thing.
