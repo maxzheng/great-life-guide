@@ -24,38 +24,25 @@ As a parent now, I am glad that I can help my children grow, but I can also see 
 
 As a software engineer, I am always thinking about redundancy, and hence this would serve as a backup for my kids in case I am gone.
 
-Advice for Different Stages of Life
-===================================
+Stages of Life
+==============
 
-Child
------
-
-This is a great time to have fun as everything is new and exciting, so do savor the moments. Aside from having fun, it is also a great time to learn different skills that can accelerate latter stages of life. The brain just soaks up everything so easily, so why not.
-
-Teen
-----
-
-A lot of hormones at work during this time to develop the body. Just let the body do its magic, but don't let it take over decision making. Always use your mind. Learn and experience everything that life has to offer with some care -- as long as you keep a healthy body and mind, everything is a go. 
-
-School dominates this stage. Always be learning, but don't just do it, it's important to develop a love for learning. That is what separates those that will have a successful/easy life and those that don't.
-
-Adult
------
-
-The final stage of life is also the beginning of the real life. The earlier stages are just prepration of the body and mind. This is where you can start to make a difference and really live the life that you want.
-
-Around 40 years old, the body and mind start to decline, so more effort is required to maintain health.
+1. As a child, this is a great time to have fun as everything is new and exciting, so do savor the moments. Aside from having fun, it is also a great time to learn different skills that can accelerate latter stages of life. The brain just soaks up everything so easily, so why not.
+2. As a teen, a lot of hormones are at work during this time to develop the body. Just let the body do its magic, but don't let it take over decision making. Always use your mind. Learn and experience everything that life has to offer with some care -- as long as you keep a healthy body and mind, everything is a go. School dominates this stage. Always be learning, but don't just do it, it's important to develop a love for learning. That is what separates those that will have a successful/easy life and those that don't.
+3. As an adult, the final stage of life is also the beginning of the real life. The earlier stages are just prepration of the body and mind. This is where you can start to make a difference and really live the life that you want. Around 40 years old, the body and mind start to decline, so more effort is required to maintain health.
 
 Vision, Mission, and Goals
 ==========================
 
-The first 20 years of life is mostly spent on learning and exploring. After that, it's important to know what you want out of life so you can iteratively attain them.
+The first 20 years of life is mostly spent on learning and exploring. After that, it's important to know what you want out of life so you can iteratively attain them. It's possible to go through life just doing the minimal / taking the easy path, but that's just wasting the precious gift of your intelligence and you won't actually enjoy as much as someone that have meaningful goals. Until you figure them out, keep learning/exploring to keep your body and mind sharp as you will need them in tip-top shape when the time comes.
 
-A vision paints a future world that you want your children to live in. This serves as a true north for everything that you do. E.g. world peace, or deprecation of poverty, or everyone is happy. This should inspire you.
+A vision paints a future world that you want yourself or your children to live in. This serves as a true north for everything that you do. E.g. world peace, or deprecation of poverty, or everyone is happy. This should inspire you.
 
-A mission describes how you want to achieve the vision. This can change over time as you learn, but should be the single most importannt thing that you are trying to do. E.g. I want to continuously improve myself to reach my full potential and help others to do the same, so together we can do great things.
+A mission describes how you want to achieve the vision. This can change over time as you learn, but should be the single most importannt thing that you are trying to do as long as you are alive. E.g. I want to continuously improve myself to reach my full potential and help others to do the same, so together we can do great things.
 
 And finally, there can be many goals in your life, such as getting married, having kids, or have a great career.
+
+In short, you have to know where you are going and how if you want to get there.
 
 Guiding Principles
 ==================
@@ -105,15 +92,20 @@ There are many areas to train, here are some of the key ones:
 2. Read daily to learn new things to keep the mind interested and active. The entire human knowledge is written in books or on the Internet, which took thousands of years from billions of people to create, so leverage them to save yourself the time and avoid the same mistakes.
 3. Always be asking the hard questions -- why, what, how -- but try to answer them yourself first before asking others, so you become smarter.
 4. Think about what you can do to make things better for you and everyone. Creativity wins over everything else in the long run.
-5. Love what you do and be motivated by keeping `PPP (Play, Purpose, Potential) <https://hbr.org/2015/11/how-company-culture-shapes-employee-motivation>`_ in mind for everything that you do. Play is where you enjoy what you do and is the most powerful motivator. Purpose is what you get after you do something. Potential is what you might be able to do in the future after you have done it. 
-6. Be a `transcendent leader <https://www.linkedin.com/pulse/become-transcendent-leader-reid-hoffman>`_ that follows the mission, not other people, and inspires others to do the same. 
+5. Love what you do and be motivated by keeping `PPP (Play, Purpose, Potential) <https://hbr.org/2015/11/how-company-culture-shapes-employee-motivation>`_ in mind for everything that you do. Play is where you enjoy what you do and is the most powerful motivator. Purpose is what you get after you do something. Potential is what you might be able to do in the future after you have done it. Motivation can be negatively impacted by emotional/economic pressure and inertia -- the worst motivator where you keep doing something because you are already doing it. 
+6. Be a `transcendent leader <https://www.linkedin.com/pulse/become-transcendent-leader-reid-hoffman>`_ that follows the mission, not other people, and inspires others to do the same. Lead with meaning.
+
+Rest
+----
+
+The other integral part of training your body and mind is letting them rest. Rest allows both to recover and rebuild to become stronger. Without rest, they won't grow as fast or strong, but may burn out. So train on weekdays, but rest on weekends.
 
 Achieving Happiness
 ===================
 
-There are 3 ways to achieve happiness:
+There are 3 ways to achieve happiness -- a lasting inner peace and contentment regardless of what's going on:
 
-1. Work towards meaningful life goals, such as having a family or improving the world.
+1. Work towards meaningful goals, such as having a family or improving the world.
 2. Accept everything as they are without judgement and expectations.
 3. Meditate to clear the mind and happiness becomes the natural state.
 
