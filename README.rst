@@ -18,12 +18,14 @@ In short, because it is a single page that contains the essential ideas that eve
 There are a lot of information on the Internet, in books, on TV, from family/friends, etc about how to have a happy and successful life, like good career and loving family, but all of them are scattered across different places. Access to all sources may not be readily available. There are also a lot of biases and opinions mixed in, so it's unclear what the truth is that delivers real value and results for having a good life. This does contain external links to get more details and attribution, but essential ideas will be here, so there is no need to look elsewhere to get your life started in the right direction.
   
 Here are some of the things that you will learn:
-  
-* Changes in the body and mind as we grow.
+
+* Master's mindset that enables you.
 * Define what you want out of life so you can iteratively get there.
 * Simple steps to continuously improve yourself.
 * Essential skills to improve the body and mind.
 * Achieving happiness so you can freely do great things.
+* Changes in the body and mind as we grow.
+
 
 **Why did I write this?**
 
@@ -37,14 +39,12 @@ As a software engineer, I am always thinking about redundancy, and hence this wo
 
 Why not. Now, let's do something useful with it.
 
-Stages of Life
-==============
+Master's Mindset
+================
 
-As you grow, there are many things changing inside you, so be prepared.
+Before everything else, you have to see the world clearly using an open mindset where you can do anything that you put your mind to -- i.e. a master's mindset. You are the master of your body and mind, and hence you can control them however you see fit to achieve your desires. To attain mastery, you must love to learn, practice, and experiment to push beyond artificial boundaries. As long as you are alive, you can improve yourself, inspire others to do the same, and together we can do great things, such as splitting the atom (done!), connecting the world at the speed of light (done!), space travel (almost), or building stars.
 
-1. As a child, this is a great time to have fun as everything is new and exciting, so do savor the moments. Aside from having fun, it is also a great time to learn different skills that can accelerate latter stages of life. The brain just soaks up everything so easily, so why not.
-2. As a teen, a lot of hormones are at work during this time to develop the body. Just let the body do its magic, but don't let it take over decision making. Always use your mind. Learn and experience everything that life has to offer with some care -- as long as you keep a healthy body and mind, everything is a go. School dominates this stage. Always be learning, but don't just do it, it's important to develop a love for learning. That is what separates those that will have a successful life and those that don't.
-3. As an adult, the final stage of life is also the beginning of the real life. The earlier stages are just prepration of the body and mind. This is where you can start to make a difference and really live the life that you want. This is the prime of your life where you can fully utilize your body and mind. They start to decline around age 40, so more effort is required to maintain health. At some point, hormones will influence you to find a mate and procreate, and you may become more loving and patient to care for your children so the human race continues on. Yay!
+Let go of anything that holds you back, and go forth with passion to live life to the fullest!
 
 Vision, Mission, and Goals
 ==========================
@@ -140,7 +140,7 @@ Happiness isn't the same as happy, which is a fleeting joyous emotion from exper
 Relationships
 =============
 
-Alone we can do some things. Together we can do everything.
+Alone we can do some things. Together we can do everything. For all relationships, focus on quality and not quantity.
 
 Family
   Friends may come and go, but family will always be there [as long as you don't misuse].
@@ -149,7 +149,7 @@ Friend
   Life is more fun with friends.
 
 Colleague
-  Together we can do great things. More brains = more ideas = better solutions, but keep in mind that quality > quantity.
+  Together we can do great things. More brains = more ideas = better solutions.
 
 Spouse
   Finding someone that you want to create a family with and spend the rest of your life could be hard at first, but as with anything else, practice makes it easy. Start with dating different people to find someone with common interests and values. There may be a few heartbreaks along the way, but just learn from the failures and move on to the next. This is also a very exciting time, so enjoy the moments. 
@@ -160,6 +160,15 @@ Offspring
   It's amazing to create another human being with similar traits to your and your spouse. Enjoy every moment and train them well to become successful adults. Kids just want to have fun, so join them.
 
   Be sure to take good care of their health, such as brushing their teeth twice daily and floss nightly. Make sure they eat lots of healthy food and sleep/nap as much as they need.
+  
+Stages of Life
+==============
+
+As you grow, there are many things changing inside you, so be prepared.
+
+1. As a child, this is a great time to have fun as everything is new and exciting, so do savor the moments. Aside from having fun, it is also a great time to learn different skills that can accelerate latter stages of life. The brain just soaks up everything so easily, so why not.
+2. As a teen, a lot of hormones are at work during this time to develop the body. Just let the body do its magic, but don't let it take over decision making. Always use your mind. Learn and experience everything that life has to offer with some care -- as long as you keep a healthy body and mind, everything is a go. School dominates this stage. Always be learning, but don't just do it, it's important to develop a love for learning. That is what separates those that will have a successful life and those that don't.
+3. As an adult, the final stage of life is also the beginning of the real life. The earlier stages are just prepration of the body and mind. This is where you can start to make a difference and really live the life that you want. This is the prime of your life where you can fully utilize your body and mind. They start to decline around age 40, so more effort is required to maintain health. At some point, hormones will influence you to find a mate and procreate, and you may become more loving and patient to care for your children so the human race continues on. Yay!
 
 Contribution
 ============
