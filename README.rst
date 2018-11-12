@@ -33,14 +33,18 @@ As a parent now, I am glad that I can help my children grow, but I can also see 
 
 As a software engineer, I am always thinking about redundancy, and hence this would serve as a backup for my kids.
 
+**Why do we exist?**
+
+Why not. Now, let's do something useful with it.
+
 Stages of Life
 ==============
 
-As we grow, there are many things changing inside our body and mind, so be prepared.
+As you grow, there are many things changing inside you, so be prepared.
 
 1. As a child, this is a great time to have fun as everything is new and exciting, so do savor the moments. Aside from having fun, it is also a great time to learn different skills that can accelerate latter stages of life. The brain just soaks up everything so easily, so why not.
-2. As a teen, a lot of hormones are at work during this time to develop the body. Just let the body do its magic, but don't let it take over decision making. Always use your mind. Learn and experience everything that life has to offer with some care -- as long as you keep a healthy body and mind, everything is a go. School dominates this stage. Always be learning, but don't just do it, it's important to develop a love for learning. That is what separates those that will have a successful/easy life and those that don't.
-3. As an adult, the final stage of life is also the beginning of the real life. The earlier stages are just prepration of the body and mind. This is where you can start to make a difference and really live the life that you want. Around 40 years old, the body and mind start to decline, so more effort is required to maintain health.
+2. As a teen, a lot of hormones are at work during this time to develop the body. Just let the body do its magic, but don't let it take over decision making. Always use your mind. Learn and experience everything that life has to offer with some care -- as long as you keep a healthy body and mind, everything is a go. School dominates this stage. Always be learning, but don't just do it, it's important to develop a love for learning. That is what separates those that will have a successful life and those that don't.
+3. As an adult, the final stage of life is also the beginning of the real life. The earlier stages are just prepration of the body and mind. This is where you can start to make a difference and really live the life that you want. This is the prime of your life where you can fully utilize your body and mind. They start to decline around age 40, so more effort is required to maintain health. At some point, hormones will influence you to find a mate and procreate, and you may become more loving and patient to care for your children so the human race continues on. Yay!
 
 Vision, Mission, and Goals
 ==========================
@@ -121,16 +125,41 @@ The other integral part of training your body and mind is letting them rest. Res
 2. Consistently sleep `about 8 hours a day <https://www.sleepfoundation.org/press-release/national-sleep-foundation-recommends-new-sleep-times/page/0/1>`_ with meditation before and afterward to comfort the mind and a warm/comfortable bed to comfort the body.
 3. Lastly, go out and have fun! :D
 
-Achieving Happiness
-===================
+Happiness
+=========
 
-There are 3 ways to achieve happiness -- a lasting inner peace and contentment regardless of what's going on so you can freely do everything that you want without artificial hindrance:
+There are a few ways to achieve happiness -- a lasting inner peace and contentment regardless of what's going on so you can freely do everything that you want without artificial hindrance:
 
-1. Work towards meaningful goals, such as having a family or improving the world.
-2. Accept everything as they are without judgement and expectations.
-3. Meditate to clear the mind and happiness becomes the natural state.
+1. Be part of a community, such as being an good member of a family, company, or society in pursuit of common goals. 
+2. Work towards meaningful goals, such as getting married and having kids or improving the world.
+3. Accept everything as they are without judgement and expectations.
+4. Meditate to clear the mind and happiness becomes the natural state.
 
 Happiness isn't the same as happy, which is a fleeting joyous emotion from experiences. Both are essential to have.
+
+Relationships
+=============
+
+Alone we can do some things. Together we can do everything.
+
+Family
+  Friends may come and go, but family will always be there [as long as you don't misuse].
+
+Friend
+  Life is more fun with friends.
+
+Colleague
+  Together we can do great things. More brains = more ideas = better solutions, but keep in mind that quality > quantity.
+
+Spouse
+  Finding someone that you want to create a family with and spend the rest of your life could be hard at first, but as with anything else, practice makes it easy. Start with dating different people to find someone with common interests and values. There may be a few heartbreaks along the way, but just learn from the failures and move on to the next. This is also a very exciting time, so enjoy the moments. 
+
+  Once you do find someone, be compassionate as no one is perfect. With compassion, there will be trust and love, and those will build a lasting marriage. The strongest bond is built on play, so make sure you always enjoy spending time with him/her.
+
+Offspring
+  It's amazing to create another human being with similar traits to your and your spouse. Enjoy every moment and train them well to become successful adults. Kids just want to have fun, so join them.
+
+  Be sure to take good care of their health, such as brushing their teeth twice daily and floss nightly. Make sure they eat lots of healthy food and sleep/nap as much as they need.
 
 Contribution
 ============
