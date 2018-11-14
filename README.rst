@@ -149,7 +149,7 @@ Exercise daily at least 30 minutes a day. Any form of exercise is fine, but yoga
 Happiness
 ---------
 
-There are a few ways to achieve happiness -- a lasting inner peace and contentment regardless of what's going on so you can freely do everything that you want without emotional hindrance:
+There are a few ways to improve/train happiness -- a lasting inner peace and contentment regardless of what's going on so you can freely do everything that you want without emotional hindrance:
 
 1. Be part of a community, such as being an good member of a family, company, or society in pursuit of common goals. 
 2. Work towards meaningful goals, such as getting married and having kids or improving the world.
