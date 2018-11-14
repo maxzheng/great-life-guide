@@ -146,6 +146,18 @@ Exercise
 
 Exercise daily at least 30 minutes a day. Any form of exercise is fine, but yoga trains BESF (Balance, Endurance, Strenth, and Flexibility) and is highly recommended. Be sure to do some through the day as it `improves cognitive functions <https://www.scientificamerican.com/article/why-do-you-think-better-after-walk-exercise/>`_ by providing more blood (energy/oxygen) to the brain and stimulates hippocampus. 
 
+Happiness
+---------
+
+There are a few ways to achieve happiness -- a lasting inner peace and contentment regardless of what's going on so you can freely do everything that you want without emotional hindrance:
+
+1. Be part of a community, such as being an good member of a family, company, or society in pursuit of common goals. 
+2. Work towards meaningful goals, such as getting married and having kids or improving the world.
+3. Accept everything as they are without judgement and expectations.
+4. Meditate to clear the mind and happiness becomes the natural state.
+
+Happiness isn't the same as happy, which is a fleeting joyous emotion from experiences. Both are essential to have.
+
 Learning
 --------
 
@@ -182,41 +194,39 @@ The other integral part of training your body and mind is letting them rest. Res
 2. Consistently sleep `about 8 hours a day <https://www.sleepfoundation.org/press-release/national-sleep-foundation-recommends-new-sleep-times/page/0/1>`_ with meditation before and afterward to comfort the mind and a warm/comfortable bed to comfort the body.
 3. Lastly, go out and have fun! :D
 
-Happiness
-=========
-
-There are a few ways to achieve happiness -- a lasting inner peace and contentment regardless of what's going on so you can freely do everything that you want without artificial hindrance:
-
-1. Be part of a community, such as being an good member of a family, company, or society in pursuit of common goals. 
-2. Work towards meaningful goals, such as getting married and having kids or improving the world.
-3. Accept everything as they are without judgement and expectations.
-4. Meditate to clear the mind and happiness becomes the natural state.
-
-Happiness isn't the same as happy, which is a fleeting joyous emotion from experiences. Both are essential to have.
-
 Relationships
 =============
 
 Alone we can do some things. Together we can do everything. For all relationships, focus on quality and not quantity.
 
 Family
-  Friends may come and go, but family will always be there [as long as you don't misuse].
+------
+  
+Friends may come and go, but family will always be there [as long as you don't misuse].
 
 Friend
-  Life is more fun with friends.
+------
+
+Life is more fun with friends.
 
 Colleague
-  Together we can do great things. More brains = more ideas = better solutions.
+---------
+
+Together we can do great things. More brains = more ideas = better solutions.
 
 Spouse
-  Finding someone that you want to create a family with and spend the rest of your life could be hard at first, but as with anything else, practice makes it easy. Start with dating different people to find someone with common interests and values. There may be a few heartbreaks along the way, but just learn from the failures and move on to the next. This is also a very exciting time, so enjoy the moments. 
+------
 
-  Once you do find someone, be compassionate as no one is perfect. With compassion, there will be trust and love, and those will build a lasting marriage. The strongest bond is built on play, so make sure you always enjoy spending time with him/her.
+Finding someone that you want to create a family with and spend the rest of your life could be hard at first, but as with anything else, practice makes it easy. Start with dating different people to find someone with common interests and values. There may be a few heartbreaks along the way, but just learn from the failures and move on to the next. This is also a very exciting time, so enjoy the moments. 
+
+Once you do find someone, be compassionate as no one is perfect. With compassion, there will be trust and love, and those will build a lasting marriage. The strongest bond is built on play, so make sure you always enjoy spending time with him/her.
 
 Offspring
-  It's amazing to create another human being with similar traits to your and your spouse. Enjoy every moment and train them well to become successful adults. Kids just want to have fun, so join them.
+---------
 
-  Be sure to take good care of their health, such as brushing their teeth twice daily and floss nightly. Make sure they eat lots of healthy food and sleep/nap as much as they need.
+It's amazing to create another human being with similar traits to your and your spouse. Enjoy every moment and train them well to become successful adults. Kids just want to have fun, so join them.
+
+Be sure to take good care of their health, such as brushing their teeth twice daily and floss nightly. Make sure they eat lots of healthy food and sleep/nap as much as they need.
 
 Contribution
 ============
