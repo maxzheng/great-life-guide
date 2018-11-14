@@ -4,7 +4,7 @@ Fundamentals of Life
 
 This contains fundamental ideas about life, such as what it is, how to improve it, and what it can be. It is my hope that this can serve as a guide to live a good life for those without proper guidance.
 
-.. contents::
+.. contents:: :depth: 1
 
 Why & What
 ==========
@@ -167,6 +167,11 @@ Leadership
 ----------
 
 Be a `transcendent leader <https://www.linkedin.com/pulse/become-transcendent-leader-reid-hoffman>`_ that follows the mission, not other people, and inspires others to do the same. Lead with meaning.
+
+Priority
+--------
+
+There are so many things to do, so it's important to prioritize on the ones that provide the most value. You will be surprised how much more time that you have once you focus on the important things and let the unimportant ones simmer until they become more valuable or discarded.
 
 Rest
 ----
