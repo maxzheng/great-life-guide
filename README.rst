@@ -20,6 +20,7 @@ There are a lot of information on the Internet, in books, on TV, from family/fri
   
 Here are some of the things that you will learn:
 
+* What is life and what can it like?
 * Master's mindset that enables you.
 * Define what you want out of life so you can iteratively get there.
 * Simple steps to continuously improve yourself.
@@ -116,32 +117,56 @@ A short name for the steps is Master Check (MC), where master means comprehensiv
 Essential Skills
 ================
 
-It's not enough to train the body or mind, but both are required to get the optimal performance. 
+It's not enough to train the body or mind, but both are required to get the optimal performance as they interdepend on each other. 
 
-The saying "if you don't use it, you will loose it" applies to both body and mind. And both deterioates with age, so it is important to train more and consistently.
+The saying "if you don't use it, you will loose it" applies to both body and mind. As both deterioates with age, it is important to train more and consistently.
 
-Body
-----
+Compassion
+----------
 
-Exercise daily at least 30 minutes a day. Any form of exercise is fine, but yoga trains BESF (Balance, Endurance, Strenth, and Flexibility) and so is recommended. 
-
-Mind
-----
-
-There are many areas to train, here are some of the key ones:
-
-1. Meditate mindfully to clear the mind and train attention, which improves utilization of memory and cognitive processing. This also helps with awareness of emotions and other states of the body and mind, which helps to keep them in check and to maximize their use for your benefits.
-2. Read daily to learn new things to keep the mind interested and active. The entire human knowledge is written in books or on the Internet, which took thousands of years from billions of people to create, so leverage them to save yourself the time and avoid the same mistakes.
-3. Always be asking the hard questions -- why, what, how -- but try to answer them yourself first before asking others, so you become smarter.
-4. Think about what you can do to make things better for you and everyone. Creativity wins over everything else in the long run.
-5. Love what you do and be motivated by keeping `PPP (Play, Purpose, Potential) <https://hbr.org/2015/11/how-company-culture-shapes-employee-motivation>`_ in mind for everything that you do. Play is where you enjoy what you do and is the most powerful motivator. Purpose is what you get after you do something. Potential is what you might be able to do in the future after you have done it. Motivation can be negatively impacted by emotional/economic pressure and inertia -- the worst motivator where you keep doing something because you are already doing it. 
-6. Be a `transcendent leader <https://www.linkedin.com/pulse/become-transcendent-leader-reid-hoffman>`_ that follows the mission, not other people, and inspires others to do the same. Lead with meaning.
-7. Be compassionate to better understand and help others to do more together. The best way to help is to teach as other ways may actually do harm in the long run. And careful not to spend too much time helping others that may significantly affect your own goals.
+Be compassionate to better understand and help others to do more together. The best way to help is to teach as other ways may actually do harm in the long run. And careful not to spend too much time helping others that may significantly affect your own goals.
 
 Emotion
 -------
 
 It's easy for our emotions to affect the health of our body (e.g. stress) and clarity of our mind, so it's important to `master emotional intelligence <https://www.youtube.com/watch?v=r8fcqrNO7so>`_ to better understand and enjoy them while retaining the ability to make sound decisions. Start with training your attention using mindfulness meditation to become fully aware of your emotions, learn to accept and let them go, and finally form habits to permeate positive emotions with positive thoughts for yourself and others.
+
+Exercise
+--------
+
+Exercise daily at least 30 minutes a day. Any form of exercise is fine, but yoga trains BESF (Balance, Endurance, Strenth, and Flexibility) and is highly recommended. Be sure to do some through the day as it `improves cognitive functions <https://www.scientificamerican.com/article/why-do-you-think-better-after-walk-exercise/>`_ by providing more blood (energy/oxygen) to the brain and stimulates hippocampus. 
+
+Learning
+--------
+
+Read daily to learn new things to keep the mind interested and active. The entire human knowledge is written in books or on the Internet, which took thousands of years from billions of people to create, so leverage them to save yourself the time and avoid the same mistakes.
+
+The best way to learn is to practice and experiment. To improve learning, learn `how to learn <https://www.coursera.org/learn/learning-how-to-learn>`_.
+
+Meditation
+----------
+
+Meditate mindfully to clear the mind and train attention, which improves utilization of memory and cognitive processing. This also helps with awareness of emotions and other states of the body and mind, which helps to keep them in check and to maximize their use for your benefits.
+
+Curiosity
+---------
+
+Always be asking the hard questions -- why, what, how -- but try to answer them yourself first before asking others, so you become smarter.
+
+Creativity
+----------
+
+Think about what you can do to make things better for you and everyone. `Creativity wins over intelligence <https://drmbloomfield.com/blog/2018/4/12/why-creativity-is-now-more-important-than-intelligence>`_ in the long run.
+
+Motivation
+----------
+
+Love what you do and be motivated by keeping `PPP (Play, Purpose, Potential) <https://hbr.org/2015/11/how-company-culture-shapes-employee-motivation>`_ in mind for everything that you do. Play is where you enjoy what you do and is the most powerful motivator. Purpose is what you get after you do something. Potential is what you might be able to do in the future after you have done it. Motivation can be negatively impacted by emotional/economic pressure and inertia -- the worst motivator where you keep doing something because you are already doing it. 
+
+Leadership
+----------
+
+Be a `transcendent leader <https://www.linkedin.com/pulse/become-transcendent-leader-reid-hoffman>`_ that follows the mission, not other people, and inspires others to do the same. Lead with meaning.
 
 Rest
 ----
