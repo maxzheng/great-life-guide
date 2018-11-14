@@ -126,6 +126,16 @@ Compassion
 
 Be compassionate to better understand and help others to do more together. The best way to help is to teach as other ways may actually do harm in the long run. And careful not to spend too much time helping others that may significantly affect your own goals.
 
+Creativity
+----------
+
+Think about what you can do to make things better for you and everyone. `Creativity wins over intelligence <https://drmbloomfield.com/blog/2018/4/12/why-creativity-is-now-more-important-than-intelligence>`_ in the long run.
+
+Curiosity
+---------
+
+Always be asking the hard questions -- why, what, how -- but try to answer them yourself first before asking others, so you become smarter.
+
 Emotion
 -------
 
@@ -147,16 +157,6 @@ Meditation
 ----------
 
 Meditate mindfully to clear the mind and train attention, which improves utilization of memory and cognitive processing. This also helps with awareness of emotions and other states of the body and mind, which helps to keep them in check and to maximize their use for your benefits.
-
-Curiosity
----------
-
-Always be asking the hard questions -- why, what, how -- but try to answer them yourself first before asking others, so you become smarter.
-
-Creativity
-----------
-
-Think about what you can do to make things better for you and everyone. `Creativity wins over intelligence <https://drmbloomfield.com/blog/2018/4/12/why-creativity-is-now-more-important-than-intelligence>`_ in the long run.
 
 Motivation
 ----------
