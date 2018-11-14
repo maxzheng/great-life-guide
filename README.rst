@@ -25,9 +25,6 @@ Here are some of the things that you will learn:
 * Define what you want out of life so you can iteratively get there.
 * Simple steps to continuously improve yourself.
 * Essential skills to improve the body and mind.
-* Achieving happiness so you can freely do great things.
-* Changes in the body and mind as we grow.
-
 
 Why did I write this?
 ---------------------
