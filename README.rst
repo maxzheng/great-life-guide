@@ -87,17 +87,18 @@ Continuous Improvement
 
 To iteratively get closer to your vision, mission, and goals, follow these 5 simple steps to continously improve yourself:
 
-1. Set stage that enables you. E.g. Life is a game, so relax and have fun!
+1. Set stage that enables you.
 
-   * Places you in the master's mindset where you are enabled to do anything in the right setting and mood.
+   * This places you in the master's mindset where you are enabled to do anything in the right setting and mood.
+   * E.g. Life is a game, so relax and have fun!
 
 2. Set intentions based on your vision, mission, and goals. 
 
-   * Provides the direction for what you want to do without expectation.
+   * This provides the direction for what you want to do without expectation.
 
 3. Be mindful of the present with acceptance.
 
-   * Allows you to fully take in, understand, and enjoy what's currently happening (i.e. moments of life). This should be the default state unless you need to concentrate on something else.
+   * This allows you to fully take in, understand, and enjoy what's currently happening (i.e. moments of life). This should be the default state unless you need to concentrate on something else.
 
 4. Do the right thing.
 
@@ -105,7 +106,7 @@ To iteratively get closer to your vision, mission, and goals, follow these 5 sim
 
 5. Be rock solid.
 
-   * This is the safest way as there are many challenges and bad actors that will block you so it's important to believe in yourself, stand firmly behind your ideas and beliefs, and never waver -- like a rock. 
+   * This is the safest way to get what you want as there are many challenges and bad actors that will block you so it's important to believe in yourself, stand firmly behind your ideas and beliefs, and never waver -- like a rock. 
 
 There is a balance between the last two. Doing the right thing without being rock solid will result in a breakdown as everything will become too heavy and eventually crumble. Being rock solid without doing the right thing is obviously wrong and you probably won't get what you want.
 
