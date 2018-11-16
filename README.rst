@@ -56,7 +56,7 @@ As we grow, there are many things changing inside us, so here are some highlight
 What can life be like?
 ----------------------
 
-It can be anything that you like -- that's the beauty of life, but it can be so much more when everyone work together. 
+It can be anything that you like -- that's the beauty of life, but it can be so much more when everyone works together. 
 
 Just to give an example, I see a future where no one has to do anything for basic needs as robots will provide them and everyone can do anything that they want. There will be no crime as there is no need to take when everyone will have everything -- access to everywhere, any information, any material possession. Some will party all day and night, but will get bored. Eventually, I believe everyone will want to work on creative things that expand the collective wisdom and enjoyment of life. 
 
