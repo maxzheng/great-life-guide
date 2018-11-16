@@ -118,6 +118,20 @@ It's not enough to train the body or mind, but both are required to get the opti
 
 The saying "if you don't use it, you will loose it" applies to both body and mind. As both deterioates with age, it is important to train more and consistently.
 
+Attention
+---------
+
+All skills require being able to pay attention in order to do them well, so this is one of the most important skills. Meditation is a good way to train attention. Other way is simply do it whenever you do something -- simply paying attention when eating, walking, talking, thinking, etc. When you feel tired, then do take a break and just let the mind rest.
+
+Always pay attention to truly enjoy and appreciate every miniscule details of life, otherwise you are just letting life slip by pointlessly.
+
+Believe
+-------
+
+You gotta believe in yourself. Be confident. Don't let other people limit you. With a master's mindset, you have to believe anything is possible. As soon as you believe something isn't possible or in negative thoughts, then life becomes that.
+
+Believe everything is possible and be positive.
+
 Compassion
 ----------
 
@@ -155,12 +169,27 @@ There are a few ways to improve/train happiness -- a lasting inner peace and con
 
 Happiness isn't the same as happy, which is a fleeting joyous emotion from experiences. Both are essential to have.
 
+Leadership
+----------
+
+Be a `transcendent leader <https://www.linkedin.com/pulse/become-transcendent-leader-reid-hoffman>`_ that follows the mission, not other people, and inspires others to do the same. Lead with meaning, not money.
+
+There are a couple of traits that makes a great leader, such as openness, compassion, passion, and wisdom. He/she is highly focused, executes well, builds trust, and have great vision. The greatness of all leaders is measured by their ability to *influence* and *inspire* others to make an *impact*. The best way to influence others is using direct `motivation`_.
+
 Learning
 --------
 
 Read daily to learn new things to keep the mind interested and active. The entire human knowledge is written in books or on the Internet, which took thousands of years from billions of people to create, so leverage them to save yourself the time and avoid the same mistakes.
 
-The best way to learn is to practice and experiment. To improve learning, learn `how to learn <https://www.coursera.org/learn/learning-how-to-learn>`_.
+The best way to learn is to practice and experiment. To improve learning, learn `how to learn <https://www.coursera.org/learn/learning-how-to-learn>`_, such as:
+1. Paying attention and take breaks often
+2. Making it fun. The more that you enjoy doing something, the more likely that you will continue and remember.
+3. To help with memorize lots of information, use memory techniques like `making vivid story out of arbitrary words <https://en.wikipedia.org/wiki/Mnemonic_link_system>`_ or map things to locations using the `loci method <https://en.wikipedia.org/wiki/Method_of_loci>`_.
+
+Love
+----
+
+Love is the most powerful emotion that drives passion. Love as many and as much as you can. It feels good and makes life more enjoyable for you and others. Careful to not mistake it with obsession, or let it cloud your judgements. True love requires compassion.
 
 Meditation
 ----------
@@ -170,12 +199,7 @@ Meditate mindfully to clear the mind and train attention, which improves utiliza
 Motivation
 ----------
 
-Love what you do and be motivated by keeping `PPP (Play, Purpose, Potential) <https://hbr.org/2015/11/how-company-culture-shapes-employee-motivation>`_ in mind for everything that you do. Play is where you enjoy what you do and is the most powerful motivator. Purpose is what you get after you do something. Potential is what you might be able to do in the future after you have done it. Motivation can be negatively impacted by emotional/economic pressure and inertia -- the worst motivator where you keep doing something because you are already doing it. 
-
-Leadership
-----------
-
-Be a `transcendent leader <https://www.linkedin.com/pulse/become-transcendent-leader-reid-hoffman>`_ that follows the mission, not other people, and inspires others to do the same. Lead with meaning.
+Be motivated by keeping `PPP (Play, Purpose, Potential) <https://hbr.org/2015/11/how-company-culture-shapes-employee-motivation>`_ in mind for everything that you do. Play is where you enjoy what you do and is the most powerful motivator. Purpose is what you get after you do something. Potential is what you might be able to do in the future after you have done it. Motivation can be negatively impacted by emotional/economic pressure and inertia -- the worst motivator where you keep doing something because you are already doing it. 
 
 Priority
 --------
