@@ -87,26 +87,15 @@ Continuous Improvement
 
 To iteratively get closer to your vision, mission, and goals, follow these 5 simple steps to continously improve yourself:
 
-1. Set stage that enables you.
+1. **Set stage that enables you.** This places you in the master's mindset where you are enabled to do anything in the right setting and mood. E.g. Life is a game, so relax and have fun!
 
-  This places you in the master's mindset where you are enabled to do anything in the right setting and mood.
-  E.g. Life is a game, so relax and have fun!
+2. **Set intentions based on your vision, mission, and goals.** This provides the direction for what you want to do without expectation.
 
-2. Set intentions based on your vision, mission, and goals. 
+3. **Be mindful of the present with acceptance.** This allows you to fully take in, understand, and enjoy what's currently happening (i.e. moments of life). This should be the default state unless you need to concentrate on something else.
 
-  This provides the direction for what you want to do without expectation.
+4. **Do the right thing.** This is the fastest way to get what you want as doing the wrong thing requires redo and some things can not be undone. Sometimes it's tempting to do the wrong things for a quick / short-term gain, but there are always consequences. In the long run, doing the right thing will give you everything that you want in the fastest way, so there is no need for shortcuts. 
 
-3. Be mindful of the present with acceptance.
-
-  This allows you to fully take in, understand, and enjoy what's currently happening (i.e. moments of life). This should be the default state unless you need to concentrate on something else.
-
-4. Do the right thing.
-
-  This is the fastest way to get what you want as doing the wrong thing requires redo and some things can not be undone. Sometimes it's tempting to do the wrong things for a quick / short-term gain, but there are always consequences. In the long run, doing the right thing will give you everything that you want in the fastest way, so there is no need for shortcuts. 
-
-5. Be rock solid.
-
-  This is the safest way to get what you want as there are many challenges and bad actors that will block you so it's important to believe in yourself, stand firmly behind your ideas and beliefs, and never waver -- like a rock. 
+5. **Be rock solid.** This is the safest way to get what you want as there are many challenges and bad actors that will block you so it's important to believe in yourself, stand firmly behind your ideas and beliefs, and never waver -- like a rock. 
 
 There is a balance between the last two. Doing the right thing without being rock solid will result in a breakdown as everything will become too heavy and eventually crumble. Being rock solid without doing the right thing is obviously wrong and you probably won't get what you want.
 
