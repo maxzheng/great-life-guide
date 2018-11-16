@@ -14,7 +14,7 @@ Those are the most important questions that we should always be asking.
 Why should you read this?
 -------------------------
 
-In short, because it is a single page that contains the essential ideas that everyone should know to live a good life in the right way.
+In short, because it is a single page that contains essential ideas that everyone should know to live a good life in the right way.
   
 There are a lot of information on the Internet, in books, on TV, from family/friends, etc about how to have a happy and successful life, like good career and loving family, but all of them are scattered across different places. Access to all sources may not be readily available. There are also a lot of biases and opinions mixed in, so it's unclear what the truth is that delivers real value and results for having a good life. This does contain external links to get more details and attribution, but essential ideas will be here, so there is no need to look elsewhere to get your life started in the right direction.
   
@@ -104,7 +104,7 @@ A short name for the steps is Master Check (MC). I like to recall the acronym "M
 Essential Skills
 ================
 
-It's not enough to train the body or mind, but both are required to get the optimal performance as they interdepend on each other. 
+It's not enough to train the body or mind, but both are required to get optimal performance as they interdepend on each other. 
 
 The saying "if you don't use it, you will loose it" applies to both body and mind. As both deterioates with age, it is important to train more and consistently.
 
