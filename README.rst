@@ -120,7 +120,9 @@ Believe
 
 You gotta believe in yourself. Be confident. Don't let other people limit you. With a master's mindset, you have to believe anything is possible. As soon as you believe something isn't possible or in negative thoughts, then life becomes that.
 
-Believe everything is possible and be positive.
+If you believe the world is hard and coming to get you and other people are horrible, well that's what will happen. If you believe everyone is good and the world is full of possibilities, then that's what you will get as well. Of course, don't believe in some things blindly or you will get hurt. It's good to believe everyone can be good, but you can't simply believe everyone is currently good as that's false.
+
+So believe anything is possible -- positively and reasonably.
 
 Compassion
 ----------
@@ -171,10 +173,14 @@ Learning
 
 Read daily to learn new things to keep the mind interested and active. The entire human knowledge is written in books or on the Internet, which took thousands of years from billions of people to create, so leverage them to save yourself the time and avoid the same mistakes.
 
-The best way to learn is to practice and experiment. To improve learning, learn `how to learn <https://www.coursera.org/learn/learning-how-to-learn>`_, such as:
-1. Paying attention and take breaks often
+The best way to learn is to practice and experiment. To improve learning, learn `how to improve mental performance <https://itunes.apple.com/us/podcast/kwik-brain-with-jim-kwik/id1208024744>`_ and `how to learn <https://www.coursera.org/learn/learning-how-to-learn>`_, such as:
+
+1. Paying attention to concentrate on specific things to get things done and take breaks often to let the brain rest, organize the information, and connect to other information to come up with more ideas. Both concentration and rest are equally important to get optimal performance. 
 2. Making it fun. The more that you enjoy doing something, the more likely that you will continue and remember.
-3. To help with memorize lots of information, use memory techniques like `making vivid story out of arbitrary words <https://en.wikipedia.org/wiki/Mnemonic_link_system>`_ or map things to locations using the `loci method <https://en.wikipedia.org/wiki/Method_of_loci>`_.
+3. To help with memorize lots of information, use memory techniques like `making vivid story out of arbitrary words <https://en.wikipedia.org/wiki/Mnemonic_link_system>`_ or map things to locations using the `loci method <https://en.wikipedia.org/wiki/Method_of_loci>`_. Simply paying attention and repeated use are essential.
+4. Attaining `flow, optimal experience <https://en.wikipedia.org/wiki/Flow_(psychology)>`_, by doing things that are not too easy, nor too hard. Too easy, it's boring. Too hard, it's exhausting. Both leads to bad performance and slow learning. 
+5. Learn `speed reading <https://en.wikipedia.org/wiki/Speed_reading>` to consume more knowledge in less time. A good way to do that is by reading in one phrase (concept) at a time instead of one word.
+6. Eat healthy and exercise. Optimal body enables the brain to perform at its peak.
 
 Love
 ----
