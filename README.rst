@@ -2,7 +2,7 @@
 Fundamentals of Life
 ====================
 
-This contains fundamental ideas about life, such as what it is, how to improve it, and what it can be. It is my hope that this can serve as a guide to live a good life for those without proper guidance.
+This contains fundamental ideas about life, such as what it is, how to improve it, and what it can be. It is my hope that this can serve as a guide to live a good life.
 
 .. contents:: :depth: 1
 
@@ -31,7 +31,7 @@ Why did I write this?
 
 I grew up with little parental guidance and learned everything from TV, school, other people, trial/error, etc, and always wished that I had someone that had a full life experience to guide me in the right direction to avoid many of the common mistakes that I had made. It took me 36 years to finally realize what life is all about, so I am hoping to save others some time by sharing.
 
-As a parent now, I am glad that I can help my children grow, but I can also see other people going through the same thing that I had without any guidance, hence this could fill in some of that gap -- if they find it, LOL (hint: please share with your friends/family).
+As a parent now, I am glad that I can help my children grow, but I can also see other people going through the same thing that I had without any guidance, hence this could fill in some of that gap -- if they find it, LOL (hint: please share/like this!).
 
 As a software engineer, I am always thinking about redundancy, and hence this would serve as a backup for my kids.
 
@@ -67,7 +67,7 @@ Master's Mindset
 
 Before anything else, you have to see the world clearly using an open mindset where you can do anything that you put your mind to -- i.e. a master's mindset. You are the master of your body and mind, and hence you can control them however you see fit to achieve your desires. To attain mastery, you must love to learn, practice, and experiment to push beyond artificial boundaries. As long as you are alive, you can improve yourself, inspire others to do the same, and together we can do great things, such as splitting the atom (done!), connecting the world at the speed of light (done!), space travel (almost), or building stars.
 
-Let go of anything that holds you back, and go forth with passion to live life to the fullest!
+Let go of anything that holds you back, and go forth with passion to live life to the fullest! :D
 
 Vision, Mission, and Goals
 ==========================
@@ -80,7 +80,7 @@ A mission describes how you want to achieve the vision. This can change over tim
 
 And finally, there can be many goals in your life, such as getting married, having kids, or have a great career.
 
-In short, you have to know where you are going and how if you want to get there.
+In short, if you want to get somewhere, you have to know where you are going and how to get there.
 
 Continuous Improvement
 ======================
@@ -89,7 +89,7 @@ To iteratively get closer to your vision, mission, and goals, follow these 5 sim
 
 1. **Set stage that enables you.** This places you in the master's mindset where you are enabled to do anything in the right setting and mood. E.g. Life is a game, so relax and have fun!
 
-2. **Set intentions based on your vision, mission, and goals.** This provides the direction for what you want to do without expectation.
+2. **Set intentions based on your vision, mission, and goals.** This provides the direction for what you want to do without expectation. E.g. If the goal is to cure cancer, then an intention could be learning about cell formation under different scenarios.
 
 3. **Be mindful of the present with acceptance.** This allows you to fully take in, understand, and enjoy what's currently happening (i.e. moments of life). This should be the default state unless you need to concentrate on something else.
 
@@ -101,28 +101,32 @@ There is a balance between the last two. Doing the right thing without being roc
 
 A short name for the steps is Master Check (MC). I like to recall the acronym "MC" often to ensure I run through all the steps to continously improve myself to get closer to my vision.
 
+For kids, the first two steps are a bit harder to grasp, so set it for them. I.e. Tell them they can do anything they put their minds to and have fun while doing it.
+
 Essential Skills
 ================
 
 It's not enough to train the body or mind, but both are required to get optimal performance as they interdepend on each other. 
 
-The saying "if you don't use it, you will loose it" applies to both body and mind. As both deterioates with age, it is important to train more and consistently.
+The saying "if you don't use it, you will loose it" applies to both body and mind. Due to cell aging as you get older, it becomes important to train more and consistently.
 
 Attention
 ---------
 
-All skills require being able to pay attention in order to do them well, so this is one of the most important skills. Meditation is a good way to train attention. Other way is simply do it whenever you do something -- simply paying attention when eating, walking, talking, thinking, etc. When you feel tired, then do take a break and just let the mind rest.
+All skills require being able to pay attention in order to do them well, so this is one of the most important skills. 
 
-Always pay attention to truly enjoy and appreciate every miniscule details of life, otherwise you are just letting life slip by pointlessly.
+Meditation is a good way to train attention. Other way is simply pay attention whenever you do something -- simply paying attention when eating, walking, talking, thinking, etc. When you feel tired, then do take a break and just let the mind rest.
+
+Always pay attention to truly enjoy and appreciate every miniscule details of life, otherwise you are just letting life slip by.
 
 Believe
 -------
 
-You gotta believe in yourself. Be confident. Don't let other people limit you. With a master's mindset, you have to believe anything is possible. As soon as you believe something isn't possible or in negative thoughts, then life becomes that.
+You gotta believe in yourself. Be confident. Don't let other people's ideas limit you. With a master's mindset, you have to believe anything is possible and your own ideas. As soon as you believe something isn't possible or in negative thoughts, then life becomes that.
 
 If you believe the world is hard and coming to get you and other people are horrible, well that's what will happen. If you believe everyone is good and the world is full of possibilities, then that's what you will get as well. Of course, don't believe in some things blindly or you will get hurt. It's good to believe everyone can be good, but you can't simply believe everyone is currently good as that's false.
 
-So believe anything is possible -- positively and reasonably.
+So believe anything is possible -- positively and in facts.
 
 Compassion
 ----------
@@ -142,7 +146,9 @@ Always be asking the hard questions -- why, what, how -- but try to answer them 
 Emotion
 -------
 
-It's easy for our emotions to affect the health of our body (e.g. stress) and clarity of our mind, so it's important to `master emotional intelligence <https://www.youtube.com/watch?v=r8fcqrNO7so>`_ to better understand and enjoy them while retaining the ability to make sound decisions. Start with training your attention using mindfulness meditation to become fully aware of your emotions, learn to accept and let them go, and finally form habits to permeate positive emotions with positive thoughts for yourself and others.
+It's easy for emotions to affect the health of your body (e.g. stress) and clarity of your mind, so it's important to `master emotional intelligence <https://www.youtube.com/watch?v=r8fcqrNO7so>`_ to better understand and enjoy them while retaining the ability to make sound decisions.
+
+Start with training your attention using mindfulness meditation to become fully aware of your emotions, learn to accept and let them go, and finally form habits to permeate positive emotions with positive thoughts for yourself and others.
 
 Exercise
 --------
@@ -166,7 +172,7 @@ Leadership
 
 Be a `transcendent leader <https://www.linkedin.com/pulse/become-transcendent-leader-reid-hoffman>`_ that follows the mission, not other people, and inspires others to do the same. Lead with meaning, not money.
 
-There are a couple of traits that makes a great leader, such as openness, compassion, passion, and wisdom. He/she is highly focused, executes well, builds trust, and have great vision. The greatness of all leaders is measured by their ability to *influence* and *inspire* others to make an *impact*. The best way to influence others is using direct `motivation`_.
+There are a couple of traits that makes a great leader, such as openness, compassion, passion, and wisdom. To be a great leader, you have to be *highly focused* and *build trust* amongst everyone to *execute well* to achieve a *common and great vision*. The greatness of all leaders is measured by their ability to *influence* and *inspire* others to make an *impact*. The best ways to inspire and influence others is having a great vision, walk the talk, and using direct `motivation`_. 
 
 Learning
 --------
