@@ -3,7 +3,7 @@ Fundamentals of Life
 
 This contains fundamental ideas about life, such as what it is, how to improve it, and what it can be. It is my hope that this can serve as a guide to live a good life.
 
-<img align="right" src="happiness.jpg" width="480px">
+<img align="right" src="happiness.jpg" width="464px">
 
 ## Contents
 
