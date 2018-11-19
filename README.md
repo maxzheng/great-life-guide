@@ -3,7 +3,7 @@ Fundamentals of Life
 
 This contains fundamental ideas about life, such as what it is, how to improve it, and what it can be. It is my hope that this can serve as a guide to live a good life.
 
-<img align="right" src="happiness.jpg" width="464px">
+<img align="right" src="happiness.jpg" width="467px">
 
 ## Contents
 
@@ -83,7 +83,7 @@ Vision, Mission, and Goals
 
 The first 20 years of life is mostly spent on learning and exploring. After that, it's important to know what you want out of life so you can iteratively attain them. It's possible to go through life just doing the minimal / taking the easy path, but that's just wasting the precious gift of your intelligence and you won't actually enjoy as much as someone that have meaningful goals. Until you figure them out, keep learning/exploring to keep your body and mind sharp as you will need them in tip-top shape when the time comes.
 
-A vision paints a future world that you want yourself or your children to live in. This serves as a true north for everything that you do. E.g. world peace, or deprecation of poverty, or everyone is happy. This should inspire you.
+A vision paints a future world that you want yourself or your children to live in. This serves as a true north for everything that you do. E.g. world peace, end poverty, or everyone is happy. This should inspire you.
 
 A mission describes how you want to achieve the vision. This can change over time as you learn, but should be the single most importannt thing that you are trying to do as long as you are alive. E.g. I want to continuously improve myself to reach my full potential and help others to do the same, so together we can do great things.
 
