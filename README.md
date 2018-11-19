@@ -196,7 +196,7 @@ Leadership
 
 Be a [transcendent leader](https://www.linkedin.com/pulse/become-transcendent-leader-reid-hoffman) that follows the mission, not other people, and inspires others to do the same. Lead with meaning, not money.
 
-There are a couple of traits that makes a great leader, such as openness, compassion, passion, and wisdom. To be a great leader, you have to be *highly focused* and *build trust* amongst everyone to *execute well* to achieve a *common and great vision*. The greatness of all leaders is measured by their ability to *influence* and *inspire* others to make an *impact*. The best ways to inspire and influence others is having a great vision, walk the talk, and using direct `motivation`_. 
+There are a couple of traits that makes a great leader, such as openness, compassion, passion, and wisdom. To be a great leader, you have to be *highly focused* and *build trust* amongst everyone to *execute well* to achieve a *common and great vision*. The greatness of all leaders is measured by their ability to *influence* and *inspire* others to make an *impact*. The best ways to inspire and influence others is having a great vision, walk the talk, and using [direct motivations](#motivation).
 
 Learning
 --------
