@@ -179,7 +179,9 @@ Exercise
 
 Exercise daily at least 30 minutes a day. Any form of exercise is fine, but yoga trains BESF (Balance, Endurance, Strenth, and Flexibility) and is highly recommended. Be sure to do some through the day as it [improves cognitive functions](https://www.scientificamerican.com/article/why-do-you-think-better-after-walk-exercise/) by providing more blood (energy/oxygen) to the brain and stimulates hippocampus.
 
-To improve strength and endurance, you have to push your muscle until it is exhausted. Once exhausted, then it rebuilds during rest to become stronger. Careful not to push too hard or it might cause damage -- feel soreness from exhaustion, not pain. Once exhausted, it provides a signal to the body that the muscle is not strong enough for what it needs to do.
+To improve strength and endurance, you have to push your muscle until it is exhausted. Once exhausted, then it rebuilds during rest to become stronger. Careful not to push too hard or it might cause damage -- feel soreness from exhaustion, not pain. Once exhausted, it provides a signal to the body that the muscle is not strong enough for what it needs to do. It's not enjoyable to be exhausted all the time, which decreases our desire to do exercise in the future, so a suggestion is to do that when you feel up to it but at least once a week or find ways to make it fun, such as doing working out with someone.
+
+To make sure that you do exercise daily, use [direct motivations](#motivation). For days where you just don't feel like doing it, start small, like just do some stretching or walking. Once you get the ball rolling, it builds momentum and you may find yourself doing more, but it's ok to stop if you still don't feel up to it.
 
 Happiness
 ---------
@@ -191,7 +193,7 @@ There are a few ways to improve/train happiness -- a lasting inner peace and con
 3. Accept everything as they are without judgement and expectations.
 4. Meditate to clear the mind and happiness becomes the natural state.
 
-Happiness isn't the same as happy, which is a fleeting joyous emotion from experiences. Both are essential to have.
+Happiness isn't the same as happy, which is a fleeting joyous emotion from experiences. Both are essential to have. A good analogy is a tree where the trunk represents happiness and the leaves represent happy moments. Leaves grow and fall often and its quality depends on nutrients from the trunk (happiness).
 
 Leadership
 ----------
