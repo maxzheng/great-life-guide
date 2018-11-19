@@ -119,6 +119,8 @@ It's not enough to train the body or mind, but both are required to get optimal 
 
 The saying "if you don't use it, you will loose it" applies to both body and mind. Due to cell aging as you get older, it becomes important to train more and consistently.
 
+Training each skill is not easy and doesn't necessarily feel good, so perseverance is required and is what differentiates those that can master the skill and those that don't.
+
 Attention
 ---------
 
@@ -158,8 +160,8 @@ Curiosity
 
 Always be asking the hard questions -- why, what, how -- but try to answer them yourself first before asking others, so you become smarter.
 
-Emotion
--------
+Emotional Intelligence
+--------------------
 
 It's easy for emotions to affect the health of your body (e.g. stress) and clarity of your mind, so it's important to [master emotional intelligence](https://www.youtube.com/watch?v=r8fcqrNO7so) to better understand and enjoy them while retaining the ability to make sound decisions.
 
