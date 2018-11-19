@@ -183,6 +183,8 @@ To improve strength and endurance, you have to push your muscle until it is exha
 
 To make sure that you do exercise daily, use [direct motivations](#motivation). For days where you just don't feel like doing it, start small, like just do some stretching or walking. Once you get the ball rolling, it builds momentum and you may find yourself doing more, but it's ok to stop if you still don't feel up to it.
 
+The good thing about exercise is that you get feedback the next day with soreness. Keep going as it takes a week to get used to it and start to see the benefits. Aside from improving muscle, it will [reduce stress](https://www.mayoclinic.org/healthy-lifestyle/stress-management/in-depth/exercise-and-stress/art-20044469) and [improve immumune system](https://medlineplus.gov/ency/article/007165.htm) too. Yep, it's amazing.
+
 Happiness
 ---------
 
@@ -227,6 +229,10 @@ Meditation
 [Mindfulness meditation](https://www.mindful.org/meditation/mindfulness-getting-started/) is where pay attention to nothing, your breath, or any single thing for a long time. Simply by doing that calms the mind and trains attention, which improves utilization of memory and cognitive processing by moving [mental energy](https://www.forbes.com/sites/raquelbaldelomar/2017/01/31/manage-your-mental-energy-to-be-more-productive-at-work/) -- a limited and precious resource -- away from random thoughts to specific desired ones. This also helps with awareness of emotions and other states of the body and mind, which helps to keep them in check and to maximize their use for your benefits.
 
 The [body scan meditation](https://www.mindful.org/beginners-body-scan-meditation/) is another good one where you go through your entire body from head to toe focusing on one area at a time mindfully to really feel and be with your body.
+
+The bad thing about meditation is that it takes a long time to see the benefits. After about 3 months, then you will become more aware of your emotions, thoughts, and senses and therefore start to gain the ability to control them. The benefits are worth the wait.
+
+To speed up the improvement and to see the benefits, try to be mindful for everything that you do throughout the day.
 
 Motivation
 ----------
