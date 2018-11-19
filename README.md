@@ -140,12 +140,18 @@ So believe anything is possible -- positively and in facts.
 Compassion
 ----------
 
-Be compassionate to better understand and help others to do more together. The best way to help is to teach as other ways may actually do harm in the long run. And careful not to spend too much time helping others that may significantly affect your own goals.
+It starts with empathy to truly understand what others are feeling and going through and ends with the desire to help them. Its true value is it lets us truly know and connect with each other to allow trust to be formed that unifies everyone as one instead of fighting each other.
+
+To understand others, put yourself in their shoes and see things from their perspective while emulating their emotions in the process.
+
+The best way to help is to teach as other ways may actually do harm in the long run. And careful not to spend too much time helping others that may significantly affect your own goals. Each person should be provided with all the necessities to be successful, however success must earned by each person with their own hands. When success is given, it's not sustainable.
 
 Creativity
 ----------
 
 Think about what you can do to make things better for you and everyone. [Creativity wins over intelligence](https://drmbloomfield.com/blog/2018/4/12/why-creativity-is-now-more-important-than-intelligence) in the long run.
+
+Instead of doing the same boring things again and again, always spend some time to think of creative solutions that solve problems in less time and effort, which has a bonus of being fun too.
 
 Curiosity
 ---------
@@ -158,6 +164,15 @@ Emotion
 It's easy for emotions to affect the health of your body (e.g. stress) and clarity of your mind, so it's important to [master emotional intelligence](https://www.youtube.com/watch?v=r8fcqrNO7so) to better understand and enjoy them while retaining the ability to make sound decisions.
 
 Start with training your attention using mindfulness meditation to become fully aware of your emotions, learn to accept and let them go, and finally form habits to permeate positive emotions with positive thoughts for yourself and others.
+
+Execution
+---------
+
+Nothing happens until you do it. 
+
+To do things well, focus on quality first before quantity. When doing things with quality, it builds a strong foundation for everything else that follows, which compounds over time to the point where quality work can be done faster than just focusing on quantity alone.
+
+When focusing on quantity alone, while it might seem to be easy and a quick victory, it has a hidden cost of deteriorating the mind and skills over time.
 
 Exercise
 --------
@@ -205,7 +220,9 @@ Love is the most powerful emotion that drives passion. Love as many and as much 
 Meditation
 ----------
 
-Meditate mindfully to clear the mind and train attention, which improves utilization of memory and cognitive processing. This also helps with awareness of emotions and other states of the body and mind, which helps to keep them in check and to maximize their use for your benefits.
+[Mindfulness meditation](https://www.mindful.org/meditation/mindfulness-getting-started/) is where pay attention to nothing, your breath, or any single thing for a long time. Simply by doing that calms the mind and trains attention, which improves utilization of memory and cognitive processing by moving [mental energy](https://www.forbes.com/sites/raquelbaldelomar/2017/01/31/manage-your-mental-energy-to-be-more-productive-at-work/) -- a limited and precious resource -- away from random thoughts to specific desired ones. This also helps with awareness of emotions and other states of the body and mind, which helps to keep them in check and to maximize their use for your benefits.
+
+The [body scan meditation](https://www.mindful.org/beginners-body-scan-meditation/) is another good one where you go through your entire body from head to toe focusing on one area at a time mindfully to really feel and be with your body.
 
 Motivation
 ----------
@@ -223,6 +240,14 @@ Priority
 
 There are so many things to do, so it's important to prioritize on the ones that provide the most value. You will be surprised how much more time that you have once you focus on the important things and let the unimportant ones simmer until they become more valuable or discarded.
 
+It's important to do the most valuable, especially the hard ones, first in the beginning of the day as your [mental energy is limited](https://www.forbes.com/sites/raquelbaldelomar/2017/01/31/manage-your-mental-energy-to-be-more-productive-at-work/) and only resets with rest.
+
+To find the most valuable thing to do, there are a few things to consider:
+
+* The cost of doing it. Doing things with the highest value over cost ratio yields the most productive use of time and therefore greatest gain over shortest amount of time.
+* Indirect/future benefits after it is done. This is true for foundational work, such as learning/meditation/exercise, which has many benefits across different areas and into later stages of life.
+* Opportunities to combine multiple things. Instead of just doing exercise or driving to work, simply add listening to the news/ebooks/music to get benefits of two with the same cost (time).
+
 Rest
 ----
 
@@ -230,7 +255,7 @@ The other integral part of training your body and mind is letting them rest. Res
 
 1. Train on weekdays, but rest on weekends.
 2. Consistently sleep [about 8 hours a day](https://www.sleepfoundation.org/press-release/national-sleep-foundation-recommends-new-sleep-times/page/0/1) with meditation before and afterward to comfort the mind and a warm/comfortable bed to comfort the body.
-3. Lastly, go out and have fun! :D
+3. Lastly, go out and have fun! :wink:
 
 Relationships
 =============
