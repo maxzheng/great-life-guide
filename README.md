@@ -208,7 +208,7 @@ Contrary to popular belief, it is possible to [become more intelligent](https://
 
 Like exerise that improves the body, simply using your brain will improve your intelligence. The more that you use it, the more intelligent that you will become. Best way to use the brain is by mastering the other essential skills.
 
-Successful life only requires a certain level of intelligence. And high intelligence may not yield a successful life as many other skills are required.
+A good life only requires a certain minimal level of intelligence. A higher intelligence does make acquiring other skills easier and make better use of them. And high intelligence won't yield a good life without the other essential skills.
 
 Leadership
 ----------
@@ -305,7 +305,7 @@ Spouse
 
 Finding someone that you want to create a family with and spend the rest of your life could be hard at first, but as with anything else, practice makes it easy. Start with dating different people to find someone with common interests and values. There may be a few heartbreaks along the way, but just learn from the failures and move on to the next. This is also a very exciting time, so enjoy the moments. 
 
-Once you do find someone, be compassionate as no one is perfect. With compassion, there will be trust and love, and those will build a lasting marriage. The strongest bond is built on play, so make sure you always enjoy spending time with him/her.
+Once you do find someone, be compassionate as no one is perfect. With compassion, trust and love can form, and those will build a lasting marriage. The strongest bond is built on play, so try to enjoy each other's company.
 
 Offspring
 ---------
