@@ -177,7 +177,9 @@ When focusing on quantity alone, while it might seem to be easy and a quick vict
 Exercise
 --------
 
-Exercise daily at least 30 minutes a day. Any form of exercise is fine, but yoga trains BESF (Balance, Endurance, Strenth, and Flexibility) and is highly recommended. Be sure to do some through the day as it [improves cognitive functions](https://www.scientificamerican.com/article/why-do-you-think-better-after-walk-exercise/) by providing more blood (energy/oxygen) to the brain and stimulates hippocampus. 
+Exercise daily at least 30 minutes a day. Any form of exercise is fine, but yoga trains BESF (Balance, Endurance, Strenth, and Flexibility) and is highly recommended. Be sure to do some through the day as it [improves cognitive functions](https://www.scientificamerican.com/article/why-do-you-think-better-after-walk-exercise/) by providing more blood (energy/oxygen) to the brain and stimulates hippocampus.
+
+To improve strength and endurance, you have to push your muscle until it is exhausted. Once exhausted, then it rebuilds during rest to become stronger. Careful not to push too hard or it might cause damage -- feel soreness from exhaustion, not pain. Once exhausted, it provides a signal to the body that the muscle is not strong enough for what it needs to do.
 
 Happiness
 ---------
