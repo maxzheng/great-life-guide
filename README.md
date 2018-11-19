@@ -161,7 +161,7 @@ Curiosity
 Always be asking the hard questions -- why, what, how -- but try to answer them yourself first before asking others, so you become smarter.
 
 Emotional Intelligence
---------------------
+----------------------
 
 It's easy for emotions to affect the health of your body (e.g. stress) and clarity of your mind, so it's important to [master emotional intelligence](https://www.youtube.com/watch?v=r8fcqrNO7so) to better understand and enjoy them while retaining the ability to make sound decisions.
 
@@ -198,6 +198,17 @@ There are a few ways to improve/train happiness -- a lasting inner peace and con
 4. Meditate to clear the mind and happiness becomes the natural state.
 
 Happiness isn't the same as happy, which is a fleeting joyous emotion from experiences. Both are essential to have. A good analogy is a tree where the trunk represents happiness and the leaves represent happy moments. Leaves grow and fall often and its quality depends on nutrients from the trunk (happiness).
+
+Intelligence
+------------
+
+You are born with a gift of intelligence, which all other skills depend on.
+
+Contrary to popular belief, it is possible to [become more intelligent](https://blogs.scientificamerican.com/guest-blog/you-can-increase-your-intelligence-5-ways-to-maximize-your-cognitive-potential/) by using your brain as much as possible. A simple example is comparing the intelligence of a person that studies a lot vs one that studies a little.
+
+Like exerise that improves the body, simply using your brain will improve your intelligence. The more that you use it, the more intelligent that you will become. Best way to use the brain is by mastering the other essential skills.
+
+Successful life only requires a certain level of intelligence. And high intelligence may not yield a successful life as many other skills are required.
 
 Leadership
 ----------
@@ -306,4 +317,4 @@ Be sure to take good care of their health, such as brushing their teeth twice da
 Contribution
 ============
 
-I do hope others find this useful and would contribute to make this better by [opening issues or creating pull requests](https://help.github.com/categories/collaborating-with-issues-and-pull-requests/) at https://github.com/maxzheng/life. Sharing this with your family and friends would be another way of contributing. Thank you! :)
+I do hope others find this useful and would contribute to make this better by [opening issues or creating pull requests](https://help.github.com/categories/collaborating-with-issues-and-pull-requests/) at https://github.com/maxzheng/life. Sharing this with your family and friends would be another way of contributing. Thank you! :smile:
