@@ -47,19 +47,17 @@ As a software engineer, I am always thinking about redundancy, and hence this wo
 Why do we exist?
 ----------------
 
-Why not. Now, let's do something useful with it.
+Why not. Now, let's do something great together!
 
 What is life?
 -------------
 
-Philosophically, we exist and can think intelligently. That's good enough for me.
-
-Biologically, the [evolution theory](https://en.wikipedia.org/wiki/Evolution) sounds reasonable. And we interdepend on other lifes, even [microbes as they are part of us](https://www.nytimes.com/2016/08/21/books/review/i-contain-multitudes-ed-yong.html).
+Life started about [4 billion years ago](https://en.wikipedia.org/wiki/Life) and has [evolved to the many species](https://en.wikipedia.org/wiki/Evolution) we have today, including humans. We interdepend on each other, even [microbes as they are a part of us](https://www.nytimes.com/2016/08/21/books/review/i-contain-multitudes-ed-yong.html). Therefore, we are the same as other life forms except more intelligent.
 
 As we grow, there are many things changing inside us, so here are some highlights and a bit of advice:
 
 1. As a child, this is a great time to have fun as everything is new and exciting, so do savor the moments. Aside from having fun, it is also a great time to learn different skills that can accelerate latter stages of life. The brain just soaks up everything so easily, so why not.
-2. As a teen, a lot of hormones are at work during this time to develop the body. Just let the body do its magic, but don't let it take over decision making. Always use your mind. Learn and experience everything that life has to offer with some care -- as long as you keep a healthy body and mind, everything is a go. School dominates this stage. Always be learning, but don't just do it, it's important to develop a love for learning. That is what separates those that will have a successful life and those that don't.
+2. As a teen, a lot of hormones are at work during this time to develop the body. Just let the body do its magic, but don't let it take over decision making. Always use your mind. Learn and experience everything that life has to offer with some care -- as long as you keep a healthy body and mind, everything is a go. School dominates this stage. It's important to develop a love for learning. That is what separates those that will have a successful life and those that don't.
 3. As an adult, the final stage of life is also the beginning of the real life. The earlier stages are just prepration. This is the prime of your life where you can fully utilize your body and mind to make a difference in the world and really live the life that you want. At some point, hormones will influence you to find a mate and procreate, and you may become more loving and patient to care for your children so the human race continues on. Yay! Unfortunately, your body and mind will start to decline around age 40, so more effort is required to maintain health. 
 
 What can life be like?
