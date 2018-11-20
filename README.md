@@ -258,8 +258,8 @@ Be motivated by using [play, purpose, and potential (PPP)](https://hbr.org/2015/
 
 Motivation can be negatively impacted by emotional/economic pressure and inertia.
 
-Priority
---------
+Prioritization
+--------------
 
 There are so many things to do, so it's important to prioritize on the ones that provide the most value. You will be surprised how much more time that you have once you focus on the important things and let the unimportant ones simmer until they become more valuable or discarded.
 
@@ -310,9 +310,9 @@ Once you do find someone, be compassionate as no one is perfect. With compassion
 Offspring
 ---------
 
-It's amazing to create another human being with similar traits to your and your spouse. Enjoy every moment and train them well to become successful adults. Kids just want to have fun, so join them.
+It's amazing to create another human being with similar traits to you and your spouse. Enjoy every moment and teach them well to become successful adults. Kids just want to have fun, so join them.
 
-Be sure to take good care of their health, such as brushing their teeth twice daily and floss nightly. Make sure they eat lots of healthy food and sleep/nap as much as they need.
+Be sure to take good care of their health, such as brushing their teeth twice daily and floss nightly. They need to eat lots of healthy food and sleep/nap appropriately ([12+ hours per day](https://www.sleepfoundation.org/press-release/national-sleep-foundation-recommends-new-sleep-times/page/0/1)).
 
 Contribution
 ============
