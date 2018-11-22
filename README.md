@@ -60,7 +60,7 @@ As we grow, there are many things changing inside us, so here are some highlight
 
 1. As a child, this is a great time to have fun as everything is new and exciting, so do savor the moments. Aside from having fun, it is also a great time to learn different skills that can accelerate latter stages of life. The brain just soaks up everything so easily, so why not.
 2. As a teen, a lot of hormones are at work during this time to develop the body. Just let them do their magic, but don't let them take over decision making. Always use your mind. Learn and experience everything that life has to offer with some care -- as long as you keep a healthy body and mind, everything is a go. School dominates this stage. It's important to develop a love for learning. That is what separates those that will have a a successful life and those that don't.
-3. As an adult, the final stage of life is also the beginning of the real life. The earlier stages are just prepration. This is the prime of your life where you can fully utilize your body and mind to make a difference in the world and really live the life that you want. At some point, hormones will influence you to find a mate and procreate, and you may become more loving and patient to care for your children so the human race continues on. Yay! Unfortunately, your body and mind will start to decline around age 40, so more effort is required to maintain health. 
+3. As an adult, the final stage of life is also the beginning of the real life. The earlier stages are just preparation. This is the prime of your life where you can fully utilize your body and mind to make a difference in the world and really live the life that you want. At some point, hormones will influence you to find a mate and procreate, and you may become more loving and patient to care for your children so the human race continues on. Yay! Unfortunately, your body and mind will start to decline around age 40, so more effort is required to maintain health. 
 
 What can life be like?
 ----------------------
@@ -94,7 +94,7 @@ In short, if you want to get somewhere, you have to know where you are going and
 Continuous Improvement
 ======================
 
-To iteratively get closer to your vision, mission, and goals, follow these 5 simple steps to continously improve yourself to reach your full potential:
+To iteratively get closer to your vision, mission, and goals, follow these 5 simple steps to continuously improve yourself to reach your full potential:
 
 1. **Set stage that enables you.** This places you in the master's mindset where you are enabled to do anything in the right setting and mood. E.g. Life is a game, so relax and have fun!
 
@@ -106,9 +106,9 @@ To iteratively get closer to your vision, mission, and goals, follow these 5 sim
 
 5. **Be rock solid.** This is the safest way to get what you want as there are many challenges and bad actors that will block you so it's important to believe in yourself, stand firmly behind your ideas and beliefs, and never waver -- like a rock. 
 
-There is a balance between the last two. Doing the right thing without being rock solid will result in a breakdown as everything will become too heavy and eventually crumble. Being rock solid without doing the right thing is obviously wrong and you probably won't get what you want. And there is no need to do the right thing all the time as long as you are willing to accept the consequences. E.g. I know Ramen is bad for me, but it tastes so good that I am willing to accept the risks from occasional indulgence. :yum:
+There is a balance between the last two. Doing the right thing without being rock solid will result in a breakdown as everything will become too heavy and eventually crumble. Being rock solid without doing the right thing is obviously wrong and you probably won't get what you want. And there is no need to do the right thing all the time as long as you are willing to accept the consequences. E.g. I know ramen is bad for me, but it tastes so good that I am willing to accept the risks from occasional indulgence. :yum:
 
-A short name for the steps is Master Check (MC). I like to recall the acronym "MC" often to ensure I run through all the steps to continously improve myself to reach my full potential and get closer to my vision.
+A short name for the steps is Master Check (MC). I like to recall the acronym "MC" often to ensure I run through all the steps to continuously improve myself to reach my full potential and get closer to my vision.
 
 For kids, the first two steps are a bit harder to grasp, so set it for them. I.e. Tell them they can do anything they put their minds to and have fun while doing it.
 
@@ -159,7 +159,7 @@ To understand others, put yourself in their shoes and see things from their pers
 
 To help others, teach them as other ways may actually do harm in the long run. And careful not to spend too much time helping others that may significantly affect your own goals. Each person should be provided with all the necessities to be successful, however success must earned by each person with their own hands. When success is given, it's not sustainable.
 
-Doing [Loving-Kindness Meditation](https://ggia.berkeley.edu/practice/loving_kindness_meditation) can improve compassion, or simply be kind and helpful.
+Doing [loving-kindness meditation](https://ggia.berkeley.edu/practice/loving_kindness_meditation) can improve compassion, or simply be kind and helpful.
 
 Creativity
 ----------
@@ -217,7 +217,7 @@ Intelligence
 
 Contrary to popular belief, it is possible to [become more intelligent](https://blogs.scientificamerican.com/guest-blog/you-can-increase-your-intelligence-5-ways-to-maximize-your-cognitive-potential/) by using your brain as much as possible. A simple example is comparing the intelligence of a person that studies a lot vs one that studies a little.
 
-Like exerise that improves the body, simply using your brain will improve your intelligence. The more that you use it in different ways, the more intelligent that you will become. Best way to use the brain is by mastering the other essential skills.
+Like exercise that improves the body, simply using your brain will improve your intelligence. The more that you use it in different ways, the more intelligent that you will become. Best way to use the brain is by mastering the other essential skills.
 
 A great life only requires a certain minimal level of intelligence. A higher intelligence does make acquiring other skills easier and make better use of them, however it won't yield a great life without the other essential skills.
 
@@ -246,7 +246,7 @@ The best way to learn is to practice and experiment. To improve learning, learn 
 Love
 ----
 
-Love is the most powerful emotion that drives passion. Love as many and as much as you can. It feels good and makes life more enjoyable for you and others. Careful to not mistake it with obsession, or let it cloud your judgements. True love requires compassion.
+Love is the most powerful emotion that drives passion. Love as many and as much as you can. It feels good and makes life more enjoyable for you and others. Careful to not mistake it with obsession, or let it cloud your judgments. True love requires compassion.
 
 Meditation
 ----------
