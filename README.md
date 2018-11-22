@@ -42,7 +42,7 @@ Why did I write this?
 
 I grew up with little parental guidance and learned everything from TV, school, other people, trial/error, etc, and always wished that I had someone that had a full life experience to guide me in the right direction to avoid many of the common mistakes that I had made. It took me 36 years to finally realize what life is all about, so I am hoping to save others some time by sharing.
 
-As a parent now, I am glad that I can help my children grow, but I can also see other people going through the same things that I had without any guidance and making the similar mistakes, hence this could fill in some of that gap -- if they find it, :laughing: (hint: please share/like this!).
+As a parent now, I am glad that I can help my children grow, but I can also see other people going through the same things that I had without any guidance and making the similar mistakes, hence this could fill in some of that gap -- if they can find it, :laughing: (hint: please share/like this!).
 
 As a software engineer, I am always thinking about redundancy, and hence this would serve as a backup for my kids as well.
 
@@ -94,7 +94,7 @@ In short, if you want to get somewhere, you have to know where you are going and
 Continuous Improvement
 ======================
 
-To iteratively get closer to your vision, mission, and goals, follow these 5 simple steps to continously improve yourself:
+To iteratively get closer to your vision, mission, and goals, follow these 5 simple steps to continously improve yourself to reach your full potential:
 
 1. **Set stage that enables you.** This places you in the master's mindset where you are enabled to do anything in the right setting and mood. E.g. Life is a game, so relax and have fun!
 
@@ -327,4 +327,10 @@ Be sure to take good care of their health, such as brushing their teeth twice da
 Contribution
 ============
 
-I do hope others find this useful and would contribute to make this better by [opening issues or creating pull requests](https://help.github.com/categories/collaborating-with-issues-and-pull-requests/) at https://github.com/maxzheng/life. Sharing this with your family and friends would be another way of contributing. Thank you! :smile:
+I do hope others find this useful and would contribute to make this better by [opening issues or creating pull requests](https://help.github.com/categories/collaborating-with-issues-and-pull-requests/) at https://github.com/maxzheng/life. Sharing this with your family and friends would be another way of contributing.
+
+If this guide has helped you in your journey of becoming a star of your life, I would love to know. Please do make comments, email me at maxzheng.os @t gmail.com, or put a star on https://github.com/maxzheng/life
+
+To get updates or other helpful tips, follow me on [Twitter](https://twitter.com/MaxZhengX) or [LinkedIn](https://www.linkedin.com/in/maxzheng).
+
+Thank you! :smile:
