@@ -128,6 +128,8 @@ It's important to be able to accept everything as they are, so it's possible to 
 
 [Meditation](#meditation) is a good way to learn acceptance -- mindfully be more aware and then be ok with what's going on. Accept all emotions -- it's ok to be sad, bored, not just happy. Accept the world as is -- bad things do happen, death is a part of life. Acceptance is an [essential habit](http://www.artofwellbeing.com/2017/11/08/acceptance/) to have.
 
+Mistakes and failures will happen as we are only human. Don't forget them, but learn from them, forgive, and then move on.
+
 [Happiness](#happiness) awaits those that accept.
 
 Attention
