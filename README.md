@@ -1,5 +1,5 @@
-The Great Life Guide
-====================
+A Great Life Guide
+==================
 
 This contains fundamental ideas about life, such as what it is, how to improve it, and what it can be. It is my hope that this can serve as a guide to live a great life.
 
