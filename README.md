@@ -24,8 +24,10 @@ Why should you read this?
 -------------------------
 
 In short, because it is a single page that contains essential ideas that everyone should know to live a great life.
+
+You can choose to live like a rock or a star. A rock doesn't do much and therefore gets the minimal in life. A star is self-sustaining, shines brightly, and does as much as possible and therefore gets everything in life. This guide is intended to provide a framework to help everyone become a star -- not just a lucky few.
   
-There are a lot of information on the Internet, in books, on TV, from family/friends, etc about how to have a happy and successful life, like good career and loving family, but all of them are scattered across different places. Access to all sources may not be readily available. There are also a lot of biases and opinions mixed in, so it's unclear what the truth is that delivers real value and results for having a great life. This does contain external links to get more details and attribution, but essential ideas will be here, so there is no need to look elsewhere to get your life started in the right direction.
+There are a lot of information on the Internet, in books, on TV, from family/friends, etc about how to have a happy and successful life, like a good career and loving family, but all of them are scattered across different places. Access to all sources may not be readily available. There are also a lot of biases and opinions mixed in, so it's unclear what the truth is that delivers real value and results for having a great life. This does contain external links to get more details and attribution, but essential ideas will be here, so there is no need to look elsewhere to get your life started in the right direction.
   
 Here are some of the things that you will learn:
 
@@ -98,13 +100,13 @@ To iteratively get closer to your vision, mission, and goals, follow these 5 sim
 
 2. **Set intentions based on your vision, mission, and goals.** This provides the direction for what you want to do without expectation. E.g. If the goal is to cure cancer, then an intention could be learning about cell formation under different scenarios.
 
-3. **Be mindful of the present with acceptance.** This allows you to fully take in, understand, and enjoy what's currently happening (i.e. moments of life). This should be the default state unless you need to concentrate on something else.
+3. **Be mindful of the present with acceptance.** This allows you to fully take in, understand, and enjoy what's currently happening (i.e. moments of life) without judgement or expectations. This should be the default state unless you need to concentrate on something else.
 
 4. **Do the right thing.** This is the fastest way to get what you want as doing the wrong thing requires redo and some things can not be undone. Sometimes it's tempting to do the wrong things for a quick / short-term gain, but there are always consequences. In the long run, doing the right thing will give you everything that you want in the fastest way, so there is no need for shortcuts. 
 
 5. **Be rock solid.** This is the safest way to get what you want as there are many challenges and bad actors that will block you so it's important to believe in yourself, stand firmly behind your ideas and beliefs, and never waver -- like a rock. 
 
-There is a balance between the last two. Doing the right thing without being rock solid will result in a breakdown as everything will become too heavy and eventually crumble. Being rock solid without doing the right thing is obviously wrong and you probably won't get what you want.
+There is a balance between the last two. Doing the right thing without being rock solid will result in a breakdown as everything will become too heavy and eventually crumble. Being rock solid without doing the right thing is obviously wrong and you probably won't get what you want. And there is no need to do the right thing all the time as long as you are willing to accept the consequences. E.g. I know Ramen is bad for me, but it tastes so good that I am willing to accept the risks from occasional indulgence. :yum:
 
 A short name for the steps is Master Check (MC). I like to recall the acronym "MC" often to ensure I run through all the steps to continously improve myself to reach my full potential and get closer to my vision.
 
@@ -118,6 +120,15 @@ It's not enough to train the body or mind, but both are required to get optimal 
 The saying "if you don't use it, you will loose it" applies to both body and mind. Due to cell aging as you get older, it becomes important to train more and consistently.
 
 Training each skill is not easy and doesn't necessarily feel good, so **perseverance is required** and is what differentiates those that can master the skill and those that don't.
+
+Acceptance
+----------
+
+It's important to be able to accept everything as they are, so it's possible to fully understand. As soon as judgement or expectation sets in, it's no longer possible to see the full picture without noise.
+
+[Meditation](#meditation) is a good way to learn acceptance -- mindfully be more aware and then be ok with what's going on. Accept all emotions -- it's ok to be sad, bored, not just happy. Accept the world as is -- bad things do happen, death is a part of life. Acceptance is an [essential habit](http://www.artofwellbeing.com/2017/11/08/acceptance/) to have.
+
+[Happiness](#happiness) awaits those that accept.
 
 Attention
 ---------
@@ -145,6 +156,8 @@ It starts with empathy to truly understand what others are feeling and going thr
 To understand others, put yourself in their shoes and see things from their perspective while emulating their emotions in the process without being affected.
 
 To help others, teach them as other ways may actually do harm in the long run. And careful not to spend too much time helping others that may significantly affect your own goals. Each person should be provided with all the necessities to be successful, however success must earned by each person with their own hands. When success is given, it's not sustainable.
+
+Doing [Loving-Kindness Meditation](https://ggia.berkeley.edu/practice/loving_kindness_meditation) can improve compassion, or simply be kind and helpful.
 
 Creativity
 ----------
