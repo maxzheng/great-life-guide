@@ -23,7 +23,7 @@ Those are the most important questions that we should always be asking.
 Why should you read this?
 -------------------------
 
-In short, because it is a single page that contains essential ideas that everyone should know to live a great life.
+In short, this is a single page that contains essential ideas that everyone should know to live a great life.
 
 You can choose to live like a rock or a star. A rock doesn't do much and therefore gets the minimal in life. A star is self-sustaining, shines brightly, and does as much as possible and therefore gets everything in life. This guide is intended to provide a framework to help everyone become a star -- not just a lucky few.
   
