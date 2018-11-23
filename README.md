@@ -192,13 +192,20 @@ When focusing on quantity alone, while it might seem to be easy and a quick vict
 Exercise
 --------
 
-Exercise daily at least 30 minutes a day. Any form of exercise is fine, but yoga trains BESF (Balance, Endurance, Strenth, and Flexibility) and is highly recommended. Be sure to do some through the day as it [improves cognitive functions](https://www.scientificamerican.com/article/why-do-you-think-better-after-walk-exercise/) by providing more blood (energy/oxygen) to the brain and stimulates hippocampus.
+Exercise daily at least 30 minutes a day to [improve your overall health](https://medlineplus.gov/benefitsofexercise.html), such as stronger muscles and bones, [reduced stress](https://www.mayoclinic.org/healthy-lifestyle/stress-management/in-depth/exercise-and-stress/art-20044469), [stronger immumune system](https://medlineplus.gov/ency/article/007165.htm), [better cognitive functions](https://www.scientificamerican.com/article/why-do-you-think-better-after-walk-exercise/), etc.
 
-To improve strength and endurance, you have to push your muscle until it is exhausted. Once exhausted, then it rebuilds during rest to become stronger. Careful not to push too hard or it might cause damage -- feel soreness from exhaustion, not pain. Once exhausted, it provides a signal to the body that the muscle is not strong enough for what it needs to do. It's not enjoyable to be exhausted all the time, which reduces chance of repeating, so a suggestion is to do that when you feel up to it but at least once a week.
+Any form of exercise is fine, but yoga and cardio are recommended for complete health.
 
-To make sure that you do exercise daily, use [direct motivations](#motivation). For days where you just don't feel like doing it, start small, like just do some stretching or walking. Once you get the ball rolling, it builds momentum and you may find yourself doing more, but it's ok to stop if you still don't feel up to it. Finding a workout partner is a great way to make it fun and keep each other accountable.
+* Yoga improves balance, endurance, strenth, and flexibility (BESF).
+* Cardio improves heart strength, lung capacity, and [many other areas](https://health.clevelandclinic.org/head-toe-benefits-cardio-workout-infographic/). Dancing is recommended as it is fun.
 
-The good thing about exercise is that you get immediate feedback the next day with soreness. Keep going as it takes a week to get used to it and see the benefits. Aside from improving muscle, it will [reduce stress](https://www.mayoclinic.org/healthy-lifestyle/stress-management/in-depth/exercise-and-stress/art-20044469) and [improve immumune system](https://medlineplus.gov/ency/article/007165.htm) too. Yep, it's amazing.
+Do them both daily, or alternate each every other day. Be sure to do some occasionally throughout the day to energize the body and mind.
+
+To improve strength, endurance, and capacity, do the exercise until your body is exhausted. Once exhausted, it provides a signal to your body that it is not strong enough for what it needs to do and rebuilds during rest to become stronger. Careful not to push too hard or it might cause damage -- soreness from exhaustion is good, not pain. It's not enjoyable to be exhausted all the time, which reduces repetition, so a suggestion is to do that when you feel up to it but at least once a week.
+
+To encourage daily exercise, use [direct motivations](#motivation) like play to make it fun. For days where you just don't feel like doing it, start small, like just do some stretching or walking. Once you get the ball rolling, it builds momentum and you may find yourself doing more, but it's ok to stop if you still don't feel up to it. Finding a workout partner is a great way to make it fun and keep each other accountable.
+
+The good thing about exercise is that you get immediate feedback the next day with soreness. Keep going as it takes a week to get used to it and see the benefits.
 
 Happiness
 ---------
