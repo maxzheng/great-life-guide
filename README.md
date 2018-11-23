@@ -192,11 +192,11 @@ When focusing on quantity alone, while it might seem to be easy and a quick vict
 Exercise
 --------
 
-Exercise daily at least 30 minutes a day to [improve your overall health](https://medlineplus.gov/benefitsofexercise.html), such as stronger muscles and bones, [reduced stress](https://www.mayoclinic.org/healthy-lifestyle/stress-management/in-depth/exercise-and-stress/art-20044469), [stronger immumune system](https://medlineplus.gov/ency/article/007165.htm), [better cognitive functions](https://www.scientificamerican.com/article/why-do-you-think-better-after-walk-exercise/), etc.
+Exercise daily at least 30 minutes a day to [improve your overall health](https://medlineplus.gov/benefitsofexercise.html), such as stronger muscles and bones, [reduced stress](https://www.mayoclinic.org/healthy-lifestyle/stress-management/in-depth/exercise-and-stress/art-20044469), [stronger immune system](https://medlineplus.gov/ency/article/007165.htm), [better cognitive functions](https://www.scientificamerican.com/article/why-do-you-think-better-after-walk-exercise/), etc.
 
 Any form of exercise is fine, but yoga and cardio are recommended for complete health.
 
-* Yoga improves balance, endurance, strenth, and flexibility (BESF).
+* Yoga improves balance, endurance, strength, and flexibility (BESF).
 * Cardio improves heart strength, lung capacity, and [many other areas](https://health.clevelandclinic.org/head-toe-benefits-cardio-workout-infographic/). Dancing is recommended as it is fun.
 
 Do them both daily, or alternate each every other day. Be sure to do some occasionally throughout the day to energize the body and mind.
