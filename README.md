@@ -94,7 +94,7 @@ In short, if you want to get somewhere, you have to know where you are going and
 Continuous Improvement
 ======================
 
-To iteratively get closer to your vision, mission, and goals, follow these 5 simple steps to continuously improve yourself to reach your full potential:
+To iteratively get closer to your vision and continuously improve yourself to reach your full potential, follow these 5 simple steps:
 
 1. **Set stage that enables you.** This places you in the master's mindset where you are enabled to do anything in the right setting and mood. E.g. Life is a game, so relax and have fun!
 
@@ -159,7 +159,7 @@ To understand others, put yourself in their shoes and see things from their pers
 
 To help others, teach them as other ways may actually do harm in the long run. And careful not to spend too much time helping others that may significantly affect your own goals. Each person should be provided with all the necessities to be successful, however success must earned by each person with their own hands. When success is given, it's not sustainable.
 
-Doing [loving-kindness meditation](https://ggia.berkeley.edu/practice/loving_kindness_meditation) can improve compassion, or simply be kind and helpful.
+[Loving-kindness meditation](https://ggia.berkeley.edu/practice/loving_kindness_meditation) can improve compassion, or simply be kind and helpful.
 
 Creativity
 ----------
