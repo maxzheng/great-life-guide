@@ -122,6 +122,8 @@ It's important to be able to accept everything as they are, so it's possible to 
 
 [Meditation](#meditation) is a good way to learn acceptance -- mindfully be more aware and then be ok with what's going on. Accept all emotions -- it's ok to be sad, bored, not just happy. Accept the world as is -- bad things do happen, death is a part of life. Acceptance is an [essential habit](http://www.artofwellbeing.com/2017/11/08/acceptance/) to have.
 
+Thinking from different perspectives is another good way. For any situation, there are [multiple views/opinions](https://en.wikipedia.org/wiki/Blind_men_and_an_elephant) and each is true from its own perspective.
+
 Mistakes and failures will happen as we are only human. Don't forget them, but learn from them, forgive, and then move on.
 
 [Happiness](#happiness) awaits those that accept.
@@ -154,6 +156,19 @@ To understand others, put yourself in their shoes and see things from their pers
 To help others, teach them as other ways may actually do harm in the long run. And careful not to spend too much time helping others that may significantly affect your own goals. Each person should be provided with all the necessities to be successful, however success must earned by each person with their own hands. When success is given, it's not sustainable.
 
 [Loving-kindness meditation](https://ggia.berkeley.edu/practice/loving_kindness_meditation) can improve compassion, or simply be kind and helpful.
+
+Communication
+-------------
+
+No matter how good your ideas are, they are only useful to you if you can't effectively communicate to others.
+
+Effective communication is two-way and starts with *mindfully* listening, asking questions to clarify. Once the speaker finishes, then respond. Provide a high-level summary first if the response is complicated and then listen for feedback.
+
+When presenting, you have to [know your audience, material, and passion](https://www.linkedin.com/pulse/20121022044446-22330283-from-crickets-chirping-to-a-standing-ovation-three-rules-of-effective-public-speaking). Different audience has different expectation and value. If you know your material, it doesn't matter if you loose or forgot about your notes. And people enjoy listening to passionate speakers as it shows through the tone.
+
+Writing is an art form. Given the same content, good writing will draw readers to read, while bad writing repels. Good writing provides value to the reader in the simplest form and each sentence entices the reader to read the next.
+
+To convince others, you have to be [credible, appeal to others' emotions, or use logical reasoning](https://en.wikipedia.org/wiki/Modes_of_persuasion). The last one is apparently the least effective.
 
 Creativity
 ----------
