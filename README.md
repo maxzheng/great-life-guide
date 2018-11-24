@@ -109,11 +109,11 @@ For kids, the first two steps are a bit harder to grasp, so set it for them. I.e
 Essential Skills
 ================
 
-It's not enough to train the body or mind, but both are required to get optimal performance as they interdepend on each other. 
+Everything that you do is a skill. A skill can be improved with training. Some skills are more useful than others and the most useful ones are essential to master.
+
+It's not enough to train the body or mind, but both are required to get optimal performance as they interdepend on each other. Training is not easy and doesn't necessarily feel good, so **perseverance is required** and is what differentiates those that can master the skill and those that don't. Everything becomes easier and better as training progresses and momentum picks up.
 
 The saying "if you don't use it, you will loose it" applies to both body and mind. Due to cell aging as you get older, it becomes important to train more and consistently.
-
-Training each skill is not easy and doesn't necessarily feel good, so **perseverance is required** and is what differentiates those that can master the skill and those that don't.
 
 Acceptance
 ----------
