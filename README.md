@@ -177,10 +177,18 @@ Think about what you can do to make things better for you and everyone. [Creativ
 
 Instead of doing the same boring things again and again, always spend some time to think of creative solutions that solve problems in less time and effort, which has a bonus of being fun too.
 
+Passion + curiosity + rest = creativity. Be passionate to drive understanding. Be curious to see possibilities and purpose. Rest to promote [divergent thinking](https://en.wikipedia.org/wiki/Divergent_thinking) -- subconscious thinking that combines unrelated ideas to form new ones.
+
 Curiosity
 ---------
 
 Always be asking the hard questions -- why, what, how. Try to answer them yourself first before asking others, so you gain a deeper understanding and become smarter.
+
+* *Why* provides purpose.
+* *What* provides definition.
+* *How* provides process.
+
+Combined, they provide complete understanding and pave the way for new ideas and possibilities.
 
 Emotional Intelligence
 ----------------------
@@ -262,7 +270,17 @@ The best way to learn is to practice and experiment. To improve learning, learn 
 Love
 ----
 
-Love is the most powerful emotion that drives passion. Love as many and as much as you can. It feels good and makes life more enjoyable for you and others. Careful to not mistake it with obsession, or let it cloud your judgments. True love requires compassion.
+Love is the most powerful emotional drive. Love as many and as much as you can. It feels good and makes life more enjoyable for you and others. Careful to not mistake it with obsession, or let it cloud your judgments.
+
+There are several types of love with distinct purposes:
+
+1. [Romantic love](https://en.wikipedia.org/wiki/Romance_(love)) for lovers that drives procreation. 
+2. [Familial love](https://en.wikipedia.org/wiki/Storge) for family that drives caring of offspring.
+3. [Friendship love](https://en.wikipedia.org/wiki/Philia) for friends that drives caring of similarity.
+4. [Compassionate love](https://en.wikipedia.org/wiki/Compassionate_love) for everyone that drives community.
+5. Passion for things that drives improvement.
+
+True love requires compassion.
 
 Meditation
 ----------
