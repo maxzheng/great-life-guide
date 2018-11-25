@@ -149,7 +149,7 @@ So positive and believe anything is possible.
 Compassion
 ----------
 
-It starts with empathy to truly understand what others are feeling and going through and ends with the desire to help them. Its value is it lets us connect with each other at the deepest level to form trust that unifies everyone as one instead of fighting each other.
+It starts with feeling what others are going through, understand it without being overwhelmed, and ends with the desire to help them. In short, [compassion = empathy + sympathy + desire to help](https://chopra.com/articles/whats-the-difference-between-empathy-sympathy-and-compassion). It lets us connect with each other at the deepest level to form trust that unifies everyone as one instead of fighting each other, so together we can do great things.
 
 To understand others, put yourself in their shoes and see things from their perspective while emulating their emotions in the process without being affected.
 
@@ -248,7 +248,7 @@ A great life only requires a certain minimal level of intelligence. A higher int
 Leadership
 ----------
 
-Be a [transcendent leader](https://www.linkedin.com/pulse/become-transcendent-leader-reid-hoffman) that follows the mission, not other people, and inspires others to do the same. Lead with meaning, not money.
+The best leaders [lead with meaning](https://www.linkedin.com/pulse/become-transcendent-leader-reid-hoffman) and [compassion](https://www.linkedin.com/pulse/20121015034012-22330283-managing-compassionately).
 
 There are a couple of traits that makes a great leader, such as openness, compassion, passion, and wisdom. To be a great leader, you have to be *highly focused* and *build trust* amongst everyone to *execute well* to achieve a *common and great vision*. The greatness of all leaders is measured by their ability to *influence* and *inspire* others to make an *impact*. The best ways to inspire and influence others is having a great vision, walk the talk, and using [direct motivations](#motivation).
 
