@@ -24,8 +24,6 @@ Why should you read this?
 -------------------------
 
 In short, this is a single page that contains essential ideas that everyone should know to live a great life.
-
-You can choose to live like a rock or a star. A rock doesn't do much and therefore gets the minimal in life. A star is self-sustaining, shines brightly, and does as much as possible and therefore gets everything in life. This guide is intended to provide a framework to help everyone become a star -- not just a lucky few.
   
 There are a lot of information on the Internet, in books, on TV, from family/friends, etc about how to have a happy and successful life, like a good career and loving family, but all of them are scattered across different places. Access to all sources may not be readily available. There are also a lot of biases and opinions mixed in, so it's unclear what the truth is that delivers real value and results for having a great life. This does contain external links to get more details and attribution, but essential ideas will be here, so there is no need to look elsewhere to get your life started in the right direction.
   
@@ -61,7 +59,7 @@ What can life be like?
 
 It can be anything that you like -- that's the beauty of life, but it can be so much more when you push yourself to reach your full potential and everyone works together. 
 
-Just to give an example, I see a future where no one has to do anything for basic needs as robots will provide them and everyone can do anything that they want. There will be no crime as there is no need to take when everyone will have everything -- access to everywhere, any information, any material possession. Some will party all day and night, but will get bored. Eventually, I believe everyone will want to work on creative things that expand the collective wisdom and enjoyment of life. 
+Just to give an example, I see a future where no one has to do anything for basic needs as robots will provide them and everyone can do anything that they want. Compassion will be at the core of everything, therefore everyone will work together to expand the collective wisdom and capabilities of the human race. We will explore the universe until we reach the edge.
 
 But none of that will happen without an ubiquitous culture that enables them. A good culture starts with the right mindset.
 
@@ -329,14 +327,22 @@ Growing Up
 
 Useful things to know as you grow to help you plan accordingly and avoid surprises.
 
-Physical Changes
-----------------
+Stages
+------
 
-As you grow, there are many things changing inside, so here are some highlights and a bit of advice:
+### Child
 
-1. As a child, this is a great time to have fun as everything is new and exciting, so do savor the moments. Aside from having fun, it is also a great time to learn different skills that can accelerate latter stages of life. The brain just soaks up everything so easily, so why not.
-2. As a teen, a lot of hormones are at work during this time to develop the body. Just let them do their magic, but don't let them take over decision making. Always use your mind. Learn and experience everything that life has to offer with some care -- as long as you keep a healthy body and mind, everything is a go. School dominates this stage. It's important to develop a love for learning. That is what separates those that will have a successful life and those that don't.
-3. As an adult, the final stage of life is also the beginning of the real life. The earlier stages are just preparation. This is the prime of your life where you can fully utilize your body and mind to make a difference in the world and really live the life that you want. At some point, hormones will influence you to find a mate and procreate, and you may become more loving and patient to care for your children so the human race continues on. Yay! Unfortunately, your body and mind will start to decline around age 40, so more effort is required to maintain health. 
+This is a great time to have fun as everything is new and exciting, so do savor the moments. Aside from having fun, it is also a great time to learn different skills that can accelerate latter stages of life. The brain just soaks up everything so easily, so why not.
+
+### Teen
+
+A lot of hormones are at work during this time to develop the body. Just let them do their magic, but don't let them take over decision making. Always use your mind. Learn and experience everything that life has to offer with some care -- as long as you keep a healthy body and mind, everything is a go. School dominates this stage. It's important to develop a love for learning. That is what separates those that will have a successful life and those that don't.
+
+### Adult
+
+The final stage of life is also the beginning of the real life. The earlier stages are just preparation. This is the prime of your life where you can fully utilize your body and mind to make a difference in the world and really live the life that you want. Build a career based on what you love and provides the most value to the world. At some point, hormones will influence you to find a mate and procreate, and you may become more loving and patient to care for your children so the human race continues on. Yay! Unfortunately, your body and mind will start to decline around age 40, so more effort is required to maintain health.
+
+Lastly, death is a part of life, so no need to fear.
 
 Relationships
 -------------
