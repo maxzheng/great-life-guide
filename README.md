@@ -100,7 +100,7 @@ To iteratively get closer to your vision and continuously improve yourself to re
 
 There is a balance between the last two. Doing the right thing without being rock solid will result in a breakdown as everything will become too heavy and eventually crumble. Being rock solid without doing the right thing is obviously wrong and you probably won't get what you want. And there is no need to do the right thing all the time as long as you are willing to accept the consequences. E.g. I know ramen is bad for me, but it tastes so good that I am willing to accept the risks from occasional indulgence. :yum:
 
-A short name for the steps is Master Check (MC). I like to recall the acronym "MC" often to ensure I run through all the steps to continuously improve myself to reach my full potential and get closer to my vision.
+A short name for the steps is Master Check (MC). Another good acronym is AC for accept the consequences. So in short, do MC or AC.
 
 For kids, the first two steps are a bit harder to grasp, so set it for them. I.e. Tell them they can do anything they put their minds to and have fun while doing it.
 
