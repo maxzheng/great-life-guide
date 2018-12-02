@@ -52,7 +52,7 @@ Why not. Now, let's do something great together!
 What is life?
 -------------
 
-Life started about [4 billion years ago](https://en.wikipedia.org/wiki/Life) and has [evolved to the many species](https://en.wikipedia.org/wiki/Evolution) we have today. We interdepend on each other, even [microbes as they are a part of us](https://www.nytimes.com/2016/08/21/books/review/i-contain-multitudes-ed-yong.html). Therefore, humans are the same as other life forms except more intelligent.
+Life started about [4 billion years ago](https://en.wikipedia.org/wiki/Life) and has [evolved to the many species](https://en.wikipedia.org/wiki/Evolution) we have today. We interdepend on each other, even [microbes as they are a part of us](https://www.nytimes.com/2016/08/21/books/review/i-contain-multitudes-ed-yong.html). Therefore, we humans are the same as other life forms except more intelligent.
 
 What can life be like?
 ----------------------
