@@ -212,7 +212,7 @@ Exercise daily at least 30 minutes a day to [improve your overall health](https:
 Any form of exercise is fine, but yoga and cardio are recommended for complete health.
 
 * Yoga improves balance, endurance, strength, and flexibility (BESF).
-* Cardio improves heart strength, lung capacity, and [many other areas](https://health.clevelandclinic.org/head-toe-benefits-cardio-workout-infographic/). Dancing is recommended as it is fun.
+* Cardio improves heart strength, lung capacity, and [many other areas](https://health.clevelandclinic.org/head-toe-benefits-cardio-workout-infographic/). Running or dancing is recommended.
 
 Do them both daily, or alternate each every other day. Be sure to do some occasionally throughout the day to energize the body and mind.
 
