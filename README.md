@@ -64,7 +64,7 @@ What can life be like?
 
 It can be anything that you like -- that's the beauty of life, but it can be so much more when you push yourself to reach your full potential and everyone works together. 
 
-Just to give an example, I see a future where no one has to do anything for basic needs as robots will provide them and everyone can do anything that they want. Compassion will be at the core of everything, therefore everyone will work together to expand the collective wisdom and capabilities of the human race. We will explore the universe until we reach the edge.
+Just to give an example, I see a future where no one has to do anything for basic needs as robots will provide them and everyone can do anything that they want. Compassion and wisdom will be at the core of everything, therefore everyone will work together to expand the collective wisdom and enjoyment of the human race. We will explore the universe until we reach the edge.
 
 But none of that will happen without an ubiquitous culture that enables them. A good culture starts with the right mindset.
 
