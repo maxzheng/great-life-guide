@@ -20,6 +20,11 @@ Why & What
 
 Those are the most important questions that we should always be asking.
 
+What is the one-word summary?
+-----------------------------
+
+**Balance**: Everything that you think and do must be balanced. Too much or too little isn't sustainable, optimal, nor fun.
+
 Why should you read this?
 -------------------------
 
@@ -100,7 +105,7 @@ To iteratively get closer to your vision and continuously improve yourself to re
 
 There is a balance between the last two. Doing the right thing without being rock solid will result in a breakdown as everything will become too heavy and eventually crumble. Being rock solid without doing the right thing is obviously wrong and you probably won't get what you want. And there is no need to do the right thing all the time as long as you are willing to accept the consequences. E.g. I know ramen is bad for me, but it tastes so good that I am willing to accept the risks from occasional indulgence. :yum:
 
-A short name for the steps is Master Check (MC). Another good acronym is AC for accept the consequences. So in short, do MC or AC.
+A short name for the steps is Master Check (MC). Another good acronym is AC for accept the consequences. So, do master check or accept the consequences (MC or AC).
 
 For kids, the first two steps are a bit harder to grasp, so set it for them. I.e. Tell them they can do anything they put their minds to and have fun while doing it.
 
@@ -292,13 +297,13 @@ The bad thing about meditation is that it takes a long time to see the benefits.
 Motivation
 ----------
 
-Be motivated by using [play, purpose, and potential (PPP)](https://hbr.org/2015/11/how-company-culture-shapes-employee-motivation) for everything that you do. 
+Be motivated by using [play, purpose, and potential (PPP)](https://hbr.org/2015/11/how-company-culture-shapes-employee-motivation) for everything that you do using these direct motives: 
 
 * Play is where you enjoy what you do and is the most powerful motivator. Use your creativity to make any task enjoyable.
 * Purpose is what you get after you do something. Always understand why you are doing something and its value.
 * Potential is what you might be able to do in the future after you have done it.
 
-Motivation can be negatively impacted by emotional/economic pressure and inertia.
+Motivation can be negatively impacted by indirect motives, such as emotional/economic pressure and inertia. For tactical tasks, they do work well and gives a gravitational pull to get things done. However, for adaptive task, the pull may be in the opposite side so they are best accomplished using high direct motives.
 
 Prioritization
 --------------
