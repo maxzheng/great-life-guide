@@ -23,7 +23,7 @@ Those are the most important questions that we should always be asking.
 What is the one-word summary?
 -----------------------------
 
-**Balance**: Everything that you think and do must be balanced. Too much or too little isn't sustainable, optimal, nor fun.
+**Balance**: Everything that you think, feel, and do must be balanced. Too much or too little isn't sustainable, optimal, nor fun.
 
 Why should you read this?
 -------------------------
