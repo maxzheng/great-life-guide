@@ -383,7 +383,7 @@ Contribution
 
 I do hope others find this useful and would contribute to make this better by [opening issues or creating pull requests](https://help.github.com/categories/collaborating-with-issues-and-pull-requests/) at https://github.com/maxzheng/life. Sharing this with your family and friends would be another way of contributing.
 
-If this guide has helped you in your journey of becoming a star of your life, I would love to know. Please do make comments, email me at maxzheng.os @t gmail.com, or put a star on https://github.com/maxzheng/life
+If you find this guide to be useful, I would love to know. Please do make comments, email me at maxzheng.os @t gmail.com, or put a star on https://github.com/maxzheng/life
 
 To get updates or other helpful tips, follow me on [Twitter](https://twitter.com/MaxZhengX) or [LinkedIn](https://www.linkedin.com/in/maxzheng).
 
