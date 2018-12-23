@@ -80,7 +80,7 @@ Let go of anything that holds you back, and go forth with passion to live life t
 Vision, Mission, and Goals
 ==========================
 
-The first 20 years of life is mostly spent on learning and exploring. After that, it's important to know what you want out of life so you can iteratively attain them. It's possible to go through life just doing the minimal / taking the easy path, but that's just wasting the precious gift of your intelligence and you won't actually enjoy as much as someone that have meaningful goals. Until you figure them out, keep learning/exploring to keep your body and mind sharp as you will need them in tip-top shape when the time comes.
+The first 20 years of life is mostly spent on learning and exploring. After that, it's important to know what you want out of life so you can iteratively attain them. It's possible to go through life just doing the minimal / taking the easy path, but that's just wasting the precious gift of your intelligence and you won't actually enjoy as much as someone that has meaningful goals. Until you figure them out, keep learning and exploring to sharpen your body and mind as you will need them in tip-top shape when the time comes.
 
 A vision paints a future world that you want yourself or your children to live in. This serves as a true north for everything that you do. E.g. world peace, end poverty, or everyone is happy. This should inspire you.
 
