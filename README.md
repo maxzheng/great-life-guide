@@ -30,8 +30,8 @@ Why should you read this?
 
 In short, this is a single page that contains essential ideas that everyone should know to live a great life.
   
-There are a lot of information on the Internet, in books, on TV, from family/friends, etc about how to have a happy and successful life, like a good career and loving family, but all of them are scattered across different places. Access to all sources may not be readily available. There are also a lot of biases and opinions mixed in, so it's unclear what the truth is that delivers real value and results for having a great life. This does contain external links to get more details and attribution, but essential ideas will be here, so there is no need to look elsewhere to get your life started in the right direction. Everything is written as concise as possible, reasoned logically, and drawn from actual experiences with experiments based on return on investment.
-  
+There are a lot of information on the Internet, in books, on TV, from family/friends, etc about how to have a happy and successful life, like a good career and loving family, but all of them are scattered across different places. Access to all sources may not be readily available. There are also a lot of biases and opinions mixed in, so it's unclear what the truth is that delivers real value and results for having a great life. This does contain external links to get more details and attribution, but essential ideas will be here, so there is no need to look elsewhere to get your life started in the right direction. Everything is written as concise as possible with return on investment in mind, reasoned logically, and drawn from actual experiences with experiments.
+
 Here are some of the things that you will learn:
 
 * What is life and what can it like?
@@ -39,6 +39,7 @@ Here are some of the things that you will learn:
 * Define what you want out of life to iteratively get there.
 * Simple steps to continuously improve yourself.
 * Essential skills to improve the body and mind.
+* Useful things to know as you grow.
 
 Why did I write this?
 ---------------------
