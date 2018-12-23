@@ -30,13 +30,13 @@ Why should you read this?
 
 In short, this is a single page that contains essential ideas that everyone should know to live a great life.
   
-There are a lot of information on the Internet, in books, on TV, from family/friends, etc about how to have a happy and successful life, like a good career and loving family, but all of them are scattered across different places. Access to all sources may not be readily available. There are also a lot of biases and opinions mixed in, so it's unclear what the truth is that delivers real value and results for having a great life. This does contain external links to get more details and attribution, but essential ideas will be here, so there is no need to look elsewhere to get your life started in the right direction.
+There are a lot of information on the Internet, in books, on TV, from family/friends, etc about how to have a happy and successful life, like a good career and loving family, but all of them are scattered across different places. Access to all sources may not be readily available. There are also a lot of biases and opinions mixed in, so it's unclear what the truth is that delivers real value and results for having a great life. This does contain external links to get more details and attribution, but essential ideas will be here, so there is no need to look elsewhere to get your life started in the right direction. Everything is written as concise as possible, reasoned logically, and drawn from actual experiences with experiments based on return on investment.
   
 Here are some of the things that you will learn:
 
 * What is life and what can it like?
 * Master's mindset that enables you.
-* Define what you want out of life so you can iteratively get there.
+* Define what you want out of life to iteratively get there.
 * Simple steps to continuously improve yourself.
 * Essential skills to improve the body and mind.
 
@@ -45,7 +45,7 @@ Why did I write this?
 
 I grew up with little parental guidance and learned everything from TV, school, other people, trial/error, etc, and always wished that I had someone that had a full life experience to guide me in the right direction to avoid many of the common mistakes that I had made. It took me 36 years to finally realize what life is all about, so I am hoping to save others some time by sharing.
 
-As a parent now, I am glad that I can help my children grow, but I can also see other people going through the same things that I had without any guidance and making the similar mistakes, hence this could fill in some of that gap -- if they can find it, :laughing: (hint: please share/like this!).
+As a parent now, I am glad that I can help my children grow, but I can also see other people going through the same things that I had without any guidance and making similar mistakes, hence this could fill in some of that gap -- if they can find it, :laughing:.
 
 As a software engineer, I am always thinking about redundancy, and hence this would serve as a backup for my kids as well.
 
@@ -53,6 +53,8 @@ Why do we exist?
 ----------------
 
 Why not. Now, let's do something great together!
+
+To know other thoughts on the subject, Wikepedia has a great article on [the meaning of life](https://en.wikipedia.org/wiki/Meaning_of_life) that provides popular and different views from many people, sciences, philosophies, and religions. Some are just stories, some are interesting, and some are useful guides like this one.
 
 What is life?
 -------------
@@ -112,7 +114,7 @@ For kids, the first two steps are a bit harder to grasp, so set it for them. I.e
 Essential Skills
 ================
 
-Everything that you do is a skill. A skill can be improved with training. Some skills are more useful than others and the most useful ones are essential to master.
+Skills enable you to realize your vision, mission, and goals. Everything that you do is a skill. A skill can be improved with training. Some skills are more useful than others and the most useful ones are essential to master.
 
 It's not enough to train the body or mind, but both are required to get optimal performance as they interdepend on each other. Training is not easy and doesn't necessarily feel good, so **perseverance is required** and is what differentiates those that can master the skill and those that don't. Everything becomes easier and better as training progresses and momentum picks up.
 
