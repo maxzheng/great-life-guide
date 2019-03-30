@@ -384,9 +384,9 @@ Be sure to take good care of their health, such as brushing their teeth twice da
 Contribution
 ============
 
-I do hope others find this useful and would contribute to make this better by [opening issues or creating pull requests](https://help.github.com/categories/collaborating-with-issues-and-pull-requests/) at https://github.com/maxzheng/life. Sharing this with your family and friends would be another way of contributing.
+I do hope others find this useful and would contribute to make this better by [opening issues or creating pull requests](https://help.github.com/categories/collaborating-with-issues-and-pull-requests/) at https://github.com/maxzheng/great-life-guide. Sharing this with your family and friends would be another way of contributing.
 
-If you find this guide to be useful, I would love to know. Please do make comments, email me at maxzheng.os @t gmail.com, or put a star on https://github.com/maxzheng/life
+If you find this guide to be useful, I would love to know. Please do make comments, email me at maxzheng.os @t gmail.com, or put a star on https://github.com/maxzheng/great-life-guide
 
 To get updates or other helpful tips, follow me on [Twitter](https://twitter.com/MaxZhengX) or [LinkedIn](https://www.linkedin.com/in/maxzheng).
 
