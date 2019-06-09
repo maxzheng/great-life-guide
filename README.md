@@ -38,7 +38,7 @@ It took me 36 years to finally realize what life is all about, so I am hoping to
 Why do we exist?
 ----------------
 
-Wikepedia has a great article on [the meaning of life](https://en.wikipedia.org/wiki/Meaning_of_life).
+Wikipedia has a great article on [the meaning of life](https://en.wikipedia.org/wiki/Meaning_of_life).
 
 What is life?
 -------------
