@@ -28,77 +28,54 @@ What is the one-word summary?
 Why should you read this?
 -------------------------
 
-In short, this is a single page that contains essential ideas that everyone should know to live a great life.
+This is a single page that contains essential ideas that everyone should know to live a great life.
   
-There are a lot of information on the Internet, in books, on TV, from family/friends, etc about how to have a happy and successful life, like a good career and loving family, but all of them are scattered across different places. Access to all sources may not be readily available. There are also a lot of biases and opinions mixed in, so it's unclear what the truth is that delivers real value and results for having a great life. This does contain external links to get more details and attribution, but essential ideas will be here, so there is no need to look elsewhere to get your life started in the right direction. Everything is written as concise as possible with return on investment in mind, reasoned logically, and drawn from actual experiences with experiments.
-
-Here are some of the things that you will learn:
-
-* What is life and what can it like?
-* Master's mindset that enables you.
-* Define what you want out of life to iteratively get there.
-* Simple steps to continuously improve yourself.
-* Essential skills to improve the body and mind.
-* Useful things to know as you grow.
-
 Why did I write this?
 ---------------------
 
-I grew up with little parental guidance and learned everything from TV, school, other people, trial/error, etc, and always wished that I had someone that had a full life experience to guide me in the right direction to avoid many of the common mistakes that I had made. It took me 36 years to finally realize what life is all about, so I am hoping to save others some time by sharing.
-
-As a parent now, I am glad that I can help my children grow, but I can also see other people going through the same things that I had without any guidance and making similar mistakes, hence this could fill in some of that gap -- if they can find it, :laughing:.
-
-As a software engineer, I am always thinking about redundancy, and hence this would serve as a backup for my kids as well.
+It took me 36 years to finally realize what life is all about, so I am hoping to save others some time by sharing.
 
 Why do we exist?
 ----------------
 
-Why not. Now, let's do something great together!
-
-To know other thoughts on the subject, Wikepedia has a great article on [the meaning of life](https://en.wikipedia.org/wiki/Meaning_of_life) that provides popular and different views from many people, sciences, philosophies, and religions. Some are just stories, some are interesting, and some are useful guides like this one.
+Wikepedia has a great article on [the meaning of life](https://en.wikipedia.org/wiki/Meaning_of_life).
 
 What is life?
 -------------
 
-Life started about [4 billion years ago](https://en.wikipedia.org/wiki/Life) and has [evolved to the many species](https://en.wikipedia.org/wiki/Evolution) we have today. We interdepend on each other, even [microbes as they are a part of us](https://www.nytimes.com/2016/08/21/books/review/i-contain-multitudes-ed-yong.html). Therefore, we humans are the same as other life forms except more intelligent.
+Life started about [4 billion years ago](https://en.wikipedia.org/wiki/Life) and has [evolved to the many species](https://en.wikipedia.org/wiki/Evolution) we have today. We interdepend on each other, even [microbes as they are a part of us](https://www.nytimes.com/2016/08/21/books/review/i-contain-multitudes-ed-yong.html).
 
 What can life be like?
 ----------------------
 
 It can be anything that you like -- that's the beauty of life, but it can be so much more when you push yourself to reach your full potential and everyone works together. 
 
-Just to give an example, I see a future where no one has to do anything for basic needs as robots will provide them and everyone can do anything that they want. Compassion and wisdom will be at the core of everything, therefore everyone will work together to expand the collective wisdom and enjoyment of the human race. We will explore the universe until we reach the edge.
-
-But none of that will happen without an ubiquitous culture that enables them. A good culture starts with the right mindset.
-
 Master's Mindset
 ================
 
-Before anything else, you have to see the world clearly using an open mindset where you can do anything that you put your mind to -- i.e. a master's mindset. You are the master of your body and mind, and hence you can control them however you see fit to achieve your desires. To attain mastery, you must love to learn, practice, and experiment to push beyond artificial boundaries. As long as you are alive, you can improve yourself, inspire others to do the same, and together we can do great things, such as splitting the atom (done!), connecting the world at the speed of light (done!), space travel (almost), or building stars.
+Before anything else, you have to see the world clearly using an open mindset where you can do anything that you put your mind to -- i.e. a master's mindset. You are the master of your BEAM (body, emotion, attention, mind), and hence you can control them however you see fit to achieve your desires. 
 
 Let go of anything that holds you back, and go forth with passion to live life to the fullest! :smile:
 
 Vision, Mission, and Goals
 ==========================
 
-The first 20 years of life is mostly spent on learning and exploring. After that, it's important to know what you want out of life so you can iteratively attain them. It's possible to go through life just doing the minimal / taking the easy path, but that's just wasting the precious gift of your intelligence and you won't actually enjoy as much as someone that has meaningful goals. Until you figure them out, keep learning and exploring to sharpen your body and mind as you will need them in tip-top shape when the time comes.
+It's important to know what you want out of life so you can iteratively attain them. It's possible to go through life just doing the minimal / taking the easy path, but that's just wasting the precious gift of your intelligence and you won't actually enjoy as much as someone that has meaningful goals. Until you figure them out, keep learning and exploring to sharpen your body and mind as you will need them in tip-top shape when the time comes.
 
-A vision paints a future world that you want yourself or your children to live in. This serves as a true north for everything that you do. E.g. world peace, end poverty, or everyone is happy. This should inspire you.
+A vision paints a future world that you want yourself or your children to live in. This serves as a true north for everything that you do. This should inspire you. E.g. world peace, end poverty, or everyone is happy. 
 
 A mission describes how you want to achieve the vision. This can change over time as you learn, but should be the single most important thing that you are trying to do as long as you are alive. E.g. I want to continuously improve myself to reach my full potential and help others to do the same, so together we can do great things.
 
 And finally, there can be many goals in your life, such as getting married, having kids, or have a great career.
 
-In short, if you want to get somewhere, you have to know where you are going and how to get there.
-
 Continuous Improvement
 ======================
 
-To iteratively get closer to your vision and continuously improve yourself to reach your full potential, follow these 5 simple steps:
+To iteratively get closer to your vision and continuously improve yourself to reach your full potential in a balanced and sustainable way, follow these 5 simple steps:
 
-1. **Set stage that enables you.** This places you in the master's mindset where you are enabled to do anything in the right setting and mood. E.g. Life is a game, so relax and have fun!
+1. **Direct and balance BEAM (body, emotion, attention, mind) to enable you at 100%** This places you in the master's mindset where you are enabled to do anything at peak performance consistently. E.g. Direct your mind with an enabler like "I can do anything that I set my mind to", fully focus and really feel it, and finally energize your body to support it. Use an enabler that works for you. Repeat until you are at 100%. If not, try using the other steps below to figure out how to improve it.
 
-2. **Set intentions based on your vision, mission, and goals.** This provides the direction for what you want to do without expectation. E.g. If the goal is to cure cancer, then an intention could be learning about cell formation under different scenarios.
+2. **Set intentions each day based on your vision, mission, and goals.** This provides the direction for what you want to do without expectation and lets you get there one step at a time. E.g. If the goal is to build a company, then an intention for today could be networking with other business owners.
 
 3. **Be mindful of the present with acceptance.** This allows you to fully take in, understand, and enjoy what's currently happening (i.e. moments of life) without judgement or expectations. This should be the default state unless you need to concentrate on something else.
 
@@ -106,7 +83,7 @@ To iteratively get closer to your vision and continuously improve yourself to re
 
 5. **Be rock solid.** This is the safest way to get what you want as there are many challenges and bad actors that will block you so it's important to believe in yourself, stand firmly behind your ideas and beliefs, and never waver -- like a rock. 
 
-There is a balance between the last two. Doing the right thing without being rock solid will result in a breakdown as everything will become too heavy and eventually crumble. Being rock solid without doing the right thing is obviously wrong and you probably won't get what you want. And there is no need to do the right thing all the time as long as you are willing to accept the consequences. E.g. I know ramen is bad for me, but it tastes so good that I am willing to accept the risks from occasional indulgence. :yum:
+There is a balance between the last two. Doing the right thing without being rock solid will result in a breakdown as everything will become too heavy and eventually crumble. Being rock solid without doing the right thing is obviously wrong and you probably won't get what you want. And there is no need to do the right thing all the time as long as you are willing to accept the consequences. E.g. I know instant ramen is bad for me, but it tastes so good that I am willing to accept the risks from occasional indulgence. :yum:
 
 A short name for the steps is Master Check (MC). Another good acronym is AC for accept the consequences. So, do master check or accept the consequences (MC or AC).
 
@@ -387,7 +364,5 @@ Contribution
 I do hope others find this useful and would contribute to make this better by [opening issues or creating pull requests](https://help.github.com/categories/collaborating-with-issues-and-pull-requests/) at https://github.com/maxzheng/great-life-guide. Sharing this with your family and friends would be another way of contributing.
 
 If you find this guide to be useful, I would love to know. Please do make comments, email me at maxzheng.os @t gmail.com, or put a star on https://github.com/maxzheng/great-life-guide
-
-To get updates or other helpful tips, follow me on [Twitter](https://twitter.com/MaxZhengX) or [LinkedIn](https://www.linkedin.com/in/maxzheng).
 
 Thank you! :smile:
