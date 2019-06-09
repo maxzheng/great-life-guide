@@ -5,7 +5,8 @@ This contains fundamental ideas about life, such as what it is, how to improve i
 
 <img align="right" src="happiness.jpg" width="467px">
 
-## Contents
+Contents
+--------
 
 * [Why & What](#why--what)
 * [Master's Mindset](#masters-mindset)
@@ -20,33 +21,27 @@ Why & What
 
 Those are the most important questions that we should always be asking.
 
-What is the one-word summary?
------------------------------
+### What is the one-word summary?
 
 **Balance**: Everything that you think, feel, and do must be balanced. Too much or too little isn't sustainable, optimal, nor fun.
 
-Why should you read this?
--------------------------
+### Why should you read this?
 
 This is a single page that contains essential ideas that everyone should know to live a great life.
   
-Why did I write this?
----------------------
+### Why did I write this?
 
 It took me 36 years to finally realize what life is all about, so I am hoping to save others some time by sharing.
 
-Why do we exist?
-----------------
+### Why do we exist?
 
 Wikipedia has a great article on [the meaning of life](https://en.wikipedia.org/wiki/Meaning_of_life).
 
-What is life?
--------------
+### What is life?
 
 Life started about [4 billion years ago](https://en.wikipedia.org/wiki/Life) and has [evolved to the many species](https://en.wikipedia.org/wiki/Evolution) we have today. We interdepend on each other, even [microbes as they are a part of us](https://www.nytimes.com/2016/08/21/books/review/i-contain-multitudes-ed-yong.html).
 
-What can life be like?
-----------------------
+### What can life be like?
 
 It can be anything that you like -- that's the beauty of life, but it can be so much more when you push yourself to reach your full potential and everyone works together. 
 
