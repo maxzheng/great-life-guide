@@ -73,7 +73,7 @@ Continuous Improvement
 
 To iteratively get closer to your vision and continuously improve yourself to reach your full potential in a balanced and sustainable way, follow these 5 simple steps:
 
-1. **Direct and balance BEAM (body, emotion, attention, mind) to enable you at 100%** This places you in the master's mindset where you are enabled to do anything at peak performance consistently. E.g. Direct your mind with an enabler like "I can do anything that I set my mind to", fully focus and really feel it, and finally energize your body to support it. Use an enabler that works for you. Repeat until you are at 100%. If not, try using the other steps below to figure out how to improve it.
+1. **Direct and balance BEAM (body, emotion, attention, mind) to enable you at 100%.** This places you in the master's mindset where you are enabled to do anything at peak performance consistently. E.g. Direct your mind with an enabler like "I can do anything that I set my mind to", fully focus and really feel it, and finally energize your body to support it. Use an enabler that works for you. Repeat until you are at 100%. If not, try using the other steps below to figure out how to improve it.
 
 2. **Set intentions each day based on your vision, mission, and goals.** This provides the direction for what you want to do without expectation and lets you get there one step at a time. E.g. If the goal is to build a company, then an intention for today could be networking with other business owners.
 
