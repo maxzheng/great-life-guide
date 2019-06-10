@@ -1,7 +1,8 @@
 A Great Life Guide
 ==================
 
-This contains fundamental ideas about life, such as what it is, how to improve it, and what it can be. It is my hope that this can serve as a guide to live a great life.
+This contains fundamental ideas about life, such as what it is, how to improve it, and what it can be.
+It is my hope that this can serve as a guide to live a great life.
 
 <img align="right" src="happiness.jpg" width="467px">
 
@@ -21,77 +22,105 @@ Why & What
 
 Those are the most important questions that we should always be asking.
 
-### What is the one-word summary?
+If you don't read the entire page, the most important and one take away is **Balance**.
+Everything that you think, feel, and do must be balanced. Too much or too little isn't sustainable, optimal, nor fun
+(unless it's Seinfield, :laughing:, you can never watch too much of that!)
 
-**Balance**: Everything that you think, feel, and do must be balanced. Too much or too little isn't sustainable, optimal, nor fun.
+This is a single page that contains essential ideas that everyone should know to live a great life. It took me 36 years
+to finally realize what life is all about, so I am hoping to save others some time by sharing.
 
-### Why should you read this?
+Life started about [4 billion years ago](https://en.wikipedia.org/wiki/Life) and has
+[evolved to the many species](https://en.wikipedia.org/wiki/Evolution) we have today. We interdepend on each other, even
+[microbes as they are a part of us](https://www.nytimes.com/2016/08/21/books/review/i-contain-multitudes-ed-yong.html).
+Wikipedia has a great article on [the meaning of life](https://en.wikipedia.org/wiki/Meaning_of_life), but it is best to
+look at the facts in front of you and not the stories.
 
-This is a single page that contains essential ideas that everyone should know to live a great life.
-  
-### Why did I write this?
-
-It took me 36 years to finally realize what life is all about, so I am hoping to save others some time by sharing.
-
-### Why do we exist?
-
-Wikipedia has a great article on [the meaning of life](https://en.wikipedia.org/wiki/Meaning_of_life).
-
-### What is life?
-
-Life started about [4 billion years ago](https://en.wikipedia.org/wiki/Life) and has [evolved to the many species](https://en.wikipedia.org/wiki/Evolution) we have today. We interdepend on each other, even [microbes as they are a part of us](https://www.nytimes.com/2016/08/21/books/review/i-contain-multitudes-ed-yong.html).
-
-### What can life be like?
-
-It can be anything that you like -- that's the beauty of life, but it can be so much more when you push yourself to reach your full potential and everyone works together. 
+Life can be anything that you like. It can be so much more when you nurture yourself to reach your full potential and
+everyone works together to do great things.
 
 Master's Mindset
 ================
 
-Before anything else, you have to see the world clearly using an open mindset where you can do anything that you put your mind to -- i.e. a master's mindset. You are the master of your BEAM (body, emotion, attention, mind), and hence you can control them however you see fit to achieve your desires. 
+Before anything else, you have to see the world clearly using an open mind where you can do anything that you put your
+mind to -- i.e. a master's mindset. You are the master of your BEAM (body, emotion, attention, mind), and hence you can
+control them however you see fit to achieve your desires.
 
 Let go of anything that holds you back, and go forth with passion to live life to the fullest! :smile:
 
 Vision, Mission, and Goals
 ==========================
 
-It's important to know what you want out of life so you can iteratively attain them. It's possible to go through life just doing the minimal / taking the easy path, but that's just wasting the precious gift of your intelligence and you won't actually enjoy as much as someone that has meaningful goals. Until you figure them out, keep learning and exploring to sharpen your body and mind as you will need them in tip-top shape when the time comes.
+It's important to know what you want out of life so you can iteratively attain them. It's possible to go through life
+just doing the minimal / taking the easy path, but that's just wasting the precious gift of your intelligence and
+you won't actually enjoy as much as someone that has meaningful targets. Until you figure them out, keep learning and
+exploring to sharpen your BEAM (body, emotion, attention, mind) as you will need them in tip-top shape later.
 
-A vision paints a future world that you want yourself or your children to live in. This serves as a true north for everything that you do. This should inspire you. E.g. world peace, end poverty, or everyone is happy. 
+A vision paints a future world that you want yourself or your children to live in. This serves as a true north for
+everything that you do. This should inspire you. E.g. world peace, end poverty, or everyone is happy.
 
-A mission describes how you want to achieve the vision. This can change over time as you learn, but should be the single most important thing that you are trying to do as long as you are alive. E.g. I want to continuously improve myself to reach my full potential and help others to do the same, so together we can do great things.
+A mission describes how you want to achieve the vision. This can change over time as you learn, but should be the
+single most important thing that you are trying to do as long as you are alive. E.g. I want to continuously improve
+myself to reach my full potential and help others to do the same, so together we can do great things.
 
 And finally, there can be many goals in your life, such as getting married, having kids, or have a great career.
 
 Continuous Improvement
 ======================
 
-To iteratively get closer to your vision and continuously improve yourself to reach your full potential in a balanced and sustainable way, follow these 5 simple steps:
+To iteratively get closer to your vision and continuously improve yourself to reach your full potential in a balanced
+and sustainable way, follow these 5 simple steps:
 
-1. **Direct and balance BEAM (body, emotion, attention, mind) to enable you at 100%.** This places you in the master's mindset where you are enabled to do anything at peak performance consistently. E.g. Direct your mind with an enabler like "I can do anything that I set my mind to", fully focus and really feel it, and finally energize your body to support it. Use an enabler that works for you. Repeat until you are at 100%. If not, try using the other steps below to figure out how to improve it.
+1. **Nurture your BEAM (body, emotion, attention, mind) to enable you at 100%.** This is the raw energy that will enable
+you to do everything at peak performance consistently. Tell yourself "I can do anything that I set my mind to"
+with concentration and positive feelings, and then energize your body to support it. Repeat with same or another phrase
+until you are at 100%.  If not, try using the other steps below to figure out how to improve it. No matter what's going
+on, care and encourage your body, emotion, attention, and mind (BEAM) to be their best with positive thoughts, undivided
+focus, good feelings, and tasty healthy food :yum:. With a strong BEAM, anything is possible.
 
-2. **Set intentions each day based on your vision, mission, and goals.** This provides the direction for what you want to do without expectation and lets you get there one step at a time. E.g. If the goal is to build a company, then an intention for today could be networking with other business owners.
+2. **Set intentions each day based on your vision, mission, and goals.** This provides the direction for what you want
+to do without expectation and lets you get there one step at a time. E.g. If the goal is to build a company, then an
+intention for today could be networking with other business owners.
 
-3. **Be mindful of the present with acceptance.** This allows you to fully take in, understand, and enjoy what's currently happening (i.e. moments of life) without judgement or expectations. This should be the default state unless you need to concentrate on something else.
+3. **Be mindful of the present with acceptance.** This lets you fully take in, understand, and enjoy what's currently
+happening (i.e. moments of life) without judgement or expectations.
 
-4. **Do the right thing.** This is the fastest way to get what you want as doing the wrong thing requires redo and some things can not be undone. Sometimes it's tempting to do the wrong things for a quick / short-term gain, but there are always consequences. In the long run, doing the right thing will give you everything that you want in the fastest way, so there is no need for shortcuts. 
+4. **Do the right thing.** This is the fastest way to get what you want as doing the wrong thing requires redo and some
+things can not be undone. Sometimes it's tempting to do the wrong things for a quick / short-term gain, but there are
+always consequences. In the long run, doing the right thing will give you everything that you want in the fastest way,
+so there is no need for shortcuts.
 
-5. **Be rock solid.** This is the safest way to get what you want as there are many challenges and bad actors that will block you so it's important to believe in yourself, stand firmly behind your ideas and beliefs, and never waver -- like a rock. 
+5. **Be rock solid.** This is the safest way to get what you want as there are many challenges and bad actors that will
+block you so it's important to believe in yourself, stand firmly behind your ideas and beliefs, and never waver --
+like a rock.
 
-There is a balance between the last two. Doing the right thing without being rock solid will result in a breakdown as everything will become too heavy and eventually crumble. Being rock solid without doing the right thing is obviously wrong and you probably won't get what you want. And there is no need to do the right thing all the time as long as you are willing to accept the consequences. E.g. I know instant ramen is bad for me, but it tastes so good that I am willing to accept the risks from occasional indulgence. :yum:
+There is a balance between the last two. Doing the right thing without being rock solid will result in a breakdown as
+everything will become too heavy and eventually crumble. Being rock solid without doing the right thing is obviously
+wrong and you probably won't get what you want. And there is no need to do the right thing all the time as long as you
+are willing to accept the consequences. E.g. I know instant ramen is bad for me, but it tastes so good that I am willing
+to accept the risks from occasional indulgence. :yum:
 
-A short name for the steps is Master Check (MC). Another good acronym is AC for accept the consequences. So, do master check or accept the consequences (MC or AC).
+A short name for the steps is Master Check (MC). Another good acronym is AC for accept the consequences.
+So, do master check or accept the consequences (MC or AC).
 
-For kids, the first two steps are a bit harder to grasp, so set it for them. I.e. Tell them they can do anything they put their minds to and have fun while doing it.
+For kids, the first two steps are a bit harder to grasp, so set it for them. I.e. Tell them they can do anything they
+put their minds to and have fun while doing it.
 
 Essential Skills
 ================
 
-Skills enable you to realize your vision, mission, and goals. Everything that you do is a skill. A skill can be improved with training. Some skills are more useful than others and the most useful ones are essential to master.
+:sweat_smile: There are a lot of content from this point listed like references, hence a bit dry,
+              so likely I will rewrite them into an interesting story later that's more fun to read.
 
-It's not enough to train the body or mind, but both are required to get optimal performance as they interdepend on each other. Training is not easy and doesn't necessarily feel good, so **perseverance is required** and is what differentiates those that can master the skill and those that don't. Everything becomes easier and better as training progresses and momentum picks up.
+Skills enable you to realize your vision, mission, and goals. Everything that you do is a skill. A skill can be improved
+with training. Some skills are more useful than others and the most useful ones are essential to master.
 
-The saying "if you don't use it, you will loose it" applies to both body and mind. Due to cell aging as you get older, it becomes important to train more and consistently.
+It's not enough to train subset of BEAM (body, emotion, attention, mind), but all are required to get optimal
+performance as they interdepend on each other. Training is not easy and doesn't necessarily feel good,
+so **perseverance is required** and is what differentiates those that can master the skill and those that don't.
+Everything becomes easier and feels better as training progresses and momentum picks up.
+
+The saying "If you don't use it, you will loose it" applies to both body and mind. Due to cell aging as you get older,
+it becomes important to train more and consistently.
 
 Acceptance
 ----------
