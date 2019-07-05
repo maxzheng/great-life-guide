@@ -1,17 +1,15 @@
 A Great Life Guide
 ==================
 
-This guide will help you to have a great life that is simple, happy, healthy, fruitful, and meaningful.
+<img align="right" src="happiness.jpg" width="320px">
 
-<img align="right" src="happiness.jpg" width="458px">
+This guide will help you to have a great life that is simple, happy, healthy, fruitful, and meaningful.
 
 To be the greatest you, just follow these 5 simple steps consistently:
 
 1. **One thing at a time.** There are so many things going on in life, and so life seems complicated and gets out of
-   hand unless you put a limit on it. While there are so many things that need to be done or think about, at any moment,
-   we really can do or think about one thing at a time. And if you do just that, life becomes simple again, and you get
-   things done faster with higher quality. Doing many things at the same time, while it might seem to be faster, but
-   it's actually not.
+   hand unless you put a limit on it. At any moment, we really can do or think about one thing at a time. If you do
+   just that, life becomes simple again, and you get things done faster with higher quality.
 
 2. **Be mindful with acceptance.** This lets you fully take in, understand, and enjoy what's currently happening (i.e.
    moments of life) without judgement or expectations. You are completely relaxed, focused, and nothing from the outside
