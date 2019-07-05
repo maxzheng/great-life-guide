@@ -1,7 +1,7 @@
 A Great Life Guide
 ==================
 
-<img align="right" src="happiness.jpg" width="320px">
+<img align="right" src="happiness.jpg" width="350px">
 
 This guide will help you to have a great life that is simple, happy, healthy, fruitful, and meaningful.
 
@@ -9,7 +9,7 @@ To be the greatest you, just follow these 5 simple steps consistently:
 
 1. **One thing at a time.** There are so many things going on in life, and so life seems complicated and gets out of
    hand unless you put a limit on it. At any moment, we really can do or think about one thing at a time. If you do
-   just that, life becomes simple again, and you get things done faster with higher quality.
+   just that, life becomes simple, and you get things done faster with higher quality.
 
 2. **Be mindful with acceptance.** This lets you fully take in, understand, and enjoy what's currently happening (i.e.
    moments of life) without judgement or expectations. You are completely relaxed, focused, and nothing from the outside
@@ -17,9 +17,9 @@ To be the greatest you, just follow these 5 simple steps consistently:
    you need or want.
 
 3. **Energize your BEAM (body, emotion, attention, mind).** This is the raw energy that enables you to do everything
-   at peak performance consistently. Exerise consistently to build up a strong body, focus on positive emotions to be
-   happy, meditate to master your attention, use your brain often to push the boundary of your mind, and finally
-   don't forget to rest well to rejuvenate.
+   at peak performance consistently. Exerise consistently to build up energy in your body, focus on positive emotions to
+   be happy, meditate to master your attention, learn and use your brain often to push the boundary of your mind, and
+   finally don't forget to rest well to rejuvenate so you won't be tired.
 
 4. **Aim at your goal.** This provides the direction for what you want to do so you don't wander around aimlessly going
    nowhere. There can be many goals, but aim at only one for a period of time to make good progress towards it.
