@@ -17,9 +17,9 @@ To be the greatest you, just follow these 5 simple steps consistently:
    you need or want.
 
 3. **Energize your BEAM (body, emotion, attention, mind).** This is the raw energy that enables you to do everything
-   at peak performance consistently. Exerise consistently to build up energy in your body, focus on positive emotions to
-   be happy, meditate to master your attention, learn and use your brain often to push the boundary of your mind, and
-   finally don't forget to rest well to rejuvenate so you won't be tired.
+   at peak performance consistently. Exercise consistently to build up energy in your body, focus on positive emotions
+   and enjoy every momemnt to be happy, meditate to master your attention, learn and use your brain often to push the
+   boundary of your mind, and finally don't forget to rest well to rejuvenate so you won't be tired.
 
 4. **Aim at your goal.** This provides the direction for what you want to do so you don't wander around aimlessly going
    nowhere. There can be many goals, but aim at only one for a period of time to make good progress towards it.
