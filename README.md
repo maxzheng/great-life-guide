@@ -12,13 +12,14 @@ To be the greatest you, follow these 5 simple steps consistently:
    just that, life becomes simple, and you get things done faster with higher quality.
 
 2. **Be mindful with acceptance.** This lets you fully take in, understand, and enjoy what's currently happening
-   (i.e. moments of life) without judgement or expectations. You are completely relaxed, focused, happy, and nothing from the
-   outside can disturb you -- no matter what others say or do to you. Your life is perfect at this moment.
+   (i.e. moments of life) without judgement or expectations. Meditate by focusing on your breath or positive thoughts
+   and emotions, and let go of negative ones and everything else. Now you are completely relaxed, focused, happy, and
+   nothing from the outside can disturb you -- no matter what others say or do to you. Your life is perfect at this moment.
 
 3. **Energize your body, passion, and mind.** This is the raw energy that enables you to do everything
-   at peak performance consistently. Exercise regularly to build up energy in your body, focus on positive emotions and
-   be your true self to let your passion flow freely and wildly, always keep learning and thinking to push the boundary
-   of your mind, and finally don't forget to rest well to rejuvenate. Keep that heart pumping fast and be passionate!
+   at peak performance consistently. Exercise regularly to build up energy in your body, do what you love and be your
+   true self to let your passion flow freely and wildly, always keep learning and thinking to push the boundary
+   of your mind, and finally don't forget to rest well to rejuvenate. Keep your heart pumping fast and live passionately!
    :heart:
 
 4. **Aim at your goal.** This provides the direction for what you want to do so you don't wander around aimlessly going
@@ -29,7 +30,7 @@ To be the greatest you, follow these 5 simple steps consistently:
    requires redo and some things can not be undone. Sometimes it's tempting to do the wrong things for a quick /
    short-term gain, but there are always consequences. In the long run, doing the right thing will give you everything
    that you want in the fastest way, so there is no need for shortcuts. Once you know the right thing to do, it is
-   equally important to do it in the right way as well. When you do the right things, life becomes meaningful.
+   equally important to do it in the right way as well. The right things to do are meaningful.
 
 An easy way to remember the steps is using the acronym **1 BEAD** from the first word/letter of each step. Each step
 must be done successfully in order so the next step is easier to do. A short name for the steps is master check (MC).
