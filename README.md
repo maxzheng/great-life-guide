@@ -37,6 +37,6 @@ To be the greatest you, follow these 5 simple steps consistently:
 An easy way to remember the steps is using the acronym **1 BEAD** from the first word/letter of each step. Each step
 must be done successfully in order so the next step is easier to do. It takes time to master each step, but the results
 are immediate and increasingly substantial. A good way to enforce it is by giving timeouts to reflect when a step is
-not done, especially for kids. When all steps are followed, you will have a great life!
+not done, especially for kids. When all steps are followed, you will have a great life! :smile:
 
 *The latest published version is available at http://agreatlife.guide for easy sharing and liking.*
