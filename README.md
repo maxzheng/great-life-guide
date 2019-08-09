@@ -16,11 +16,11 @@ To be the greatest you, follow these 5 simple steps consistently:
    and emotions, and let go of negative ones and everything else. Then you are completely relaxed, focused, happy, and
    nothing from the outside can disturb you -- no matter what others say or do to you. Your life is perfect at this moment.
 
-3. **Energize your body, passion, and mind.** This is the raw energy that enables you to do everything
-   at peak performance consistently. Exercise regularly to build up energy in your body, do what you love and be your
-   true self to let your passion flow freely and wildly, always keep learning and thinking to push the boundary
-   of your mind, and finally don't forget to rest well to rejuvenate. Keep your heart pumping fast and live passionately!
-   :heart:
+3. **Energize your body, passion, and mind.** This is the raw energy that enables you to do everything at peak
+   performance consistently. Exercise regularly to build up energy in your body. Do what you love, enjoy everything that
+   you do, and be your true self to let your passion flow freely and wildly. Always keep learning and thinking to push
+   the boundary of your mind, and finally don't forget to rest well to rejuvenate. Keep your heart pumping fast and live
+   passionately! :heart:
 
 4. **Aim for your goal.** This provides the direction for what you want to do so you don't wander around aimlessly going
    nowhere. There can be many goals, but aim at only one for a period of time to make good progress, then your life is
