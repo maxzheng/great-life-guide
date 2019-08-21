@@ -9,7 +9,8 @@ To be the greatest you, follow these 5 simple steps consistently:
 
 1. **One thing at a time.** There are so many things going on in life, and so life seems complicated and gets out of
    hand unless you put a limit on it. At any moment, we really can do or think about one thing at a time. If you do
-   just that, life becomes simple, and you get things done faster with higher quality.
+   just that, life becomes simple, and you get things done faster with higher quality. To ensure that you get the
+   greatest return on your time, be sure to prioritize them based on right values.
 
 2. **Be mindful with acceptance.** This lets you fully take in, understand, and enjoy what's currently happening
    (i.e. moments of life) without judgement or expectations. Meditate by focusing on your breath or positive thoughts
