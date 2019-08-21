@@ -1,7 +1,7 @@
 A Great Life Guide
 ==================
 
-This will help you to have a great life that is simple, happy, passionate, fruitful, and meaningful.
+Congrats on starting a great life that is simple, peaceful, passionate, fruitful, meaningful, and happy!
 
 <img align="right" src="happiness.jpg" width="350px">
 
@@ -13,22 +13,22 @@ To be the greatest you, follow these 5 simple steps consistently:
 
 2. **Be mindful with acceptance.** This lets you fully take in, understand, and enjoy what's currently happening
    (i.e. moments of life) without judgement or expectations. Meditate by focusing on your breath or positive thoughts
-   and emotions, and let go of negative ones and everything else. Then you are completely relaxed, focused, happy, and
-   nothing from the outside can disturb you -- no matter what others say or do to you. Your life is perfect at this moment.
+   and emotions, and learn and let go of negative ones and everything else. Then you are completely relaxed, focused,
+   peaceful, and nothing from the outside can disturb you -- no matter what others say or do to you. Happiness starts.
 
-3. **Energize your body, passion, and mind.** This is the raw energy that enables you to do everything at peak
+3. **Energize your body, passion, and mind.** They are the raw energies that enable you to do everything at peak
    performance consistently. Exercise regularly to build up energy in your body. Do what you love, enjoy everything that
    you do, and be your true self to let your passion flow freely and wildly. Always keep learning and thinking to push
-   the boundary of your mind, and finally don't forget to rest well to rejuvenate. Keep your heart pumping fast and live
+   the boundary of your mind. Finally don't forget to rest well to rejuvenate. Keep your heart pumping fast and live
    passionately! :heart:
 
-4. **Aim for your goal.** This provides the direction for what you want to do so you don't wander around aimlessly going
+4. **Aim for your goal.** It provides the direction for what you want to do so you don't wander around aimlessly going
    nowhere. There can be many goals, but aim at only one for a period of time to make good progress, then your life is
-   fruitful. Set a goal for each day (e.g. For today, my goal is to relax and have fun!). As there are many goals, to
+   fruitful. Set a goal for each day (e.g., today's goal is to relax and have fun). As there are many goals, to
    make sure you get everything you want out of life, you should set at least one life goal -- the big things that you
    want to do with your life.
 
-5. **Do the right thing in the right way.** This is the fastest way to get what you want as doing the wrong thing
+5. **Do the right thing in the right way.** That is the fastest way to get what you want as doing the wrong thing
    requires redo and some things can not be undone. Sometimes it's tempting to do the wrong things for a quick /
    short-term gain, but there are always consequences. In the long run, doing the right thing wins as it builds momentum
    from previous accomplishments, so there is no need for shortcuts. Once you know the right thing to do, it is
