@@ -10,12 +10,13 @@ To be the greatest you, follow these 5 simple steps consistently:
 1. **One thing at a time.** There are so many things going on in life, and so life seems complicated and gets out of
    hand unless you put a limit on it. At any moment, we really can do or think about one thing at a time. If you do
    just that, life becomes simple, and you get things done faster with higher quality. To ensure that you get the
-   greatest return on your time, be sure to prioritize them based on right values.
+   greatest return on your time, be sure to prioritize them based on the right values.
 
 2. **Be mindful with acceptance.** This lets you fully take in, understand, and enjoy what's currently happening
    (i.e. moments of life) without judgement or expectations. Meditate by focusing on your breath or positive thoughts
-   and emotions, and learn and let go of negative ones and everything else. Then you are completely relaxed, focused,
-   peaceful, and nothing from the outside can disturb you -- no matter what others say or do to you. Happiness starts.
+   and emotions -- learn from and let go of negative ones and everything else. Then you are completely relaxed, focused,
+   peaceful, and nothing from the outside can disturb you -- no matter what others say or do to you. Happiness starts
+   from here.
 
 3. **Energize your body, passion, and mind.** They are the raw energies that enable you to do everything at peak
    performance consistently. Exercise regularly to build up energy in your body. Do what you love, enjoy everything that
