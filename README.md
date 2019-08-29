@@ -7,7 +7,7 @@ Congrats on starting a great life that is simple, peaceful, passionate, fruitful
 
 To be the greatest you, follow these 5 simple steps consistently:
 
-1. **One thing at 100%** There are many things going on in life, and so life seems complicated, but we really can do or
+1. **One thing at 100%.** There are many things going on in life, and so life seems complicated, but we really can do or
    think about one thing at a time. If we do just that, life becomes simple, and things actually get done faster with
    higher quality. To get the highest return on your time, prioritize things based on the values that are important to
    you. Whatever you do, do it with everything that you got at 100% and don't let anything hold you back, so you grow
