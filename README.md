@@ -38,7 +38,7 @@ To be the greatest you, follow these 5 simple steps consistently:
 Easily remember the steps using the acronym **1 BEAD** from the first word/letter of each step. Each step must be done
 successfully in order so the next step is easier to do. It takes time to master each step, but the results are immediate
 and increasingly substantial. When things are not going as expected, take a timeout to rest and reflect using the steps.
-Mastery is achieved when all steps are followed consistently/naturally for everything that you do and is done with
-**100%** of your energies. And voilà, a great life! :smile:
+Mastery is achieved when all steps are followed consistently and naturally for everything that you do and are done
+using **100%** of your energies with at least 1% for being mindful always. And voilà, a great life! :smile:
 
 *The latest published version is available at http://agreatlife.guide for easy sharing and liking.*
