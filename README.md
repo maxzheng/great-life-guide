@@ -33,7 +33,8 @@ To be the greatest you, follow these 5 simple steps consistently:
    requires redo and some things can not be undone. Sometimes it's tempting to do the wrong things for a quick /
    short-term gain, but there are always consequences. In the long run, doing the right thing wins as it builds momentum
    from previous accomplishments. The right things to do are meaningful. It is equally important to do things in the
-   right way with everything that you got and don't let anything hold you back, so you get the most out of time.
+   right way with everything that you got and don't let anything hold you back, so you get the most out of time. Always
+   understand why you do something before how.
 
 Easily remember the steps using the acronym **1 BEAD** from the first word/letter of each step. Each step must be done
 successfully in order so the next step is easier to do. It takes time to master each step, but the results are immediate
