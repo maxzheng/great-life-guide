@@ -1,45 +1,40 @@
 A Great Life Guide
 ==================
 
-Congrats on starting a great life that is simple, peaceful, passionate, fruitful, meaningful, and happy!
+A life is great when you are able to fully understand, do, and enjoy everything that life has to offer. This guide
+provides the wisdom to achieve that in a sustainable way, so everyone can be great every day.
 
 <img align="right" src="happiness.jpg" width="350px">
 
-To be the greatest you, follow these 5 simple steps consistently:
+To be great, it's as easy as 1-2-3:
 
-1. **One thing at a time.** There are many things going on in life, and so life seems complicated, but realistically,
-   we can do or think about one thing at a time. If we do just that, life becomes simple, and things actually get
-   done faster with higher quality.
+1. **Understand**. Everything starts by fully understanding what's going on. Without that, you are just randomly doing
+   stuff hoping to get lucky -- that's not reliable. The world is complicated and may appear to be hard to understand,
+   but our brain is powerful, so keep trying and everything will become easy over time. No need for shortcuts -- like
+   fabricating stories, taking super pills, etc. Take the time to think, read, see, talk, learn, smell, lick, or however
+   you like to understand what's around you. Meditation can help. No matter how you do it, truly understand everything
+   as-is and accept it without sugarcoating or prejudice -- only then you are fully enabled to do what you desire and
+   enjoy life.
 
-2. **Be mindful with acceptance.** This lets you fully take in, understand, and enjoy what's currently happening
-   (i.e. moments of life) without judgement or expectations. Meditate to train mindfulness by focusing on your breath or
-   positive thoughts and emotions -- learn from and let go of negative ones and everything else. With everything that
-   that you do, be focused while being aware of the surrounding. Then you are peaceful, and nothing from the outside
-   can disturb you -- no matter what others say or do to you. Happiness starts from here.
+2. **Do**. Once you understand, then you should do something as nothing happens otherwise. Do you want to be a rock, a
+   catepillar, a dog, or a human that can do great things? Since you are lucky to be born as a human, you can do great
+   things, so don't waste it by doing frivolous things -- just remember, most things don't matter after you die.
+   Sometimes, laziness does get in the way, and some things are not that enjoyable to do. Who wants to do house chores
+   every day? Not me. But someone has to do it, so it's important to be able to command yourself to do what you want to
+   do.  Don't let your body or mind tell you what to do! Whatever you need to do, get it done. Be sure to do so in a
+   smart way though as there are many ways to solve a problem. Sometimes, doing less actually means more results. Doing
+   one thing at a time actually means faster with higher quality. Being mindful to be well-rested means increased
+   creativity and productivity. Do the right things in the right way, otherwise you may need to redo and sometimes it's
+   not possible to undo. Figure out and do minimal effort to archieve maximum output. That's how you create time itself!
 
-3. **Energize your body, passion, and mind.** Those are the raw energies that enable you to do everything at peak
-   performance. Exercise regularly to build up energy in your body. Do what you love, enjoy everything that
-   you do, and be your true self to let your passion flow freely and wildly. Always keep learning and thinking to push
-   the boundary of your mind. Finally don't forget to rest well to rejuvenate. Keep your heart pumping fast and live
-   passionately! :heart:
+3. **Enjoy**. No matter what you do, if you don't enjoy it, it won't be sustaininable and you won't do the best job. So
+   do have fun and always enjoy what you do. It could take a bit of time to ramp up or need a few tweaks along the way,
+   but it is definitely possible to enjoy doing anything -- the human mind is amazingly adaptable. If you really can't
+   enjoy something after awhile, then go do something else that you can enjoy easier. There are so many things to do and
+   enjoy, there is no need to be stuck with one. Lastly, it's important that everyone around you also enjoy what you do,
+   otherwise it might not be sustaininable. Focus on the positive things and learn from/let go of the negative ones.
+   Enjoy everything in life -- the big and little moments. Let your passion guide your way to happiness. :heart:
 
-4. **Aim at your target.** There must be a target (e.g. task, goal, mission) at any time as it provides the direction
-   for what you want to do so you don't wander around aimlessly. There can be many targets, but aim at only one for a
-   period of time to make good progress, then your life is fruitful. Set a goal for each day (e.g., today's goal is to
-   relax and have fun). As there are many targets, you should set at least one life goal -- the big things that you want
-   to do with your life. Prioritize the targets based on important values to get the highest return on your time.
-
-5. **Do the right thing in the right way.** That is the fastest way to get everything you want as doing the wrong thing
-   requires redo and some things can not be undone. Sometimes it's tempting to do the wrong things for a quick /
-   short-term gain, but there are always consequences. In the long run, doing the right thing wins as it builds momentum
-   from previous accomplishments. The right things to do are meaningful. It is equally important to do things in the
-   right way with everything that you got and don't let anything hold you back, so you get the most out of time. Always
-   understand why you do something before how.
-
-Easily remember the steps using the acronym **1 BEAD** from the first word/letter of each step. Each step must be done
-successfully in order so the next step is easier to do. It takes time to master each step, but the results are immediate
-and increasingly substantial. When things are not going as expected, take a timeout to rest and reflect using the steps.
-Mastery is achieved when all steps are followed consistently and naturally for everything that you do and are done
-using **100%** of your energies with at least 1% for being mindful always. And voilà, a great life! :smile:
+Do them with everything you do and your life will be great. Encourage others to do the same and everyone will too! :grin:
 
 *The latest published version is available at http://agreatlife.guide for easy sharing and liking.*
