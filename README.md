@@ -17,7 +17,7 @@ To be great, it's as easy as 1-2-3:
    enjoy life.
 
 2. **Do**. Once you understand, then you should do something as nothing happens otherwise. Do you want to be a rock, a
-   catepillar, a dog, or a human that can do great things? Since you are lucky to be born as a human, you can do great
+   caterpillar, a dog, or a human that can do great things? Since you are lucky to be born as a human, you can do great
    things, so don't waste it by doing frivolous things -- just remember, most things don't matter after you die.
    Sometimes, laziness does get in the way, and some things are not that enjoyable to do. Who wants to do house chores
    every day? Not me. But someone has to do it, so it's important to be able to command yourself to do what you want to
@@ -25,14 +25,14 @@ To be great, it's as easy as 1-2-3:
    smart way though as there are many ways to solve a problem. Sometimes, doing less actually means more results. Doing
    one thing at a time actually means faster with higher quality. Being mindful to be well-rested means increased
    creativity and productivity. Do the right things in the right way, otherwise you may need to redo and sometimes it's
-   not possible to undo. Figure out and do minimal effort to archieve maximum output. That's how you create time itself!
+   not possible to undo. Figure out and do minimal effort to achieve maximum output. That's how you create time itself!
 
-3. **Enjoy**. No matter what you do, if you don't enjoy it, it won't be sustaininable and you won't do the best job. So
+3. **Enjoy**. No matter what you do, if you don't enjoy it, it won't be sustainable and you won't do the best job. So
    do have fun and always enjoy what you do. It could take a bit of time to ramp up or need a few tweaks along the way,
    but it is definitely possible to enjoy doing anything -- the human mind is amazingly adaptable. If you really can't
    enjoy something after awhile, then go do something else that you can enjoy easier. There are so many things to do and
    enjoy, there is no need to be stuck with one. Lastly, it's important that everyone around you also enjoy what you do,
-   otherwise it might not be sustaininable. Focus on the positive things and learn from/let go of the negative ones.
+   otherwise it might not be sustainable. Focus on the positive things and learn from/let go of the negative ones.
    Enjoy everything in life -- the big and little moments. Let your passion guide your way to happiness. :heart:
 
 Do them with everything you do and your life will be great. Encourage others to do the same and everyone will too! :grin:
