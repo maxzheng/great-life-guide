@@ -33,6 +33,6 @@ To be great, it's as easy as 1-2-3:
    otherwise it might not be sustainable. Focus on the positive things and learn from/let go of the negative ones.
    Enjoy everything in life -- the big and little moments. Let your passion guide your way to happiness. :heart:
 
-Do them with everything you do and your life will be great. Encourage others to do the same and everyone will too! :grin:
+<p align="center"><b>Nothing matters in eternal time, but everything does right now.</b></p>
 
 *The latest published version is available at http://agreatlife.guide for easy sharing and liking.*
