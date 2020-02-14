@@ -1,7 +1,7 @@
 A Great Life Guide
 ==================
 
-A life is great when you are able to fully understand, do, and enjoy everything that life has to offer. This provides
+Life is great when you are able to fully understand, do, and enjoy everything that it has to offer. This provides
 the steps to achieve that in a sustainable way, so everyone can be great every day.
 
 To be great, do these consistently:
