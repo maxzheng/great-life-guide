@@ -1,11 +1,10 @@
 A Great Life Guide
 ==================
 
-Congrats on starting a great life that is simple, peaceful, passionate, fruitful, meaningful, and happy!
+A life is great when you are able to fully understand, do, and enjoy everything that life has to offer. This provides
+the steps to achieve that in a sustainable way, so everyone can be great every day.
 
-<img align="right" src="happiness.jpg" width="350px">
-
-To be the greatest you, follow these 5 simple steps consistently:
+To be great, do these consistently:
 
 1. **One thing at a time.** There are many things going on in life, and so life seems complicated, but realistically,
    we can do or think about one thing at a time. If we do just that, life becomes simple, and things actually get
@@ -40,6 +39,6 @@ Easily remember the steps using the acronym **1 BEAD** from the first word/lette
 successfully in order so the next step is easier to do. It takes time to master each step, but the results are immediate
 and increasingly substantial. When things are not going as expected, take a timeout to rest and reflect using the steps.
 Mastery is achieved when all steps are followed consistently and naturally for everything that you do and are done
-using **100%** of your energies with at least 1% for being mindful always. And voilà, a great life! :smile:
+using **100%** of your energies. And voilà, a great life! :smile:
 
 *The latest published version is available at http://agreatlife.guide for easy sharing and liking.*
