@@ -4,6 +4,8 @@ A Great Life Guide
 A life is great when you are able to fully understand, do, and enjoy everything that life has to offer. This guide
 provides the wisdom to achieve that in a sustainable way, so everyone can be great every day.
 
+<img align="right" src="happiness.jpg" width="350px">
+
 To be great, it's as easy as 1-2-3:
 
 1. **Understand**. Everything starts by fully understanding what's going on. Without that, you are just randomly doing
