@@ -7,21 +7,21 @@ the steps to achieve that in a sustainable way, so everyone can be happy and do 
 To be happy:
 
 1. **Let go of any negativity** as they will rot the core of your body and mind. All the hate, anger, jealousy, stress,
-   anything that makes you feel unhappy must be let go. Relax your body, breath, and then just let them all go. You will
-   feel lighter and ready for the next step.
+   physical/mental pain, addiction, muscle tension, anything that makes you feel unhappy and unhealthy must be let go.
+   Relax your body, breath, and then just let them all go. You will feel lighter and ready to be happy.
 
 2. **Learn and do as much as you can** so you have the knowledge and tools necessary to achieve your goals. Knowledge is
    power, but knowing is only half of the story, doing it completes and realizes it. Don't procrastinate / be lazy,
    but persevere. Imagination is powerful, but if you only live in the perfect imaginary world, your body and everything
-   around you will be malnourished and crumble. This builds the frame of your body and mind so they are ready to be
-   filled with the goodness of life.
+   around you will be malnourished and crumble. The more you learn and do, the stronger the frame of your body and mind
+   will be, so they can win against the toughest obstacles and be ready to enjoy everything that life has to offer.
 
 3. **Love everything and everyone that is positive.** When you love something, you will take better care of it, learning
-   becomes easy, and you want to enjoy every moment. It feels great to be in love, be loved, and love others. If you
-   want others to listen to and be with you, you must love them and earn their love as people won't engage with others
-   that they don't like. Don't just say it, but show it. And don't just show it, but say it as it's easy to
-   misunderstand. To the people that you love, tell them "I love you" every day and show them by hugging them, playing
-   with them, making them smile and laugh, and taking care of them. :heart:
+   becomes easy, and you want to enjoy every moment. It amplifies everything you do by multitudes. It feels great to be
+   in love, be loved, and to love others. If you want others to listen and be better, you must love them and earn
+   their love as people won't engage with others that they don't like -- no matter if you have good intentions. To the
+   people that you love, express to them every day by saying "I love you", hugging, kissing, playing with them, making
+   them laugh, or simply taking care of them. :heart:
 
 To do great things:
 
@@ -33,7 +33,7 @@ To do great things:
    (i.e. moments of life) without judgement or expectations. Meditate to train mindfulness by focusing on your breath or
    positive thoughts and emotions -- learn from and let go of negative ones and everything else. With everything that
    that you do, be focused while being aware of the surrounding. Then you are peaceful, and nothing from the outside
-   can disturb you -- no matter what others say or do to you. Happiness starts from here.
+   can disturb you -- no matter what others say or do to you.
 
 3. **Energize your body, passion, and mind.** Those are the raw energies that enable you to do everything at peak
    performance. Exercise regularly to build up energy in your body. Do what you love, enjoy everything that
