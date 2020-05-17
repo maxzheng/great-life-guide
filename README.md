@@ -12,9 +12,8 @@ To be happy, just do what kids do best:
 
 2. **Enjoy the present.** Too often we get stuck thinking about the past or the future, and forget about the present,
    which is where happiness can be found. As the old saying goes, you are what you eat, and so you are what you do.
-   If you want to be happy, well, do things that make you happy: play and have fun, eat yummy food, go shopping,
-   watch your favorite shows, exercise your body and mind, build new things, complete cool projects at work, do nothing,
-   love your family and friends, etc. Whatever you do, simply be present and enjoy it.
+   If you want to be happy, well, do things that make you happy: play with friends, eat yummy food, go shopping,
+   build cool things, do nothing, love your family and friends, etc. Whatever you do, simply be present and enjoy it.
 
 To do great things:
 
@@ -27,7 +26,7 @@ To do great things:
    of negative ones. With everything that that you do, be focused while being aware of the surrounding.
    Then you are peaceful, and nothing from the outside can disturb you -- no matter what others say or do to you.
 
-3. **Energize your body, passion, and mind** to perform at peak performance. Exercise regularly to build your body.
+3. **Energize your body, passion, and mind** to perform at the peak. Exercise regularly to build your body.
    Do what you love, enjoy everything that you do, and be your true self to let your passion flow freely and wildly.
    Always keep learning and thinking to push the boundary of your mind. Finally don't forget to rest well to rejuvenate.
    Love everything and everyone as much as you can as it amplifies results in multitudes and just feels great. :heart:
