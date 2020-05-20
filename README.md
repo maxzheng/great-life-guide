@@ -15,6 +15,13 @@ To be happy, just do what kids do best:
    If you want to be happy, well, do things that make you happy: play with friends, eat yummy food, go shopping,
    build cool things, do nothing, love your family and friends, etc. Whatever you do, simply be present and enjoy it.
 
+3. **Driven by needs, senses, emotions, desires, imaginations, and bonds.** Kids are always doing something interesting.
+   It starts with their basic human needs, like hunger. Then they explore the physical world meticulously with their
+   senses. No matter what happens, they let their emotions flow freely. Once they are settled, they start to satisfy
+   their desires (e.g. eating candy). They let their imagination run wild. Finally, their love for family, friends, and
+   things are pure, sincere, and overflowing. :heart: To be happy indefinitely requires more just doing something fun,
+   we have to be driven freely and wildly like when we were young.
+
 To do great things:
 
 1. **One thing at a time.** There are many things going on in life, and so life seems complicated, but realistically,
@@ -26,10 +33,9 @@ To do great things:
    of negative ones. With everything that that you do, be focused while being aware of the surrounding.
    Then you are peaceful, and nothing from the outside can disturb you -- no matter what others say or do to you.
 
-3. **Energize your body, passion, and mind** to perform at the peak. Exercise regularly to build your body.
-   Do what you love, enjoy everything that you do, and be your true self to let your passion flow freely and wildly.
-   Always keep learning and thinking to push the boundary of your mind. Finally don't forget to rest well to rejuvenate.
-   Love everything and everyone as much as you can as it amplifies results in multitudes and just feels great. :heart:
+3. **Energize your body, passion, and mind** to perform at the peak. Exercise regularly to build your body.  Do what
+   you love and be your true self to let your passion flow. Passion amplifies results in multitudes. Always keep
+   learning and thinking to push the boundary of your mind. Finally don't forget to rest well to rejuvenate.
 
 4. **Aim at your target.** There must be a target (e.g. task, goal, mission) at any time as it provides the direction
    for what you want to do so you don't wander around aimlessly. There can be many targets, but focus at only one for a
