@@ -7,52 +7,53 @@ the steps to achieve that in a sustainable way, so everyone can be happy and do 
 To be happy, just do what kids do best:
 
 1. **Let go of any negativity** as they will rot the core of your body and mind. All the hate, anger, jealousy, stress,
-   physical/mental pain, addiction, muscle tension, anything that makes you feel unhappy and unhealthy must be let go.
+   depression, addiction, argument, yelling, and anything that makes you feel unhappy and unhealthy must be let go.
    Relax your body, breath, and then just let them all go. You will feel lighter and ready to be happy.
 
 2. **Enjoy the present.** Too often we get stuck thinking about the past or the future, and forget about the present,
-   which is where happiness can be found. As the old saying goes, you are what you eat, and so you are what you do.
+   which is where happiness can be found. Like the old saying "you are what you eat", so you feel what you do.
    If you want to be happy, well, do things that make you happy: play with friends, eat yummy food, go shopping,
    build cool things, do nothing, love your family and friends, etc. Whatever you do, simply be present and enjoy it.
 
 3. **Driven by needs, senses, emotions, desires, imaginations, and bonds.** Kids are always doing something interesting.
+   To be happy indefinitely requires more just doing something fun, we have to be driven freely and wildly like them.
    It starts with their basic human needs, like hunger. Then they explore the physical world meticulously with their
    senses. No matter what happens, they let their emotions flow freely. Once they are settled, they start to satisfy
-   their desires (e.g. eating candy). They let their imagination run wild. Finally, their love for family, friends, and
-   things are pure, sincere, and overflowing. :heart: To be happy indefinitely requires more just doing something fun,
-   we have to be driven freely and wildly like when we were young.
+   their desires (e.g. eating candy, play with their toys) and let their imagination run wild. Finally, their love for
+   family, friends, and things are pure, sincere, and overflowing. :heart:
 
 To do great things:
 
-1. **One thing at a time.** There are many things going on in life, and so life seems complicated, but realistically,
-   we can do or think about one thing at a time. If we do just that, life becomes simple, and things actually get
-   done faster with higher quality.
+1. **Be mindful with acceptance** to fully understand and be aware of what's going on without judgement or expectations.
+   Always be calm, and let go and learn from anything that disturbs it (e.g. consistently scan your body/mind for any
+   tension and loosen them). Stay focused while being aware of the surrounding (e.g. track your emotions and
+   understand/feel them but don't let them take over). No matter what others say or do to you, retain the calmness and
+   clarity to make decisions objectively.
 
-2. **Be mindful with acceptance** to fully take in, understand, and enjoy the present without judgement or expectations.
-   Meditate to train mindfulness by focusing on your breath or positive thoughts and emotions -- learn from and let go
-   of negative ones. With everything that that you do, be focused while being aware of the surrounding.
-   Then you are peaceful, and nothing from the outside can disturb you -- no matter what others say or do to you.
+2. **Energize your body, passion, and mind** to increase your potential. Exercise regularly to build your body. Do what
+   you love and be your true self to let your passion flow as it amplifies results in multitudes. Always keep
+   learning and thinking to push the boundary of your mind. Finally don't forget to take breaks often and rest well to
+   rejuvenate so everything can function at 100% at all times.
 
-3. **Energize your body, passion, and mind** to perform at the peak. Exercise regularly to build your body.  Do what
-   you love and be your true self to let your passion flow. Passion amplifies results in multitudes. Always keep
-   learning and thinking to push the boundary of your mind. Finally don't forget to rest well to rejuvenate.
+3. **Aim at one target at a time.** There must be a target (e.g. task, goal, mission) at any time as it provides the
+   direction for what you want to do so you don't wander around aimlessly. Prioritize targets based on value to get
+   the most out of limited time, and then focus at only one at a time to avoid overloading and context switching,
+   therefore increasing efficiency. If we do just that, everything becomes simple and actually gets done faster with
+   higher quality.
 
-4. **Aim at your target.** There must be a target (e.g. task, goal, mission) at any time as it provides the direction
-   for what you want to do so you don't wander around aimlessly. There can be many targets, but focus at only one for a
-   period of time to make good progress. Prioritize the targets based on value -- amount of benefit over time.
-
-5. **Do the right thing in the right way.** That is the fastest way to get everything you want as doing the wrong thing
-   requires redo and some things can not be undone. Sometimes it's tempting to do the wrong things for a quick /
+4. **Max out by doing the right thing in the right way.** That is the fastest way to get everything you want as doing
+   the wrong thing requires redo and some things can not be undone. Sometimes it's tempting to do the wrong things for a
    short-term gain, but there are always consequences. In the long run, doing the right thing wins as it builds momentum
    from previous accomplishments. It is equally important to do things in the right way with everything that you got and
    don't let anything hold you back. Always understand why you do something before how in order to do the best.
-   Knowledge is only half of the story; action completes it. Don't procrastinate / be lazy, but persevere and do as much
-   as you can.
+   Knowledge is only half of the story, action completes it, so don't be lazy, but persevere and do as much as you can.
+   Once you have maxed out, get a good night of sleep. And next day, magically you will become stronger and better with
+   higher capacity to do more than before!
 
-Easily remember the steps using the acronyms **LE 1 BEAD** from the first word/letter of each step. Each step
-must be done successfully in order so the next step is easier to do. It takes time to master each step, but the results
-are immediate and increasingly substantial. When things are not going as expected, take a timeout to rest and reflect
-using the steps. Mastery is achieved when all steps are followed consistently and naturally for everything that you do
-and are done at **100%**. And voilà, a great life! :smile:
+Easily remember the steps using the acronyms **LED BEAM** from the first letter of each step. With **LED**, you will be
+happy and shine brightly in all directions. Focus it to do great things using **BEAM**. Each step should be done
+successfully in order so the next step is easier to do. It takes time to master each step, but the results are immediate
+and increasingly substantial. When things are not going as expected, take a timeout to rest and reflect using the steps.
+Mastery is achieved when all steps are done naturally for everything that you do. And voilà, a great life! :smile:
 
 *The latest published version is available at http://agreatlife.guide for easy sharing and liking.*
