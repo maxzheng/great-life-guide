@@ -15,12 +15,11 @@ To be happy, just do what kids do best:
    If you want to be happy, well, do things that make you happy: play with friends, eat yummy food, go shopping,
    build cool things, do nothing, love your family and friends, etc. Whatever you do, simply be present and enjoy it.
 
-3. **Driven by needs, senses, emotions, desires, imaginations, and bonds.** Kids are always doing something interesting.
-   To be happy indefinitely requires more just doing something fun, we have to be driven freely and wildly like them.
+3. **Driven by human nature.** Kids are always doing something interesting.
    It starts with their basic human needs, like hunger. Then they explore the physical world meticulously with their
-   senses. No matter what happens, they let their emotions flow freely. Once they are settled, they start to satisfy
-   their desires (e.g. eating candy, play with their toys) and let their imagination run wild. Finally, their love for
-   family, friends, and things are pure, sincere, and overflowing. :heart:
+   senses. No matter the situation, they let their emotions flow freely. Once they are settled, they start to satisfy
+   their desires (e.g. eating candy, play with their toys) and let their curiosity and imagination run wild.
+   Finally, their love for family, friends, and things are pure, sincere, and overflowing. :heart:
 
 To do great things:
 
@@ -37,18 +36,17 @@ To do great things:
 
 3. **Aim at one target at a time.** There must be a target (e.g. task, goal, mission) at any time as it provides the
    direction for what you want to do so you don't wander around aimlessly. Prioritize targets based on value to get
-   the most out of limited time, and then focus at only one at a time to avoid overloading and context switching,
+   the most out of limited time, and then focus on only one at a time to avoid overloading and context switching,
    therefore increasing efficiency. If we do just that, everything becomes simple and actually gets done faster with
    higher quality.
 
-4. **Max out by doing the right thing in the right way.** That is the fastest way to get everything you want as doing
-   the wrong thing requires redo and some things can not be undone. Sometimes it's tempting to do the wrong things for a
-   short-term gain, but there are always consequences. In the long run, doing the right thing wins as it builds momentum
-   from previous accomplishments. It is equally important to do things in the right way with everything that you got and
-   don't let anything hold you back. Always understand why you do something before how in order to do the best.
-   Knowledge is only half of the story, action completes it, so don't be lazy, but persevere and do as much as you can.
-   Once you have maxed out, get a good night of sleep. And next day, magically you will become stronger and better with
-   higher capacity to do more than before!
+4. **Maximize your performance by doing the right thing in the right way.** That is the fastest way to get everything
+   done as doing the wrong thing requires redo and some things can not be undone. Sometimes it's tempting to do the
+   wrong things for a short-term gain, but there are always consequences. In the long run, doing the right thing wins
+   as it builds momentum from previous accomplishments. It is equally important to do things in the right way with
+   everything that you got and don't let anything hold you back. Always understand why you do something before how in
+   order to do your best. Knowledge is only half of the story, action completes it, so don't be lazy, but persevere and
+   do as much as you can.
 
 Easily remember the steps using the acronyms **LED BEAM** from the first letter of each step. With **LED**, you will be
 happy and shine brightly in all directions. Focus it to do great things using **BEAM**. Each step should be done
