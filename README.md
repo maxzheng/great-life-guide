@@ -21,7 +21,7 @@ To be happy, just do what kids do best:
    their desires (e.g. eating candy, play with their toys) and let their curiosity and imagination run wild.
    Finally, their love for family, friends, and things are pure, sincere, and overflowing. :heart:
 
-To do great things:
+To do anything you want:
 
 1. **Be mindful with acceptance** to fully understand and be aware of what's going on without judgement or expectations.
    Always be calm, and let go and learn from anything that disturbs it (e.g. consistently scan your body/mind for any
@@ -37,16 +37,14 @@ To do great things:
 3. **Aim at one target at a time.** There must be a target (e.g. task, goal, mission) at any time as it provides the
    direction for what you want to do so you don't wander around aimlessly. Prioritize targets based on value to get
    the most out of limited time, and then focus on only one at a time to avoid overloading and context switching,
-   therefore increasing efficiency. If we do just that, everything becomes simple and actually gets done faster with
-   higher quality.
+   therefore increasing efficiency. If we do just that, everything actually gets done faster with higher quality.
 
-4. **Maximize your performance by doing the right thing in the right way.** That is the fastest way to get everything
-   done as doing the wrong thing requires redo and some things can not be undone. Sometimes it's tempting to do the
-   wrong things for a short-term gain, but there are always consequences. In the long run, doing the right thing wins
-   as it builds momentum from previous accomplishments. It is equally important to do things in the right way with
-   everything that you got and don't let anything hold you back. Always understand why you do something before how in
-   order to do your best. Knowledge is only half of the story, action completes it, so don't be lazy, but persevere and
-   do as much as you can.
+4. **Maximize your performance in the right way.** The fastest way to get things done is by doing the right thing as
+   doing the wrong thing requires redo and some things can not be undone. Sometimes it's tempting to do the wrong thing
+   for a short-term gain, but there are always consequences. In the long run, doing the right thing wins as it builds
+   momentum from previous accomplishments. Always understand why you do something before how in order to do your best.
+   Once you know what to do, then do it with everything that you got and don't let anything hold you back.
+   Knowledge is only half of the story, action completes it, so don't be lazy, but do as much as you can and persevere.
 
 Easily remember the steps using the acronyms **LED BEAM** from the first letter of each step. With **LED**, you will be
 happy and shine brightly in all directions. Focus it to do great things using **BEAM**. Each step should be done
