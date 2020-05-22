@@ -6,19 +6,19 @@ the steps to achieve that in a sustainable way, so everyone can be happy and do 
 
 To be happy, just do what kids do best:
 
-1. **Let go of any negativity** as they will rot the core of your body and mind. All the hate, anger, jealousy, stress,
-   depression, addiction, argument, yelling, and anything that makes you feel unhappy and unhealthy must be let go.
-   Relax your body, breath, and then just let them all go. You will feel lighter and ready to be happy.
+1. **Let go of any negativity** as they will rot the core of your body and mind, such hate, anger, jealousy, stress,
+   addiction, sadness, and anything that makes you feel unhappy. Relax your body, breath, and then just let them all go.
+   You will feel lighter and ready to be happy.
 
 2. **Enjoy the present.** Too often we get stuck thinking about the past or the future, and forget about the present,
    which is where happiness can be found. Like the old saying "you are what you eat", so you feel what you do.
    If you want to be happy, well, do things that make you happy: play with friends, eat yummy food, go shopping,
    build cool things, do nothing, love your family and friends, etc. Whatever you do, simply be present and enjoy it.
 
-3. **Driven by human nature.** Kids are always doing something interesting.
+3. **Driven by human nature.** Kids are always doing something interesting becauase they are innately driven.
    It starts with their basic human needs, like hunger. Then they explore the physical world meticulously with their
    senses. No matter the situation, they let their emotions flow freely. Once they are settled, they start to satisfy
-   their desires (e.g. eating candy, play with their toys) and let their curiosity and imagination run wild.
+   their desires (e.g. eating candy, play with their toys, watch TV) and let their curiosity and imagination run wild.
    Finally, their love for family, friends, and things are pure, sincere, and overflowing. :heart:
 
 To do anything you want:
@@ -26,7 +26,7 @@ To do anything you want:
 1. **Be mindful with acceptance** to fully understand and be aware of what's going on without judgement or expectations.
    Always be calm, and let go and learn from anything that disturbs it (e.g. consistently scan your body/mind for any
    tension and loosen them). Stay focused while being aware of the surrounding (e.g. track your emotions and
-   understand/feel them but don't let them take over). No matter what others say or do to you, retain the calmness and
+   understand/enjoy them but don't let them take over). No matter what others say or do to you, retain the calmness and
    clarity to make decisions objectively.
 
 2. **Energize your body, passion, and mind** to increase your potential. Exercise regularly to build your body. Do what
