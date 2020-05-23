@@ -13,13 +13,13 @@ To be happy, just do what kids do best:
 2. **Enjoy the present.** Too often we get stuck thinking about the past or the future, and forget about the present,
    which is where happiness can be found. Like the old saying "you are what you eat", so you feel what you do.
    If you want to be happy, well, do things that make you happy: play with friends, eat yummy food, go shopping,
-   build cool things, do nothing, love your family and friends, etc. Whatever you do, simply be present and enjoy it.
+   build cool things, do nothing, love your family and friends, etc. Whatever you do, simply be present and enjoy.
 
-3. **Driven by human nature.** Kids are always doing something interesting becauase they are innately driven.
-   It starts with their basic human needs, like hunger. Then they explore the physical world meticulously with their
-   senses. No matter the situation, they let their emotions flow freely. Once they are settled, they start to satisfy
-   their desires (e.g. eating candy, play with their toys, watch TV) and let their curiosity and imagination run wild.
-   Finally, their love for family, friends, and things are pure, sincere, and overflowing. :heart:
+3. **Display your natural drive.** Kids are always doing something because they are naturally driven and are
+   not afraid to show it. It starts with their basic human needs, like hunger. Then they explore the physical world
+   meticulously with their senses. No matter the situation, they let their emotions flow freely. Once they are calm,
+   they start to satisfy their desires (e.g. eating candy, play with their toys, watch TV) and let their curiosity and
+   imagination run wild. Finally, their love for family, friends, and things are pure, sincere, and overflowing. :heart:
 
 To do anything you want:
 
@@ -48,7 +48,7 @@ To do anything you want:
 
 Easily remember the steps using the acronyms **LED BEAM** from the first letter of each step. With **LED**, you will be
 happy and shine brightly in all directions. Focus it to do great things using **BEAM**. Each step should be done
-successfully in order so the next step is easier to do. It takes time to master each step, but the results are immediate
+in order so the next step is easier to do. It takes time to master each step, but the results are immediate
 and increasingly substantial. When things are not going as expected, take a timeout to rest and reflect using the steps.
 Mastery is achieved when all steps are done naturally for everything that you do. And voilà, a great life! :smile:
 
