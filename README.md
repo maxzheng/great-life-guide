@@ -11,23 +11,23 @@ To be happy, just do what kids do best:
    You will feel lighter and ready to be happy.
 
 2. **Enjoy the present.** Too often we get stuck thinking about the past or the future, and forget about the present,
-   which is where happiness can be found. Like the old saying "you are what you eat", so you feel what you do.
-   If you want to be happy, well, do things that make you happy: play with friends, eat yummy food, go shopping,
-   build cool things, do nothing, love your family and friends, etc. Whatever you do, simply be present and enjoy.
+   which is where happiness can be found. Like the old saying "you are what you eat", so you feel what you do, therefore
+   do more things that make you happy: play with family and friends, eat delicious food, go shopping, build cool things,
+   do nothing, etc. Whatever you do, simply be present and enjoy it.
 
-3. **Display your natural drive.** Kids are always doing something because they are naturally driven and are
-   not afraid to show it. It starts with their basic human needs, like hunger. Then they explore the physical world
-   meticulously with their senses. No matter the situation, they let their emotions flow freely. Once they are calm,
-   they start to satisfy their desires (e.g. eating candy, play with their toys, watch TV) and let their curiosity and
-   imagination run wild. Finally, their love for family, friends, and things are pure, sincere, and overflowing. :heart:
+3. **Display your natural drives.** Kids are always doing something because they are naturally driven and are
+   not afraid to show it. It starts with their basic needs, like hunger. Then they explore the world meticulously with
+   their senses. No matter the situation, they let their emotions flow freely. When calm, they start to satisfy their
+   desires (e.g. eating candy, watch TV) and let their curiosity and imagination run wild.
+   Finally, their love for family, friends, and things are pure, sincere, and overflowing. :heart:
 
-To do anything you want:
+To do great things:
 
 1. **Be mindful with acceptance** to fully understand and be aware of what's going on without judgement or expectations.
-   Always be calm, and let go and learn from anything that disturbs it (e.g. consistently scan your body/mind for any
-   tension and loosen them). Stay focused while being aware of the surrounding (e.g. track your emotions and
-   understand/enjoy them but don't let them take over). No matter what others say or do to you, retain the calmness and
-   clarity to make decisions objectively.
+   Always be calm, and let go and learn from anything that disturbs it (e.g. Scan your body and mind often for any
+   tension and loosen them). Stay focused while being aware of the surrounding (e.g. track your emotions and understand
+   and enjoy them but don't let them take over). No matter what others say or do to you, retain the calmness and clarity
+   to make decisions wisely.
 
 2. **Energize your body, passion, and mind** to increase your potential. Exercise regularly to build your body. Do what
    you love and be your true self to let your passion flow as it amplifies results in multitudes. Always keep
@@ -35,7 +35,7 @@ To do anything you want:
    rejuvenate so everything can function at 100% at all times.
 
 3. **Aim at one target at a time.** There must be a target (e.g. task, goal, mission) at any time as it provides the
-   direction for what you want to do so you don't wander around aimlessly. Prioritize targets based on value to get
+   direction for what you want to do to avoid wander around aimlessly. Prioritize targets based on value to get
    the most out of limited time, and then focus on only one at a time to avoid overloading and context switching,
    therefore increasing efficiency. If we do just that, everything actually gets done faster with higher quality.
 
