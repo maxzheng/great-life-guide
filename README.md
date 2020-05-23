@@ -34,10 +34,9 @@ To do great things:
    learning and thinking to push the boundary of your mind. Finally don't forget to take breaks often and rest well to
    rejuvenate so everything can function at 100% at all times.
 
-3. **Aim at one target at a time.** There must be a target (e.g. task, goal, mission) at any time as it provides the
-   direction for what you want to do to avoid wander around aimlessly. Prioritize targets based on value to get
-   the most out of limited time, and then focus on only one at a time to avoid overloading and context switching,
-   therefore increasing efficiency. If we do just that, everything actually gets done faster with higher quality.
+3. **Aim at one thing at a time** to improve efficiency. Prioritize things based on value to get the most out of
+   limited time, and then focus on only one at a time to avoid overloading and context switching. If we do just that,
+   everything actually gets done faster with higher quality.
 
 4. **Maximize your performance in the right way.** The fastest way to get things done is by doing the right thing as
    doing the wrong thing requires redo and some things can not be undone. Sometimes it's tempting to do the wrong thing
