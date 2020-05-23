@@ -18,19 +18,19 @@ To be happy, just do what kids do best:
 3. **Display your natural drives.** Kids are always doing something because they are naturally driven and are
    not afraid to show it. It starts with their basic needs, like hunger. Then they explore the world meticulously with
    their senses. No matter the situation, they let their emotions flow freely. When calm, they start to satisfy their
-   desires (e.g. eating candy, watch TV) and let their curiosity and imagination run wild.
+   desires (e.g. eat candy, watch TV) and let their curiosity and imagination run wild.
    Finally, their love for family, friends, and things are pure, sincere, and overflowing. :heart:
 
 To do great things:
 
 1. **Be mindful with acceptance** to fully understand and be aware of what's going on without judgement or expectations.
-   Always be calm, and let go and learn from anything that disturbs it (e.g. Scan your body and mind often for any
-   tension and loosen them). Stay focused while being aware of the surrounding (e.g. track your emotions and understand
+   Always be calm -- understand, learn, and then let go of anything that disturbs it (e.g. scan your body and mind often
+   for any tension and loosen them). Stay focused while being aware of the surrounding (e.g. understand your emotions
    and enjoy them but don't let them take over). No matter what others say or do to you, retain the calmness and clarity
    to make decisions wisely.
 
-2. **Energize your body, passion, and mind** to increase your potential. Exercise regularly to build your body. Do what
-   you love and be your true self to let your passion flow as it amplifies results in multitudes. Always keep
+2. **Energize your body, passion, and mind** to increase your potential. Train regularly to fine-tune your body. Do what
+   you love and be your true self to let your passion flow abundantly as it amplifies results in multitudes. Always keep
    learning and thinking to push the boundary of your mind. Finally don't forget to take breaks often and rest well to
    rejuvenate so everything can function at 100% at all times.
 
@@ -43,12 +43,12 @@ To do great things:
    for a short-term gain, but there are always consequences. In the long run, doing the right thing wins as it builds
    momentum from previous accomplishments. Always understand why you do something before how in order to do your best.
    Once you know what to do, then do it with everything that you got and don't let anything hold you back.
-   Knowledge is only half of the story, action completes it, so don't be lazy, but do as much as you can and persevere.
+   Knowledge is only half of the story, action completes it, so don't be lazy; do as much as you can and persevere.
 
 Easily remember the steps using the acronyms **LED BEAM** from the first letter of each step. With **LED**, you will be
 happy and shine brightly in all directions. Focus it to do great things using **BEAM**. Each step should be done
 in order so the next step is easier to do. It takes time to master each step, but the results are immediate
-and increasingly substantial. When things are not going as expected, take a timeout to rest and reflect using the steps.
+and increasingly substantial. When things are not going as expected, take time to rest and reflect using the steps.
 Mastery is achieved when all steps are done naturally for everything that you do. And voilà, a great life! :smile:
 
 *The latest published version is available at http://agreatlife.guide for easy sharing and liking.*
