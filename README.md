@@ -25,8 +25,10 @@ To do great things:
 
 1. **Activate your body, passion, and mind** to maximize potential. Exercise regularly to fine-tune your body. Do what
    you love and be your true self to let your passion flow abundantly as it amplifies results in multitudes. Always keep
-   learning and thinking to push the boundary of your mind. Finally don't forget to take breaks often and rest well to
-   rejuvenate so everything can function at 100% at all times.
+   learning and thinking to push the boundary of your mind. Most of your capabilities are dormant until you push their
+   limits, so try to push yourself a little bit each day to reach new heights. There's nothing that you can't do if you
+   apply yourself. Finally and most importantly, don't forget to take breaks often and rest well to rejuvenate so
+   everything can function at 100% at all times.
 
 2. **Be mindful with acceptance** to maximize understanding and awareness of what's going on without judgement or
    expectations. Always be calm -- understand, learn, and then let go of anything that disturbs it (e.g. scan your body
