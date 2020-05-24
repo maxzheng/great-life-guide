@@ -21,7 +21,7 @@ To be happy, just do what kids do best:
    desires (e.g. eat candy, watch TV) and let their curiosity and imagination run wild.
    Finally, their love for family, friends, and things are pure, sincere, and overflowing. :heart:
 
-<img src="great-life-by-paige-cody.jpg" width="1024px">
+<img src="great-life-by-paige-cody.jpg">
 
 To do great things:
 
