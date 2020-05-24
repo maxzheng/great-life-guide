@@ -15,11 +15,13 @@ To be happy, just do what kids do best:
    do more things that make you happy: play with family and friends, eat delicious food, go shopping, build cool things,
    do nothing, etc. Whatever you do, simply be present and enjoy it.
 
-3. **Drive and express yourself** Kids are always doing something because they are naturally driven and are
+3. **Drive and express yourself.** Kids are always doing something because they are naturally driven and are
    not afraid to show it. It starts with their basic needs, like hunger. Then they explore the world meticulously with
    their senses. No matter the situation, they let their emotions flow freely. When calm, they start to satisfy their
    desires (e.g. eat candy, watch TV) and let their curiosity and imagination run wild.
    Finally, their love for family, friends, and things are pure, sincere, and overflowing. :heart:
+
+<img src="great-life-by-paige-cody.jpg" width="1024px">
 
 To do great things:
 
