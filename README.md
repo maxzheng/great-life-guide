@@ -7,8 +7,8 @@ the steps to achieve that in a sustainable way, so everyone can be happy and do 
 To be happy, just do what kids do best:
 
 1. **Let go of any negativity** as they will rot the core of your body and mind, such hate, anger, jealousy, stress,
-   addiction, sadness, and anything that makes you feel unhappy. Relax your body, breath, and then just let them all go.
-   You will feel lighter and ready to be happy.
+   addiction, sadness, fear, and anything that makes you feel unhappy. Relax your body, breath, and then just let them
+   all go. You will feel lighter and ready to be happy.
 
 2. **Enjoy the present.** Too often we get stuck thinking about the past or the future, and forget about the present,
    which is where happiness can be found. Like the old saying "you are what you eat", so you feel what you do, therefore
@@ -25,12 +25,12 @@ To be happy, just do what kids do best:
 
 To do great things:
 
-1. **Activate your body, passion, and mind** to maximize potential. Exercise regularly to fine-tune your body. Do what
-   you love and be your true self to let your passion flow abundantly as it amplifies results in multitudes. Always keep
-   learning and thinking to push the boundary of your mind. Most of your capabilities are dormant until you push their
-   limits, so try to push yourself a little bit each day to reach new heights. There's nothing that you can't do if you
-   apply yourself. Finally and most importantly, don't forget to take breaks often and rest well to rejuvenate so
-   everything can function at 100% at all times.
+1. **Activate your body, passion, and mind** to maximize potential. Start the day with nutritious food. Exercise
+   regularly to strengthen your body. Do what you love and be your true self to let your passion flow abundantly as it
+   amplifies results in multitudes. Always keep learning and thinking to push the boundary of your mind. Most of your
+   capabilities are dormant until you push their limits, so try to push yourself a little bit each day to reach new
+   heights. There's nothing that you can't do if you apply yourself. Finally and most importantly, don't forget to take
+   breaks often and rest well to rejuvenate so everything can function at 100% at all times.
 
 2. **Be mindful with acceptance** to maximize understanding and awareness of what's going on without judgement or
    expectations. Always be calm -- understand, learn, and then let go of anything that disturbs it (e.g. scan your body
