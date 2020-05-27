@@ -15,11 +15,12 @@ To be happy, just do what kids do best:
    do more things that make you happy: play with family and friends, eat delicious food, go shopping, build cool things,
    do nothing, etc. Whatever you do, simply be present and enjoy it.
 
-3. **Drive and express yourself.** Kids are always doing something because they are naturally driven and are
-   not afraid to show it. It starts with their basic needs, like hunger. Then they explore the world meticulously with
-   their senses. No matter the situation, they let their emotions flow freely. When calm, they start to satisfy their
-   desires (e.g. eat candy, watch TV) and let their curiosity and imagination run wild.
-   Finally, their love for family, friends, and things are pure, sincere, and overflowing. :heart:
+3. **Nurture your drives using positive expressions** (e.g. be thankful, be loving, be kind, celebrate wins, smile).
+   Kids are always doing something because they are naturally driven and are not afraid to show it. It starts with their
+   basic needs, like hunger. Then they explore the world meticulously with their senses. No matter the situation, they
+   let their emotions flow freely. When calm, they start to satisfy their desires (e.g. eat candy, watch TV) and let
+   their curiosity and imagination run wild. Finally, their love for family, friends, and things are pure, sincere, and
+   overflowing. :heart:
 
 <img src="great-life-by-paige-cody.jpg">
 
@@ -49,8 +50,8 @@ To do great things:
    Once you know what to do, then do it with everything that you got and don't let anything hold you back.
    Knowledge is only half of the story, action completes it, so don't be lazy; do as much as you can and persevere.
 
-Easily remember the steps using the acronyms **LED ABCD** from the first letter of each step. With **LED**, you will be
-happy and shine brightly in all directions. Focus it to do great things using **ABCD**. Each step should be done
+Easily remember the steps using the acronyms **LEN ABCD** from the first letter of each step. With **LEN**, you will be
+happy. Use it with **ABCD** to do great things in sustainable way. Each step should be done
 in order so the next step is easier to do. It takes time to master each step, but the results are immediate
 and increasingly substantial. When things are not going as expected, take time to rest and reflect using the steps.
 Mastery is achieved when all steps are done naturally for everything that you do. And voilà, a great life! :smile:
