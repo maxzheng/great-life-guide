@@ -6,23 +6,23 @@ the steps to achieve that in a sustainable way, so everyone can be happy and do 
 
 To be happy, just do what kids do best:
 
-1. **Let go of any negativity** as they will rot the core of your body and mind, such hate, anger, jealousy, stress,
-   addiction, sadness, fear, and anything that makes you feel unhappy. Relax your body, breath, and then just let them
-   all go. You will feel lighter and ready to be happy.
+1. **Let go of any negativity** to make space for happiness as they will rot the core of your body and mind, such hate,
+   anger, jealousy, stress, addiction, sadness, fear, and anything that makes you feel unhappy. Relax your body, breath,
+   and then just let them all go. You will feel lighter and ready to be happy.
 
-2. **Enjoy the present.** Too often we get stuck thinking about the past or the future, and forget about the present,
-   which is where happiness can be found. Don't think about what you don't have or could have, but appreciate and enjoy
-   what you do have. Like the old saying "you are what you eat", so you feel what you do, therefore
+2. **Enjoy the present** for transient joy. Too often we get stuck thinking about the past or the future, and forget
+   about the present, which is when happiness can be created. Don't think about what you don't have or could have, but
+   appreciate and enjoy what you do have. Like the old saying "you are what you eat", so you feel what you do, therefore
    do more things that make you happy: play with family and friends, eat delicious food, go shopping, build cool things,
    do nothing, etc. Whatever you do, simply be present and enjoy it.
 
-3. **Nurture your drives using positive expressions** (e.g. praise, be thankful / loving / kind, celebrate wins, smile).
-   Identify the things that drive you, express them freely and liberally, and then encourage growth by appreciation.
-   Kids are always doing something because they are naturally driven and are not afraid to show it. It starts with their
-   basic needs, like hunger. Then they explore the world meticulously with their senses. No matter the situation, they
-   let their emotions flow freely. When calm, they start to satisfy their desires (e.g. eat candy, watch TV) and let
-   their curiosity and imagination run wild. Finally, their love for family, friends, and things are pure, sincere, and
-   overflowing. :heart:
+3. **Nurture your drives using positive expressions** for lasting happiness. Identify the things that drive you,
+   express them freely and liberally, and then encourage growth positively (e.g. praise, be thankful / loving / kind,
+   celebrate wins, smile). Kids are always doing something because they are naturally driven and are not afraid to show
+   it. It starts with their basic needs, like hunger. Then they explore the world meticulously with their senses.
+   No matter the situation, they let their emotions flow freely. When calm, they start to satisfy their desires (e.g.
+   eat candy, watch TV) and let their curiosity and imagination run wild. Finally, their love for family, friends, and
+   things are pure, sincere, and overflowing. :heart:
 
 <img src="great-life-by-paige-cody.jpg">
 
