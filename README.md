@@ -52,10 +52,10 @@ To do great things:
    Once you know what to do, then do it with everything that you got and don't let anything hold you back.
    Knowledge is only half of the story, action completes it, so don't be lazy; do as much as you can and persevere.
 
-Easily remember the steps using the acronyms **LEN ABCD** from the first letter of each step. With **LEN**, you will be
-happy. Use it with **ABCD** to do great things in sustainable way. Each step should be done
-in order so the next step is easier to do. It takes time to master each step, but the results are immediate
-and increasingly substantial. When things are not going as expected, take time to rest and reflect using the steps.
-Mastery is achieved when all steps are done naturally for everything that you do. And voilà, a great life! :smile:
+Easily remember the steps using the acronyms **LEN ABCD** from the first letter of each step. Being happy and doing
+great things are two distinct goals and both are necessary to sustain and achieve your full potential over a life time.
+Each step should be done in order so the next step is easier to do. It takes time to master each step, but the results
+are immediate and increasingly substantial. When things are not going as expected, take time to rest and reflect using
+the steps. Mastery is achieved when all steps are done naturally for everything that you do. And voilà, a great life! :smile:
 
 *The latest published version is available at http://agreatlife.guide for easy sharing and liking.*
