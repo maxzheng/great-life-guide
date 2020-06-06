@@ -6,12 +6,13 @@ the steps to achieve that in a sustainable way, so everyone can be happy and do 
 
 To be happy, just do what kids do best:
 
-1. **Let go of any negativity** to make space for happiness as they will rot the core of your body and mind, such hate,
-   anger, jealousy, stress, addiction, sadness, fear, and anything that makes you feel unhappy. Relax your body, breath,
-   and then just let them all go. You will feel lighter and ready to be happy. Sometimes it's hard to let go or you feel
-   sad without knowing why, it might help to move on to something else.
+1. **Let go of everything** to reduce burden and make space for happiness, especially negativity as they will rot the
+   core of your body and mind, such as hate, anger, jealousy, stress, addiction, sadness, fear, lingering thoughts,
+   tension, or anything else in your body and mind. Relax your body and mind, breath, and then just let them all go.
+   You will feel lighter and ready to be happy. Sometimes it's hard to let go or you feel sad without knowing why, then
+   just move on to something else.
 
-2. **Enjoy the present** for transient joy. Too often we get stuck thinking about the past or the future, and forget
+2. **Enjoy the present** to feel transient joy. Too often we get stuck thinking about the past or the future, and forget
    about the present, which is when happiness can be created. Don't think about what you don't have or could have, but
    appreciate and enjoy what you do have. Like the old saying "you are what you eat", so you feel what you do, therefore
    do more things that make you happy: play with family and friends, eat delicious food, go shopping, build cool things,
@@ -19,11 +20,12 @@ To be happy, just do what kids do best:
 
 3. **Nurture your drives with positivity** for lasting happiness. Identify the things that drive you,
    express them freely and liberally, and then encourage growth positively (e.g. praise, be thankful / loving / kind,
-   celebrate wins, smile). If you don't feel driven, then manually push yourself. Kids are always doing something
-   because they are naturally driven and are not afraid to show it. It starts with their basic needs, like hunger. Then
-   they explore the world meticulously with their senses.  No matter the situation, they let their emotions flow freely.
-   When calm, they start to satisfy their desires (e.g.  eat candy, watch TV) and let their curiosity and imagination
-   run wild. Finally, their love for family, friends, and things are pure, sincere, and overflowing. :heart:
+   celebrate wins, smile). If you don't feel driven, then manually push yourself until inertia takes over. Kids are
+   always doing something because they are naturally driven and are not afraid to show it. It starts with their basic
+   needs, like hunger. Then they explore the world meticulously with their senses. No matter the situation, they let
+   their emotions flow freely. When calm, they start to satisfy their desires (e.g. eat candy, watch TV) and let their
+   curiosity and imagination run wild. Finally, their love for family, friends, and things are pure, sincere, and
+   overflowing. :heart:
 
 <img src="great-life-by-paige-cody.jpg">
 
@@ -54,7 +56,7 @@ To do great things:
    Knowledge is only half of the story, action completes it, so don't be lazy; do as much as you can and persevere.
 
 Easily remember the steps using the acronyms **LEN ABCD** from the first letter of each step. Being happy and doing
-great things are two distinct goals and both are necessary to sustain and achieve your full potential over a life time.
+great things are distinct goals, but both are necessary to sustain and achieve your full potential over a life time.
 Each step should be done in order so the next step is easier to do. It takes time to master each step, but the results
 are immediate and increasingly substantial. When things are not going as expected, take time to rest and reflect using
 the steps. Mastery is achieved when all steps are done naturally for everything that you do. And voilà, a great life! :smile:
