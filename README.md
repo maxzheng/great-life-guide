@@ -22,7 +22,7 @@ To be happy, just do what kids do best:
 3. **Nurture your drives with positivity** for lasting happiness. Identify the things that drive you, express them
    freely, and then encourage growth positively (e.g. praise, be thankful / loving / kind, celebrate wins, smile). If
    you don't feel driven, then manually push yourself to get started. Kids are naturally driven -- they explore the
-   world with curiosity and excitement, let their emotions flow freely, indulges their desires (e.g. eat candy,
+   world with curiosity and excitement, let their emotions flow freely, indulge their desires (e.g. eat candy,
    watch TV), let their imaginations run wild, and finally, their love for family, friends, and things are pure,
    sincere, and overflowing. :heart:
 
@@ -53,8 +53,10 @@ To do great things:
    momentum from previous accomplishments. Always understand why you do something before how in order to do your best.
    Once you know what to do, then do it with everything that you got and don't let anything hold you back.
    Knowledge is only half of the story, action completes it, so don't be lazy; do as much as you can and persevere.
+   What is right for you might not be right for others as each person has different information, so it's important to
+   respect other people's decisions and properly exchange information.
 
-Easily remember the steps using the acronyms **LERN ABCD** from the first letter of each step. Being happy and doing
+Easily remember the steps using the acronym **LERN ABCD** from the first letter of each step. Being happy and doing
 great things are distinct goals, but both are necessary to sustain and achieve your full potential over a life time.
 Each step should be done in order so the next step is easier to do. It takes time to master each step, but the results
 are immediate and increasingly substantial. When things are not going as expected, take time to rest and reflect using
