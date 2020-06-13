@@ -36,7 +36,8 @@ To be happy, just do what kids do best:
    make sure you are comfortable, and do it consistently. Then you are energized and naturally happy.
 
 3. **Nurture your drives with positivity** for lasting happiness. Identify the things that drive you, express them
-   freely, and then encourage growth positively (e.g. praise, be thankful / loving / kind, celebrate wins, smile). If
+   freely, and then encourage growth positively (e.g. praise, be thankful / loving / kind, celebrate wins, smile). It's
+   important to encourage explicitly as assuming the obvious is often wrong and easily misinterpretted as otherwise. If
    you don't feel driven, then manually push yourself to get started. Kids are naturally driven -- they explore the
    world with curiosity and excitement, let their emotions flow freely, indulge their desires (e.g. eat candy,
    watch TV), let their imaginations run wild, and finally, their love for family, friends, and things are pure,
