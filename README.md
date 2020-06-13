@@ -7,14 +7,14 @@ the steps to achieve that in a sustainable way, so everyone can be happy and do 
 In order to be the most happy and do the greatest things, we should keep in mind two goals, our true north, so we don't
 get lost in the details:
 
-1. *Unity.* While a single person can do amazing things, but the greatest things can only be accomplished when we work
+1. **Unity.** While a single person can do amazing things, but the greatest things can only be accomplished when we work
    together as one. That is every single living being -- not just humans, but animals, bacterials, plants, etc. More
    than half of your body cells are microbes and we would perish without plants. Countries, races, companies are
    superficial, archaic, and the division only causes harm. There is only one country, it's called Earth. There is only
    one race, it's called human. There is only one company, it's called community. We should help each other, work
    together, and share the fruits of labor, so everyone becomes better and benefits compound. When we don't work
    together, great things come to an abrupt end. Together, the possibilities are endless.
-2. *Pleasure.* Too often we get stuck in the necessities of life, such as raising a family or earning money, that we
+2. **Pleasure.** Too often we get stuck in the necessities of life, such as raising a family or earning money, that we
    forget there are so many pleasures to enjoy in life. There is no need to choose one or the other. Both are possible
    at the same time. You only live once, so experience everything that life has to offer. Don't be afraid to try
    everything once, as long as it is safe, because you never know what you like until you try -- sometimes you might
