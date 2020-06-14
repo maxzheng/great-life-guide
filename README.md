@@ -7,9 +7,10 @@ the steps to achieve that in a sustainable way, so everyone can be happy and do 
 In order to do that, we need to keep these goals in mind, our true north, so we don't get lost:
 
 1. **Truth**: There are too much misinformation out there, so it's hard to make the right decisions. As an intelligent
-   being, we must seek the truth and use it to our advantage. Never be afraid of it. There is no need to hide it by
-   making up stories, etc. Our universe is vast and eagerly awaits us to explore it. Be excited for the opportunity!
-   Only truth can build trust, expand our wisdom, satisfy our curiosity, and build a solid foundation for everything else.
+   being, we must seek the truth and use it to our advantage. Don't be afraid of it. There is no need to hide it by
+   making up stories, etc. Never blindly believe what others say -- question everything to better understand. Our
+   universe is vast and eagerly awaits us to explore it. Be excited for the opportunity!  Only truth can build trust,
+   expand our wisdom, satisfy our curiosity, and build a solid foundation for everything else.
 
 2. **Unity**: While a single person can do amazing things, but the greatest things can only be accomplished when we work
    together as one. That is every single living being -- not just humans, but animals, bacterials, plants, etc. More
