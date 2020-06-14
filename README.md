@@ -1,20 +1,25 @@
 A Great Life Guide
 ==================
 
-Life is great when you are able to fully understand, do, and enjoy everything that it has to offer. This provides
+Life is great when you are able to fully understand, do, and enjoy everything that it has to offer. This lists
 the steps to achieve that in a sustainable way, so everyone can be happy and do great things.
 
-In order to be the most happy and do the greatest things, we should keep in mind two goals, our true north, so we don't
-get lost in the details:
+In order to do that, we need to keep in mind these goals, our true north, so we don't get lost in the details:
 
-1. **Unity.** While a single person can do amazing things, but the greatest things can only be accomplished when we work
+1. **Truth**: There are too much misinformation out there, it's hard to know what's real and even harder to make the
+   right decisions. As an intelligent being, it is our duty to seek the truth and use it to our advantage. Never be
+   afraid of it. There is no need to hide by making up stories, etc. There is so much we don't know in the universe.
+   Be excited for the opportunity to find out! Only truth can build trust, expand our collective wisdom, satisfy
+   our curiosity, and build a solid foundation for everything else.
+
+2. **Unity**: While a single person can do amazing things, but the greatest things can only be accomplished when we work
    together as one. That is every single living being -- not just humans, but animals, bacterials, plants, etc. More
    than half of your body cells are microbes and we would perish without plants. Countries, races, companies are
-   superficial, archaic, and the division only causes harm. There is only one country, it's called Earth. There is only
-   one race, it's called human. There is only one company, it's called community. We should help each other, work
-   together, and share the fruits of labor, so everyone becomes better and benefits compound. When we don't work
-   together, great things come to an abrupt end. Together, the possibilities are endless.
-2. **Pleasure.** Too often we get stuck in the necessities of life, such as raising a family or earning money, that we
+   superficial, archaic, and the division only causes harm. We should help each other, work together, and share the
+   fruits of labor, so everyone becomes better and benefits compound. When we don't work together, great things come to
+   an abrupt end. Together, the possibilities are endless.
+
+3. **Pleasure**: Too often we get stuck in the necessities of life, such as raising a family or earning money, that we
    forget there are so many pleasures to enjoy in life. There is no need to choose one or the other. Both are possible
    at the same time. You only live once, so experience everything that life has to offer. Don't be afraid to try
    everything once, as long as it is safe, because you never know what you like until you try -- sometimes you might
@@ -36,12 +41,11 @@ To be happy, just do what kids do best:
    make sure you are comfortable, and do it consistently. Then you are energized and naturally happy.
 
 3. **Nurture your drives with positivity** for lasting happiness. Identify the things that drive you, express them
-   freely, and then encourage growth positively (e.g. praise, be thankful / loving / kind, celebrate wins, smile). It's
-   important to encourage explicitly as assuming the obvious is often wrong and easily misinterpreted as otherwise. If
-   you don't feel driven, then manually push yourself to get started. Kids are naturally driven -- they explore the
-   world with curiosity and excitement, let their emotions flow freely, indulge their desires (e.g. eat candy,
-   watch TV), let their imaginations run wild, and finally, their love for family, friends, and things are pure,
-   sincere, and overflowing. :heart:
+   freely, and then encourage growth positively (e.g. praise, be thankful and loving, celebrate) and explicitly as
+   assuming the obvious is often wrong and easily misinterpreted as otherwise. If you don't feel driven, then manually
+   push yourself to get started. Kids are naturally driven -- they explore the world with curiosity and excitement, let
+   their emotions flow freely, indulge their desires (e.g. eat candy, watch TV), let their imaginations run wild, and
+   finally, their love for family, friends, and things are pure, sincere, and overflowing. :heart:
 
 <img src="great-life-by-paige-cody.jpg">
 
@@ -73,7 +77,7 @@ To do great things:
    What is right for you might not be right for others as each person has different information, so it's important to
    respect other people's decisions and properly exchange information.
 
-Easily remember the steps using the acronym **UP LERN ABCD** from the first letter of each step. Being happy and doing
+Easily remember the steps using the acronym **TUP LERN ABCD** from the first letter of each step. Being happy and doing
 great things are distinct goals, but both are necessary to sustain and achieve your full potential over a life time.
 Each step should be done in order so the next step is easier to do. It takes time to master each step, but the results
 are immediate and increasingly substantial. When things are not going as expected, take time to rest and reflect using
