@@ -6,42 +6,41 @@ the steps to achieve that in a sustainable way, so everyone can be happy and do 
 
 In order to do that, we need to keep in mind these goals, our true north, so we don't get lost in the details:
 
-1. **Truth**: There are too much misinformation out there, it's hard to know what's real and even harder to make the
-   right decisions. As an intelligent being, it is our duty to seek the truth and use it to our advantage. Never be
-   afraid of it. There is no need to hide by making up stories, etc. There is so much we don't know in the universe.
-   Be excited for the opportunity to find out! Only truth can build trust, expand our collective wisdom, satisfy
-   our curiosity, and build a solid foundation for everything else.
+1. **Truth**: There are too much misinformation out there, so it's hard to make the right decisions. As an intelligent
+   being, we must seek the truth and use it to our advantage. Never be afraid of it. There is no need to hide it by
+   making up stories, etc. Our universe is vast and eagerly awaits us to explore it. Be excited for the opportunity!
+   Only truth can build trust, expand our wisdom, satisfy our curiosity, and build a solid foundation for everything else.
 
 2. **Unity**: While a single person can do amazing things, but the greatest things can only be accomplished when we work
    together as one. That is every single living being -- not just humans, but animals, bacterials, plants, etc. More
-   than half of your body cells are microbes and we would perish without plants. Countries, races, companies are
-   superficial, archaic, and the division only causes harm. We should help each other, work together, and share the
-   fruits of labor, so everyone becomes better and benefits compound. When we don't work together, great things come to
-   an abrupt end. Together, the possibilities are endless.
+   than half of your body cells are microbes! Countries, races, companies, individual families are superficial, archaic,
+   and the division only causes harm -- there should only be one. We should help each other, work together, and share
+   the fruits of labor, so everyone becomes better and benefits compound. When we don't work together, great things come
+   to an abrupt end. Together, the possibilities are endless.
 
 3. **Pleasure**: Too often we get stuck in the necessities of life, such as raising a family or earning money, that we
-   forget there are so many pleasures to enjoy in life. There is no need to choose one or the other. Both are possible
-   at the same time. You only live once, so experience everything that life has to offer. Don't be afraid to try
-   everything once, as long as it is safe, because you never know what you like until you try -- sometimes you might
-   need to try twice. Whatever you like to do, don't hold back and go for it!
+   forget to enjoy life. There is no need to choose one or the other; both are possible at the same time. You only live
+   once, so experience everything that life has to offer. Don't be afraid to try everything once, as long as it is safe,
+   because you never know what you like until you try -- sometimes you might need to try twice. Whatever you like to do,
+   don't hold back and go for it!
 
 To be happy, just do what kids do best:
 
 1. **Let go of everything** to reduce burden and make space for happiness, especially negativity as they will rot the
-   core of your body and mind, such as hate, anger, jealousy, stress, addiction, sadness, fear, lingering thoughts,
-   and tension. Relax, breath, and then just let them all go. You will feel lighter and ready to be happy. If it's hard
-   to let go or you feel sad without knowing why, then just move on.
+   core of your body and mind, such as hate, anger, stress, addiction, sadness, fear, lingering thoughts. Relax, breath,
+   and then just let them all go. You will feel lighter and ready to be happy. If it's hard to let go or you feel sad
+   without knowing why, then just move on.
 
 2. **Enjoy the present** for transient joy. Too often we get stuck thinking about the past or the future, and forget
    about the present, which is when happiness can be created. Don't think about what you don't have or could have, but
    appreciate and enjoy what you do have. Whatever you do, simply be present and enjoy it.
 
 3. **Rest well** to rejuvenate and be ready for more fun. When you are tired, you are much more susceptible to accident,
-   illness, and negativity, like anger and sadness. To sleep well, exercise to exhaust your energy, meditate to be calm,
-   make sure you are comfortable, and do it consistently. Then you are energized and naturally happy.
+   illness, and negativity. To sleep well, exercise to exhaust your energy, meditate to be calm, make sure you are
+   comfortable, and do it consistently. Then you are energized and naturally happy.
 
 3. **Nurture your drives with positivity** for lasting happiness. Identify the things that drive you, express them
-   freely, and then encourage growth positively (e.g. praise, be thankful and loving, celebrate) and explicitly as
+   freely, and then encourage positively (e.g. praise, be thankful and loving, celebrate) and explicitly as
    assuming the obvious is often wrong and easily misinterpreted as otherwise. If you don't feel driven, then manually
    push yourself to get started. Kids are naturally driven -- they explore the world with curiosity and excitement, let
    their emotions flow freely, indulge their desires (e.g. eat candy, watch TV), let their imaginations run wild, and
