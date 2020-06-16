@@ -12,18 +12,19 @@ In order to do that, we need to keep these goals in mind, our true north, so we 
    universe is vast and eagerly awaits us to explore it. Be excited for the opportunity!  Only truth can build trust,
    expand our wisdom, satisfy our curiosity, and build a solid foundation for everything else.
 
-2. **Unity**: While a single person can do amazing things, but the greatest things can only be accomplished when we work
+2. **Pleasure**: Too often we get stuck in the necessities of life, such as raising a family or earning money, that we
+   forget to enjoy life. There is no need to choose one or the other; both are possible at the same time. You only live
+   once, so experience everything that life has to offer. Don't be afraid to try everything once, as long as it is safe,
+   because you never know what you like until you try -- sometimes you might need to try twice. Whatever you like to do,
+   don't hold back and go for it!
+
+3. **Unity**: While a single person can do amazing things, but the greatest things can only be accomplished when we work
    together as one. That is every single living being -- not just humans, but animals, bacterials, plants, etc. More
    than half of your body cells are microbes! Countries, races, companies, individual families are superficial, archaic,
    and the division only causes harm -- there should only be one. We should help each other, work together, and share
    the fruits of labor, so everyone becomes better and benefits compound. When we don't work together, great things come
    to an abrupt end. Together, the possibilities are endless.
 
-3. **Pleasure**: Too often we get stuck in the necessities of life, such as raising a family or earning money, that we
-   forget to enjoy life. There is no need to choose one or the other; both are possible at the same time. You only live
-   once, so experience everything that life has to offer. Don't be afraid to try everything once, as long as it is safe,
-   because you never know what you like until you try -- sometimes you might need to try twice. Whatever you like to do,
-   don't hold back and go for it!
 
 To be happy, just do what kids do best:
 
@@ -76,7 +77,7 @@ To do great things:
    What is right for you might not be right for others as each person has different information, so it's important to
    respect other people's decisions and properly exchange information.
 
-Easily remember the steps using the acronym **TUP LERN ABCD** from the first letter of each step. Being happy and doing
+Easily remember the steps using the acronym **TPU LERN ABCD** from the first letter of each step. Being happy and doing
 great things are distinct goals, but both are necessary to sustain and achieve your full potential over a life time.
 Each step should be done in order so the next step is easier to do. It takes time to master each step, but the results
 are immediate and increasingly substantial. When things are not going as expected, take time to rest and reflect using
