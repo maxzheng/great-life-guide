@@ -27,10 +27,9 @@ In order to do that, we need to keep these goals in mind, our true north, so we 
 
 To be happy, just do what kids do best:
 
-1. **Let go of everything** to reduce burden and make space for happiness, especially negativity as they will rot the
-   core of your body and mind, such as hate, anger, stress, addiction, sadness, fear, lingering thoughts. Relax, breath,
-   and then just let them all go. You will feel lighter and ready to be happy. If it's hard to let go or you feel sad
-   without knowing why, then just move on.
+1. **Let go of everything** to reduce burden and make space for happiness. Negativity will rot the core of your body and
+   mind, such as hate, anger, stress, addiction, sadness, fear. Relax, breath, and then just let them all go. You will
+   feel lighter and ready to be happy. If it's hard to let go or you feel sad without knowing why, then just move on.
 
 2. **Enjoy the present** for transient joy. Too often we get stuck thinking about the past or the future, and forget
    about the present, which is when happiness can be created. Don't think about what you don't have or could have, but
