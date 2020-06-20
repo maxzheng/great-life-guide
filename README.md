@@ -4,7 +4,7 @@ A Great Life Guide
 Life is great when you are able to fully understand, do, and enjoy everything that it has to offer. This lists
 the steps to achieve that in a sustainable way, so everyone can be happy and do great things.
 
-In order to do that, we need to keep these goals in mind, our true north, so we don't get lost:
+Before we start, we need to keep these goals in mind, our true north, so we don't get lost in the details:
 
 1. **Truth**: There are too much misinformation out there, so it's hard to make the right decisions. As an intelligent
    being, we must seek the truth and use it to our advantage. Don't be afraid of it. There is no need to hide it by
@@ -13,17 +13,18 @@ In order to do that, we need to keep these goals in mind, our true north, so we 
    expand our wisdom, satisfy our curiosity, and build a solid foundation for everything else.
 
 2. **Pleasure**: Too often we get stuck in the necessities of life, such as raising a family or earning money, that we
-   forget to enjoy life. There is no need to choose one or the other; both are possible at the same time. You only live
+   forget to enjoy life. There is no need to choose one or the other, you can do both at the same time. You only live
    once, so experience everything that life has to offer. Don't be afraid to try everything once, as long as it is safe,
    because you never know what you like until you try -- sometimes you might need to try twice. Whatever you like to do,
-   don't hold back and go for it!
+   don't hold back and go for it! One of the greatest pleasure is love, so love everyone and everything as much as you can.
 
 3. **Unity**: While a single person can do amazing things, but the greatest things can only be accomplished when we work
    together as one. That is every single living being -- not just humans, but animals, bacterials, plants, etc. More
-   than half of your body cells are microbes! Countries, races, companies, individual families are superficial, archaic,
-   and the division only causes harm -- there should only be one. We should help each other, work together, and share
-   the fruits of labor, so everyone becomes better and benefits compound. When we don't work together, great things come
-   to an abrupt end. Together, the possibilities are endless.
+   than half of your body cells are microbes! Existing concepts of countries, races, companies, individual families are
+   superficial, archaic, and the division only causes harm. It's ok to have groups, but not superficial barriers
+   that reduce collaboration, nor thinking other groups are different or inferior. We should help each other, work
+   together, and share the fruits of labor, so everyone becomes better and benefits compound. When we don't work
+   together, great things come to an abrupt end. Together, the possibilities are endless.
 
 To be happy, just do what kids do best:
 
@@ -42,9 +43,12 @@ To be happy, just do what kids do best:
 3. **Nurture your drives with positivity** for lasting happiness. Identify the things that drive you, express them
    freely, and then encourage positively (e.g. praise, be thankful and loving, celebrate) and explicitly as
    assuming the obvious is often wrong and easily misinterpreted as otherwise. If you don't feel driven, then manually
-   push yourself to get started. Kids are naturally driven -- they explore the world with curiosity and excitement, let
-   their emotions flow freely, indulge their desires (e.g. eat candy, watch TV), let their imaginations run wild, and
-   finally, their love for family, friends, and things are pure, sincere, and overflowing. :heart:
+   push yourself to get started. When you get negative feelings (e.g. tired, bored) while doing something good (e.g.
+   exercise, reading), after letting them go, try to manifest positive feelings (e.g. excited, happy) by thinking about
+   them or how what you are doing will help you in the future -- that will train your mind to enjoy doing good things.
+   Another great way to train is by believing that you can do anything, which builds confidence and codes your mind to
+   manifest them. Kids are naturally driven as they enjoy playing and their love for family, friends, and things are
+   pure, sincere, and overflowing. :heart:
 
 <img src="great-life-by-paige-cody.jpg">
 
