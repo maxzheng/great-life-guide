@@ -19,12 +19,12 @@ Before we start, we need to keep these goals in mind, our true north, so we don'
    and go for it! One of the greatest pleasure is love, so love everyone and everything as much as you can.
 
 3. **Unity**: While a single person can do amazing things, but the greatest things can only be accomplished when we work
-   together as one. That is every single living being -- not just humans, but animals, bacterials, plants, etc. More
-   than half of your body cells are microbes! Existing concepts of countries, races, companies, individual families are
-   superficial, archaic, and the division only causes harm. It's ok to have groups, but not superficial barriers
-   that reduce collaboration, nor thinking other groups are different or inferior. We should help each other, work
-   together, and share the fruits of labor, so everyone becomes better and benefits compound. When we don't work
-   together, great things come to an abrupt end. Together, the possibilities are endless.
+   together as one. That is every single living being, not just humans, as we interdepend (e.g. more than half of your
+   body cells are microbes!). Divisions of countries, races, companies, individual families are superficial, archaic,
+   and only causes harm. It's ok to have groups, but not superficial barriers that reduce collaboration, nor thinking
+   other groups are different or inferior. We should help each other, work together, and share the fruits of labor, so
+   everyone becomes better and benefits compound. When we don't work together, great things come to an abrupt end.
+   Together, the possibilities are endless.
 
 To be happy, just do what kids do best:
 
