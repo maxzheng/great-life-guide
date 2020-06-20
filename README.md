@@ -46,9 +46,8 @@ To be happy, just do what kids do best:
    push yourself to get started. When you get negative feelings (e.g. tired, bored) while doing something good (e.g.
    exercise, reading), after letting them go, try to manifest positive feelings (e.g. excited, happy) by thinking about
    them or how what you are doing will help you in the future -- that will train your mind to enjoy doing good things.
-   Another great way to train is by believing that you can do anything, which builds confidence and codes your mind to
-   manifest them. Kids are naturally driven as they enjoy playing and their love for family, friends, and things are
-   pure, sincere, and overflowing. :heart:
+   Kids are naturally driven as they enjoy playing and their love for family, friends, and things are pure, sincere, and
+   overflowing. :heart:
 
 <img src="great-life-by-paige-cody.jpg">
 
@@ -56,10 +55,11 @@ To do great things:
 
 1. **Activate your body, passion, and mind** to maximize potential. Start the day with nutritious food. Exercise
    regularly to strengthen your body. Do what you love and be your true self to let your passion flow abundantly as it
-   amplifies results in multitudes. Always keep learning and thinking to push the boundary of your mind. Most of your
-   capabilities are dormant until you push their limits, so try to push yourself a little bit each day to reach new
-   heights. There's nothing that you can't do if you apply yourself. Finally and most importantly, don't forget to take
-   breaks often and rest well to rejuvenate so everything can function at 100% at all times.
+   amplifies results in multitudes. Always keep learning and thinking to push the boundary of your mind. There's
+   enormous synergy between the potentials of your body, passion, and mind. Most of your capabilities are dormant until
+   you push their limits, so try to push yourself a little bit each day to reach new heights. There's nothing that you
+   can't do if you believe and apply yourself. Finally, don't forget to take breaks whenever you are not at an optimal
+   state and rest well to rejuvenate so everything can function at 100% at all times.
 
 2. **Be mindful with acceptance** to maximize understanding and awareness of what's going on without judgement or
    expectations. Always be calm -- understand, learn, and then let go of anything that disturbs it (e.g. scan your body
