@@ -4,19 +4,19 @@ A Great Life Guide
 Life is great when you are able to fully understand, do, and enjoy everything that it has to offer. This lists
 the steps to achieve that in a sustainable way, so everyone can be happy and do great things.
 
-Before we start, we need to keep these goals in mind, our true north, so we don't get lost in the details:
+Before we start, we need to keep these goals in mind, our true north, so we don't get lost:
 
 1. **Truth**: There are too much misinformation out there, so it's hard to make the right decisions. As an intelligent
    being, we must seek the truth and use it to our advantage. Don't be afraid of it. There is no need to hide it by
    making up stories, etc. Never blindly believe what others say -- question everything to better understand. Our
-   universe is vast and eagerly awaits us to explore it. Be excited for the opportunity!  Only truth can build trust,
+   universe is vast and eagerly awaits us to explore. Be excited for the opportunity! Only truth can build trust,
    expand our wisdom, satisfy our curiosity, and build a solid foundation for everything else.
 
-2. **Pleasure**: Too often we get stuck in the necessities of life, such as raising a family or earning money, that we
-   forget to enjoy life. There is no need to choose one or the other, you can do both at the same time. You only live
-   once, so experience everything that life has to offer. Don't be afraid to try everything once, as long as it is safe,
-   because you never know what you like until you try -- sometimes you might need to try twice. Whatever you like to do,
-   don't hold back and go for it! One of the greatest pleasure is love, so love everyone and everything as much as you can.
+2. **Pleasure**: Too often we get stuck in the dramas or necessities of life that we forget to enjoy it.
+   There is no need to choose one or the other, you can do both at the same time. You only live once, so experience
+   everything that life has to offer. Don't be afraid to try everything once, as long as it is safe, because you never
+   know what you like until you try -- sometimes you might need to try twice. Whatever you like to do, don't hold back
+   and go for it! One of the greatest pleasure is love, so love everyone and everything as much as you can.
 
 3. **Unity**: While a single person can do amazing things, but the greatest things can only be accomplished when we work
    together as one. That is every single living being -- not just humans, but animals, bacterials, plants, etc. More
@@ -43,11 +43,10 @@ To be happy, just do what kids do best:
 3. **Nurture your drives with positivity** for lasting happiness. Identify the things that drive you, express them
    freely, and then encourage positively (e.g. praise, be thankful and loving, celebrate) and explicitly as
    assuming the obvious is often wrong and easily misinterpreted as otherwise. If you don't feel driven, then manually
-   push yourself to get started. When you get negative feelings (e.g. tired, bored) while doing something good (e.g.
-   exercise, reading), after letting them go, try to manifest positive feelings (e.g. excited, happy) by thinking about
-   them or how what you are doing will help you in the future -- that will train your mind to enjoy doing good things.
-   Kids are naturally driven as they enjoy playing and their love for family, friends, and things are pure, sincere, and
-   overflowing. :heart:
+   push yourself to get started. When you get negative feelings while doing something good, let them go and then try to
+   manifest positive feelings (e.g. excited, happy) by thinking about them or how what you are doing will help you in
+   the future -- that trains your mind to enjoy doing good things. Kids are naturally driven as they enjoy playing and
+   their love for family, friends, and things are pure, sincere, and overflowing. :heart:
 
 <img src="great-life-by-paige-cody.jpg">
 
