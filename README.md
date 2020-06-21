@@ -19,12 +19,12 @@ Before we start, we need to keep these goals in mind, our true north, so we don'
    and go for it! One of the greatest pleasure is love, so love everyone and everything as much as you can.
 
 3. **Unity**: While a single person can do amazing things, but the greatest things can only be accomplished when we work
-   together as one. That is every single living being, not just humans, as we interdepend (e.g. more than half of your
-   body cells are microbes!). Divisions of countries, races, companies, individual families are superficial, archaic,
-   and only causes harm. It's ok to have groups, but not superficial barriers that reduce collaboration, nor thinking
-   other groups are different or inferior. We should help each other, work together, and share the fruits of labor, so
-   everyone becomes better and benefits compound. When we don't work together, great things come to an abrupt end.
-   Together, the possibilities are endless.
+   together as one. That is every single living being, not just humans, as we interdepend (e.g. we need the oxygen from
+   trees and more than half of your body cells are microbes!). Divisions of countries, races, companies, individual
+   families are superficial, archaic, and only causes harm. It's ok to have groups, but not superficial barriers that
+   reduce collaboration, nor thinking other groups are different or inferior. We should help each other, work together,
+   and share the fruits of labor, so everyone becomes better and benefits compound. When we don't work together, great
+   things come to an abrupt end. Together, the possibilities are endless.
 
 To be happy, just do what kids do best:
 
@@ -83,7 +83,7 @@ Being happy and doing great things are distinct goals, but both are necessary to
 over a life time. Metaphorically, think of the steps for being happy as light from the sun that disperses in all
 directions from a happiness core, while the steps for doing great things is focusing all that light into a single point
 with high intensity on your goals. With both set of steps, like the sun, you are self-sustaining and super powerful,
-therefore you can accomplish anything you set your mind to and absolutely nothing can stop you.
+therefore you can be happy while accomplishing anything you set your mind to and absolutely nothing can stop you.
 
 Easily remember the steps using the acronym **TPU LERN ABCD** from the first letter of each step.
 Each step should be done in order so the next step is easier to do. It takes time to master each step, but the results
