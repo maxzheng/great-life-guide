@@ -81,7 +81,7 @@ To do great things:
 
 Being happy and doing great things are distinct goals, but both are necessary to sustain and achieve your full potential
 over a life time. Metaphorically, think of the steps for being happy as light from the sun that disperses in all
-directions with a happiness core, while the steps for doing great things is focusing all that light into a single point
+directions from a happiness core, while the steps for doing great things is focusing all that light into a single point
 with high intensity on your goals. With both set of steps, like the sun, you are self-sustaining and super powerful,
 therefore you can accomplish anything you set your mind to and absolutely nothing can stop you.
 
@@ -89,5 +89,11 @@ Easily remember the steps using the acronym **TPU LERN ABCD** from the first let
 Each step should be done in order so the next step is easier to do. It takes time to master each step, but the results
 are immediate and increasingly substantial. When things are not going as expected, take time to rest and reflect using
 the steps. Mastery is achieved when all steps are done naturally at all times. And voilà, a great life! :smile:
+
+P.S. Now you know how to live a great life and can gain practical knowledge as you go, however to save time, here are
+     some recommended books:
+
+* [Limitless: Upgrade Your Brain, Learn Anything Faster, and Unlock Your Exceptional Life](https://amzn.to/37NVptj)
+* [The Meaning Revolution: The Power of Transcendent Leadership](https://amzn.to/3fWHQL9)
 
 *The latest published version is available at http://agreatlife.guide for easy sharing and liking.*
