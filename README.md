@@ -79,8 +79,13 @@ To do great things:
    What is right for you might not be right for others as each person has different information, so it's important to
    respect other people's decisions and properly exchange information.
 
-Easily remember the steps using the acronym **TPU LERN ABCD** from the first letter of each step. Being happy and doing
-great things are distinct goals, but both are necessary to sustain and achieve your full potential over a life time.
+Being happy and doing great things are distinct goals, but both are necessary to sustain and achieve your full potential
+over a life time. Metaphorically, think of the steps for being happy as light from the sun that disperses in all
+directions with a happiness core, while the steps for doing great things is focusing all that light into a single point
+with high intensity on your goals. With both set of steps, like the sun, you are self-sustaining and super powerful,
+therefore you can accomplish anything you set your mind to and absolutely nothing can stop you.
+
+Easily remember the steps using the acronym **TPU LERN ABCD** from the first letter of each step.
 Each step should be done in order so the next step is easier to do. It takes time to master each step, but the results
 are immediate and increasingly substantial. When things are not going as expected, take time to rest and reflect using
 the steps. Mastery is achieved when all steps are done naturally at all times. And voilà, a great life! :smile:
