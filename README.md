@@ -77,7 +77,7 @@ To do great things:
    Once you know what to do, then do it with everything that you got and don't let anything hold you back.
    Knowledge is only half of the story, action completes it, so don't be lazy; do as much as you can and persevere.
    What is right for you might not be right for others as each person has different information, so it's important to
-   respect other people's decisions and properly exchange information.
+   respect other people's decisions and properly exchange information to reach consensus.
 
 Being happy and doing great things are distinct goals, but both are necessary to sustain and achieve your full potential
 over a life time. Metaphorically, think of the steps for being happy as light from the sun that disperses in all
