@@ -90,13 +90,14 @@ Each step should be done in order so the next step is easier to do. It takes tim
 are immediate and increasingly substantial. When things are not going as expected, take time to rest and reflect using
 the steps. Mastery is achieved when all steps are done naturally at all times. And voilà, a great life! :smile:
 
-**Please like or share this with your family, friends, or colleagues so they can live a great life too!**
+> Please like or share this with your family and friends so they can live a great life too!
 
 P.S. Now you know how to live a great life and can gain more knowledge as you go, however to save time, here are
      some recommended resources:
 
-* [Limitless: Upgrade Your Brain, Learn Anything Faster, and Unlock Your Exceptional Life](https://amzn.to/37NVptj)
 * [Kwik Brain with Jim Kwik](https://podcasts.apple.com/us/podcast/kwik-brain-with-jim-kwik/id1208024744)
+* [Limitless: Upgrade Your Brain, Learn Anything Faster, and Unlock Your Exceptional Life](https://amzn.to/37NVptj)
+* [Tiny Habits: The Small Changes That Change Everything](https://amzn.to/37YyHyK)
 * [The Meaning Revolution: The Power of Transcendent Leadership](https://amzn.to/3fWHQL9)
 
 *The latest published version is available at http://agreatlife.guide for easy sharing and liking.*
