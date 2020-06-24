@@ -90,6 +90,8 @@ Each step should be done in order so the next step is easier to do. It takes tim
 are immediate and increasingly substantial. When things are not going as expected, take time to rest and reflect using
 the steps. Mastery is achieved when all steps are done naturally at all times. And voilà, a great life! :smile:
 
+**Please like or share this with your family, friends, or colleagues so they can live a great life too!**
+
 P.S. Now you know how to live a great life and can gain more knowledge as you go, however to save time, here are
      some recommended resources:
 
