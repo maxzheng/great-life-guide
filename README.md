@@ -91,9 +91,10 @@ are immediate and increasingly substantial. When things are not going as expecte
 the steps. Mastery is achieved when all steps are done naturally at all times. And voilà, a great life! :smile:
 
 P.S. Now you know how to live a great life and can gain more knowledge as you go, however to save time, here are
-     some recommended books:
+     some recommended resources:
 
 * [Limitless: Upgrade Your Brain, Learn Anything Faster, and Unlock Your Exceptional Life](https://amzn.to/37NVptj)
+* [Kwik Brain with Jim Kwik](https://podcasts.apple.com/us/podcast/kwik-brain-with-jim-kwik/id1208024744)
 * [The Meaning Revolution: The Power of Transcendent Leadership](https://amzn.to/3fWHQL9)
 
 *The latest published version is available at http://agreatlife.guide for easy sharing and liking.*
