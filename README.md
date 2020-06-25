@@ -40,7 +40,7 @@ To be happy, just do what kids do best:
    illness, and negativity. To sleep well, exercise to exhaust your energy, meditate to be calm, make sure you are
    comfortable, and do it consistently. Then you are energized and naturally happy.
 
-3. **Nurture your drives with positivity** for lasting happiness. Identify the things that drive you, express them
+4. **Nurture your drives with positivity** for lasting happiness. Identify the things that drive you, express them
    freely, and then encourage positively (e.g. praise, be thankful and loving, celebrate) and explicitly as
    assuming the obvious is often wrong and easily misinterpreted as otherwise. If you don't feel driven, then manually
    push yourself to get started. When you get negative feelings while doing something good, let them go and then try to
@@ -79,11 +79,16 @@ To do great things:
    What is right for you might not be right for others as each person has different information, so it's important to
    respect other people's decisions and properly exchange information to reach consensus.
 
+Happiness is purely an internal state that you decide. As soon as external factors are in the equation, then
+happiness will depend on them and therefore it is no longer possible to achieve full happiness. There is no need to let
+external factors in as everyone can be happy by themselves by following the happiness steps, however it is definitely
+the right thing to do to help others become happy as well or resolve issues with others by teaching and using the steps.
+
 Being happy and doing great things are distinct goals, but both are necessary to sustain and achieve your full potential
 over a life time. Metaphorically, think of the steps for being happy as light from the sun that disperses in all
 directions from a happiness core, while the steps for doing great things is focusing all that light into a single point
-with high intensity on your goals. With both set of steps, like the sun, you are self-sustaining and super powerful,
-therefore you can be happy while accomplishing anything you set your mind to and absolutely nothing can stop you.
+with high intensity to complete your goals. With both set of steps, like the sun, you are self-sustaining and super
+powerful, therefore you can be happy while accomplishing anything you set your mind to and absolutely nothing can stop you.
 
 Easily remember the steps using the acronym **TPU LERN ABCD** from the first letter of each step.
 Each step should be done in order so the next step is easier to do. It takes time to master each step, but the results
