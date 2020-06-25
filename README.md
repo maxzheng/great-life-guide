@@ -77,7 +77,7 @@ To do great things:
    Once you know what to do, then do it with everything that you got and don't let anything hold you back.
    Knowledge is only half of the story, action completes it, so don't be lazy; do as much as you can and persevere.
    What is right for you might not be right for others as each person has different information, so it's important to
-   respect other people's decisions and properly exchange information to reach consensus.
+   respect other people's decisions and properly exchange information to reach alignment.
 
 Happiness is purely an internal state that you decide. As soon as external factors are in the equation, then
 happiness will depend on them and therefore it is no longer possible to achieve full happiness. There is no need to let
