@@ -2,7 +2,7 @@ A Great Life Guide
 ==================
 
 Life is great when you are able to fully understand, do, and enjoy everything that it has to offer. This lists
-the steps to achieve that in a sustainable way, so everyone can be happy and do great things.
+the steps to achieve that in a sustainable way, so everyone can be happy and productive.
 
 Before we start, we need to keep these goals in mind, our true north, so we don't get lost:
 
@@ -28,17 +28,21 @@ Before we start, we need to keep these goals in mind, our true north, so we don'
 
 To be happy, just do what kids do best:
 
-1. **Let go of everything** to reduce burden and make space for happiness. Negativity will rot the core of your body and
-   mind, such as hate, anger, stress, addiction, sadness, fear. Relax, breath, and then just let them all go. You will
-   feel lighter and ready to be happy. If it's hard to let go or you feel sad without knowing why, then just move on.
+1. **Sleep well** to rejuvenate, then you are naturally energized and happy. When you didn't sleep well, you are much
+   more susceptible to accidents, illnesses, and negativities (e.g. sadness, anger, hate). To sleep well, exercise to
+   exhaust your body during the day, meditate before bed to calm your mind, comfort yourself in a nice bed, and
+   consistently do it at the same time to create a rhythm -- that's Emc² from the first letters. Don't get out of bed
+   until you finish sleeping!
 
-2. **Enjoy the present** for transient joy. Too often we get stuck thinking about the past or the future, and forget
+2. **Let go of everything** to reduce burden and make space for happiness. Negativity will rot the core of your body and
+   mind and affect everything you do, so let it go. External things (e.g. work projects, family issues) will prevent you
+   from being fully happy, so let them go. Relax, breath, and then just let them all go. You will feel lighter and ready
+   to be happy. If it's hard to let go or you feel sad without knowing why, then go back to previous step or move onto
+   next.
+
+3. **Enjoy the present** for transient joy. Too often we get stuck thinking about the past or the future, and forget
    about the present, which is when happiness can be created. Don't think about what you don't have or could have, but
    appreciate and enjoy what you do have. Whatever you do, simply be present and enjoy it.
-
-3. **Rest well** to rejuvenate and be ready for more fun. When you are tired, you are much more susceptible to accident,
-   illness, and negativity. To sleep well, exercise to exhaust your energy, meditate to be calm, make sure you are
-   comfortable, and do it consistently. Then you are energized and naturally happy.
 
 4. **Nurture your drives with positivity** for lasting happiness. Identify the things that drive you, express them
    freely, and then encourage positively (e.g. praise, be thankful and loving, celebrate) and explicitly as
@@ -50,7 +54,7 @@ To be happy, just do what kids do best:
 
 <img src="great-life-by-paige-cody.jpg">
 
-To do great things:
+To be productive:
 
 1. **Activate your body, passion, and mind** to maximize potential. Start the day with nutritious food. Exercise
    regularly to strengthen your body. Do what you love and be your true self to let your passion flow abundantly as it
@@ -84,13 +88,13 @@ happiness will depend on them and therefore it is no longer possible to achieve 
 external factors in as everyone can be happy by themselves by following the happiness steps, however it is definitely
 the right thing to do to help others become happy as well or resolve issues with others by teaching and using the steps.
 
-Being happy and doing great things are distinct goals, but both are necessary to sustain and achieve your full potential
+Being happy and productive are distinct goals, but both are necessary to sustain and achieve your full potential
 over a life time. Metaphorically, think of the steps for being happy as light from the sun that disperses in all
-directions from a happiness core, while the steps for doing great things is focusing all that light into a single point
+directions from a happiness core, while the steps being productive is focusing all that light into a single point
 with high intensity to complete your goals. With both set of steps, like the sun, you are self-sustaining and super
 powerful, therefore you can be happy while accomplishing anything you set your mind to and absolutely nothing can stop you.
 
-Easily remember the steps using the acronym **TPU LERN ABCD** from the first letter of each step.
+Easily remember the steps using the acronym **TPU SLEN ABCD** from the first letter of each step.
 Each step should be done in order so the next step is easier to do. It takes time to master each step, but the results
 are immediate and increasingly substantial. When things are not going as expected, take time to rest and reflect using
 the steps. Mastery is achieved when all steps are done naturally at all times. And voilà, a great life! :smile:
