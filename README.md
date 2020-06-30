@@ -88,7 +88,7 @@ happiness will depend on them and therefore it is no longer possible to achieve 
 external factors in as everyone can be happy by themselves by following the happiness steps, however it is definitely
 the right thing to do to help others become happy as well or resolve issues with others by teaching and using the steps.
 
-Being happy and productive are distinct goals, but both are necessary to sustain and achieve your full potential
+Being happy and productive don't always go together, but both are necessary to sustain and achieve your full potential
 over a life time. Metaphorically, think of the steps for being happy as light from the sun that disperses in all
 directions from a happiness core, while the steps being productive is focusing all that light into a single point
 with high intensity to complete your goals. With both set of steps, like the sun, you are self-sustaining and super
