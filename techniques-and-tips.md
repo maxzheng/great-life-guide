@@ -159,7 +159,7 @@ Here are a couple of different ways to [improve your reading speed](https://jimk
 3. Use your finger as a pacer under the words you are reading, which can quickly increase your reading speed from 25% to
    100%. Read where your finger is and move your finger faster and faster, and then you will naturally start to read
    faster and reduce subvocalization too.
-4. Read in [multiple words (single cohesive idea)](https://www.amazon.com/Speed-Reading-Right-Brain-Instead-ebook/dp/B00O3OD5WY)
+4. Read in [multiple words (single cohesive idea)](https://amzn.to/2ZyKArl)
    instead of one word at a time by grouping related words into a single idea or visual (e.g. super hero).
 
 ### #3 Prioritization
