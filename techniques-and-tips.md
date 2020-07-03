@@ -1,9 +1,9 @@
 Double Your Happiness and Productivity
 ======================================
 
-<img src="images/productivity-happiness-by-gerd-altmann.jpg" align="right" width="400px">
+<img src="images/happiness-productivity-by-gerd-altmann.jpg" align="right" width="400px">
 
-These skills/techniques/tips will at least double your happiness and productivity with mastery, so try them today!
+These skills/techniques/tips will at least double your happiness and productivity with mastery, so try them today:
 
 * [3 Empowerments](#Empowerments)
 * [5 Memorizations](#Memorizations)
@@ -363,5 +363,5 @@ If you feel the need to micromanage someone, that means you haven't put transcen
 
 > Please like or share this with your family and friends so they can double their productivity and happiness too!
 
-P.S. If you want a coaching session for these techniques/tips, please let me know. I would love to help you double your
-productivity and happiness! To get updates, [follow me](https://www.linkedin.com/in/maxzheng/).
+P.S. If you want a coaching session for these skills/techniques, please let me know. I would love to help you double your
+happiness and productivity! To get updates, [follow me](https://www.linkedin.com/in/maxzheng/).
