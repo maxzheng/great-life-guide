@@ -142,7 +142,22 @@ more time to do anything else you like!
 
 Apply **FASTER** to your reading, studying, or whenever you are learning to learn faster!
 
-### #2 Prioritization
+### #2 Speed Reading
+
+Here are a couple of different ways to [improve your reading speed](https://jimkwik.com/kwik-brain-007/):
+
+1. Comprehension must come first before trying to increase your speed, otherwise there is no point going faster.
+   To increase comprehension, it requires full concentration and use the **FASTER** and memory techniques to remember
+   what you read.
+2. Stop the subvocalization in your head as it reduces the reading speed to your speaking speed, which is much slower
+   than your comprehension speed.
+3. Use your finger as a pacer under the words you are reading, which can quickly increase your reading speed from 25% to
+   100%. Read where your finger is and move your finger faster and faster, and then you will naturally start to read
+   faster and reduce subvocalization too.
+4. Read in [multiple words (single cohesive idea)](https://www.amazon.com/Speed-Reading-Right-Brain-Instead-ebook/dp/B00O3OD5WY)
+   instead of one word at a time by grouping related words into a single idea or visual (e.g. super hero).
+
+### #3 Prioritization
 
 [Prioritize](https://www.ctl.life/2018/03/too-many-things-to-do-5-simple-steps-to.html) work based on their value and
 work on the most valueable things first as time is limited, so you can get the most bang for your time. For projects,
@@ -152,7 +167,7 @@ use **TBD** to enable prioritization to maximize business impact:
 * **Business Value** if the project is completed. Work on the highest value over cost ratio first!
 * **Deliverables** for scoping the output to estimate effort and to align with stakeholders.
 
-### #3 Pomodoro
+### #4 Pomodoro
 
 [Pomodoro](https://jimkwik.com/kwik-brain-019/) can be used to ensure concentration is at max when doing
 work. Your ability to concentrate wanes after 30 minutes, so the idea is to take a break after 25 minutes of
@@ -160,7 +175,7 @@ concentrated work to reset using a timer. Instead of a timer, alternatively, use
 concentration and mental/body energy once awhile and take a break/refuel when it is not 100%. Be sure to drink plenty
 of water and snack on some brain foods!
 
-### #4 Flow
+### #5 Flow
 
 [Flow](https://jimkwik.com/kwik-brain-020/) can be used to fully emerse yourself in your work with
 absolute passion and concentration, the work becomes so fun that time simply flies as your productivity sky rockets
@@ -180,7 +195,7 @@ To get into the state, these conditions must be met (**FGCT**):
 
 Listening to your favorite music can help too.
 
-### #5 Tiny Habits
+### #6 Tiny Habits
 
 [Tiny Habits by BJ Fogg, PhD](https://amzn.to/37YyHyK) can be used to build good habits to automate your life, which
 can be used to improve your health and learning.
