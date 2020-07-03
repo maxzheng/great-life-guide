@@ -104,6 +104,7 @@ the steps. Mastery is achieved when all steps are done naturally at all times. A
 P.S. Now you know how to live a great life and can gain more knowledge as you go, however to save time, here are
      some recommended resources:
 
+* [Techniques/Tips to Double Your Productivity and Happiness](techniques-and-tips.md)
 * [Kwik Brain with Jim Kwik](https://podcasts.apple.com/us/podcast/kwik-brain-with-jim-kwik/id1208024744)
 * [Limitless: Upgrade Your Brain, Learn Anything Faster, and Unlock Your Exceptional Life](https://amzn.to/37NVptj)
 * [Tiny Habits: The Small Changes That Change Everything](https://amzn.to/37YyHyK)
