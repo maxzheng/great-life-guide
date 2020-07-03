@@ -6,7 +6,7 @@ Techniques/Tips to Double Your Productivity and Happiness
 These techniques/tips will at least double your productivity and happiness, so try them today:
 
 * 5 Memorization
-* 6 Execution
+* 7 Execution
 * 3 Meditation
 * 2 Empowerment
 
@@ -220,6 +220,25 @@ your phone to check msgs? Make it harder to access your phone (reduce ability).
 
 Additional Resources: [YouTube Video](https://www.youtube.com/watch?v=AdKUJxjn-R8),
                      [Kwik Brain Podcast](https://podcasts.apple.com/us/podcast/182-tiny-habit-to-change-your-life-with-dr-bj-fogg/id1208024744?i=1000478036542)
+
+### #7 Public Speaking
+
+[Jeff
+Weiner has 3 golden rules](https://www.linkedin.com/pulse/20121022044446-22330283-from-crickets-chirping-to-a-standing-ovation-three-rules-of-effective-public-speaking/):
+
+* **Know your audience**: Different audiences have different goals and the content needs to be relevant and valuable to
+  them.
+* **Know your material**: The reason they are listening to you is because you know about the topic more than them,
+  otherwise there is no reason for them to be there.
+* **Know your passion**: The most interesting topic presented without enthusiasm will put people to sleep. The most
+  boring topic will come alive when presented and infused with passion as it is transferred to your audience.
+
+[Julian Treasure suggests speaking using **HAIL**](https://www.youtube.com/watch?v=eIho2S0ZahI) so people will listen:
+
+* **Honesty**: The truth matters and lies don't.
+* **Authenticity**: Be yourself as they came to hear from **you**.
+* **Integrity**: Do what you say otherwise they will feel betrayed
+* **Love**: Show that you care and they will care about what you say
 
 
 Meditations
