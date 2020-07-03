@@ -1,14 +1,14 @@
 Techniques/Tips to Double Your Productivity and Happiness
 =========================================================
 
-<img src="productivity-happiness-by-gerd-altmann.jpg" align="right">
+<img src="productivity-happiness-by-gerd-altmann.jpg" align="right" width="400px">
 
 These techniques/tips will at least double your productivity and happiness, so try them today!
 
 Memorization
 ------------
 
-Do you know you can easily remember vast amount of information quickly and easily? It's just a
+Did you know you can easily remember vast amount of information quickly and easily? It's just a
 matter of knowing how to do it. Your age or how well you can naturally remember things don't matter. Everyone can do it!
 Once you know the technique, you could easily [learn a new language](https://www.smithsonianmag.com/smart-news/how-to-learn-a-language-in-less-than-24-hours-122194358/) in a day!
 
@@ -36,7 +36,7 @@ All you have to do open your mind and give it a try!
 
         concentration, mindfulness, loving-kindness, prioritization, Pomodoro, Flow, FASTER, Tiny Habits.
 
-   We can easily do that by **visualizing the following story in your mind**:
+   You can easily do that by **visualizing the following story in your mind**:
 
        In your room, imagine a con (**concentration**) man walks in to put a land mine
        (**mindfulness**) in the middle of the room. You say to him "can you kindly (**loving-kindness**) leave please?"
@@ -59,7 +59,7 @@ All you have to do open your mind and give it a try!
 
         avocado, egg, walnut, blueberries, broccoli, coconut oil, leafy greens, tumeric, chocolate, fish
 
-   We can map each of those items to our body like so by **visualizing them in your mind**:
+   Map each of those items to our body like so by **visualizing them in your mind**:
 
    * Avocado on top of egg head
    * Crack the egg head to get walnuts inside
