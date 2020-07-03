@@ -1,24 +1,70 @@
-Techniques/Tips to Double Your Productivity and Happiness
-=========================================================
+Double Your Happiness and Productivity
+======================================
 
 <img src="images/productivity-happiness-by-gerd-altmann.jpg" align="right" width="400px">
 
-These techniques/tips will at least double your productivity and happiness, so try them today:
+These skills/techniques/tips will at least double your happiness and productivity with mastery, so try them today!
 
-* 5 Memorization
-* 7 Execution
-* 3 Meditation
-* 2 Empowerment
+* [3 Empowerments](#Empowerments)
+* [5 Memorizations](#Memorizations)
+* [7 Executions](#Executions)
+* [3 Meditations](#Meditations)
+* [1 Leaderships](#Leaderships)
+
+
+Empowerments
+------------
+
+You can achieve your dreams -- the only requirement is that you have to believe in and apply yourself!
+
+### #1 Believe
+
+Believe in yourself. And if you don't believe yourself, how do you expect others to do that? While it might seem
+insignificant, but it has massive impact on what you can accomplish as your brain will wire itself based on what you
+believe. If you believe it is not possible to remember massive amount of information or become a genius, then you
+won't. If you believe the world is flat, then it is. If you don't believe it is possible to fly into space, then you
+won't. But if you believe you can do anything by applying yourself using the right skills/techniques/tips, then you will!
+Believe is scientifically proven to [alter the effects of medication, diet, exercise, and even stress](https://www.youtube.com/watch?v=0tqq66zwa7g) in your body and mind. So believe in yourself and positivity.
+
+[Limitless by Jim Qwik](https://amzn.to/37NVptj) is the best book ever written and is also the mindset that you want
+to have when it comes to what you can do. There is essentially no limit to your brain's ability to abstract, process,
+and remember information. While your body has physical limits, but it is amazingly adaptive. Both your body
+and mind can be trained and it will adapt to all your needs, known as [neutroplasticity](https://en.wikipedia.org/wiki/Neuroplasticity).
+
+The only [differences between an average person and a genius](https://jimkwik.com/kwik-brain-032/) are:
+
+* **Growth**: You must have a growth and limitless mindset where you are motivated to learn and become better each
+ day. The techniques in this article will get you started.
+* **Giving**: Teach others what you have learned so everyone becomes better. Someone taught you, remember?
+* **Gratitude**: Be thankful for everything you have got and everyone that have helped you be the awesome person you
+ are today. It takes a village to raise a child.
+* **Grit**: It's not a matter of knowing, but you must do it and never stop. Perserverance is key and
+ things do get easier, especially if you use the techniques in this article.
+
+Steve Jobs [started out as an ordinary guy, but he believed](https://www.youtube.com/watch?v=UF8uR6Z6KLc) and applied
+himself, then he became a genius. So you can too!
+
+### #2 Happiness
+
+Happiness is an internal state that you can decide and must be that way to ensure you have unlimited energy to be
+productive. If you are not happy at all, productivity goes to zero. It is the single most significant factor to
+productivity. To be happy and productive at all times, simply follow [A Great Life Guide](http://agreatlife.guide/).
+
+### #3 Biggest Impact & Growth
+
+Don't take the easiest job, nor the hardest, as neither is good for you. Too easy, and you won't grow. Too hard, there
+is no chance to grow. Pick one that is challenging with the highest impact and growth potential, but still doable, and
+you will be rewarded handomely in both monetary and non-monetary rewards. And don't be afraid to fail!!
 
 Memorizations
 -------------
 
-Did you know you can easily remember vast amount of information quickly and easily? It's just a
+Did you know that you can easily remember vast amount of information quickly and easily? It's just a
 matter of knowing how to do it. Your age or how well you can naturally remember things don't matter. Everyone can do it!
-Once you know the technique, you could easily [learn a new language](https://www.smithsonianmag.com/smart-news/how-to-learn-a-language-in-less-than-24-hours-122194358/) in a day!
+Once you know the techniques, you could easily [learn a new language](https://www.smithsonianmag.com/smart-news/how-to-learn-a-language-in-less-than-24-hours-122194358/) in a day!
 
 The memory techniques here can be combined together to remember massive and different kind of information easily.
-All you have to do open your mind and give it a try!
+All you have to do open your mind and give it a try.
 
 ### #1 How Memory Works
 
@@ -142,7 +188,8 @@ more time to do anything else you like!
  know and how it will be useful to you in the future. You will forget what you don't care sooner or later, but will
  remember things that matter to you for a life time.
 * **Teach** others to further re-learn the content from another perspective.
-* **Enter** to your calender as a reminder to keep learning and don't let yourself forget due to busy schedule.
+* **Emotion** for the content matters as your brain will remember things with strong emotional attachment, and not so
+  much otherwise. Evoke emotions and your senses as you learn to add more dimensions and connections to your memory!
 * **Recall** what you know once awhile to re-enforce what you remembered.
 
 Apply **FASTER** to your reading, studying, or whenever you are learning to learn faster!
@@ -283,43 +330,38 @@ done, thank yourself for what you contribute to others, and finally extend agape
 repeat the same steps for some people you love, some you had conflicts with, and some that you don't know that well.
 
 
-Empowerments
-------------
+Leaderships
+-----------
 
-You can achieve your dreams -- the only requirement is that you have to believe in and apply yourself!
+### #1 Transcendent
 
-### #1 Believe
+There are many leadership styles, but the best one is where you instill meaning and purpose to your employees based on
+the company's mission and manage with compassion so they will care about you, the company, the company's
+mission, and will do amazing things. This is created by Fred Kofman and written in [The Meaning Revolution](https://amzn.to/3fWHQL9).
 
-Believe in yourself. And if you don't believe yourself, how do you expect others to do that? While it might seem
-insignificant, but it has massive impact on what you can accomplish as your brain will wire itself based on what you
-believe. If you believe it is not possible to remember massive amount of information or become a genius, then you
-won't. If you believe the world is flat, then it is. If you don't believe it is possible to fly into space, then you
-won't. But if you do believe you can do anything by applying yourself using the right techniques, then you will!
-Believe is scientifically proven to [alter the effects of medication, diet, exercise, and even stress](https://www.youtube.com/watch?v=0tqq66zwa7g). So believe in yourself and posivity in everything and everyone and that's what you will get.
+The book addresses 4 key issues in any organization:
 
-[Limitless by Jim Qwik](https://amzn.to/37NVptj) is the best book ever written and is also the mindset that you want
-to have when it comes to what you can do. There is no essentially limit to your brain's ability to abstract, process,
-and remember information. While your body has physical limits, but it is pretty adaptive and amazing. Both your body
-and mind can be trained and it will change to adapt to your all your needs, known as
-[neutroplasticity](https://en.wikipedia.org/wiki/Neuroplasticity).
+1. **Disengagement**: 90% of the global workforce is disengaged, which means a lot of lost productivity, money being
+   dropped on the floor, and no one is picking it up. Traditional leadership, like the carrots and sticks approach,
+   just demotivates employees and makes things worst, but many leaders still use it. To really motivate employees, there
+   must be *purpose* to provide meaning, *principles* to ensure integrity, *people* to build safe/good relationships, and
+   *autonomy* to enable creative freedom.
+2. **Disorganization**: Different business units are fighting with others to win, but the organization is always loosing
+   in that kind of situation. Local and global incentives can't solve the problems and sometimes can make things worst
+   (i.e. only local incentives is ok but not enough).
+3. **Disinformation**: Different people / teams have different information and they are not always willing to share. Even
+   if they do try, it is still easy to misinterpret. In short, it's just almost impossible to have all perfect
+   information to make the best decision.
+4. **Disillusion**: If you talk and forget to walk, that can easily lead to disengagement.
+   It's important to enable employees to provide honest feedbacks to leadership so improvement can be made. And power
+   can be addictive and ruin you if it isn't put in check.
 
-The only [differences between an average person and a genius](https://jimkwik.com/kwik-brain-032/) are:
+All organizations have those problems and there is no way to fix them completely, but you just need to manage them
+better than your competitors using a well designed culture, compassion, and transcendent leadership.
 
-* **Growth**: You must have a growth and limitless mindset where you are motivated to learn and become better each
- day. The techniques in this article will get you started.
-* **Giving**: Teach others what you have learned so everyone becomes better. Someone had to teach you.
-* **Gratitude**: Be thankful for everything you have got and everyone that have helped you be the awesome person you
- are today. It takes a village to raise a child.
-* **Grit**: It's not a matter of knowing, but you must do it and never stop. Perserverance is key and
- things do get easier, especially if you use the techniques in this article.
+If you feel the need to micromanage someone, that means you haven't put transcendent leadership to good use yet!
 
-[Steve Jobs believed](https://www.youtube.com/watch?v=UF8uR6Z6KLc) everyone can do what he does and had the same
-mindset. So you just need to believe too, and you can also become a genius and do anything you want.
+> Please like or share this with your family and friends so they can double their productivity and happiness too!
 
-### #2 Happiness
-
-Happiness is an internal state that you can decide and must be that way to ensure you have unlimited energy to be
-productive. If you are not happy at all, productivity goes to zero. It is the single most significant factor to
-productivity. To be happy and productive at all times, simply follow [A Great Life Guide](http://agreatlife.guide/).
-
-*To get more techniques/tips, [follow/connect with me](https://www.linkedin.com/in/maxzheng/)!*
+P.S. If you want a coaching session for these techniques/tips, please let me know. I would love to help you double your
+productivity and happiness! To get updates, [follow me](https://www.linkedin.com/in/maxzheng/).

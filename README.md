@@ -104,7 +104,7 @@ the steps. Mastery is achieved when all steps are done naturally at all times. A
 P.S. Now you know how to live a great life and can gain more knowledge as you go, however to save time, here are
      some recommended resources:
 
-* [Techniques/Tips to Double Your Productivity and Happiness](techniques-and-tips.md)
+* [Double Your Happiness and Productivity](techniques-and-tips.md)
 * [Limitless: Upgrade Your Brain, Learn Anything Faster, and Unlock Your Exceptional Life](https://amzn.to/37NVptj)
 * [Tiny Habits: The Small Changes That Change Everything](https://amzn.to/37YyHyK)
 * [The Meaning Revolution: The Power of Transcendent Leadership](https://amzn.to/3fWHQL9)
@@ -112,6 +112,6 @@ P.S. Now you know how to live a great life and can gain more knowledge as you go
 * [TED Talks: Ideas Worth Spreading](https://www.youtube.com/user/TEDtalksDirector)
 
 P.S.S. If you want a FREE coaching session using this guide, just let me know. I would to happy to help you and others
-live a great life! To get updates, [follow/connect with me](https://www.linkedin.com/in/maxzheng/)!
+live a great life! To get updates, just [follow me](https://www.linkedin.com/in/maxzheng/).
 
 *The latest published version is available at http://agreatlife.guide for easy sharing and liking.*
