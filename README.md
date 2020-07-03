@@ -109,5 +109,6 @@ P.S. Now you know how to live a great life and can gain more knowledge as you go
 * [Limitless: Upgrade Your Brain, Learn Anything Faster, and Unlock Your Exceptional Life](https://amzn.to/37NVptj)
 * [Tiny Habits: The Small Changes That Change Everything](https://amzn.to/37YyHyK)
 * [The Meaning Revolution: The Power of Transcendent Leadership](https://amzn.to/3fWHQL9)
+* [TED Talks: Ideas Worth Spreading](https://www.youtube.com/user/TEDtalksDirector)
 
 *The latest published version is available at http://agreatlife.guide for easy sharing and liking.*
