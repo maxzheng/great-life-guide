@@ -111,4 +111,7 @@ P.S. Now you know how to live a great life and can gain more knowledge as you go
 * [Kwik Brain with Jim Kwik](https://podcasts.apple.com/us/podcast/kwik-brain-with-jim-kwik/id1208024744)
 * [TED Talks: Ideas Worth Spreading](https://www.youtube.com/user/TEDtalksDirector)
 
+P.S.S. If you want a FREE coaching session using this guide, just let me know. I would to happy to help you and others
+live a great life! To get updates, [follow/connect with me](https://www.linkedin.com/in/maxzheng/)!
+
 *The latest published version is available at http://agreatlife.guide for easy sharing and liking.*

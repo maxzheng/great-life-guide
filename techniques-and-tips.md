@@ -3,7 +3,12 @@ Techniques/Tips to Double Your Productivity and Happiness
 
 <img src="images/productivity-happiness-by-gerd-altmann.jpg" align="right" width="400px">
 
-These techniques/tips will at least double your productivity and happiness, so try them today!
+These techniques/tips will at least double your productivity and happiness, so try them today:
+
+* 5 Memorization
+* 6 Execution
+* 3 Meditation
+* 2 Empowerment
 
 Memorization
 ------------
@@ -297,3 +302,5 @@ mindset. So you just need to believe too, and you can also become a genius and d
 Happiness is an internal state that you can decide and must be that way to ensure you have unlimited energy to be
 productive. If you are not happy at all, productivity goes to zero. It is the single most significant factor to
 productivity. To be happy and productive at all times, simply follow [A Great Life Guide](http://agreatlife.guide/).
+
+*To get more techniques/tips, [follow/connect with me](https://www.linkedin.com/in/maxzheng/)!*
