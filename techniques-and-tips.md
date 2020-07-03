@@ -10,8 +10,8 @@ These techniques/tips will at least double your productivity and happiness, so t
 * 3 Meditation
 * 2 Empowerment
 
-Memorization
-------------
+Memorizations
+-------------
 
 Did you know you can easily remember vast amount of information quickly and easily? It's just a
 matter of knowing how to do it. Your age or how well you can naturally remember things don't matter. Everyone can do it!
@@ -125,8 +125,8 @@ as well by making a story using those words starting with the person whose phone
 
 See [other techniques](https://en.wikipedia.org/wiki/Memorization).
 
-Execution
----------
+Executions
+----------
 
 These techniques will help you learn and do everything in half the time and double the enjoyment, so that you can have
 more time to do anything else you like!
@@ -264,8 +264,8 @@ done, thank yourself for what you contribute to others, and finally extend agape
 repeat the same steps for some people you love, some you had conflicts with, and some that you don't know that well.
 
 
-Empowerment
------------
+Empowerments
+------------
 
 You can achieve your dreams -- the only requirement is that you have to believe in and apply yourself!
 
