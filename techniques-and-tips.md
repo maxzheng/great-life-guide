@@ -1,7 +1,7 @@
 Techniques/Tips to Double Your Productivity and Happiness
 =========================================================
 
-<img src="productivity-happiness-by-gerd-altmann.jpg" align="right" width="400px">
+<img src="images/productivity-happiness-by-gerd-altmann.jpg" align="right" width="400px">
 
 These techniques/tips will at least double your productivity and happiness, so try them today!
 

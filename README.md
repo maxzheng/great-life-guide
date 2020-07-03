@@ -52,7 +52,7 @@ To be happy, just do what kids do best:
    the future -- that trains your mind to enjoy doing good things. Kids are naturally driven as they enjoy playing and
    their love for family, friends, and things are pure, sincere, and overflowing. :heart:
 
-<img src="great-life-by-paige-cody.jpg">
+<img src="images/great-life-by-paige-cody.jpg">
 
 To be productive:
 
