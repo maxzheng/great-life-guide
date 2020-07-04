@@ -70,7 +70,7 @@ To be happy, just do what kids do best:
 Fourth
 ------
 
-To be productive:
+To be productive in realizing your dreams:
 
 1. **Activate your body, passion, and mind** to maximize potential. Start the day with nutritious food. Exercise
    regularly to strengthen your body. Do what you love and be your true self to let your passion flow abundantly as it
