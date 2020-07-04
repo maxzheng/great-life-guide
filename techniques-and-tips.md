@@ -383,3 +383,5 @@ If you feel the need to micromanage, that means you haven't put transcendent lea
 
 P.S. If you want a coaching session for these skills/techniques, please let me know. I would love to help you double your
 happiness and productivity! To get updates, [follow me](https://www.linkedin.com/in/maxzheng/).
+
+*The latest published version is available at http://double.guide for easy sharing and liking.*
