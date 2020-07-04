@@ -3,11 +3,11 @@ Double Your Happiness and Productivity
 
 <img src="images/happiness-productivity-by-gerd-altmann.jpg" align="right" width="400px">
 
-These skills/techniques/tips will at least double your happiness and productivity with mastery, so try them today:
+These 20 skills/techniques/tips will at least double your happiness and productivity with mastery, so try them today:
 
 * [3 Empowerments](#Empowerments)
 * [5 Memorizations](#Memorizations)
-* [7 Executions](#Executions)
+* [8 Executions](#Executions)
 * [3 Meditations](#Meditations)
 * [1 Leaderships](#Leaderships)
 
@@ -288,6 +288,21 @@ Weiner has 3 golden rules](https://www.linkedin.com/pulse/20121022044446-2233028
 * **Integrity**: Do what you say otherwise they will feel betrayed
 * **Love**: Show that you care and they will care about what you say
 
+### #8 Six Thinking Hats
+
+[Six Thinking Hats by Edward de Bono](https://amzn.to/2YYdkLd) will help you or your team solve problems using parallel
+thinking from six perspectives, thereby increasing the number of solutions and concensus:
+
+1. **White**: Use *pure* logic and information
+2. **Red**: Use emotions, like *anger*.
+3. **Black**: Use *negativity* and caution
+4. **Yellow**: Use optimism like a ray of *sunshine*
+5. **Green**: Be innovative with growth mindset like growing *plants*.
+6. **Blue**: Look at everything from the *sky* above.
+
+Together, each person should put on each hat in the same sequence to brainstorm so the collective brain power of the
+team can be used to solve the problem rather than arguing about who is right / better, therefore reaching a solution
+with concensus in half the time or less!
 
 Meditations
 -----------
