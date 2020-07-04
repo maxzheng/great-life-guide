@@ -292,12 +292,12 @@ Additional Resources: [YouTube Video](https://www.youtube.com/watch?v=AdKUJxjn-R
 [Six Thinking Hats by Edward de Bono](https://amzn.to/2YYdkLd) will help you or your team solve problems using parallel
 thinking from six perspectives, thereby increasing the number of solutions and concensus in half the time or less:
 
-1. **White**: Use *pure* logic and information
-2. **Red**: Use emotions, like *anger*.
-3. **Black**: Use *negativity* and caution
-4. **Yellow**: Use optimism like a ray of *sunshine*
-5. **Green**: Be innovative with growth mindset like growing *plants*.
-6. **Blue**: Look at everything from the *sky* above.
+1. **White**: Discuss using *neutral* facts and information.
+2. **Red**: Discuss using feelings, intuition, and emotions, like *anger*. It's ok to be illogical.
+3. **Black**: Discuss using *negativity* and caution.
+4. **Yellow**: Discuss optimistically like a ray of *sunshine*
+5. **Green**: Discuss using creativity, innovation, and new ideas with *growth* mindset.
+6. **Blue**: Look at everything from the *sky* above to control and summarize the discussion. Start and end with blue.
 
 Together, each person should put on each hat in the same sequence to brainstorm so the collective brain power of the
 team can be used to solve the problem rather than arguing about who is right / better.
