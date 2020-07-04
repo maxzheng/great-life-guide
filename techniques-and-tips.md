@@ -54,7 +54,8 @@ productivity. To be happy and productive at all times, simply follow [A Great Li
 
 Don't take the easiest job, nor the hardest, as neither is good for you. Too easy, and you won't grow. Too hard, there
 is no chance to grow. Pick one that is challenging with the highest impact and growth potential, but still doable, and
-you will be rewarded handomely in both monetary and non-monetary rewards. And don't be afraid to fail!!
+you will be rewarded handomely in both monetary and non-monetary rewards. And don't be afraid to fail -- that's one of
+the best ways to grow!!
 
 Memorizations
 -------------
@@ -295,7 +296,7 @@ Use these techniques to improve your concentration, awareness, compassion, grati
 stress, anger), which will greatly improve your mental health, memorization, execution, relationships, leadership,
 happiness, and the ability to enjoy life!
 
-### #1 Concentration Meditation
+### #1 Concentration
 
 [Concentration Meditation](https://www.wikihow.com/Do-Concentration-Meditation) will improve your concentration and
 reduce stress, therefore improving your memory, execution, and health.
@@ -305,7 +306,7 @@ as it doesn't change. If any thoughts or other distractions comes up, just gentl
 object of focus -- this is natural and will always happen, so no need to fight it. It takes time to master this
 skill.
 
-### #2 Mindfulness Meditation
+### #2 Mindfulness
 
 [Mindfulness Meditation](https://www.wikihow.com/Do-Mindful-Meditation) will improve your awareness, concentration,
 and reduce stress, therefore improving your ability to perceive, understand, and enjoy life.
@@ -318,7 +319,7 @@ to bottom once awhile to feel the sensations, relax, and put them into the corre
 you exercise, sitting in front of your desk while working, walking to the bathroom, etc. You will start to see the
 world anew and notice things that was once ignored.
 
-### #3 Loving-Kindness Meditation
+### #3 Loving-Kindness
 
 [Loving-Kindess Meditation](https://www.wikihow.com/Practice-Loving-Kindness-Meditation-%28Metta%29) will improve
 your compassion, gratitude, concentration, and reduce negativities, therefore improving your relationships,
@@ -336,11 +337,11 @@ Leaderships
 There is only so much you can do by yourself. With leadership, you can easily multiple your impact by 10 to billions of
 times by inspiring others to join your mission.
 
-### #1 Transcendent
+### #1 Transcendence
 
-There are many leadership styles, but the best one is where you instill meaning and purpose to your employees based on
-the company's mission and manage with compassion so they will care about you, the company, the company's
-mission, and will do amazing things. This is created by Fred Kofman and written in [The Meaning Revolution](https://amzn.to/3fWHQL9).
+There are many leadership styles, but the best one is transcendent leadership where you instill meaning and purpose to
+your employees based on the company's mission with compassion so they will care about you, the company, the company's
+mission, and do amazing things. It is created by Fred Kofman and written in [The Meaning Revolution](https://amzn.to/3fWHQL9).
 
 The book addresses 4 key issues in any organization:
 
@@ -362,7 +363,7 @@ The book addresses 4 key issues in any organization:
 All organizations have those problems and there is no way to fix them completely, but you just need to manage them
 better than your competitors using a well designed culture, compassion, and transcendent leadership.
 
-If you feel the need to micromanage someone, that means you haven't put transcendent leadership to good use yet!
+If you feel the need to micromanage, that means you haven't put transcendent leadership to good use yet!
 
 > Please like or share this with your family and friends so they can double their productivity and happiness too!
 
