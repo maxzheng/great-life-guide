@@ -349,8 +349,8 @@ repeat the same steps for some people you love, some you had conflicts with, and
 Leaderships
 -----------
 
-There is only so much you can do by yourself. With leadership, you can easily multiple your impact by 10 to billions of
-times by inspiring others to join your mission.
+There is only so much you can do by yourself. With leadership, you can easily multiple your impact by 10 to **billions of
+times** by inspiring others to join your mission.
 
 ### #1 Transcendence
 
