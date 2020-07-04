@@ -54,7 +54,7 @@ productivity. To be happy and productive at all times, simply follow [A Great Li
 
 Don't take the easiest job, nor the hardest, as neither is good for you. Too easy, and you won't grow. Too hard, there
 is no chance to grow. Pick one that is challenging with the highest impact and growth potential, but still doable, and
-you will be rewarded handomely in both monetary and non-monetary rewards. And don't be afraid to fail -- that's one of
+you will be rewarded handsomely in both monetary and non-monetary rewards. And don't be afraid to fail -- that's one of
 the best ways to grow!!
 
 Memorizations
@@ -271,8 +271,7 @@ Additional Resources: [YouTube Video](https://www.youtube.com/watch?v=AdKUJxjn-R
 
 ### #7 Public Speaking
 
-[Jeff
-Weiner has 3 golden rules](https://www.linkedin.com/pulse/20121022044446-22330283-from-crickets-chirping-to-a-standing-ovation-three-rules-of-effective-public-speaking/):
+[3 golden rules](https://www.linkedin.com/pulse/20121022044446-22330283-from-crickets-chirping-to-a-standing-ovation-three-rules-of-effective-public-speaking/) from Jeff Weiner:
 
 * **Know your audience**: Different audiences have different goals and the content needs to be relevant and valuable to
   them.
@@ -281,7 +280,7 @@ Weiner has 3 golden rules](https://www.linkedin.com/pulse/20121022044446-2233028
 * **Know your passion**: The most interesting topic presented without enthusiasm will put people to sleep. The most
   boring topic will come alive when presented and infused with passion as it is transferred to your audience.
 
-[Julian Treasure suggests speaking using **HAIL**](https://www.youtube.com/watch?v=eIho2S0ZahI) so people will listen:
+[Speak using **HAIL**](https://www.youtube.com/watch?v=eIho2S0ZahI) (by Julian Treasure) so people will listen:
 
 * **Honesty**: The truth matters and lies don't.
 * **Authenticity**: Be yourself as they came to hear from **you**.
@@ -379,7 +378,7 @@ better than your competitors using a well designed culture, compassion, and tran
 
 If you feel the need to micromanage, that means you haven't put transcendent leadership to good use yet!
 
-> Please like or share this with your family and friends so they can double their productivity and happiness too!
+> Please like or share this with your family and friends so they can double their happiness and productivity too!
 
 P.S. If you want a coaching session for these skills/techniques, please let me know. I would love to help you double your
 happiness and productivity!
