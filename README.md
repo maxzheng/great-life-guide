@@ -2,9 +2,19 @@ A Great Life Guide
 ==================
 
 Life is great when you are able to fully understand, do, and enjoy everything that it has to offer. This lists
-the steps to achieve that in a sustainable way, so everyone can be happy and productive.
+the steps to achieve that in a fun, meaningful, and sustainable way.
 
-Before we start, we need to keep these goals in mind, our true north, so we don't get lost:
+First
+-----
+
+We should have a mission, our true north, so we don't get lost in the details:
+
+> Unite the world as one, so everyone can be happy and realize their dreams.
+
+Second
+------
+
+In order to fulfill the mission, we must embed these values in our hearts for everything that we do:
 
 1. **Truth**: There are too much misinformation out there, so it's hard to make the right decisions. As an intelligent
    being, we must seek the truth and use it to our advantage. Don't be afraid of it. There is no need to hide it by
@@ -25,6 +35,9 @@ Before we start, we need to keep these goals in mind, our true north, so we don'
    hinder collaboration, nor thinking other groups are different or inferior. We should help each other, work together,
    and share the fruits of labor, so everyone becomes better and benefits compound. When we don't work together, great
    things come to an abrupt end. Together, the possibilities are endless.
+
+Third
+-----
 
 To be happy, just do what kids do best:
 
@@ -53,6 +66,9 @@ To be happy, just do what kids do best:
    their love for family, friends, and things are pure, sincere, and overflowing. :heart:
 
 <img src="images/great-life-by-paige-cody.jpg">
+
+Fourth
+------
 
 To be productive:
 
@@ -83,6 +99,9 @@ To be productive:
    What is right for you might not be right for others as each person has different information, so it's important to
    respect other people's decisions and properly exchange information to reach alignment.
 
+Putting It All Together
+-----------------------
+
 Happiness is purely an internal state that you decide. As soon as external factors are in the equation, then
 happiness will depend on them and therefore it is no longer possible to achieve full happiness. There is no need to let
 external factors in as everyone can be happy by themselves by following the happiness steps, however it is definitely
@@ -101,8 +120,11 @@ the steps. Mastery is achieved when all steps are done naturally at all times. A
 
 > Please like or share this with your family and friends so they can live a great life too!
 
-P.S. Now you know how to live a great life and can gain more knowledge as you go, however to save time, here are
-     some recommended resources:
+Additional Resources
+--------------------
+
+Now you know how to live a great life and can gain more knowledge as you go, however to save time, here are
+some recommended resources:
 
 * [Double Your Happiness and Productivity](techniques-and-tips.md)
 * [Limitless: Upgrade Your Brain, Learn Anything Faster, and Unlock Your Exceptional Life](https://amzn.to/37NVptj)
@@ -111,7 +133,12 @@ P.S. Now you know how to live a great life and can gain more knowledge as you go
 * [Kwik Brain with Jim Kwik](https://podcasts.apple.com/us/podcast/kwik-brain-with-jim-kwik/id1208024744)
 * [TED Talks: Ideas Worth Spreading](https://www.youtube.com/user/TEDtalksDirector)
 
-P.S.S. If you want a FREE coaching session using this guide, just let me know. I would to happy to help you and others
-live a great life! To get updates, just [follow me](https://www.linkedin.com/in/maxzheng/).
+P.S. If you want a FREE coaching session using this guide, just let me know. I would to happy to help you and others
+live a great life!
+
+Updates
+-------
+
+This guide is updated often as I learn. To get updates, just [follow me](https://www.linkedin.com/in/maxzheng/).
 
 *The latest published version is available at http://agreatlife.guide for easy sharing and liking.*
