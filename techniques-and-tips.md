@@ -291,7 +291,7 @@ Weiner has 3 golden rules](https://www.linkedin.com/pulse/20121022044446-2233028
 ### #8 Six Thinking Hats
 
 [Six Thinking Hats by Edward de Bono](https://amzn.to/2YYdkLd) will help you or your team solve problems using parallel
-thinking from six perspectives, thereby increasing the number of solutions and concensus:
+thinking from six perspectives, thereby increasing the number of solutions and concensus in half the time or less:
 
 1. **White**: Use *pure* logic and information
 2. **Red**: Use emotions, like *anger*.
@@ -301,8 +301,7 @@ thinking from six perspectives, thereby increasing the number of solutions and c
 6. **Blue**: Look at everything from the *sky* above.
 
 Together, each person should put on each hat in the same sequence to brainstorm so the collective brain power of the
-team can be used to solve the problem rather than arguing about who is right / better, therefore reaching a solution
-with concensus in half the time or less!
+team can be used to solve the problem rather than arguing about who is right / better.
 
 Meditations
 -----------
