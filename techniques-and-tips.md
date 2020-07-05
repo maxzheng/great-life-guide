@@ -76,7 +76,7 @@ All memory techniques work based on those two facts to enable you to remember un
 
 ### #2 MOM
 
-[MOM](https://jimkwik.com/kwik-brain-002/) will get you started on your memory journey:
+[MOM by Jim Qwik](https://jimkwik.com/kwik-brain-002/) will get you started on your memory journey:
 
 * **Motivation**: To remember anything, there must be motivation. If you don't care, then it won't be remembered for
  long.
