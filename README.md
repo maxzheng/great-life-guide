@@ -2,12 +2,20 @@ A Great Life Guide
 ==================
 
 Life is great when you are able to fully understand, do, and enjoy everything that it has to offer. This lists
-the steps to achieve that in a sustainable way, so everyone can be happy and productive.
+the steps to achieve that in a meaningful and sustainable way, so everyone can be happy and productive.
+
+Personal Mission
+----------------
+
+To ensure that you don't get lost in the details and to gain more meaning in your life, you should have a personal mission,
+which is something that you are passionate about, gets you out of bed early every morning, and very *personal* to you.
+
+My personal mission is to complete and use guide to help everyone be happy and productive.
 
 Values
 ------
 
-We must embed these values, our true north, in our hearts so we don't get lost in the details:
+To ensure the prosperity of humanity, we must embed these values in our hearts for everything that we do:
 
 1. **Truth**: There are too much misinformation out there, so it's hard to make the right decisions. As an intelligent
    being, we must seek the truth and use it to our advantage. Don't be afraid of it. There is no need to hide it by
