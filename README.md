@@ -127,9 +127,6 @@ Now you know how to live a great life and can gain more knowledge as you go, how
 some recommended resources:
 
 * [Double Your Happiness and Productivity](techniques-and-tips.md)
-* [Limitless: Upgrade Your Brain, Learn Anything Faster, and Unlock Your Exceptional Life](https://amzn.to/37NVptj)
-* [Tiny Habits: The Small Changes That Change Everything](https://amzn.to/37YyHyK)
-* [The Meaning Revolution: The Power of Transcendent Leadership](https://amzn.to/3fWHQL9)
 * [Kwik Brain with Jim Kwik](https://podcasts.apple.com/us/podcast/kwik-brain-with-jim-kwik/id1208024744)
 * [TED Talks: Ideas Worth Spreading](https://www.youtube.com/user/TEDtalksDirector)
 
