@@ -225,8 +225,10 @@ use **TBD** to enable prioritization to maximize business impact:
 [Pomodoro](https://jimkwik.com/kwik-brain-019/) can be used to ensure concentration is at max when doing
 work. Your ability to concentrate wanes after 30 minutes, so the idea is to take a break after 25 minutes of
 concentrated work to reset using a timer. Instead of a timer, alternatively, use mindfulness to check your
-concentration and mental/body energy once awhile and take a break/refuel when it is not 100%. Be sure to drink plenty
-of water and snack on some brain foods!
+concentration and mental/body energy once awhile and take a break/refuel when it is not 100%.
+
+During the break, be sure to drink plenty of water and snack on some brain foods!
+Walking can improve working memory and [increase creativity by 60%](https://podcasts.apple.com/us/podcast/153-3-kwik-tips-for-brain-exercise/id1208024744?i=1000456008448)!
 
 ### #5 Flow
 
@@ -292,7 +294,7 @@ Additional Resources: [YouTube Video](https://www.youtube.com/watch?v=AdKUJxjn-R
 [Six Thinking Hats by Edward de Bono](https://amzn.to/2YYdkLd) will help you or your team solve problems using parallel
 thinking from six perspectives, thereby increasing the number of solutions and concensus in half the time or less:
 
-1. **White**: Discuss using *neutral* facts and information.
+1. **White**: Discuss using *pure* facts and information.
 2. **Red**: Discuss using feelings, intuition, and emotions, like *anger*. It's ok to be illogical.
 3. **Black**: Discuss using *negativity* and caution.
 4. **Yellow**: Discuss optimistically like a ray of *sunshine*
