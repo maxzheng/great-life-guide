@@ -57,6 +57,14 @@ is no chance to grow. Pick one that is challenging with the highest impact and g
 you will be rewarded handsomely in both monetary and non-monetary rewards. And don't be afraid to fail -- that's one of
 the best ways to grow!!
 
+### #4 No Problems, but Challenges
+
+Problems have a negative connotation and generally people steer away from them, but it's actually better to think of
+them as challenges that reward us. For each challenge, while it might not be fun sometimes, the key outcome is that you
+become better at the end -- either you learned something new or become more resilient, so you can take on bigger
+challenges in the future. Therefore, don't run away from them, but accept and complete them with excitement and be
+thankful for the experience and the reward!
+
 Memorizations
 -------------
 
