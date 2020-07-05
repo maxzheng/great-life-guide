@@ -7,7 +7,7 @@ These 20 skills/techniques/tips will at least double your happiness and producti
 
 * [3 Empowerments](#Empowerments)
 * [5 Memorizations](#Memorizations)
-* [8 Executions](#Executions)
+* [9 Executions](#Executions)
 * [3 Meditations](#Meditations)
 * [1 Leaderships](#Leaderships)
 
@@ -225,10 +225,8 @@ use **TBD** to enable prioritization to maximize business impact:
 [Pomodoro](https://jimkwik.com/kwik-brain-019/) can be used to ensure concentration is at max when doing
 work. Your ability to concentrate wanes after 30 minutes, so the idea is to take a break after 25 minutes of
 concentrated work to reset using a timer. Instead of a timer, alternatively, use mindfulness to check your
-concentration and mental/body energy once awhile and take a break/refuel when it is not 100%.
-
-During the break, be sure to drink plenty of water and snack on some brain foods!
-Walking can improve working memory and [increase creativity by 60%](https://podcasts.apple.com/us/podcast/153-3-kwik-tips-for-brain-exercise/id1208024744?i=1000456008448)!
+concentration and mental/body energy once awhile and take a break/refuel when it is not 100%. Be sure to drink plenty of
+water and snack on some brain foods!
 
 ### #5 Flow
 
@@ -303,6 +301,14 @@ thinking from six perspectives, thereby increasing the number of solutions and c
 
 Together, each person should put on each hat in the same sequence to brainstorm so the collective brain power of the
 team can be used to solve the problem rather than arguing about who is right / better.
+
+### #9 Exercise
+
+Exercise at least 30 minutes a day to boost your [happiness, mental and physical health, improve brain functions and
+memory, sleep, energy levels, and many more](https://www.healthline.com/nutrition/10-benefits-of-exercise), therefore
+productivity too. Walking can [improve working memory and increase creativity by 60%](https://podcasts.apple.com/us/podcast/153-3-kwik-tips-for-brain-exercise/id1208024744?i=1000456008448)!
+
+Don't like to exercise? No problem. Make it into a habbit using [Tiny Habits](https://www.youtube.com/watch?v=AdKUJxjn-R8).
 
 Meditations
 -----------
