@@ -108,6 +108,9 @@ items. The beauty of this is that you will be able to remember the story for a l
 make it more memorable, re-iterate with more vivid and wild images and make sure there is a strong link from one word
 to the next.
 
+To learn a new language or any one-to-one mapping, you can simply use the link part without the story. The French word
+for chair is chaise. We can easily remember that by imagining a chair chasing (chaise) us.
+
 ### #4 Loci Method
 
 [Loci Method](https://en.wikipedia.org/wiki/Method_of_loci) uses locations to associate to ordered or unordered
