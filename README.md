@@ -2,19 +2,12 @@ A Great Life Guide
 ==================
 
 Life is great when you are able to fully understand, do, and enjoy everything that it has to offer. This lists
-the steps to achieve that in a fun, meaningful, and sustainable way.
+the steps to achieve that in a sustainable way, so everyone can be happy and productive.
 
-First
------
-
-We should have a mission, our true north, so we don't get lost in the details:
-
-> Unite the world as one, so everyone can be happy and realize their dreams.
-
-Second
+Values
 ------
 
-In order to fulfill the mission, we must embed these values in our hearts for everything that we do:
+We must embed these values, our true north, in our hearts so we don't get lost in the details:
 
 1. **Truth**: There are too much misinformation out there, so it's hard to make the right decisions. As an intelligent
    being, we must seek the truth and use it to our advantage. Don't be afraid of it. There is no need to hide it by
@@ -36,8 +29,8 @@ In order to fulfill the mission, we must embed these values in our hearts for ev
    and share the fruits of labor, so everyone becomes better and benefits compound. When we don't work together, great
    things come to an abrupt end. Together, the possibilities are endless.
 
-Third
------
+Happiness
+---------
 
 To be happy, just do what kids do best:
 
@@ -67,10 +60,10 @@ To be happy, just do what kids do best:
 
 <img src="images/great-life-by-paige-cody.jpg">
 
-Fourth
-------
+Productivity
+------------
 
-To be productive in realizing your dreams:
+To be productive:
 
 1. **Activate your body, passion, and mind** to maximize potential. Start the day with nutritious food. Exercise
    regularly to strengthen your body. Do what you love and be your true self to let your passion flow abundantly as it
@@ -108,8 +101,8 @@ external factors in as everyone can be happy by themselves by following the happ
 the right thing to do to help others become happy as well or resolve issues with others by teaching and using the steps.
 
 Being happy and productive sometimes diverge, but both are necessary to sustain and achieve your full potential
-over a life time. Metaphorically, think of the steps for being happy as light from the sun that disperses in all
-directions from a happiness core, while the steps being productive is focusing all that light into a single point
+over a life time. Metaphorically, think of the happiness steps as light from the sun that disperses in all
+directions from a happiness core, while the productivity steps is focusing all that light into a single point
 with high intensity to complete your goals. With both set of steps, like the sun, you are self-sustaining and super
 powerful, therefore you can be happy while accomplishing anything you set your mind to and absolutely nothing can stop you.
 
