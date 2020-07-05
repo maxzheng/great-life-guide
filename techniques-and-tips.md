@@ -216,12 +216,15 @@ Here are a couple of different ways to [improve your reading speed](https://jimk
 ### #3 Prioritization
 
 [Prioritize](https://www.ctl.life/2018/03/too-many-things-to-do-5-simple-steps-to.html) work based on their value and
-work on the most valueable things first as time is limited, so you can get the most bang for your time. For projects,
-use **TBD** to enable prioritization to maximize business impact:
+work on the most valueable things first as time is limited, so you can get the most bang for your time.
+
+For projects, use **TBD** to enable prioritization to maximize business impact:
 
 * **Timeline Expectation** from stakeholders so projects are done on time.
 * **Business Value** if the project is completed. Work on the highest value over cost ratio first!
 * **Deliverables** for scoping the output to estimate effort and to align with stakeholders.
+
+For meetings, attend only if you are providing/getting value and there is no way to do the same offline.
 
 ### #4 Pomodoro
 
