@@ -3,7 +3,7 @@ Double Your Happiness and Productivity
 
 <img src="images/happiness-productivity-by-gerd-altmann.jpg" align="right" width="400px">
 
-These 20 skills/techniques/tips will at least double your happiness and productivity with mastery, so try them today:
+These 21 skills/techniques/tips will at least double your happiness and productivity with mastery, so try them today:
 
 * [3 Empowerments](#Empowerments)
 * [5 Memorizations](#Memorizations)
@@ -293,11 +293,11 @@ Additional Resources: [YouTube Video](https://www.youtube.com/watch?v=AdKUJxjn-R
 thinking from six perspectives, thereby increasing the number of solutions and concensus in half the time or less:
 
 1. **White**: Discuss using *pure* facts and information.
-2. **Red**: Discuss using feelings, intuition, and emotions, like *anger*. It's ok to be illogical.
-3. **Black**: Discuss using *negativity* and caution.
-4. **Yellow**: Discuss optimistically like a ray of *sunshine*
+2. **Red**: Discuss using intuition and feelings, like *anger*. It's ok to be illogical.
+3. **Black**: Discuss *negatively* with caution.
+4. **Yellow**: Discuss positively with optimism like a ray of *sunshine*.
 5. **Green**: Discuss using creativity, innovation, and new ideas with *growth* mindset.
-6. **Blue**: Look at everything from the *sky* above to control and summarize the discussion. Start and end with blue.
+6. **Blue**: Control the discussion and look at everything from the *sky* above. Start and end with blue.
 
 Together, each person should put on each hat in the same sequence to brainstorm so the collective brain power of the
 team can be used to solve the problem rather than arguing about who is right / better.
