@@ -216,12 +216,15 @@ Here are a couple of different ways to [improve your reading speed](https://jimk
 ### #3 Prioritization
 
 [Prioritize](https://www.ctl.life/2018/03/too-many-things-to-do-5-simple-steps-to.html) work based on their value and
-work on the most valueable things first as time is limited, so you can get the most bang for your time. For projects,
-use **TBD** to enable prioritization to maximize business impact:
+work on the most valueable things first as time is limited, so you can get the most bang for your time.
+
+For projects, use **TBD** to enable prioritization to maximize business impact:
 
 * **Timeline Expectation** from stakeholders so projects are done on time.
 * **Business Value** if the project is completed. Work on the highest value over cost ratio first!
 * **Deliverables** for scoping the output to estimate effort and to align with stakeholders.
+
+For meetings, attend only if you are providing/getting value and there is no way to do the same offline.
 
 ### #4 Pomodoro
 
@@ -348,11 +351,11 @@ repeat the same steps for some people you love, some you had conflicts with, and
 
 ### #4 Exercise
 
-Do cardio exercises for at least 30 minutes a day to boost your [happiness, mental and physical health, improve brain
-functions and memory, sleep, energy levels, and many more](https://www.healthline.com/nutrition/10-benefits-of-exercise), therefore
-productivity too. Just walking can [improve working memory and increase creativity by 60%](https://podcasts.apple.com/us/podcast/153-3-kwik-tips-for-brain-exercise/id1208024744?i=1000456008448)!
+Do cardio exercises for at least 30 minutes a day to boost your happiness, mental and physical health, improve brain
+functions and memory, sleep, energy levels, and [many more](https://www.healthline.com/nutrition/10-benefits-of-exercise),
+therefore productivity too. Just walking can [improve working memory and increase creativity by 60%](https://podcasts.apple.com/us/podcast/153-3-kwik-tips-for-brain-exercise/id1208024744?i=1000456008448)!
 
-Don't like to exercise? No problem. Make it into a habbit using [Tiny Habits](https://www.youtube.com/watch?v=AdKUJxjn-R8).
+Don't like to exercise? No problem. Easily make it into a habit using [Tiny Habits](https://www.youtube.com/watch?v=AdKUJxjn-R8).
 
 Leaderships
 -----------
