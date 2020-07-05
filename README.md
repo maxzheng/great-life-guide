@@ -8,9 +8,10 @@ Personal Mission
 ----------------
 
 To ensure that you don't get lost in the details and to gain more meaning in your life, you should have a personal mission,
-which is something that you are passionate about, gets you out of bed early every morning, and very *personal* to you.
+which is something that you are passionate about and want to do in your lifetime, gets you out of bed early every
+morning, you gladly do it for free, and is very *personal* to you.
 
-My personal mission is to complete and use guide to help everyone be happy and productive.
+My personal mission is to enable everyone to be happy and productive.
 
 Values
 ------
