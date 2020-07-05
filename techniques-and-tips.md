@@ -7,8 +7,8 @@ These 21 skills/techniques/tips will at least double your happiness and producti
 
 * [3 Empowerments](#Empowerments)
 * [5 Memorizations](#Memorizations)
-* [9 Executions](#Executions)
-* [3 Meditations](#Meditations)
+* [8 Executions](#Executions)
+* [4 Trainings](#Trainings)
 * [1 Leaderships](#Leaderships)
 
 
@@ -302,22 +302,14 @@ thinking from six perspectives, thereby increasing the number of solutions and c
 Together, each person should put on each hat in the same sequence to brainstorm so the collective brain power of the
 team can be used to solve the problem rather than arguing about who is right / better.
 
-### #9 Exercise
+Trainings
+---------
 
-Exercise at least 30 minutes a day to boost your [happiness, mental and physical health, improve brain functions and
-memory, sleep, energy levels, and many more](https://www.healthline.com/nutrition/10-benefits-of-exercise), therefore
-productivity too. Walking can [improve working memory and increase creativity by 60%](https://podcasts.apple.com/us/podcast/153-3-kwik-tips-for-brain-exercise/id1208024744?i=1000456008448)!
+Use these techniques/tips to improve your body, concentration, awareness, compassion, gratitude, and reduce negativities
+(e.g. stress, anger), which will greatly improve your physical / mental health, memorization, execution, relationships,
+leadership, happiness, and productivity!
 
-Don't like to exercise? No problem. Make it into a habbit using [Tiny Habits](https://www.youtube.com/watch?v=AdKUJxjn-R8).
-
-Meditations
------------
-
-Use these techniques to improve your concentration, awareness, compassion, gratitude, and reduce negativities (e.g.
-stress, anger), which will greatly improve your mental health, memorization, execution, relationships, leadership,
-happiness, and the ability to enjoy life!
-
-### #1 Concentration
+### #1 Concentration Meditation
 
 [Concentration Meditation](https://www.wikihow.com/Do-Concentration-Meditation) will improve your concentration and
 reduce stress, therefore improving your memory, execution, and health.
@@ -327,7 +319,7 @@ as it doesn't change. If any thoughts or other distractions comes up, just gentl
 object of focus -- this is natural and will always happen, so no need to fight it. It takes time to master this
 skill.
 
-### #2 Mindfulness
+### #2 Mindfulness Meditation
 
 [Mindfulness Meditation](https://www.wikihow.com/Do-Mindful-Meditation) will improve your awareness, concentration,
 and reduce stress, therefore improving your ability to perceive, understand, and enjoy life.
@@ -340,7 +332,7 @@ to bottom once awhile to feel the sensations, relax, and put them into the corre
 you exercise, sitting in front of your desk while working, walking to the bathroom, etc. You will start to see the
 world anew and notice things that was once ignored.
 
-### #3 Loving-Kindness
+### #3 Loving-Kindness Meditation
 
 [Loving-Kindess Meditation](https://www.wikihow.com/Practice-Loving-Kindness-Meditation-%28Metta%29) will improve
 your compassion, gratitude, concentration, and reduce negativities, therefore improving your relationships,
@@ -351,6 +343,13 @@ happy just like everyone else, forgive yourself for any wrongdoing, praise yours
 done, thank yourself for what you contribute to others, and finally extend agape and well wishes to yourself. Now
 repeat the same steps for some people you love, some you had conflicts with, and some that you don't know that well.
 
+### #4 Exercise
+
+Do cardio exercises for at least 30 minutes a day to boost your [happiness, mental and physical health, improve brain
+functions and memory, sleep, energy levels, and many more](https://www.healthline.com/nutrition/10-benefits-of-exercise), therefore
+productivity too. Just walking can [improve working memory and increase creativity by 60%](https://podcasts.apple.com/us/podcast/153-3-kwik-tips-for-brain-exercise/id1208024744?i=1000456008448)!
+
+Don't like to exercise? No problem. Make it into a habbit using [Tiny Habits](https://www.youtube.com/watch?v=AdKUJxjn-R8).
 
 Leaderships
 -----------
