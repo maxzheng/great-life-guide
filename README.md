@@ -128,7 +128,7 @@ Additional Resources
 Now you know how to live a great life and can gain more knowledge as you go, however to save time, here are
 some recommended resources:
 
-* [Double Your Happiness and Productivity](techniques-and-tips.md)
+* [Double Your Happiness and Productivity](double.md)
 * [Kwik Brain with Jim Kwik](https://podcasts.apple.com/us/podcast/kwik-brain-with-jim-kwik/id1208024744)
 * [TED Talks: Ideas Worth Spreading](https://www.youtube.com/user/TEDtalksDirector)
 
