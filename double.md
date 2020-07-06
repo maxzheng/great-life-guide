@@ -317,7 +317,7 @@ team can be used to solve the problem rather than arguing about who is right / b
 ### #9 Hacking Motivation
 
 When you feel motivated, that is actually dopamine being released, which makes you feel really good and happy. In order
-to [hacking it to your advantage](https://medium.com/@ozandagdeviren/hacking-your-brain-to-use-dopamine-for-success-ed2d352b4874),
+to [hack it to your advantage](https://medium.com/@ozandagdeviren/hacking-your-brain-to-use-dopamine-for-success-ed2d352b4874),
 there are a couple of things to keep in mind:
 
 1. There must be a future reward that you are excited about. The amount of dopamine released when you receive the
