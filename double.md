@@ -181,15 +181,13 @@ Now, you can think of a number, which would map to the word/image, and from that
 select a number and you would get random access to any item. This method can be used to remember people's phone number
 as well by making a story using those words starting with the person whose phone number you want to remember.
 
-See [other techniques](https://en.wikipedia.org/wiki/Memorization).
-
 Executions
 ----------
 
 These techniques will help you learn and do everything in half the time and double the enjoyment, so that you can have
 more time to do anything else you like!
 
-### #1 FASTER
+### #1 Learn Faster
 
 [FASTER by Jim Qwik](https://jimkwik.com/kwik-brain-001/) will help you learn faster and more effectively:
 
@@ -206,7 +204,7 @@ more time to do anything else you like!
 
 Apply **FASTER** to your reading, studying, or whenever you are learning to learn faster!
 
-### #2 Speed Reading
+### #2 Read Faster
 
 Here are a couple of different ways to [improve your reading speed](https://jimkwik.com/kwik-brain-007/):
 
@@ -234,7 +232,7 @@ For projects, use **TBD** to enable prioritization to maximize business impact:
 
 For meetings, attend only if you are providing/getting value and there is no way to do the same offline.
 
-### #4 Pomodoro
+### #4 Optimal Concentration
 
 [Pomodoro](https://jimkwik.com/kwik-brain-019/) can be used to ensure concentration is at max when doing
 work. Your ability to concentrate wanes after 30 minutes, so the idea is to take a break after 25 minutes of
@@ -242,7 +240,7 @@ concentrated work to reset using a timer. Instead of a timer, alternatively, use
 concentration and mental/body energy once awhile and take a break/refuel when it is not 100%. Be sure to drink plenty of
 water and snack on some brain foods!
 
-### #5 Flow
+### #5 Optimal Experience
 
 [Flow](https://jimkwik.com/kwik-brain-020/) can be used to fully emerse yourself in your work with
 absolute passion and concentration, the work becomes so fun that time simply flies as your productivity sky rockets
@@ -262,7 +260,7 @@ To get into the state, these conditions must be met (**FGCT**):
 
 Listening to your favorite music can help too.
 
-### #6 Tiny Habits
+### #6 Behavior Design
 
 [Tiny Habits by BJ Fogg, PhD](https://amzn.to/37YyHyK) can be used to build good habits to automate your life, which
 can be used to improve your health and learning.
@@ -301,7 +299,7 @@ Additional Resources: [YouTube Video](https://www.youtube.com/watch?v=AdKUJxjn-R
 * **Integrity**: Do what you say otherwise they will feel betrayed
 * **Love**: Show that you care and they will care about what you say
 
-### #8 Six Thinking Hats
+### #8 Parallel Thinking
 
 [Six Thinking Hats by Edward de Bono](https://amzn.to/2YYdkLd) will help you or your team solve problems using parallel
 thinking from six perspectives, thereby increasing the number of solutions and concensus in half the time or less:
