@@ -314,6 +314,23 @@ thinking from six perspectives, thereby increasing the number of solutions and c
 Together, each person should put on each hat in the same sequence to brainstorm so the collective brain power of the
 team can be used to solve the problem rather than arguing about who is right / better.
 
+### #9 Hacking Motivation
+
+When you feel motivated, that is actually dopamine being released, which makes you feel really good and happy. In order
+to [hacking it to your advantage](https://medium.com/@ozandagdeviren/hacking-your-brain-to-use-dopamine-for-success-ed2d352b4874),
+there are a couple of things to keep in mind:
+
+1. There must be a future reward that you are excited about. The amount of dopamine released when you receive the
+   reward is significantly lower than before. This is the carrot. E.g. big paycheck.
+2. Once you start doing work while thinking about the reward, that's when significant amount of dopamine is released,
+   which gives you the motivation needed to get the work done. And it will continue to do so until the work is done, and
+   then dramatically decreases until the reward is received.
+3. To get an extra boost of dopamine, give yourself mini-rewards once awhile, but not always, which is less effective.
+4. Many factors could significantly impact dopamine release or its effect, such as stress, pain, lack of sleep.
+
+Your brain naturally trains you to do things that it thinks will help you live a better life by releasing dopamine, such
+as making friends. Now you know how you can train your brain to do what you want!
+
 Trainings
 ---------
 
