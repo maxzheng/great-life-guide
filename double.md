@@ -82,7 +82,7 @@ Memory works by associating what you already know and
 is magnitudes better than other types of memory.
 All memory techniques work based on those two facts to enable you to remember unlimited amount of information easily!
 
-### #2 MOM
+### #2 Framework
 
 [MOM by Jim Qwik](https://jimkwik.com/kwik-brain-002/) will get you started on your memory journey:
 
@@ -93,7 +93,7 @@ All memory techniques work based on those two facts to enable you to remember un
 * **Methods**: Use effective memorization techniques below as rote memorization is the least effective, but
  unfortunately is also the most widely used.
 
-### #3 Story/Link System
+### #3 Stories & Links
 
 [Story/Link System](https://en.wikipedia.org/wiki/Mnemonic_link_system) is easy and effective to remember ordered list
 of items by creating a story with vivid images for each item.
@@ -119,7 +119,7 @@ to the next.
 To learn a new language or any one-to-one mapping, you can simply use the link part without the story. The French word
 for chair is chaise. We can easily remember that by imagining a chair chasing (chaise) us.
 
-### #4 Loci Method
+### #4 Locations
 
 [Loci Method](https://en.wikipedia.org/wiki/Method_of_loci) uses locations to associate to ordered or unordered
 information that you want to remember. Location can be things in your room, your office, your body, your
@@ -144,7 +144,7 @@ Map each of those items to our body like so by **visualizing them in your mind**
 
 Now, you can go to any place on your body to find the item or go from top to bottom to get the full list.
 
-### #5 Peg System
+### #5 Numbers
 
 [Peg System](https://en.wikipedia.org/wiki/Mnemonic_peg_system) can be used to map items to numbers, which can be
 useful for ordered or random retrieval. The idea is to map numbers to a word/image and then map that word/image to
