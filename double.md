@@ -3,9 +3,9 @@ Double Your Happiness and Productivity
 
 <img src="images/happiness-productivity-by-gerd-altmann.jpg" align="right" width="400px">
 
-These 21 skills/techniques/tips will at least double your happiness and productivity with mastery, so try them today:
+These 22 skills/techniques/tips will at least double your happiness and productivity with mastery, so try them today:
 
-* [3 Empowerments](#Empowerments)
+* [4 Empowerments](#Empowerments)
 * [5 Memorizations](#Memorizations)
 * [8 Executions](#Executions)
 * [4 Trainings](#Trainings)
