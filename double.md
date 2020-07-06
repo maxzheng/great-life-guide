@@ -390,7 +390,8 @@ times** by inspiring others to join your mission.
 
 There are many leadership styles, but the best one is transcendent leadership where you instill meaning and purpose to
 your employees based on the company's mission with compassion so they will care about you, the company, the company's
-mission, and do amazing things. It is created by Fred Kofman and written in [The Meaning Revolution](https://amzn.to/3fWHQL9).
+mission, and do amazing things. It is created by [Fred Kofman](https://www.linkedin.com/in/fkofman/) and
+written in [The Meaning Revolution](https://amzn.to/3fWHQL9).
 
 The book addresses 4 key issues in any organization:
 
@@ -413,6 +414,10 @@ All organizations have those problems and there is no way to fix them completely
 better than your competitors using a well designed culture, compassion, and transcendent leadership.
 
 If you feel the need to micromanage, that means you haven't put transcendent leadership to good use yet!
+
+This is practiced by [Jeff Weiner](https://www.linkedin.com/in/jeffweiner08/), one of the world's best CEOs, leaders at
+[LinkedIn](https://www.linkedin.com/company/linkedin/) and [Google](https://www.linkedin.com/company/google/) as [Fred
+Kofman was/is the VP of Leadership Development](https://www.linkedin.com/in/fkofman/) at both companies.
 
 > Please like or share this with your family and friends so they can double their happiness and productivity too!
 
