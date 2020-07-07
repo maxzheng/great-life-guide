@@ -3,13 +3,13 @@ Double Your Happiness and Productivity
 
 <img src="images/happiness-productivity-by-gerd-altmann.jpg" align="right" width="400px">
 
-These 23 skills/techniques/tips will at least double your happiness and productivity with mastery, so try them today:
+These 24 skills/techniques/tips will at least double your happiness and productivity with mastery, so try them today:
 
 * [4 Empowerments](#Empowerments)
 * [5 Memorizations](#Memorizations)
 * [9 Executions](#Executions)
 * [4 Trainings](#Trainings)
-* [1 Leaderships](#Leaderships)
+* [2 Leaderships](#Leaderships)
 
 
 Empowerments
@@ -430,6 +430,24 @@ Kofman was the VP of Leadership Development](https://www.linkedin.com/in/fkofman
 
 P.S. If you want a coaching session for these skills/techniques, please let me know. I would love to help you double your
 happiness and productivity!
+
+### #2 Network
+
+Does a tree make a sound when it falls in the forest when no one is there? Technically, yes, but the idea is that if no
+one is there, then it doesn't matter. Same applies to your career or personal mission. If no one is there to see what
+you do, then nothing really happened from other people's perspective even if something did. Therefore, the more people
+that can see and help you, the larger your impact. So go out and build your professional and personal network! The
+bigger the better -- just make sure there's value on both sides for a long lasting relationship.
+
+Your network can provide you with new opportunities -- my last 3 jobs were based on my connections' recommendations. It
+can provide you with professional/personal development and knowledge sharing -- this is highly under valued. As others
+are happy to share and there are no limits, it is the best and largest economy of value exchange where you can take as
+much as you want without a need to give back -- you should be thankful, of course. However, if you do want to give back,
+it is definitely appreciated. Everyone wins no matter what!
+
+As LinkedIn's cofounder [Reid Hoffman](https://www.linkedin.com/in/reidhoffman/) always say,
+[relationships matter](https://www.linkedin.com/pulse/20121106193412-1213-why-relationships-matter-i-to-the-we/).
+
 
 Updates
 -------
