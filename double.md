@@ -20,8 +20,9 @@ You can achieve your dreams -- the only requirement is that you have to believe 
 ### #1 Believe
 
 Believe in yourself. And if you don't believe yourself, how do you expect others to do that? While it might seem
-insignificant, but it has massive impact on what you can accomplish as your brain will wire itself based on what you
-believe. If you believe it is not possible to remember massive amount of information or become a genius, then you
+insignificant, but it has [massive impact on what you can accomplish as your brain will wire itself based on what you
+believe](https://confluentinc.atlassian.net/wiki/spaces/PEOPLE/pages/1201479398/Manager+L+D+Resources). If you believe
+it is not possible to remember massive amount of information or become a genius, then you
 won't. If you believe the world is flat, then it is. If you don't believe it is possible to fly into space, then you
 won't. But if you believe you can do anything by applying yourself using the right skills/techniques/tips, then you will!
 Believe is scientifically proven to [alter the effects of medication, diet, exercise, and even stress](https://www.youtube.com/watch?v=0tqq66zwa7g) in your body and mind. So believe in yourself and positivity.
