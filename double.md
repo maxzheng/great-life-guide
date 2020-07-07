@@ -192,7 +192,7 @@ more time to do anything else you like!
 [FASTER by Jim Qwik](https://jimkwik.com/kwik-brain-001/) will help you learn faster and more effectively:
 
 * **Forget** everything you know so they don't interfere with what you are about to learn.
-* **Act** as you read by taking notes, memorize important content using memorization techiques, share with others. By
+* **Act** as you read by taking notes, memorize important content using memorization techniques, share with others. By
  doing active reading, you will remember better and gain better understanding.
 * **State** of your mind matters. Make sure you are excited and motivated about the topic. Understand why you need to
  know and how it will be useful to you in the future. You will forget what you don't care sooner or later, but will
@@ -222,7 +222,7 @@ Here are a couple of different ways to [improve your reading speed](https://jimk
 ### #3 Prioritization
 
 [Prioritize](https://www.ctl.life/2018/03/too-many-things-to-do-5-simple-steps-to.html) work based on their value and
-work on the most valueable things first as time is limited, so you can get the most bang for your time.
+work on the most valuable things first as time is limited, so you can get the most bang for your time.
 
 For projects, use **TBD** to enable prioritization to maximize business impact:
 
@@ -242,7 +242,7 @@ water and snack on some brain foods!
 
 ### #5 Optimal Experience
 
-[Flow](https://jimkwik.com/kwik-brain-020/) can be used to fully emerse yourself in your work with
+[Flow](https://jimkwik.com/kwik-brain-020/) can be used to fully immerse yourself in your work with
 absolute passion and concentration, the work becomes so fun that time simply flies as your productivity sky rockets
 to new heights!! This is the pinnacle of productivity and the final state that you want to achieve to get things done
 fast with high quality!
@@ -338,7 +338,8 @@ Use these techniques/tips to improve your body, concentration, awareness, compas
 (e.g. stress, anger), which will greatly improve your physical / mental health, memorization, execution, relationships,
 leadership, happiness, and productivity!
 
-Yep, meditation and exercise can do miracles for your body and mind!
+Yep, meditation and exercise can do miracles for your body and mind! So don't underestimate their benefits and do
+start doing them today.
 
 ### #1 Concentration Meditation
 
