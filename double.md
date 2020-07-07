@@ -338,6 +338,8 @@ Use these techniques/tips to improve your body, concentration, awareness, compas
 (e.g. stress, anger), which will greatly improve your physical / mental health, memorization, execution, relationships,
 leadership, happiness, and productivity!
 
+Yep, meditation and exercise can do miracles for your body and mind!
+
 ### #1 Concentration Meditation
 
 [Concentration Meditation](https://www.wikihow.com/Do-Concentration-Meditation) will improve your concentration and
@@ -378,6 +380,11 @@ Do cardio exercises for at least 30 minutes a day to boost your happiness, menta
 functions and memory, sleep, energy levels, and [many more](https://www.healthline.com/nutrition/10-benefits-of-exercise),
 therefore productivity too. Just walking can [improve working memory and increase creativity by 60%](https://podcasts.apple.com/us/podcast/153-3-kwik-tips-for-brain-exercise/id1208024744?i=1000456008448)!
 
+As you age, you naturally become less active and many parts of your body start to degrade, hence it becomes more
+critical to do exercise. When you exercise, it increases the amount of blood and oxygen to your brain to boost its
+energy and function, and at the same time, remove toxins that damages your body and brain.
+It can [slow down and even reverse some effects of aging](https://www.health.harvard.edu/staying-healthy/exercise-and-aging-can-you-walk-away-from-father-time)!
+
 Don't like to exercise? No problem. Easily make it into a habit using [Tiny Habits](https://www.youtube.com/watch?v=AdKUJxjn-R8).
 
 Leaderships
@@ -417,7 +424,7 @@ If you feel the need to micromanage, that means you haven't put transcendent lea
 
 This is practiced by [Jeff Weiner](https://www.linkedin.com/in/jeffweiner08/), one of the world's best CEOs, leaders at
 [LinkedIn](https://www.linkedin.com/company/linkedin/) and [Google](https://www.linkedin.com/company/google/) as [Fred
-Kofman was/is the VP of Leadership Development](https://www.linkedin.com/in/fkofman/) at both companies.
+Kofman was the VP of Leadership Development](https://www.linkedin.com/in/fkofman/) at both companies.
 
 > Please like or share this with your family and friends so they can double their happiness and productivity too!
 
