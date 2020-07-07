@@ -53,7 +53,8 @@ productivity. To be happy and productive at all times, simply follow [A Great Li
 ### #3 Biggest Impact & Growth
 
 Don't take the easiest job, nor the hardest, as neither is good for you. Too easy, and you won't grow. Too hard, there
-is no chance to grow. Pick one that is challenging with the highest impact and growth potential, but still doable, and
+is no chance to grow. Pick one that is challenging with the highest impact and
+[growth potential](https://hbr.org/2016/01/what-having-a-growth-mindset-actually-means), but still doable, and
 you will be rewarded handsomely in both monetary and non-monetary rewards. And don't be afraid to fail -- that's one of
 the best ways to grow!!
 
