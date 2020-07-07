@@ -30,13 +30,17 @@ To ensure the prosperity of humanity, we must embed these values in our hearts f
    know what you like until you try -- sometimes you might need to try twice. Whatever you like to do, don't hold back
    and go for it! One of the greatest pleasure is love, so love everyone and everything as much as you can.
 
-3. **Unity**: While a single person can do amazing things, but the greatest things can only be accomplished when we work
+3. **Unity**: If we simply do what we believe is right at the expense of the our relationships, then we have won the
+   battle but have lost the war. Both are important and there are ways to solve the problems so that both can be
+   satisfied, but the relationship comes first if you must choose one -- because even if we accomplish the most amazing
+   feats, they are pointless if there is no one for us to share with.
+   While a single person can do amazing things, but the greatest things can only be accomplished when we work
    together as one. That is every single living being, not just humans, as we interdepend (e.g. we need the oxygen from
-   trees and more than half of your body cells are microbes!). Divisions of countries and races are superficial, archaic,
-   and only causes harm. It's ok to have groups, but not superficial barriers that
-   hinder collaboration, nor thinking other groups are different or inferior. We should help each other, work together,
-   and share the fruits of labor, so everyone becomes better and benefits compound. When we don't work together, great
-   things come to an abrupt end. Together, the possibilities are endless.
+   trees and more than half of your body cells are microbes!). Divisions of countries and races are superficial and only
+   causes harm. It's ok to have groups, but not superficial barriers that hinder collaboration, nor thinking other
+   groups are different or inferior. We should help each other, work together, and share the fruits of labor, so
+   everyone becomes better and benefits compound. When we don't work together, great things come to an abrupt end.
+   Together, the possibilities are endless.
 
 Happiness
 ---------

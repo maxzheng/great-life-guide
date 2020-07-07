@@ -20,12 +20,13 @@ You can achieve your dreams -- the only requirement is that you have to believe 
 ### #1 Believe
 
 Believe in yourself. And if you don't believe yourself, how do you expect others to do that? While it might seem
-insignificant, but it has [massive impact on what you can accomplish as your brain will wire itself based on what you
-believe](https://confluentinc.atlassian.net/wiki/spaces/PEOPLE/pages/1201479398/Manager+L+D+Resources). If you believe
-it is not possible to remember massive amount of information or become a genius, then you
-won't. If you believe the world is flat, then it is. If you don't believe it is possible to fly into space, then you
-won't. But if you believe you can do anything by applying yourself using the right skills/techniques/tips, then you will!
-Believe is scientifically proven to [alter the effects of medication, diet, exercise, and even stress](https://www.youtube.com/watch?v=0tqq66zwa7g) in your body and mind. So believe in yourself and positivity.
+insignificant, but it has [massive impact on what you can accomplish](https://youtu.be/pN34FNbOKXc) as your brain will
+wire itself based on what you believe. If you believe it is not possible to remember massive amount of information or
+become a genius, then you won't. If you believe the world is flat, then it is. If you don't believe it is possible to
+fly into space, then you won't. But if you believe you can do anything by applying yourself using the right
+skills/techniques/tips, then you will!  Believe is scientifically proven to [alter the effects of medication, diet,
+exercise, and even stress](https://www.youtube.com/watch?v=0tqq66zwa7g) in your body and mind. So believe in yourself
+and positivity.
 
 [Limitless by Jim Qwik](https://amzn.to/37NVptj) is the best book ever written and is also the mindset that you want
 to have when it comes to what you can do. There is essentially no limit to your brain's ability to abstract, process,
@@ -59,13 +60,30 @@ is no chance to grow. Pick one that is challenging with the highest impact and
 you will be rewarded handsomely in both monetary and non-monetary rewards. And don't be afraid to fail -- that's one of
 the best ways to grow!!
 
-### #4 No Problems, but Challenges
+### #4 Be a Player, Not a Victim
+
+The idea comes from [Fred Kofman](https://www.linkedin.com/in/fkofman/)'s book [The Meaning Revolution](https://amzn.to/3fWHQL9)
+where he states that a victim mindset always blame others and external forces for his/her misfortune, on a contrary, a
+player places himself/herself as part of the problem and puts everything under his/her control so he/her decides what to
+do and outcome.
+
+For example, if you are late for a meeting, do you say "sorry, the meeting ran over?" Well, that's a victim's mindset as
+you are blaming the meeting for making you late. A player would say "sorry, **I** need to stay longer in the meeting, so
+I will be late" before he's late or "sorry, **I** missed the meeting alert, but won't happen again." as he will make
+changes needed to ensure he doesn't miss the alert again. Do you see the stark differences the approaches that were
+taken between the two mindsets? A victim simply blames others without fixing the problem, however a player always
+takes responsbility and fixes the problem so it doesn't happen again as everything is under his control.
 
 Problems have a negative connotation and generally people steer away from them, but it's actually better to think of
 them as challenges that reward us. For each challenge, while it might not be fun sometimes, the key outcome is that you
-become better at the end -- either you learned something new or become more resilient, so you can take on bigger
+become stronger at the end -- either you learned something new or become more resilient, so you can take on bigger
 challenges in the future. Therefore, don't run away from them, but accept and complete them with excitement and be
 thankful for the experience and the reward!
+
+A player's mindset is what you want to be have for your life -- everything is always under your control and it is
+always your responsibility and never others. Blaming others is just an excuse for poor planning and gives up
+responsibility and control of your life to others. You don't want to do that. It's your life, so be the player and accept
+all the challenges that will make you stronger and take full responsibility and control of the outcome -- your outcome!
 
 Memorizations
 -------------
@@ -398,12 +416,13 @@ times** by inspiring others to join your mission.
 
 ### #1 Transcendence
 
-There are many leadership styles, but the best one is transcendent leadership where you instill meaning and purpose to
-your employees based on the company's mission with compassion so they will care about you, the company, the company's
-mission, and do amazing things. It is created by [Fred Kofman](https://www.linkedin.com/in/fkofman/) and
-written in [The Meaning Revolution](https://amzn.to/3fWHQL9).
+There are many leadership styles, but the best one is
+[transcendent leadership](https://www.forbes.com/sites/kathycaprino/2018/05/01/how-to-stop-being-a-boss-and-become-a-transcendent-leader)
+where you instill meaning and purpose to your employees based on the company's mission [with compassion](https://knowledge.wharton.upenn.edu/article/linkedin-ceo-how-compassion-can-build-a-better-company/)
+so they will care about you, the company, the company's mission, and do amazing things.
 
-The book addresses 4 key issues in any organization:
+[Fred Kofman](https://www.linkedin.com/in/fkofman/)'s book [The Meaning Revolution](https://amzn.to/3fWHQL9) details how
+transcendent leadership can be used to manage these 4 key issues in an organization:
 
 1. **Disengagement**: 90% of the global workforce is disengaged, which means a lot of lost productivity, money being
    dropped on the floor, and no one is picking it up. Traditional leadership, like the carrots and sticks approach,
