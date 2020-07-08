@@ -134,6 +134,7 @@ some recommended resources:
 
 * [Double Your Happiness and Productivity](double.md)
 * [Kwik Brain with Jim Kwik](https://podcasts.apple.com/us/podcast/kwik-brain-with-jim-kwik/id1208024744)
+* [Brains On! A science podcast for kids and curious adults](https://www.brainson.org/)
 * [TED Talks: Ideas Worth Spreading](https://www.youtube.com/user/TEDtalksDirector)
 
 P.S. If you want a FREE coaching session using this guide, just let me know. I would to happy to help you and others
