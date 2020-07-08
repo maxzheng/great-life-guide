@@ -250,23 +250,31 @@ start doing them today.
 [Concentration Meditation](https://www.wikihow.com/Do-Concentration-Meditation) will improve your concentration and
 reduce stress, therefore improving your memory, execution, and health.
 
-Sit/lay down in a comfortable spot, relax your body, and focus on your breath or anything else as long
-as it doesn't change. If any thoughts or other distractions comes up, just gently let them go and return to the
-object of focus -- this is natural and will always happen, so no need to fight it. It takes time to master this
-skill.
+Here's how to do it:
+1. Sit/lay down in a comfortable spot, and relax your body
+2. Focus on your breath or anything else as long as it doesn't change.
+3. If any thoughts or other distractions comes up, just gently let them go and return to the object of focus -- this is
+   natural and will always happen, so no need to fight it.
+4. Repeat until you feel fully relaxed and able to concentrate.
+
+It takes time to master this skill so be patient.
 
 ### #2 Mindfulness Meditation
 
 [Mindfulness Meditation](https://www.wikihow.com/Do-Mindful-Meditation) will improve your awareness, concentration,
 and reduce stress, therefore improving your ability to perceive, understand, and enjoy life.
 
-Either sit/lay down in a comfortable spot or while you do things during the day in any position, relax yourself, and
-bring your focus to what you are doing to fully enjoy it and then diffuse the focus to everything around you to fully
-take them in and appreciate the beauty. Shift your focus to your different senses so you don't miss anything. For any
-emotion or thought that comes up, enjoy, accept, let them go and don't let them affect you. Scan your body from top
-to bottom once awhile to feel the sensations, relax, and put them into the correct posture. This can be done while
-you exercise, sitting in front of your desk while working, walking to the bathroom, etc. You will start to see the
-world anew and notice things that was once ignored.
+Here's how to do it:
+1. Either sit/lay down in a comfortable spot or while you do things during the day in any position, and relax yourself.
+2. Bring your focus to what you are doing to fully enjoy it and then diffuse the focus to everything around you to fully
+   take them in and appreciate the beauty.
+3. Shift your focus to your different senses so you don't miss anything.
+4. For any emotion or thought that comes up, enjoy, accept, let them go and don't let them affect you.
+5. Scan your body from top to bottom once awhile to feel the sensations, relax, and put them into the correct posture.
+6. Repeat until you feel relaxed and aware of everything in and around you.
+
+This can be done while you exercise, sitting in front of your desk while working, walking to the bathroom, etc. You will
+start to see the world anew and notice things that was once ignored.
 
 ### #3 Loving-Kindness Meditation
 
@@ -274,10 +282,14 @@ world anew and notice things that was once ignored.
 your compassion, gratitude, concentration, and reduce negativities, therefore improving your relationships,
 leadership, and happiness.
 
-Sit/lay down in a comfortable spot, relax your body, and acknowledge that you are a person and you deserve to be
-happy just like everyone else, forgive yourself for any wrongdoing, praise yourself for the good things you have
-done, thank yourself for what you contribute to others, and finally extend agape and well wishes to yourself. Now
-repeat the same steps for some people you love, some you had conflicts with, and some that you don't know that well.
+Here's how to do it:
+1. Sit/lay down in a comfortable spot, and relax your body
+2. Acknowledge that you are a person and you deserve to be happy just like everyone else, forgive yourself for any
+   wrongdoing, praise yourself for the good things you have done, thank yourself for what you contribute to others, and
+   finally extend agape and well wishes to yourself.
+3. Now repeat the same steps for some people you love, some you had conflicts with, and some that you don't know that
+   well.
+4. Repeat until you are relaxed and your heart is filled with warmth, love, gratitude, and happiness.
 
 ### #4 Exercise
 
