@@ -132,12 +132,13 @@ Additional Resources
 Now you know how to live a great life and can gain more knowledge as you go, however to save time, here are
 some recommended resources:
 
-* [Double Your Happiness and Productivity](double.md)
-* [Kwik Brain with Jim Kwik](https://podcasts.apple.com/us/podcast/kwik-brain-with-jim-kwik/id1208024744)
-* [Brains On! A science podcast for kids and curious adults](https://www.brainson.org/)
-* [TED Talks: Ideas Worth Spreading](https://www.youtube.com/user/TEDtalksDirector)
+* [Double Your Happiness and Productivity](double.md): Skills, techniques, and tips
+* [Kwik Brain with Jim Kwik](https://podcasts.apple.com/us/podcast/kwik-brain-with-jim-kwik/id1208024744): A fun,
+  fast-paced show designed to help busy people learn and achieve anything in a fraction of the time!
+* [Brains On!](https://www.brainson.org/): An award-winning science podcast for kids and curious adults
+* [TED Talks](https://www.youtube.com/user/TEDtalksDirector): Ideas worth spreading
 
-P.S. If you want a FREE coaching session using this guide, just let me know. I would to happy to help you and others
+P.S. If you want a FREE coaching session using this guide, just let me know. I would be happy to help you and others
 live a great life!
 
 Updates
