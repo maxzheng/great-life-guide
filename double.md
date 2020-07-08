@@ -433,7 +433,7 @@ There are many leadership styles, but the best one is
 where you instill meaning and purpose to your employees based on the company's mission [with compassion](https://knowledge.wharton.upenn.edu/article/linkedin-ceo-how-compassion-can-build-a-better-company/)
 so they will care about you, the company, the company's mission, and do amazing things.
 
-[Fred Kofman](https://www.linkedin.com/in/fkofman/)'s book [The Meaning Revolution](https://amzn.to/3fWHQL9) details how
+[Fred Kofman](https://www.linkedin.com/in/fkofman/)'s book [The Meaning Revolution: The Power of Transcendent Leadership](https://amzn.to/3fWHQL9) details how
 transcendent leadership can be used to manage these 4 key issues in an organization:
 
 1. **Disengagement**: 90% of the global workforce is disengaged, which means a lot of lost productivity, money being
