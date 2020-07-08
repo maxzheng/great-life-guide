@@ -63,8 +63,8 @@ the best ways to grow!!
 ### #4 Be a Player, Not a Victim
 
 The idea comes from [Fred Kofman](https://www.linkedin.com/in/fkofman/)'s book [The Meaning Revolution](https://amzn.to/3fWHQL9)
-where he states that a victim mindset always blame others and external forces for his/her misfortune, on a contrary, a
-player places himself/herself as part of the problem and puts everything under his/her control so he/her decides what to
+where he states that a victim mindset always blame others and external forces for his misfortune, on a contrary, a
+player places himself as part of the problem and puts everything under his control so he decides what to
 do and outcome.
 
 For example, if you are late for a meeting, do you say "sorry, the meeting ran over?" Well, that's a victim's mindset as
@@ -72,7 +72,7 @@ you are blaming the meeting for making you late. A player would say "sorry, **I*
 I will be late" before he's late or "sorry, **I** missed the meeting alert, but won't happen again." as he will make
 changes needed to ensure he doesn't miss the alert again. Do you see the stark differences the approaches that were
 taken between the two mindsets? A victim simply blames others without fixing the problem, however a player always
-takes responsbility and fixes the problem so it doesn't happen again as everything is under his control.
+takes responsibility and fixes the problem so it doesn't happen again as everything is under his control.
 
 Problems have a negative connotation and generally people steer away from them, but it's actually better to think of
 them as challenges that reward us. For each challenge, while it might not be fun sometimes, the key outcome is that you
