@@ -251,7 +251,7 @@ Here are a few tips on how to convey emotions (**UMGGG**):
 
 1. **Use multiple forms**: You do this naturally when speak in person as you use your voice, face, and body to convey
    additional information that gets translated to emotions. When communicating online via text, using images, emojis, or
-   an unique writing style are great ways to add extra dimensions.
+   an unique writing style are great ways to add extra dimensions. And humor goes a long way! :smile:
 2. **Mastery of forms**: In order to translate your emotions fully and correctly, you need to have mastery of the
    forms of communication that you use, otherwise mistranslation and misinterpretation will happen.
 3. **Good Visuals**: Visual is a native form that can be easily understood and remembered, therefore it is more
@@ -261,6 +261,9 @@ Here are a few tips on how to convey emotions (**UMGGG**):
    provide value to them. The more valuable the content, the more they will listen.
 4. **Good Intentions**: If the audience detects malicious intent, then they will distrust you and disengage. People will
    listen if they know you are trying to help them and not just to take advantage of them.
+
+If the goal is to get your audience to act, then apply behavior design using
+[Tiny Habits](https://amzn.to/37YyHyK)'s **B=MAP** -- Behavior = Motivation * Ability * Prompt.
 
 Trainings
 ---------
