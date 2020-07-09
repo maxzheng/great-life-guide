@@ -3,10 +3,10 @@ Double Your Happiness and Productivity
 
 <img src="images/happiness-productivity-by-gerd-altmann.jpg" align="right" width="400px">
 
-These 24 skills/techniques/tips will at least double your happiness and productivity with mastery, so try them today:
+These 25 skills/techniques/tips will at least double your happiness and productivity with mastery, so try them today:
 
 * [4 Empowerments](#Empowerments)
-* [9 Executions](#Executions)
+* [10 Executions](#Executions)
 * [4 Trainings](#Trainings)
 * [5 Memorizations](#Memorizations)
 * [2 Leaderships](#Leaderships)
@@ -234,6 +234,33 @@ there are a couple of things to keep in mind:
 
 Your brain naturally trains you to do things that it thinks will help you live a better life by releasing dopamine, such
 as making friends. Now you know how you can train your brain to do what you want!
+
+### #10 Effective Communication
+
+The most effective communication should generate emotions.
+
+I believe emotion is our first/native language before we learned to speak.
+Other languages / forms of communication need to be translated by our brains to native forms, such as emotions or
+memories, before we can understand and respond. Therefore, the best way to communicate is by using our first/native
+language as it is the most direct. Unfortunately, there is no way to do it directly, so we must use intermediate forms,
+such as speech, writing, or gesturing. However, the idea is to make sure emotions are being conveyed thru those means to
+improve the effectiveness of the communication. Logical reasoning, pretty words, and any other form of communication
+falters in the face of emotions.
+
+Here are a few tips on how to convey emotions (**UMGGG**):
+
+1. **Use multiple forms**: You do this naturally when speak in person as you use your voice, face, and body to convey
+   additional information that gets translated to emotions. When communicating online via text, using images, emojis, or
+   an unique writing style are great ways to add extra dimensions.
+2. **Mastery of forms**: In order to translate your emotions fully and correctly, you need to have mastery of the
+   forms of communication that you use, otherwise mistranslation and misinterpretation will happen.
+3. **Good Visuals**: Visual is a native form that can be easily understood and remembered, therefore it is more
+   effective than words. A picture is worth a thousand words. In absence of real visuals, use words to describe them.
+3. **Good Values**: If something is not interesting, then we will naturaly tune out. But if something is interesting
+   (i.e. provides value), then we will listen closely. Hence, to ensure your audience is all ears, the content must
+   provide value to them. The more valuable the content, the more they will listen.
+4. **Good Intentions**: If the audience detects malicious intent, then they will distrust you and disengage. People will
+   listen if they know you are trying to help them and not just to take advantage of them.
 
 Trainings
 ---------
