@@ -11,6 +11,15 @@ These 25 skills/techniques/tips will at least double your happiness and producti
 * [5 Memorizations](#Memorizations)
 * [2 Leaderships](#Leaderships)
 
+Why & How
+---------
+
+Once you learn these skills/techniques/tips, then you can be happier and more productive, which means you can do
+everything in *less time*, therefore **more time for you to have fun and live your dreams!!** :smile:
+
+To get started, open your mind and heart, read everything from top to bottom, optionally click on links to get more
+info, and finally apply them in your daily routines. If you don't try, nothing will change. If you do, you will be
+amazed on what you can do and your own transformation as your brain and body becomes smarter and stronger each day!
 
 Empowerments
 ------------
