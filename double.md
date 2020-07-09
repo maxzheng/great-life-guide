@@ -253,26 +253,26 @@ Other languages / forms of communication need to be translated by our brains to 
 memories, before we can understand and respond. Therefore, the best way to communicate is by using our first/native
 language as it is the most direct. Unfortunately, there is no way to do it directly, so we must use intermediate forms,
 such as speech, writing, or gesturing. However, the idea is to make sure emotions are being conveyed thru those means to
-improve the effectiveness of the communication. Logical reasoning, pretty words, and any other form of communication
-falters in the face of emotions.
+improve the effectiveness of the communication. Logical reasoning, pretty words, and any other form of communications
+falter in the face of emotions.
 
 Here are a few tips on how to convey emotions (**UMGGG**):
 
 1. **Use multiple forms**: You do this naturally when speak in person as you use your voice, face, and body to convey
    additional information that gets translated to emotions. When communicating online via text, using images, emojis, or
-   an unique writing style are great ways to add extra dimensions. And humor goes a long way! :smile:
+   a unique writing style are great ways to add extra dimensions. And humor goes a long way! :smile:
 2. **Mastery of forms**: In order to translate your emotions fully and correctly, you need to have mastery of the
    forms of communication that you use, otherwise mistranslation and misinterpretation will happen.
 3. **Good Visuals**: Visual is a native form that can be easily understood and remembered, therefore it is more
    effective than words. A picture is worth a thousand words. In absence of real visuals, use words to describe them.
-3. **Good Values**: If something is not interesting, then we will naturaly tune out. But if something is interesting
+3. **Good Values**: If something is not interesting, then we will naturally tune out. But if something is interesting
    (i.e. provides value), then we will listen closely. Hence, to ensure your audience is all ears, the content must
    provide value to them. The more valuable the content, the more they will listen.
 4. **Good Intentions**: If the audience detects malicious intent, then they will distrust you and disengage. People will
    listen if they know you are trying to help them and not just to take advantage of them.
 
 If the goal is to get your audience to act, then apply behavior design using
-[Tiny Habits](https://amzn.to/37YyHyK)'s **B=MAP** -- Behavior = Motivation * Ability * Prompt.
+[Tiny Habits](https://amzn.to/37YyHyK)'s **B=MAP**: Behavior = Motivation * Ability * Prompt.
 
 Trainings
 ---------
@@ -472,7 +472,7 @@ There are many leadership styles, but the best one is
 where you instill meaning and purpose to your employees based on the company's mission [with compassion](https://knowledge.wharton.upenn.edu/article/linkedin-ceo-how-compassion-can-build-a-better-company/)
 so they will care about you, the company, the company's mission, and do amazing things.
 
-[Fred Kofman](https://www.linkedin.com/in/fkofman/)'s book [The Meaning Revolution: The Power of Transcendent Leadership](https://amzn.to/3fWHQL9) details how
+[Fred Kofman](https://www.linkedin.com/in/fkofman/)'s book [The Meaning Revolution](https://amzn.to/3fWHQL9) details how
 transcendent leadership can be used to manage these 4 key issues in an organization:
 
 1. **Disengagement**: 90% of the global workforce is disengaged, which means a lot of lost productivity, money being
