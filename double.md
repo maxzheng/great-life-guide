@@ -246,7 +246,7 @@ as making friends. Now you know how you can train your brain to do what you want
 
 ### #10 Effective Communication
 
-The most effective communication should generate emotions.
+The most effective communication should convey emotions.
 
 I believe emotion is our first/native language before we learned to speak.
 Other languages / forms of communication need to be translated by our brains to native forms, such as emotions or
@@ -256,7 +256,7 @@ such as speech, writing, or gesturing. However, the idea is to make sure emotion
 improve the effectiveness of the communication. Logical reasoning, pretty words, and any other form of communications
 falter in the face of emotions.
 
-Here are a few tips on how to convey emotions (**UMGGG**):
+Here are a few tips on how to convey emotions, therefore communicate effectively (**UMGGG**):
 
 1. **Use multiple forms**: You do this naturally when speak in person as you use your voice, face, and body to convey
    additional information that gets translated to emotions. When communicating online via text, using images, emojis, or
