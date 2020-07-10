@@ -1,6 +1,8 @@
 A Great Life Guide
 ==================
 
+> **Warning**: This guide will make you achieve 100% happiness and productivity every day for the rest of your life!
+
 Life is great when you are able to fully understand, do, and enjoy everything that it has to offer. This lists
 the steps to achieve that in a meaningful and sustainable way, so everyone can be happy and productive.
 
