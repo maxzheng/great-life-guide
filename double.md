@@ -23,6 +23,8 @@ To get started, open your mind and heart, read everything from top to bottom, op
 info, and finally apply them in your daily routines. If you don't try, nothing will change. If you do, you will be
 amazed on what you can do and your own transformation as your brain and body becomes smarter and stronger each day!
 
+> Please like or share this with your family and friends so they can double their happiness and productivity too!
+
 Empowerments
 ------------
 
@@ -502,8 +504,6 @@ If you feel the need to micromanage, that means you haven't put transcendent lea
 This is practiced by [Jeff Weiner](https://www.linkedin.com/in/jeffweiner08/), one of the world's best CEOs, leaders at
 [LinkedIn](https://www.linkedin.com/company/linkedin/) and [Google](https://www.linkedin.com/company/google/) as [Fred
 Kofman was the VP of Leadership Development](https://www.linkedin.com/in/fkofman/) at both companies.
-
-> Please like or share this with your family and friends so they can double their happiness and productivity too!
 
 P.S. If you want a coaching session for these skills/techniques, please let me know. I would love to help you double your
 happiness and productivity!
