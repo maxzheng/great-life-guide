@@ -1,6 +1,8 @@
 Double Your Happiness and Productivity
 ======================================
 
+> If you spend 30 minutes now to read this, you will **save years** later!
+
 <img src="images/happiness-productivity-by-gerd-altmann.jpg" align="right" width="400px">
 
 These 25 skills/techniques/tips will at least double your happiness and productivity with mastery, so try them today:
@@ -16,8 +18,6 @@ Why & How
 
 Once you learn these skills/techniques/tips, then you can be happier and more productive, which means you can do
 everything in *less time*, therefore **more time for you to have fun and live your dreams!!** :smile:
-
-> If you spend 30 minutes now to read this, you will **save years** later!
 
 To get started, open your mind and heart, read everything from top to bottom, optionally click on links to get more
 info, and finally apply them in your daily routines. If you don't try, nothing will change. If you do, you will be
@@ -62,6 +62,8 @@ himself, then he became a genius. So you can too!
 Happiness is an internal state that you can decide and must be that way to ensure you have unlimited energy to be
 productive. If you are not happy at all, productivity goes to zero. It is the single most significant factor to
 productivity. To be happy and productive at all times, simply follow [A Great Life Guide](http://agreatlife.guide/).
+
+> Happiness enables productivity. Productivity elevates happiness.
 
 ### #3 Biggest Impact & Growth
 
