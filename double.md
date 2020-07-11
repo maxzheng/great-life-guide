@@ -286,9 +286,8 @@ All you have to do open your mind and give it a try.
 
 ### #1 How Memory Works
 
-Memory works by associating what you already know and
-[visual memory](https://www.shiftelearning.com/blog/bid/350326/studies-confirm-the-power-of-visuals-in-elearning)
-is magnitudes better than other types of memory.
+Memory works by associating what you already know. Visual memory is magnitudes better than other types of memory --
+[90% of information processed in the brain are visuals and done at 60,000 times faster than text](https://www.shiftelearning.com/blog/bid/350326/studies-confirm-the-power-of-visuals-in-elearning).
 All memory techniques work based on those two facts to enable you to remember unlimited amount of information easily!
 
 ### #2 Framework
@@ -534,7 +533,7 @@ smart, not hard!
 
 [Bill Gates and many other successful CEOs read daily and
 often](https://www.blinkist.com/magazine/posts/most-ceos-read-60-books-per-year). Bill reads 50 books a year. Elon Musk
-learned to build rockets by reading books. Warren Buffet reads 500 pages every day. In the book [Change Your Habits, Change Your
+learned to build rockets by reading books. Warren Buffett reads 500 pages every day. In the book [Change Your Habits, Change Your
 Life](https://amzn.to/2ZWBPYs), which has strategies that transformed 177 average people into self-made millionaires, it
 found that 88% of financially successful people read at least 30 mins per day.
 
