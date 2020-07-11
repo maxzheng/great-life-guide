@@ -532,8 +532,16 @@ that's by reading what they have written and listening to what they say using al
 learned in this guide. By doing that, you can leverage all they have learned and use that to do your bidding -- that's
 smart, not hard!
 
+[Bill Gates and many other successful CEOs read daily and
+often](https://www.blinkist.com/magazine/posts/most-ceos-read-60-books-per-year). Bill reads 50 books a year. Elon Musk
+learned to build rockets by reading books. Warren Buffet reads 500 pages every day. In the book [Change Your Habits, Change Your
+Life](https://amzn.to/2ZWBPYs), which has strategies that transformed 177 average people into self-made millionaires, it
+found that 88% of financially successful people read at least 30 mins per day.
+
 Of course, it's impossible to read everything and listen to everyone, so you do need to focus on some based on
-your interests.
+your interests. If you are short on time, try out [Blinkist](https://www.blinkist.com/) where they provide a summary of
+key points in many books. I prefer to read the original as it provides more context. In Amazon's Kindle app, the
+`Send a Free Sample` option is a great way to preview before you buy!
 
 Updates
 -------
@@ -544,6 +552,6 @@ Need Help?
 ----------
 
 If you want a coaching/presentation session for these skills/techniques/tips, please [connect and message me](https://www.linkedin.com/in/maxzheng/).
-I would love to help you and your team double your happiness and productivity! You can name your own price. :wink:
+I would love to help you and your team double your happiness and productivity! For a limited time, you can name your own price. :wink:
 
 *The latest published version is available at http://double.guide for easy sharing and liking.*
