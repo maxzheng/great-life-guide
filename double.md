@@ -5,13 +5,13 @@ Double Your Happiness and Productivity
 
 <img src="images/happiness-productivity-by-gerd-altmann.jpg" align="right" width="400px">
 
-These 25 skills/techniques/tips will at least double your happiness and productivity with mastery, so try them today:
+These 26 skills/techniques/tips will at least double your happiness and productivity with mastery, so try them today:
 
-* [4 Empowerments](#Empowerments)
 * [10 Executions](#Executions)
 * [4 Trainings](#Trainings)
 * [5 Memorizations](#Memorizations)
 * [2 Leaderships](#Leaderships)
+* [5 Empowerments](#Empowerments)
 
 Why & How
 ---------
@@ -25,81 +25,6 @@ amazed on what you can do and your own transformation as your brain and body bec
 
 > Please like or share this with your family and friends so they can double their happiness and productivity too!
 
-Empowerments
-------------
-
-You can achieve your dreams -- the only requirement is that you have to believe in and apply yourself!
-
-### #1 Believe
-
-Believe in yourself. And if you don't believe yourself, how do you expect others to do that? While it might seem
-insignificant, but it has [massive impact on what you can accomplish](https://youtu.be/pN34FNbOKXc) as your brain will
-wire itself based on what you believe. If you believe it is not possible to remember massive amount of information or
-become a genius, then you won't. If you believe the world is flat, then it is. If you don't believe it is possible to
-fly into space, then you won't. But if you believe you can do anything by applying yourself using the right
-skills/techniques/tips, then you will!  Believe is scientifically proven to [alter the effects of medication, diet,
-exercise, and even stress](https://www.youtube.com/watch?v=0tqq66zwa7g) in your body and mind. So believe in yourself
-and positivity.
-
-[Limitless by Jim Qwik](https://amzn.to/37NVptj) is the best book ever written and is also the mindset that you want
-to have when it comes to what you can do. There is essentially no limit to your brain's ability to abstract, process,
-and remember information. While your body has physical limits, but it is amazingly adaptive. Both your body
-and mind can be trained and it will adapt to all your needs, known as [neutroplasticity](https://en.wikipedia.org/wiki/Neuroplasticity).
-
-The only [differences between an average person and a genius](https://jimkwik.com/kwik-brain-032/) are:
-
-* **Growth**: You must have a growth and limitless mindset where you are motivated to learn and become better each
- day. The techniques in this article will get you started.
-* **Giving**: Teach others what you have learned so everyone becomes better. Someone taught you, remember?
-* **Gratitude**: Be thankful for everything you have got and everyone that have helped you be the awesome person you
- are today. It takes a village to raise a child.
-* **Grit**: It's not a matter of knowing, but you must do it and never stop. Perserverance is key and
- things do get easier, especially if you use the techniques in this article.
-
-Steve Jobs [started out as an ordinary guy, but he believed](https://www.youtube.com/watch?v=UF8uR6Z6KLc) and applied
-himself, then he became a genius. So you can too!
-
-### #2 Happiness
-
-Happiness is an internal state that you can decide and must be that way to ensure you have unlimited energy to be
-productive. If you are not happy at all, productivity goes to zero. It is the single most significant factor to
-productivity. To be happy and productive at all times, simply follow [A Great Life Guide](http://agreatlife.guide/).
-
-> Happiness enables productivity. Productivity elevates happiness.
-
-### #3 Biggest Impact & Growth
-
-Don't take the easiest job, nor the hardest, as neither is good for you. Too easy, and you won't grow. Too hard, there
-is no chance to grow. Pick one that is challenging with the highest impact and
-[growth potential](https://hbr.org/2016/01/what-having-a-growth-mindset-actually-means), but still doable, and
-you will be rewarded handsomely in both monetary and non-monetary rewards. And don't be afraid to fail -- that's one of
-the best ways to grow!!
-
-### #4 Be a Player, Not a Victim
-
-The idea comes from [Fred Kofman](https://www.linkedin.com/in/fkofman/)'s book [The Meaning Revolution](https://amzn.to/3fWHQL9)
-where he states that a victim mindset always blame others and external forces for his misfortune, on a contrary, a
-player places himself as part of the problem and puts everything under his control so he decides what to
-do and outcome.
-
-For example, if you are late for a meeting, do you say "sorry, the meeting ran over?" Well, that's a victim's mindset as
-you are blaming the meeting for making you late. A player would say "sorry, **I** need to stay longer in the meeting, so
-I will be late" before he's late or "sorry, **I** missed the meeting alert, but won't happen again." as he will make
-changes needed to ensure he doesn't miss the alert again. Do you see the stark differences the approaches that were
-taken between the two mindsets? A victim simply blames others without fixing the problem, however a player always
-takes responsibility and fixes the problem so it doesn't happen again as everything is under his control.
-
-Problems have a negative connotation and generally people steer away from them, but it's actually better to think of
-them as challenges that reward us. For each challenge, while it might not be fun sometimes, the key outcome is that you
-become stronger at the end -- either you learned something new or become more resilient, so you can take on bigger
-challenges in the future. Therefore, don't run away from them, but accept and complete them with excitement and be
-thankful for the experience and the reward!
-
-A player's mindset is what you want to be have for your life -- everything is always under your control and it is
-always your responsibility and never others. Blaming others is just an excuse for poor planning and gives up
-responsibility and control of your life to others. You don't want to do that. It's your life, so be the player and accept
-all the challenges that will make you stronger and take full responsibility and control of the outcome -- your outcome!
-
 Executions
 ----------
 
@@ -108,7 +33,7 @@ more time to do anything else you like!
 
 ### #1 Learn Faster
 
-[FASTER by Jim Qwik](https://jimkwik.com/kwik-brain-001/) will help you learn faster and more effectively:
+[FASTER by Jim Qwik](https://jimkwik.com/kwik-brain-001/) will help you learn anything faster and more effectively:
 
 * **Forget** everything you know so they don't interfere with what you are about to learn.
 * **Act** as you read by taking notes, memorize important content using memorization techniques, share with others. By
@@ -505,9 +430,6 @@ This is practiced by [Jeff Weiner](https://www.linkedin.com/in/jeffweiner08/), o
 [LinkedIn](https://www.linkedin.com/company/linkedin/) and [Google](https://www.linkedin.com/company/google/) as [Fred
 Kofman was the VP of Leadership Development](https://www.linkedin.com/in/fkofman/) at both companies.
 
-P.S. If you want a coaching session for these skills/techniques, please let me know. I would love to help you double your
-happiness and productivity!
-
 ### #2 Network
 
 Does a tree make a sound when it falls in the forest when no one is there? Technically, yes, but the idea is that if no
@@ -525,10 +447,104 @@ it is definitely appreciated. Everyone wins no matter what!
 As LinkedIn's cofounder [Reid Hoffman](https://www.linkedin.com/in/reidhoffman/) always say,
 [relationships matter](https://www.linkedin.com/pulse/20121106193412-1213-why-relationships-matter-i-to-the-we/).
 
+Empowerments
+------------
+
+You can achieve your dreams -- the only requirement is that you have to believe in and apply yourself!
+
+### #1 Believe In Yourself
+
+Believe in yourself. And if you don't believe yourself, how do you expect others to do that? While it might seem
+insignificant, but it has [massive impact on what you can accomplish](https://youtu.be/pN34FNbOKXc) as your brain will
+wire itself based on what you believe. If you believe it is not possible to remember massive amount of information or
+become a genius, then you won't. If you believe the world is flat, then it is. If you don't believe it is possible to
+fly into space, then you won't. But if you believe you can do anything by applying yourself using the right
+skills/techniques/tips, then you will!  Believe is scientifically proven to [alter the effects of medication, diet,
+exercise, and even stress](https://www.youtube.com/watch?v=0tqq66zwa7g) in your body and mind. So believe in yourself
+and positivity.
+
+[Limitless by Jim Qwik](https://amzn.to/37NVptj) is the best book ever written and is also the mindset that you want
+to have when it comes to what you can do. There is essentially no limit to your brain's ability to abstract, process,
+and remember information. While your body has physical limits, but it is amazingly adaptive. Both your body
+and mind can be trained and it will adapt to all your needs, known as [neutroplasticity](https://en.wikipedia.org/wiki/Neuroplasticity).
+
+The only [differences between an average person and a genius](https://jimkwik.com/kwik-brain-032/) are:
+
+* **Growth**: You must have a growth and limitless mindset where you are motivated to learn and become better each
+ day. The techniques in this article will get you started.
+* **Giving**: Teach others what you have learned so everyone becomes better. Someone taught you, remember?
+* **Gratitude**: Be thankful for everything you have got and everyone that have helped you be the awesome person you
+ are today. It takes a village to raise a child.
+* **Grit**: It's not a matter of knowing, but you must do it and never stop. Perserverance is key and
+ things do get easier, especially if you use the techniques in this article.
+
+Steve Jobs [started out as an ordinary guy, but he believed](https://www.youtube.com/watch?v=UF8uR6Z6KLc) and applied
+himself, then he became a genius. So you can too!
+
+### #2 Happiness is Purely Internal
+
+Happiness is an internal state that you can decide and must be that way to ensure you have unlimited energy to be
+productive. If you are not happy at all, productivity goes to zero. It is the single most significant factor to
+productivity. To be happy and productive at all times, simply follow [A Great Life Guide](http://agreatlife.guide/).
+
+> Happiness enables productivity. Productivity elevates happiness.
+
+### #3 Aim for The Biggest Impact & Growth
+
+Don't take the easiest job, nor the hardest, as neither is good for you. Too easy, and you won't grow. Too hard, there
+is no chance to grow. Pick one that is challenging with the highest impact and
+[growth potential](https://hbr.org/2016/01/what-having-a-growth-mindset-actually-means), but still doable, and
+you will be rewarded handsomely in both monetary and non-monetary rewards. And don't be afraid to fail -- that's one of
+the best ways to grow!!
+
+### #4 Be a Player, Not a Victim
+
+The idea comes from [Fred Kofman](https://www.linkedin.com/in/fkofman/)'s book [The Meaning Revolution](https://amzn.to/3fWHQL9)
+where he states that a victim mindset always blame others and external forces for his misfortune, on a contrary, a
+player places himself as part of the problem and puts everything under his control so he decides what to
+do and outcome.
+
+For example, if you are late for a meeting, do you say "sorry, the meeting ran over?" Well, that's a victim's mindset as
+you are blaming the meeting for making you late. A player would say "sorry, **I** need to stay longer in the meeting, so
+I will be late" before he's late or "sorry, **I** missed the meeting alert, but won't happen again." as he will make
+changes needed to ensure he doesn't miss the alert again. Do you see the stark differences the approaches that were
+taken between the two mindsets? A victim simply blames others without fixing the problem, however a player always
+takes responsibility and fixes the problem so it doesn't happen again as everything is under his control.
+
+Problems have a negative connotation and generally people steer away from them, but it's actually better to think of
+them as challenges that reward us. For each challenge, while it might not be fun sometimes, the key outcome is that you
+become stronger at the end -- either you learned something new or become more resilient, so you can take on bigger
+challenges in the future. Therefore, don't run away from them, but accept and complete them with excitement and be
+thankful for the experience and the reward!
+
+A player's mindset is what you want to be have for your life -- everything is always under your control and it is
+always your responsibility and never others. Blaming others is just an excuse for poor planning and gives up
+responsibility and control of your life to others. You don't want to do that. It's your life, so be the player and accept
+all the challenges that will make you stronger and take full responsibility and control of the outcome -- your outcome!
+
+### #5 Leverage What Others Have Learned
+
+If you try to figure out everything yourself, it would take you millions of years as that's how much knowledge has
+accumulated since the dawn of humanity. And that continues to grow each day as
+[human knowledge is doubling every year](https://www.industrytap.com/knowledge-doubling-every-12-months-soon-to-be-every-12-hours/3950).
+How do you obtain millions of years of wisdom while it doubles every year? Easy, as you may have guessed,
+that's by reading what they have written and listening to what they say using all the techniques that you have
+learned in this guide. By doing that, you can leverage all they have learned and use that to do your bidding -- that's
+smart, not hard!
+
+Of course, it's impossible to read everything and listen to everyone, so you do need to focus on some areas based on
+your interest.
 
 Updates
 -------
 
 New skills/techniques/tips are added often as I learn. To get updates, [follow me](https://www.linkedin.com/in/maxzheng/).
+
+Need Help?
+----------
+
+P.S. If you want a coaching session for these skills/techniques/tips, please [let me know](https://www.linkedin.com/in/maxzheng/).
+     I would love to help you double your happiness and productivity!
+
 
 *The latest published version is available at http://double.guide for easy sharing and liking.*
