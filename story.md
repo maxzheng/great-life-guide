@@ -3,6 +3,8 @@ A Great Life Story
 
 > For the brave and curious. For the impatient, skip to last section.
 
+<img src="images/love-by-manish-dhawan.png" align="right" width="400px">
+
 Hello, adventurer! :smile:
 
 I am going to tell you a sad but hopefully inspiring story about me and motivation behind [A Great Life Guide](http://agreatlife.guide/)
