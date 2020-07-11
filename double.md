@@ -532,8 +532,8 @@ that's by reading what they have written and listening to what they say using al
 learned in this guide. By doing that, you can leverage all they have learned and use that to do your bidding -- that's
 smart, not hard!
 
-Of course, it's impossible to read everything and listen to everyone, so you do need to focus on some areas based on
-your interest.
+Of course, it's impossible to read everything and listen to everyone, so you do need to focus on some based on
+your interests.
 
 Updates
 -------
@@ -543,8 +543,7 @@ New skills/techniques/tips are added often as I learn. To get updates, [follow m
 Need Help?
 ----------
 
-P.S. If you want a coaching session for these skills/techniques/tips, please [let me know](https://www.linkedin.com/in/maxzheng/).
-     I would love to help you double your happiness and productivity!
-
+If you want a coaching/presentation session for these skills/techniques/tips, please [connect and message me](https://www.linkedin.com/in/maxzheng/).
+I would love to help you and your team double your happiness and productivity! You can name your own price. :wink:
 
 *The latest published version is available at http://double.guide for easy sharing and liking.*

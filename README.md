@@ -140,12 +140,15 @@ some recommended resources:
 * [Brains On!](https://www.brainson.org/): An award-winning science podcast for kids and curious adults
 * [TED Talks](https://www.youtube.com/user/TEDtalksDirector): Ideas worth spreading
 
-P.S. If you want a FREE coaching session using this guide, just let me know. I would be happy to help you and others
-live a great life!
-
 Updates
 -------
 
 This guide is updated often as I learn. To get updates, just [follow me](https://www.linkedin.com/in/maxzheng/).
+
+Need Help?
+----------
+
+If you want a FREE coaching session using this guide, just let me know. I would be happy to help you and others
+live a great life!
 
 *The latest published version is available at http://agreatlife.guide for easy sharing and liking.*
