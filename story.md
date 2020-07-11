@@ -3,7 +3,7 @@ A Great Life Story
 
 > For the brave and curious. For the impatient, skip to last section.
 
-<img src="images/love-by-manish-dhawan.png" align="right" width="400px">
+<img src="images/love-by-manish-dhawan.png" align="right" width="250px">
 
 Hello, adventurer! :smile:
 
