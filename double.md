@@ -5,9 +5,9 @@ Double Your Happiness and Productivity
 
 <img src="images/happiness-productivity-by-gerd-altmann.jpg" align="right" width="400px">
 
-These 26 skills/techniques/tips will at least double your happiness and productivity with mastery, so try them today:
+These 27 skills/techniques/tips will at least double your happiness and productivity with mastery, so try them today:
 
-* [10 Executions](#Executions)
+* [11 Executions](#Executions)
 * [4 Trainings](#Trainings)
 * [5 Memorizations](#Memorizations)
 * [2 Leaderships](#Leaderships)
@@ -204,6 +204,54 @@ Here are a few tips on how to convey emotions, therefore communicate effectively
 
 If the goal is to get your audience to act, then apply behavior design using
 [Tiny Habits](https://amzn.to/37YyHyK)'s **B=MAP**: Behavior = Motivation * Ability * Prompt.
+
+### #11 Lateral Thinking
+
+Thinking logically is called vertical thinking as you are focused in a single subject and is great for tactical work.
+For strategic and new ideas, it is better to think from diffused, eagle-in-the-sky, different, and untrod
+perspectives, and let your brain come up with a novel solution for you. That is called lateral thinking, which is
+defined and written in the book [Lateral Thinking](https://amzn.to/3iTBw9p) by Edward De Bono.
+
+In the book, he described the following scenario to demonstrate lateral thinking:
+
+> A merchant owes a banker a lot of money and the banker fancies the merchant's daughter, and so the banker offered
+> them a deal using a game of chance. The banker will put a black and white pebble into a box and if the daughter picks
+> the white pebble, then the debt is cleared. If she picks the black one, then the daughter will be traded for the debt.
+> And if they don't play the game, then the merchant will go to jail for not being able to pay the debt. After they
+> decided to play, the sly banker puts in two black pebbles into the box instead of one each, and the daughter saw it.
+
+So now, logically, she has 3 options:
+
+1. Don't play, but then her dad goes to jail.
+2. Confront the banker, but things probably won't go well.
+3. Play and exchange herself for the debt to save her dad.
+
+None of them are good choices. Can you think of a better option? It will be hard logically using vertical
+thinking. Pause here and try to think about a solution before reading further so that you can better appreciate lateral
+thinking.
+
+Edward suggests there are 4 things to improve lateral thinking:
+
+1. **Avoid the dominance of vertical thinking**. As most people are trained to think logically since grade school, it's
+   easy to get into the old habit. The more that you are an expert and comfortable with the existing thinking, the less
+   likely that you would see a new way. So it's important to forget what you know. Most smart people are stuck in
+   vertical thinking and so can't come up with out-of-the-box ideas easily.
+2. **Try abstracting the problem in different ways or more generically**. What you see may not be what it seems.
+   Something that looks like a square outline may be just 4 lines, and then the 4 lines may be just many dots, and so
+   the square is actually just many dots in the shape of a square outline. Once you find the base abstraction, then you
+   can solve the problem differently.
+3. **Search from different perspectives and in untrod paths.** While the existing solution may be good, but if you
+   don't look around for other paths, then you will never know if there is a better one. So ignore the existing path and
+   look for another one with fresh eyes, and you will be surprised. Or look at things backward or from another
+   perspective.
+4. **Chance is better than you think.** Lastly, just leave things to chance. Many great discoveries of our time happened
+   by chance. While you can't use it directly, but like card games, you can improve your odds. One way is by playing
+   more and just explore. Another is to brainstorm crazy ideas even if it doesn't make sense logically.
+
+Now that you know how to be a better lateral thinker, can you think of a solution? Hint: Try to think backward and
+what's left in the box rather than what to take and a solution might just come to you. :wink:
+
+To be the next Albert Einstein, Thomas Edison, or the big ideas guy in your team, become a lateral thinker!
 
 Trainings
 ---------
