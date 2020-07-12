@@ -80,9 +80,10 @@ something were to happen to me. And it would be useful to anyone that doesn't ha
 they didn't have good guidance themselves either).
 
 Every time I thought it was complete, real life conflicts quickly disproved it. Over the years, there were
-[over 200 changes to the guide](https://github.com/maxzheng/great-life-guide) until it was finally completed a month
-ago, where I am able to achieve 100% happiness every day since, which translates to 100% productivity, no matter what's
-happening in my life -- there were several **serious** stressors at work and home due to COVID-19 lockdown.
+[over 200 changes to the guide](https://github.com/maxzheng/great-life-guide) as I iterated logically and experimented
+with different steps using myself as the guinea pig. It was finally completed a month ago as I was able to achieve 100%
+happiness every day, which translates to 100% productivity, no matter what's happening in my life -- there were several
+**serious** stressors at work and home due to COVID-19 lockdown, so it is battle tested.
 
 It is not just me, but the benefits spew over to my family as well. My wife said I have become a completely different
 person -- in a good way! :laughing: We haven't had any serious arguments since -- just small ones due to
