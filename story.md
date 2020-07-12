@@ -31,12 +31,12 @@ just stopped going.
 Work and The Lowest Point of My Life
 ------------------------------------
 
-I started to do different odd jobs there and there to get real world experiences, and eventually got referred to work
+I started to do different odd jobs here and there to get real world experiences, and eventually got referred to work
 for a software company by my brother -- always thankful that he's always got my back. From there, things started to
 became better as I enjoyed the work and did my job well that I kept switching roles as the company got acquired by
 bigger and bigger companies, which is how I ended up in the Bay Area.
 
-Before moving back to the Bay Area, while things were going well professionally, my life was actually at its lowest
+Before moving to the Bay Area, while things were going well professionally, my life was actually at its lowest
 point as I have completely lost all motivation to live. I didn't know what's the point -- just doing work, coming home,
 play some games, and sometimes get into relationships that end badly with a broken heart. I don't remember clearly
 anymore, but I probably thought about suicide a few times to be done with the misery. Thankfully it was just flimsy
