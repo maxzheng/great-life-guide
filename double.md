@@ -51,7 +51,7 @@ Apply **FASTER** to your reading, studying, or whenever you are learning to lear
 ### #2 Read Faster
 
 The average reading speed is about 200 words per minute (WPM). Good readers double that to about 400 WPM.
-Great readers double again to 800 WPM! The best readers surpass 1000+ WPM. That's at least 5 times as fast as average
+Great readers double again to 800 WPM. The best readers surpass 1000 WPM. That's at least 5 times as fast as average
 readers, which is a saving of 4 hours when reading a book that takes 5 hours!
 
 Here are a couple of different ways to [improve your reading speed](https://jimkwik.com/kwik-brain-007/):
@@ -87,8 +87,8 @@ For projects, use **TBD** to enable prioritization to maximize business impact:
 
 * **Timeline Expectation** from stakeholders so projects are done on time.
 * **Business Value** that will be realized when the project is done. Work on the highest value over cost ratio first.
-* **Deliverables** are the key outputs of the project. It enables effort estimation and ensures expectation with
-  stakeholders.
+* **Deliverables** are the key outputs of the project. It enables effort estimation and ensures expectations with
+  stakeholders are met.
 
 For meetings, attend only if you are providing/getting value and there is no way to do the same offline.
 
@@ -535,12 +535,12 @@ But that didn't happen overnight, but in three phases over a span of 3 years:
    Empathy is where you *understand* what the other person is going through, but may or may not help.
    Compassion is where you *feel* what the other person is going through with the intention of helping them.
 2. **Feeling what the other person is going through**. This is the hard part because most people will naturally retract
-   themselves when they start to feel other people's suffering, hence most leaders tend to stop at empathy as it is
-   easier. The first time I went through this, it didn't last long and I retracted eventually as I wasn't even able to
-   handle my own suffering, so how can I add on others too? After 3 years, when I completed
-   [A Great Life Guide](http://agreatlife.guide/) and achieved 100% happiness every day, then I was able to handle this
-   and move onto the next step. With the guide, you should be able to do it in a matter of days or weeks rather than
-   years.
+   themselves when they start to feel other people's sufferings, hence most leaders tend to stop at empathy as it is
+   easier. The first time I went through this, it lasted about a year before I retracted as I wasn't even able to
+   handle my own sufferings, so how can I handle others too? Before doing this, ensure you have a strong self (i.e.
+   solid happiness core). To improve myself, I started writing [A Great Life Guide](http://agreatlife.guide/) two years
+   ago, which was finally complete last month. With it, I was able to achieve 100% happiness every day and handle my own
+   sufferings along with everyone else's. With the guide, you should be able to do it in a matter of days instead of years.
 3. **Helping others.** When we show others that we *care* about them, then they will also *care* about you and therefore
    will listen and help you as well. Win/win for both. If you don't help others, then you don't really care about them.
    When people know that you don't care, they won't care either and will only do the minimal or nothing for you. Without
