@@ -5,12 +5,12 @@ Double Your Happiness and Productivity
 
 <img src="images/happiness-productivity-by-gerd-altmann.jpg" align="right" width="400px">
 
-These 27 skills/techniques/tips will at least double your happiness and productivity with mastery, so try them today:
+These 28 skills/techniques/tips will at least double your happiness and productivity with mastery, so try them today:
 
 * [11 Executions](#Executions)
 * [4 Trainings](#Trainings)
 * [5 Memorizations](#Memorizations)
-* [2 Leaderships](#Leaderships)
+* [3 Leaderships](#Leaderships)
 * [5 Empowerments](#Empowerments)
 
 Why & How
@@ -497,6 +497,35 @@ it is definitely appreciated. Everyone wins no matter what!
 
 As LinkedIn's cofounder [Reid Hoffman](https://www.linkedin.com/in/reidhoffman/) always say,
 [relationships matter](https://www.linkedin.com/pulse/20121106193412-1213-why-relationships-matter-i-to-the-we/).
+
+### #3 Compassion
+
+All great leaders lead with compassion. It's not easy, but worth it.
+
+Jeff Weiner, one of the world's best CEOs, taught me compassion in his article [Managing
+Compassionately](https://www.linkedin.com/pulse/20121015034012-22330283-managing-compassionately/). My life was forever
+changed from that moment on. I began to feel the pains of others and truly feel connected to everyone. I was able to
+understand others better and truly want to help them whenever they need. And the relationships that I build have
+substance, endurance, and are mutually beneficial.
+
+But that didn't happen overnight, but in three phases over a span of 3 years:
+
+1. **Understanding compassion**. Jeff Weiner's article has a great example where he compared empathy and compassion.
+   Empathy is where you *understand* what the other person is going through, but may or may not help.
+   Compassion is where you *feel* what the other person is going through with the intention of helping them.
+2. **Feeling what the other person is going through**. This is the hard part because most people will naturally retract
+   themselves when they start to feel other people's suffering, hence most leaders tend to stop at empathy as it is
+   easier. The first time I went through this, it didn't last long and I retracted eventually as I wasn't even able to
+   handle my own suffering, so how can I add on others too? After 3 years, when I completed
+   [A Great Life Guide](http://agreatlife.guide/) and achieved 100% happiness every day, then I was able to handle this
+   and move onto the next step. With the guide, you should be able to do it in a matter of days or weeks rather than
+   years.
+3. **Helping others.** When we show others that we *care* about them, then they will also *care* about you and therefore
+   will listen and help you as well. Win/win for both. If you don't help others, then you don't really care about them.
+   When people know that you don't care, they won't care either and will only do the minimal or nothing for you. Without
+   caring, motivation wanes and the relationship won't last.
+
+Therefore, to bring out the best of people, you must manage compassionately.
 
 Empowerments
 ------------
