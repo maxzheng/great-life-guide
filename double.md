@@ -525,7 +525,8 @@ But that didn't happen overnight, but in three phases over a span of 3 years:
    When people know that you don't care, they won't care either and will only do the minimal or nothing for you. Without
    caring, motivation wanes and the relationship won't last.
 
-Therefore, to bring out the best of people, you must manage compassionately.
+Therefore, to bring out the best of people, you must manage compassionately. The greater the number of people that you
+extend your compassion to, the greater your leadership. The greatest leadership extends compassion to everyone. :heart:
 
 Empowerments
 ------------
