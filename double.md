@@ -205,6 +205,10 @@ Here are a few tips on how to convey emotions, therefore communicate effectively
 If the goal is to get your audience to act, then apply behavior design using
 [Tiny Habits](https://amzn.to/37YyHyK)'s **B=MAP**: Behavior = Motivation * Ability * Prompt.
 
+You must listen to others first if you want them to listen to you. Listen to their needs, values, desires,
+their pains, their joys, their feedbacks, or anything else on their mind. After you have listened, acknowledged, then
+you can respond with content that is relevant and valuable to them.
+
 ### #11 Lateral Thinking
 
 Thinking logically is called vertical thinking as you are focused in a single subject and is great for tactical work.
