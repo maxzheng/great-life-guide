@@ -408,19 +408,19 @@ location by doing a one-to-one mapping.
 
 Let's try to remember a list of top 10 brain foods:
 
->    avocado, egg, walnut, blueberries, broccoli, coconut oil, leafy greens, tumeric, chocolate, fish
+>    avocado, egg, walnut, blueberries, broccoli, coconut oil, leafy greens, turmeric, chocolate, fish
 
 Map each of those items to our body like so by **visualizing them in your mind**:
 
-* Avocado on top of egg head
-* Crack the egg head to get walnuts inside
-* Coconut oil coming out of your ears
-* Blueberries coming out of your nose
-* Brocolli coming out of your bronchus
-* Leafy greens around your neck
-* Your fingers are replaced by tumerics
-* Chocolate coming out of your butt
-* Your feet smells like stinky fish
+* **Avocado** on top of egg head
+* Crack the **egg** head to get **walnuts** inside
+* **Coconut oil** coming out of your ears
+* **Blueberries** coming out of your nose
+* **Broccoli** coming out of your bronchus
+* **Leafy greens** around your neck
+* Your fingers look like **turmerics**
+* **Chocolate** coming out of your butt
+* Your feet smells like stinky **fish**
 
 Now, you can go to any place on your body to find the item or go from top to bottom to get the full list.
 
@@ -446,16 +446,16 @@ you when you think of each number:
 
 Then, remember the list of top brain foods in order like this by **visualizing them in your mind**:
 
-* Hero eating avocado for breakfast
-* Sun cooking egg on pavement
-* Twin babies are climbing up walls and driving mom nuts (walnuts)
-* Tree has lots of coconuts [oil]
-* Door is made of blueberries
-* Hives are being stuffed by bees with broccolis
-* Sticks have leafy green vegetables on it over a fire
-* Heaven is passing out free tumerics
-* Gate guard demands chocolate on entry
-* Vine is wrapped around a fish.
+* **Hero** eating **avocado** for breakfast
+* **Sun** cooking **egg** on pavement
+* **Twin** babies are climbing up walls and driving mom nuts (**walnuts**)
+* **Tree** has lots of **coconuts [oil]**
+* **Door** is made of **blueberries**
+* **Hives** are being stuffed with **broccolis**
+* **Sticks** have **leafy green** vegetables on it over a fire
+* **Heaven** is passing out free **turmerics**
+* **Gate** guard demands **chocolate** on entry
+* **Vine** is wrapped around a **fish**.
 
 Now, you can think of a number, which would map to the word/image, and from that, you can get the brain food. Randomly
 select a number and you would get random access to any item. This method can be used to remember people's phone number
