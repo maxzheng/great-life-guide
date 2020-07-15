@@ -549,6 +549,10 @@ But that didn't happen overnight, but in three phases over a span of 3 years:
 Therefore, to bring out the best of people, you must manage compassionately. The greater the number of people that you
 extend your compassion to, the greater your leadership. The greatest leadership extends compassion to everyone. :heart:
 
+A word of caution, as Fred Kofman told Jeff once:
+
+> Compassion without wisdom is foolish. Wisdom without compassion is ruthless.
+
 Empowerments
 ------------
 
