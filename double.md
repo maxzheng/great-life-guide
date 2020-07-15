@@ -531,9 +531,11 @@ substance, endurance, and are mutually beneficial.
 
 But that didn't happen overnight, but in three phases over a span of 3 years:
 
-1. **Understanding compassion**. Jeff Weiner's article has a great example where he compared empathy and compassion.
-   Empathy is where you *understand* what the other person is going through, but may or may not help.
-   Compassion is where you *feel* what the other person is going through with the intention of helping them.
+1. **Understanding compassion**. Empathy and compassion are often defined differently depending on who you talk to.
+   Prudy Gourguechon [defines empathy as a neutral function](https://www.forbes.com/sites/prudygourguechon/2017/12/26/empathy-is-an-essential-leadership-skill-and-theres-nothing-soft-about-it/#2307e6c92b9d)
+   where you *understand* what the other person is going through from their perspective, but may or may not help.
+   Compassion builds on top of empathy where you *feel* what the other person is going through with the intention of
+   helping them.
 2. **Feeling what the other person is going through**. This is the hard part because most people will naturally retract
    themselves when they start to feel other people's sufferings, hence most leaders tend to stop at empathy as it is
    easier. The first time I went through this, it lasted about a year before I retracted as I wasn't even able to
