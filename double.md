@@ -7,9 +7,9 @@ Double Your Happiness and Productivity
 
 These 28 skills/techniques/tips will at least double your happiness and productivity with mastery, so try them today:
 
+* [5 Memorizations](#Memorizations)
 * [11 Executions](#Executions)
 * [4 Trainings](#Trainings)
-* [5 Memorizations](#Memorizations)
 * [3 Leaderships](#Leaderships)
 * [5 Empowerments](#Empowerments)
 
@@ -21,15 +21,15 @@ everything in *less time*, therefore **more time for you to have fun and live yo
 
 To get started, open your mind and heart, read everything from top to bottom, optionally click on links to get more
 info, and finally apply them in your daily routines. If you don't try, nothing will change. If you do, you will be
-amazed on what you can do and your own transformation as your brain and body becomes smarter and stronger each day!
+amazed on what you can do and your own transformations as your brain and body becomes smarter and stronger each day.
 
-> Please like or share this with your family and friends so they can double their happiness and productivity too!
+> Please like or share this with your family and friends so they can double their happiness and productivity too.
 
 Executions
 ----------
 
 These techniques will help you learn and do everything in half the time and double the enjoyment, so that you can have
-more time to do anything else you like!
+more time to do anything else you like.
 
 ### #1 Learn Faster
 
@@ -40,39 +40,55 @@ more time to do anything else you like!
  doing active reading, you will remember better and gain better understanding.
 * **State** of your mind matters. Make sure you are excited and motivated about the topic. Understand why you need to
  know and how it will be useful to you in the future. You will forget what you don't care sooner or later, but will
- remember things that matter to you for a life time.
+ remember things that matter to you for a lifetime.
 * **Teach** others to further re-learn the content from another perspective.
 * **Emotion** for the content matters as your brain will remember things with strong emotional attachment, and not so
-  much otherwise. Evoke emotions and your senses as you learn to add more dimensions and connections to your memory!
+  much otherwise. Evoke emotions and your senses as you learn to add more dimensions and connections to your memory.
 * **Recall** what you know once awhile to re-enforce what you remembered.
 
 Apply **FASTER** to your reading, studying, or whenever you are learning to learn faster!
 
 ### #2 Read Faster
 
+The average reading speed is about 200 words per minute (WPM). Good readers double that to about 400 WPM.
+Great readers double again to 800 WPM! The best readers surpass 1000+ WPM. That's at least 5 times as fast as average
+readers, which is a saving of 4 hours when reading a book that takes 5 hours!
+
 Here are a couple of different ways to [improve your reading speed](https://jimkwik.com/kwik-brain-007/):
 
-1. Comprehension must come first before trying to increase your speed, otherwise there is no point going faster.
+1. **Comprehension must come first** before trying to increase your speed, otherwise there is no point going faster.
    To increase comprehension, it requires full concentration and use the **FASTER** and memory techniques to remember
-   what you read.
-2. Stop the subvocalization in your head as it reduces the reading speed to your speaking speed, which is much slower
-   than your comprehension speed.
-3. Use your finger as a pacer under the words you are reading, which can quickly increase your reading speed from 25% to
-   100%. Read where your finger is and move your finger faster and faster, and then you will naturally start to read
-   faster and reduce subvocalization too.
-4. Read in [multiple words (single cohesive idea)](https://amzn.to/2ZyKArl)
-   instead of one word at a time by grouping related words into a single idea or visual (e.g. super hero).
+   what you read. The last point to use memory techniques need to be stressed as there is no point reading faster or
+   comprehend more if you don't remember the content long enough to use them!
+2. **Stop the subvocalization** in your head as it reduces the reading speed to your speaking speed, which is much
+   slower than your comprehension speed.
+3. **Use your finger as a pacer** under the words you are reading, which can quickly increase your reading speed from
+   25% to 100%. Read where your finger is and move your finger faster and faster, and then you will naturally start to
+   read faster and reduce subvocalization too. Once you become really fast, then this can be skipped.
+4. **Read in multiple words** [(single cohesive idea)](https://amzn.to/2ZyKArl)
+   instead of one word at a time by grouping related words into a single idea or visual (e.g. super hero is strongest).
+   When moving your eyes left to right, jump from one group of words to the next instead of moving smoothly.
+   Try to use peripheral vision to read in more words -- this takes practice and time, but will let you reach 1000+ WPM.
+
+If you are using a mobile app or electronic device, like Kindle, here are some tips:
+
+1. Change the font size so that you can read the whole group of words in a single line, then just read from top to
+   bottom smoothly (without moving your eyes left to right) and try to take in multiple lines at the same time if
+   possible -- that is key to reading over 1000+ WPM.
+2. Turn off smooth scrolling and flip to the next page instead so you don't need to re-locate where you are reading when
+   scrolling.
 
 ### #3 Prioritization
 
 [Prioritize](https://www.ctl.life/2018/03/too-many-things-to-do-5-simple-steps-to.html) work based on their value and
-work on the most valuable things first as time is limited, so you can get the most bang for your time.
+work on the most valuable things first as time is limited, so you get the most bang for your time.
 
 For projects, use **TBD** to enable prioritization to maximize business impact:
 
 * **Timeline Expectation** from stakeholders so projects are done on time.
-* **Business Value** if the project is completed. Work on the highest value over cost ratio first!
-* **Deliverables** for scoping the output to estimate effort and to align with stakeholders.
+* **Business Value** that will be realized when the project is done. Work on the highest value over cost ratio first.
+* **Deliverables** are the key outputs of the project. It enables effort estimation and ensures expectation with
+  stakeholders.
 
 For meetings, attend only if you are providing/getting value and there is no way to do the same offline.
 
@@ -80,27 +96,30 @@ For meetings, attend only if you are providing/getting value and there is no way
 
 [Pomodoro](https://jimkwik.com/kwik-brain-019/) can be used to ensure concentration is at max when doing
 work. Your ability to concentrate wanes after 30 minutes, so the idea is to take a break after 25 minutes of
-concentrated work to reset using a timer. Instead of a timer, alternatively, use mindfulness to check your
-concentration and mental/body energy once awhile and take a break/refuel when it is not 100%. Be sure to drink plenty of
-water and snack on some brain foods!
+concentrated work to reset using a timer. Instead of a timer, use mindfulness to check your
+concentration and mental/body energy once awhile and take a break/refuel when it is not 100%.
+
+Be sure to drink plenty of water and snack on some brain foods. And walking during the break will do wonders to your
+butt, memory, and creativity.
 
 ### #5 Optimal Experience
 
 [Flow](https://jimkwik.com/kwik-brain-020/) can be used to fully immerse yourself in your work with
 absolute passion and concentration, the work becomes so fun that time simply flies as your productivity sky rockets
 to new heights!! This is the pinnacle of productivity and the final state that you want to achieve to get things done
-fast with high quality!
+fast with high quality.
 
-To get into the state, these conditions must be met (**FGCT**):
-* **Feedbacks**: There should be immediate positive feedback to your brain from what you are doing, so it
- would want to continue to get more of it, and eventually leading to flow state.
-* **Goal**: There must be a clear goal in mind, otherwise the mind would wander. The more specific the better.
+To get into the state, these conditions must be met (**PCCC**):
+
+* **Positive Feedbacks**: There should be immediate positive feedback to your brain from what you are doing to encourage
+  continuation, which will eventually lead to flow state.
+* **Clear Goal**: There must be a clear goal in mind, otherwise the mind would wander. The more specific the better.
 * **Challenging**: The work should be challenging, but not too hard. Too easy, then there is no need for flow state.
  Too hard, then it won't flow. There is a sweet spot somewhere. If the challenge is too hard, break it down into
  something easier. If it is too easy, well, find something more challenging to do, LOL!
-* **Time**: It takes about 15 to 45 minutes of concentrated work to get into the flow state, so don't
- let yourself be distracted during that time. The use of Pomodoro timer is fine, but can be skipped after you get
- into or if it affects your flow state.
+* **Concentration Time**: It takes about 15 to 45 minutes of concentrated work to get into the flow state, so don't
+ let yourself be distracted during that time. The use of Pomodoro technique is encouraged and won't affect your flow
+ state as long as the break is short (less than 5 minutes).
 
 Listening to your favorite music can help too.
 
@@ -110,17 +129,18 @@ Listening to your favorite music can help too.
 can be used to improve your health and learning.
 
 Easily create new habits using **ABC**:
+
 * **Anchor**: Find something that you already do
-* **Behavior**: Do something small that you want to become a habit
+* **Behavior**: Do something small that you want to turn into a habit
 * **Celebrate**: Generate a good feeling and praise yourself.
 
 For example, to build a habit of doing exercise in the morning after you get a drink of water (something you already
 do), then immediately do something small towards your exercise goals (such as putting on shoes or taking one step),
 and finally make yourself feel good and praise yourself for completing the small step. Repeat the same process
-several times, and it will become a tiny habit. Repeat it to do more each time, then it can become a big habit.
+several times, and it will become a tiny habit. Repeat it to do more exercise each time, then it can become a big habit.
 
 Use **B=MAP** (Behavior = Motivation * Ability * Prompt) to easily change an existing one. Want to reduce picking up
-your phone to check msgs? Make it harder to access your phone (reduce ability).
+your phone to check messages? Make it harder to access your phone (reduce ability).
 
 Additional Resources: [YouTube Video](https://www.youtube.com/watch?v=AdKUJxjn-R8),
                      [Kwik Brain Podcast](https://podcasts.apple.com/us/podcast/182-tiny-habit-to-change-your-life-with-dr-bj-fogg/id1208024744?i=1000478036542)
@@ -330,7 +350,7 @@ Memorizations
 -------------
 
 Did you know that you can easily remember vast amount of information quickly and easily? It's just a
-matter of knowing how to do it. Your age or how well you can naturally remember things don't matter. Everyone can do it!
+matter of knowing how to do it. Your age or how well you can naturally remember things don't matter. Everyone can do it.
 Once you know the techniques, you could easily [learn a new language](https://www.smithsonianmag.com/smart-news/how-to-learn-a-language-in-less-than-24-hours-122194358/) in a day!
 
 The memory techniques here can be combined together to remember massive and different kind of information easily.
@@ -340,7 +360,7 @@ All you have to do open your mind and give it a try.
 
 Memory works by associating what you already know. Visual memory is magnitudes better than other types of memory --
 [90% of information processed in the brain are visuals and done at 60,000 times faster than text](https://www.shiftelearning.com/blog/bid/350326/studies-confirm-the-power-of-visuals-in-elearning).
-All memory techniques work based on those two facts to enable you to remember unlimited amount of information easily!
+All memory techniques work based on those two facts to enable you to remember unlimited amount of information easily.
 
 ### #2 Framework
 
@@ -371,7 +391,7 @@ You can easily do that by **visualizing the following story in your mind**:
 >   (**Tiny Habits**).
 
 Now, close your eyes, and replay the story in your mind, and say the words from the list out loud as you do.
-Congrats, you have just master the technique! The story can be as long as you need to remember an unlimited # of
+Congrats, you have just mastered the technique! The story can be as long as you need to remember an unlimited # of
 items. The beauty of this is that you will be able to remember the story for a long time with just one iteration. To
 make it more memorable, re-iterate with more vivid and wild images and make sure there is a strong link from one word
 to the next.
@@ -440,6 +460,7 @@ Then, remember the list of top brain foods in order like this by **visualizing t
 Now, you can think of a number, which would map to the word/image, and from that, you can get the brain food. Randomly
 select a number and you would get random access to any item. This method can be used to remember people's phone number
 as well by making a story using those words starting with the person whose phone number you want to remember.
+
 
 Leaderships
 -----------
