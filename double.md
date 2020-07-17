@@ -462,6 +462,23 @@ It can [slow down and even reverse some effects of aging](https://www.health.har
 
 Don't like to exercise? No problem. Easily make it into a habit using [Tiny Habits](https://www.youtube.com/watch?v=AdKUJxjn-R8).
 
+### #4 Sleep Well
+
+Sleeping well is [the most important step](http://agreatlife.guide/) to live a happy and productive life. Nothing works
+without it. It builds long-term memory, promotes health and growth of your body and mind, clears out toxins / stress,
+and [many other important functions](https://www.health.qld.gov.au/news-events/news/7-amazing-things-that-happen-to-your-body-while-you-sleep) to keep you running at your optimal state.
+
+In order to get the best sleep, follow **Emc²**:
+
+1. **Exercise in the day**, aside from many health benefits, is proven to [promote higher quality of sleep](https://www.huffpost.com/entry/sleep-exercise-sleep-in-america_n_2784457).
+2. **Meditate before bed** to clear out distractions that keep you up.
+3. **Comfortable in bed** and make sure there isn't anything around you that would wake you up during the middle of the
+   night. You should be nice and warm in your blanket. There shouldn't be any sporadic loud noises or bright light.
+4. **Consistently sleep/wake up at the same time** to get your body into a rhythmic sleep cycle, so it becomes a habit.
+   Depending on your age, there is a different [recommended number of hours](https://www.sleepfoundation.org/press-release/national-sleep-foundation-recommends-new-sleep-times/page/0/1)
+   to sleep, such as 8 hours for adults or 10+ hours for kids, to get the best results. If you don't need to, don't use
+   an alarm clock, but listen to your body. Sometimes, you will need more sleep to fully rejuvenate, such as when you
+   are sick.
 
 Leaderships
 -----------
