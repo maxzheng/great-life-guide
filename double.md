@@ -28,12 +28,12 @@ amazed on what you can do and your own transformations as your brain and body be
 Memorizations
 -------------
 
-Did you know that you can easily remember vast amount of information quickly and easily? It's just a
+Did you know that you can easily remember vast amounts of information quickly and easily? It's just a
 matter of knowing how to do it. Your age or how well you can naturally remember things don't matter. Everyone can do it.
 Once you know the techniques, you could easily [learn a new language](https://www.smithsonianmag.com/smart-news/how-to-learn-a-language-in-less-than-24-hours-122194358/) in a day!
 
 The memory techniques here can be combined together to remember massive and different kind of information easily.
-All you have to do open your mind and give it a try.
+All you have to do is open your mind and give it a try.
 
 ### #1 How Memory Works
 
@@ -50,12 +50,12 @@ All memory techniques work based on those two facts to enable you to remember un
 * **Observation**: Be mindful and concentrate to fully see and understand what you want to remember. If you don't see
  and understand, then there is nothing to remember.
 * **Methods**: Use effective memorization techniques below as rote memorization is the least effective, but
- unfortunately is also the most widely used.
+ unfortunately, also the most widely used.
 
 ### #3 Stories & Links
 
-[Story/Link System](https://en.wikipedia.org/wiki/Mnemonic_link_system) is easy and effective to remember ordered list
-of items by creating a story with vivid images for each item.
+[Story/Link System](https://en.wikipedia.org/wiki/Mnemonic_link_system) is easy and effective for remembering ordered
+list of items by creating a story with vivid images for each item.
 
 Let's say we want to remember this list:
 
@@ -69,19 +69,20 @@ You can easily do that by **visualizing the following story in your mind**:
 >   taking your **Pomodoro** timer. You tried to follow (**Flow**) him, but he is **Faster** with his tiny hobbit feets
 >   (**Tiny Habits**).
 
-Now, close your eyes, and replay the story in your mind, and say the words from the list out loud as you do.
+Now, close your eyes, and replay the story in your mind, and say the words from the list out loud as you do. Try to do
+it in reverse too.
 Congrats, you have just mastered the technique! The story can be as long as you need to remember an unlimited # of
 items. The beauty of this is that you will be able to remember the story for a long time with just one iteration. To
 make it more memorable, re-iterate with more vivid and wild images and make sure there is a strong link from one word
 to the next.
 
-To learn a new language or any one-to-one mapping, you can simply use the link part without the story. The French word
-for chair is chaise. We can easily remember that by imagining a chair chasing (chaise) us.
+To learn a new language or any one-to-one mappings, you can simply use the link part without the story. The French word
+for chair is chaise. You can easily remember that by imagining a chair chasing (chaise) you.
 
 ### #4 Locations
 
-[Loci Method](https://en.wikipedia.org/wiki/Method_of_loci) uses locations to associate to ordered or unordered
-information that you want to remember. Location can be things in your room, your office, your body, your
+[Loci Method](https://en.wikipedia.org/wiki/Method_of_loci) uses locations to associate ordered or unordered
+information that you want to remember. Locations can be things in your room, your office, your body, your
 neighborhood, or anything else that you know intimately. The idea is to put what you want to remember to each
 location by doing a one-to-one mapping.
 
@@ -89,13 +90,13 @@ Let's try to remember a list of top 10 brain foods:
 
 >    avocado, egg, walnut, blueberries, broccoli, coconut oil, leafy greens, turmeric, chocolate, fish
 
-Map each of those items to our body like so by **visualizing them in your mind**:
+Map each of those items to our body by **visualizing them in your mind**:
 
-* **Avocado** on top of egg head
-* Crack the **egg** head to get **walnuts** inside
+* **Avocado** on top of your egg-like head
+* Crack your **egg** head to get **walnuts** inside
 * **Coconut oil** coming out of your ears
 * **Blueberries** coming out of your nose
-* **Broccoli** coming out of your bronchus
+* **Broccoli** coming out of your mouth
 * **Leafy greens** around your neck
 * Your fingers look like **turmerics**
 * **Chocolate** coming out of your butt
@@ -291,8 +292,8 @@ thinking from six perspectives, thereby increasing the number of solutions and c
 5. **Green**: Discuss using creativity, innovation, and new ideas with *growth* mindset.
 6. **Blue**: Control the discussion and look at everything from the *sky* above. Start and end with blue.
 
-Together, each person should put on each hat in the same sequence to brainstorm so the collective brain power of the
-team can be used to solve the problem rather than arguing about who is right / better.
+For your team, each person should put on each hat in the same sequence to brainstorm so the collective brain power of
+the team can be used to solve the problem rather than arguing about whose is right / better.
 
 ### #9 Hacking Motivation
 
@@ -301,15 +302,15 @@ to [hack it to your advantage](https://medium.com/@ozandagdeviren/hacking-your-b
 there are a couple of things to keep in mind:
 
 1. There must be a future reward that you are excited about. The amount of dopamine released when you receive the
-   reward is significantly lower than before. This is the carrot. E.g. big paycheck.
+   reward is significantly lower than before. This is the carrot. E.g. annual bonus, vacation, saving the world.
 2. Once you start doing work while thinking about the reward, that's when significant amount of dopamine is released,
-   which gives you the motivation needed to get the work done. And it will continue to do so until the work is done, and
+   which gives you the motivation needed to get the work done. It will continue to do so until the work is done, and
    then dramatically decreases until the reward is received.
 3. To get an extra boost of dopamine, give yourself mini-rewards once awhile, but not always, which is less effective.
 4. Many factors could significantly impact dopamine release or its effect, such as stress, pain, lack of sleep.
 
 Your brain naturally trains you to do things that it thinks will help you live a better life by releasing dopamine, such
-as making friends. Now you know how you can train your brain to do what you want!
+as making friends. But now you know how you can train your brain to do what you want!
 
 ### #10 Effective Communication
 
@@ -325,9 +326,9 @@ falter in the face of emotions.
 
 Here are a few tips on how to convey emotions, therefore communicate effectively (**UMGGG**):
 
-1. **Use multiple forms**: You do this naturally when speak in person as you use your voice, face, and body to convey
-   additional information that gets translated to emotions. When communicating online via text, using images, emojis, or
-   a unique writing style are great ways to add extra dimensions. And humor goes a long way! :smile:
+1. **Use multiple forms**: You do this naturally when speaking in person as you use your voice, face, and body to convey
+   additional information that gets translated to emotions. When communicating online via text, add extra dimensions by
+   using images, emojis, or a unique writing style. And humor goes a long way! :smile:
 2. **Mastery of forms**: In order to translate your emotions fully and correctly, you need to have mastery of the
    forms of communication that you use, otherwise mistranslation and misinterpretation will happen.
 3. **Good Visuals**: Visual is a native form that can be easily understood and remembered, therefore it is more
@@ -341,7 +342,7 @@ Here are a few tips on how to convey emotions, therefore communicate effectively
 If the goal is to get your audience to act, then apply behavior design using
 [Tiny Habits](https://amzn.to/37YyHyK)'s **B=MAP**: Behavior = Motivation * Ability * Prompt.
 
-You must listen to others first if you want them to listen to you. Listen to their needs, values, desires,
+You must listen to others first with empathy if you want them to listen to you. Listen to their needs, values, desires,
 their pains, their joys, their feedbacks, or anything else on their mind. After you have listened, acknowledged, then
 you can respond with content that is relevant and valuable to them.
 
@@ -360,13 +361,13 @@ In the book, he described the following scenario to demonstrate lateral thinking
 > And if they don't play the game, then the merchant will go to jail for not being able to pay the debt. After they
 > decided to play, the sly banker puts in two black pebbles into the box instead of one each, and the daughter saw it.
 
-So now, logically, she has 3 options:
+Logically, she has 3 options:
 
 1. Don't play, but then her dad goes to jail.
 2. Confront the banker, but things probably won't go well.
 3. Play and exchange herself for the debt to save her dad.
 
-None of them are good choices. Can you think of a better option? It will be hard logically using vertical
+None of them are good choices. Can you think of a better option? It will be hard using vertical
 thinking. Pause here and try to think about a solution before reading further so that you can better appreciate lateral
 thinking.
 
@@ -378,8 +379,8 @@ Edward suggests there are 4 things to improve lateral thinking:
    vertical thinking and so can't come up with out-of-the-box ideas easily.
 2. **Try abstracting the problem in different ways or more generically**. What you see may not be what it seems.
    Something that looks like a square outline may be just 4 lines, and then the 4 lines may be just many dots, and so
-   the square is actually just many dots in the shape of a square outline. Once you find the base abstraction, then you
-   can solve the problem differently.
+   the square is actually made of many dots in the shape of a square outline. Once you find the base abstraction, then
+   you can solve the problem in different ways.
 3. **Search from different perspectives and in untrod paths.** While the existing solution may be good, but if you
    don't look around for other paths, then you will never know if there is a better one. So ignore the existing path and
    look for another one with fresh eyes, and you will be surprised. Or look at things backward or from another
@@ -400,7 +401,7 @@ Use these techniques/tips to improve your body, concentration, awareness, compas
 (e.g. stress, anger), which will greatly improve your physical / mental health, memorization, execution, relationships,
 leadership, happiness, and productivity!
 
-Yep, meditation and exercise can do miracles for your body and mind! So don't underestimate their benefits and do
+Yep, meditation and exercise can do miracles for your body and mind! So don't underestimate their benefits and
 start doing them today.
 
 ### #1 Concentration Meditation
@@ -409,7 +410,7 @@ start doing them today.
 reduce stress, therefore improving your memory, execution, and health.
 
 Here's how to do it:
-1. Sit/lay down in a comfortable spot, and relax your body
+1. Sit/lay down in a comfortable spot, and relax your body.
 2. Focus on your breath or anything else as long as it doesn't change.
 3. If any thoughts or other distractions comes up, just gently let them go and return to the object of focus -- this is
    natural and will always happen, so no need to fight it.
@@ -423,6 +424,7 @@ It takes time to master this skill so be patient.
 and reduce stress, therefore improving your ability to perceive, understand, and enjoy life.
 
 Here's how to do it:
+
 1. Either sit/lay down in a comfortable spot or while you do things during the day in any position, and relax yourself.
 2. Bring your focus to what you are doing to fully enjoy it and then diffuse the focus to everything around you to fully
    take them in and appreciate the beauty.
@@ -437,14 +439,15 @@ start to see the world anew and notice things that was once ignored.
 ### #3 Loving-Kindness Meditation
 
 [Loving-Kindess Meditation](https://www.wikihow.com/Practice-Loving-Kindness-Meditation-%28Metta%29) will improve
-your compassion, gratitude, concentration, and reduce negativities, therefore improving your relationships,
-leadership, and happiness.
+your compassion, gratitude, concentration, and reduce negativities, therefore improve your relationships, leadership,
+and happiness.
 
 Here's how to do it:
+
 1. Sit/lay down in a comfortable spot, and relax your body
 2. Acknowledge that you are a person and you deserve to be happy just like everyone else, forgive yourself for any
    wrongdoing, praise yourself for the good things you have done, thank yourself for what you contribute to others, and
-   finally extend agape and well wishes to yourself.
+   finally extend love or well wishes to yourself.
 3. Now repeat the same steps for some people you love, some you had conflicts with, and some that you don't know that
    well.
 4. Repeat until you are relaxed and your heart is filled with warmth, love, gratitude, and happiness.
@@ -470,9 +473,9 @@ and [many other important functions](https://www.health.qld.gov.au/news-events/n
 
 In order to get the best sleep, follow **Emc²**:
 
-1. **Exercise in the day**, aside from many health benefits, is proven to [promote higher quality of sleep](https://www.huffpost.com/entry/sleep-exercise-sleep-in-america_n_2784457). One time, I had to shovel dirt back to my yard for a few hours after my wife
-   paid someone to remove too much, and I slept like a baby that night -- best sleep in my life, :laughing:. It is most
-   effective when it is a full body exercise.
+1. **Exercise in the day**, aside from many health benefits, is proven to [promote higher quality of sleep](https://www.huffpost.com/entry/sleep-exercise-sleep-in-america_n_2784457).
+   Full body exercises are most effective. E.g. One time, I had to shovel dirt back to my yard for a few hours after my
+   wife paid someone to remove too much, and I slept like a baby that night -- best sleep in my life, :laughing:.
 2. **Meditate before bed** to clear out distractions that keep you up.
 3. **Comfortable in bed** and make sure there isn't anything around you that would wake you up during the middle of the
    night. You should be nice and warm in your blanket. There shouldn't be any sporadic loud noises or bright light.
@@ -493,7 +496,7 @@ times** by inspiring others to join your mission.
 There are many leadership styles, but the best one is
 [transcendent leadership](https://www.forbes.com/sites/kathycaprino/2018/05/01/how-to-stop-being-a-boss-and-become-a-transcendent-leader)
 where you instill meaning and purpose to your employees based on the company's mission [with compassion](https://knowledge.wharton.upenn.edu/article/linkedin-ceo-how-compassion-can-build-a-better-company/)
-so they will care about you, the company, the company's mission, and do amazing things.
+so they will care about you, the company, the company's mission, and therefore do amazing things.
 
 [Fred Kofman](https://www.linkedin.com/in/fkofman/)'s book [The Meaning Revolution](https://amzn.to/3ekx28m) details how
 transcendent leadership can be used to manage these 4 key issues in an organization:
@@ -582,12 +585,12 @@ You can achieve your dreams -- the only requirement is that you have to believe 
 
 ### #1 Believe In Yourself
 
-Believe in yourself. And if you don't believe yourself, how do you expect others to do that? While it might seem
+If you don't believe yourself, how do you expect others to do that? While it might seem
 insignificant, but it has [massive impact on what you can accomplish](https://youtu.be/pN34FNbOKXc) as your brain will
 wire itself based on what you believe. If you believe it is not possible to remember massive amount of information or
 become a genius, then you won't. If you believe the world is flat, then it is. If you don't believe it is possible to
 fly into space, then you won't. But if you believe you can do anything by applying yourself using the right
-skills/techniques/tips, then you will!  Believe is scientifically proven to [alter the effects of medication, diet,
+skills/techniques/tips, then you will!  Believe is even scientifically proven to [alter the effects of medication, diet,
 exercise, and even stress](https://www.youtube.com/watch?v=0tqq66zwa7g) in your body and mind. So believe in yourself
 and positivity.
 
@@ -606,12 +609,12 @@ The only [differences between an average person and a genius](https://jimkwik.co
 * **Grit**: It's not a matter of knowing, but you must do it and never stop. Perserverance is key and
  things do get easier, especially if you use the techniques in this article.
 
-Steve Jobs [started out as an ordinary guy, but he believed](https://www.youtube.com/watch?v=UF8uR6Z6KLc) and applied
+Steve Jobs [started out as an ordinary guy, but he believed](https://www.youtube.com/watch?v=UF8uR6Z6KLc) in and applied
 himself, then he became a genius. So you can too!
 
 ### #2 Happiness is Internal
 
-Happiness is an internal state that you can decide and must be that way to ensure you have unlimited energy to be
+Happiness is an internal state that you decide and must be that way to ensure you have unlimited energy to be
 productive. If you are not happy at all, productivity goes to zero. It is the single most significant factor to
 productivity. To be happy and productive at all times, simply follow [A Great Life Guide](http://agreatlife.guide/).
 
@@ -680,6 +683,4 @@ Need Help?
 ----------
 
 If you want a coaching/presentation session for these skills/techniques/tips, please [connect and message me](https://www.linkedin.com/in/maxzheng/).
-I would love to help you and your team double your happiness and productivity! For a limited time, you can name your own price. :wink:
-
-*The latest published version is available at http://double.guide for easy sharing and liking.*
+I would love to help you and your team double your happiness and productivity!
