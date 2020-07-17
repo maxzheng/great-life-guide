@@ -449,7 +449,7 @@ Here's how to do it:
    well.
 4. Repeat until you are relaxed and your heart is filled with warmth, love, gratitude, and happiness.
 
-### #4 Exercise
+### #4 Exercise Daily
 
 Do cardio exercises for at least 30 minutes a day to boost your happiness, mental and physical health, improve brain
 functions and memory, sleep, energy levels, and [many more](https://www.healthline.com/nutrition/10-benefits-of-exercise),
@@ -539,7 +539,7 @@ it is definitely appreciated. Everyone wins no matter what!
 As LinkedIn's cofounder [Reid Hoffman](https://www.linkedin.com/in/reidhoffman/) always say,
 [relationships matter](https://www.linkedin.com/pulse/20121106193412-1213-why-relationships-matter-i-to-the-we/).
 
-### #3 Compassion
+### #3 Compassion for Everyone
 
 All great leaders lead with compassion. It's not easy, but worth it.
 
@@ -609,7 +609,7 @@ The only [differences between an average person and a genius](https://jimkwik.co
 Steve Jobs [started out as an ordinary guy, but he believed](https://www.youtube.com/watch?v=UF8uR6Z6KLc) and applied
 himself, then he became a genius. So you can too!
 
-### #2 Happiness is Purely Internal
+### #2 Happiness is Internal
 
 Happiness is an internal state that you can decide and must be that way to ensure you have unlimited energy to be
 productive. If you are not happy at all, productivity goes to zero. It is the single most significant factor to
@@ -617,7 +617,7 @@ productivity. To be happy and productive at all times, simply follow [A Great Li
 
 > Happiness enables productivity. Productivity elevates happiness.
 
-### #3 Aim for The Biggest Impact & Growth
+### #3 Biggest Impact & Growth
 
 Don't take the easiest job, nor the hardest, as neither is good for you. Too easy, and you won't grow. Too hard, there
 is no chance to grow. Pick one that is challenging with the highest impact and
