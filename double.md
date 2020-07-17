@@ -470,7 +470,9 @@ and [many other important functions](https://www.health.qld.gov.au/news-events/n
 
 In order to get the best sleep, follow **Emc²**:
 
-1. **Exercise in the day**, aside from many health benefits, is proven to [promote higher quality of sleep](https://www.huffpost.com/entry/sleep-exercise-sleep-in-america_n_2784457).
+1. **Exercise in the day**, aside from many health benefits, is proven to [promote higher quality of sleep](https://www.huffpost.com/entry/sleep-exercise-sleep-in-america_n_2784457). One time, I had to shovel dirt back to my yard for a few hours after my wife
+   paid someone to remove too much, and I slept like a baby that night -- best sleep in my life, :laughing:. It is most
+   effective when it is a full body exercise.
 2. **Meditate before bed** to clear out distractions that keep you up.
 3. **Comfortable in bed** and make sure there isn't anything around you that would wake you up during the middle of the
    night. You should be nice and warm in your blanket. There shouldn't be any sporadic loud noises or bright light.
