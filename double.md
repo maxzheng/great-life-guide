@@ -5,11 +5,11 @@ Double Your Happiness and Productivity
 
 <img src="images/happiness-productivity-by-gerd-altmann.jpg" align="right" width="400px">
 
-These 28 skills/techniques/tips will at least double your happiness and productivity with mastery, so try them today:
+These 29 skills/techniques/tips will at least double your happiness and productivity with mastery, so try them today:
 
 * [5 Memorizations](#Memorizations)
 * [11 Executions](#Executions)
-* [4 Trainings](#Trainings)
+* [5 Trainings](#Trainings)
 * [3 Leaderships](#Leaderships)
 * [5 Empowerments](#Empowerments)
 
@@ -24,6 +24,122 @@ info, and finally apply them in your daily routines. If you don't try, nothing w
 amazed on what you can do and your own transformations as your brain and body becomes smarter and stronger each day.
 
 > Please like or share this with your family and friends so they can double their happiness and productivity too.
+
+Memorizations
+-------------
+
+Did you know that you can easily remember vast amount of information quickly and easily? It's just a
+matter of knowing how to do it. Your age or how well you can naturally remember things don't matter. Everyone can do it.
+Once you know the techniques, you could easily [learn a new language](https://www.smithsonianmag.com/smart-news/how-to-learn-a-language-in-less-than-24-hours-122194358/) in a day!
+
+The memory techniques here can be combined together to remember massive and different kind of information easily.
+All you have to do open your mind and give it a try.
+
+### #1 How Memory Works
+
+Memory works by associating what you already know. Visual memory is magnitudes better than other types of memory --
+[90% of information processed in the brain are visuals and done at 60,000 times faster than text](https://www.shiftelearning.com/blog/bid/350326/studies-confirm-the-power-of-visuals-in-elearning).
+All memory techniques work based on those two facts to enable you to remember unlimited amount of information easily.
+
+### #2 Framework
+
+[MOM by Jim Qwik](https://jimkwik.com/kwik-brain-002/) will get you started on your memory journey:
+
+* **Motivation**: To remember anything, there must be motivation. If you don't care, then it won't be remembered for
+ long.
+* **Observation**: Be mindful and concentrate to fully see and understand what you want to remember. If you don't see
+ and understand, then there is nothing to remember.
+* **Methods**: Use effective memorization techniques below as rote memorization is the least effective, but
+ unfortunately is also the most widely used.
+
+### #3 Stories & Links
+
+[Story/Link System](https://en.wikipedia.org/wiki/Mnemonic_link_system) is easy and effective to remember ordered list
+of items by creating a story with vivid images for each item.
+
+Let's say we want to remember this list:
+
+>    concentration, mindfulness, loving-kindness, prioritization, Pomodoro, Flow, FASTER, Tiny Habits.
+
+You can easily do that by **visualizing the following story in your mind**:
+
+>   In your room, imagine a con (**concentration**) man walks in to put a land mine
+>   (**mindfulness**) in the middle of the room. You say to him "can you kindly (**loving-kindness**) leave please?"
+>   So he looks at his watch and says "oh snap, I forgot about a prior (**prioritization**) engagement," and leaves while
+>   taking your **Pomodoro** timer. You tried to follow (**Flow**) him, but he is **Faster** with his tiny hobbit feets
+>   (**Tiny Habits**).
+
+Now, close your eyes, and replay the story in your mind, and say the words from the list out loud as you do.
+Congrats, you have just mastered the technique! The story can be as long as you need to remember an unlimited # of
+items. The beauty of this is that you will be able to remember the story for a long time with just one iteration. To
+make it more memorable, re-iterate with more vivid and wild images and make sure there is a strong link from one word
+to the next.
+
+To learn a new language or any one-to-one mapping, you can simply use the link part without the story. The French word
+for chair is chaise. We can easily remember that by imagining a chair chasing (chaise) us.
+
+### #4 Locations
+
+[Loci Method](https://en.wikipedia.org/wiki/Method_of_loci) uses locations to associate to ordered or unordered
+information that you want to remember. Location can be things in your room, your office, your body, your
+neighborhood, or anything else that you know intimately. The idea is to put what you want to remember to each
+location by doing a one-to-one mapping.
+
+Let's try to remember a list of top 10 brain foods:
+
+>    avocado, egg, walnut, blueberries, broccoli, coconut oil, leafy greens, turmeric, chocolate, fish
+
+Map each of those items to our body like so by **visualizing them in your mind**:
+
+* **Avocado** on top of egg head
+* Crack the **egg** head to get **walnuts** inside
+* **Coconut oil** coming out of your ears
+* **Blueberries** coming out of your nose
+* **Broccoli** coming out of your bronchus
+* **Leafy greens** around your neck
+* Your fingers look like **turmerics**
+* **Chocolate** coming out of your butt
+* Your feet smells like stinky **fish**
+
+Now, you can go to any place on your body to find the item or go from top to bottom to get the full list.
+
+### #5 Numbers
+
+[Peg System](https://en.wikipedia.org/wiki/Mnemonic_peg_system) can be used to map items to numbers, which can be
+useful for ordered or random retrieval. The idea is to map numbers to a word/image and then map that word/image to
+what you want to remember.
+
+First, we need to map numbers to a word/image, let's use these -- but you should use whatever comes natural to
+you when you think of each number:
+
+* Zero: Hero
+* One: Sun
+* Two: Twin
+* Three: Tree
+* Four: Door
+* Five: Hive
+* Six: Sticks
+* Seven: Heaven
+* Eight: Gate
+* Nine: Vine
+
+Then, remember the list of top brain foods in order like this by **visualizing them in your mind**:
+
+* **Hero** eating **avocado** for breakfast
+* **Sun** cooking **egg** on pavement
+* **Twin** babies are climbing up walls and driving mom nuts (**walnuts**)
+* **Tree** has lots of **coconuts [oil]**
+* **Door** is made of **blueberries**
+* **Hives** are being stuffed with **broccolis**
+* **Sticks** have **leafy green** vegetables on it over a fire
+* **Heaven** is passing out free **turmerics**
+* **Gate** guard demands **chocolate** on entry
+* **Vine** is wrapped around a **fish**.
+
+Now, you can think of a number, which would map to the word/image, and from that, you can get the brain food. Randomly
+select a number and you would get random access to any item. This method can be used to remember people's phone number
+as well by making a story using those words starting with the person whose phone number you want to remember.
+
 
 Executions
 ----------
@@ -345,121 +461,6 @@ energy and function, and at the same time, remove toxins that damages your body 
 It can [slow down and even reverse some effects of aging](https://www.health.harvard.edu/staying-healthy/exercise-and-aging-can-you-walk-away-from-father-time)!
 
 Don't like to exercise? No problem. Easily make it into a habit using [Tiny Habits](https://www.youtube.com/watch?v=AdKUJxjn-R8).
-
-Memorizations
--------------
-
-Did you know that you can easily remember vast amount of information quickly and easily? It's just a
-matter of knowing how to do it. Your age or how well you can naturally remember things don't matter. Everyone can do it.
-Once you know the techniques, you could easily [learn a new language](https://www.smithsonianmag.com/smart-news/how-to-learn-a-language-in-less-than-24-hours-122194358/) in a day!
-
-The memory techniques here can be combined together to remember massive and different kind of information easily.
-All you have to do open your mind and give it a try.
-
-### #1 How Memory Works
-
-Memory works by associating what you already know. Visual memory is magnitudes better than other types of memory --
-[90% of information processed in the brain are visuals and done at 60,000 times faster than text](https://www.shiftelearning.com/blog/bid/350326/studies-confirm-the-power-of-visuals-in-elearning).
-All memory techniques work based on those two facts to enable you to remember unlimited amount of information easily.
-
-### #2 Framework
-
-[MOM by Jim Qwik](https://jimkwik.com/kwik-brain-002/) will get you started on your memory journey:
-
-* **Motivation**: To remember anything, there must be motivation. If you don't care, then it won't be remembered for
- long.
-* **Observation**: Be mindful and concentrate to fully see and understand what you want to remember. If you don't see
- and understand, then there is nothing to remember.
-* **Methods**: Use effective memorization techniques below as rote memorization is the least effective, but
- unfortunately is also the most widely used.
-
-### #3 Stories & Links
-
-[Story/Link System](https://en.wikipedia.org/wiki/Mnemonic_link_system) is easy and effective to remember ordered list
-of items by creating a story with vivid images for each item.
-
-Let's say we want to remember this list:
-
->    concentration, mindfulness, loving-kindness, prioritization, Pomodoro, Flow, FASTER, Tiny Habits.
-
-You can easily do that by **visualizing the following story in your mind**:
-
->   In your room, imagine a con (**concentration**) man walks in to put a land mine
->   (**mindfulness**) in the middle of the room. You say to him "can you kindly (**loving-kindness**) leave please?"
->   So he looks at his watch and says "oh snap, I forgot about a prior (**prioritization**) engagement," and leaves while
->   taking your **Pomodoro** timer. You tried to follow (**Flow**) him, but he is **Faster** with his tiny hobbit feets
->   (**Tiny Habits**).
-
-Now, close your eyes, and replay the story in your mind, and say the words from the list out loud as you do.
-Congrats, you have just mastered the technique! The story can be as long as you need to remember an unlimited # of
-items. The beauty of this is that you will be able to remember the story for a long time with just one iteration. To
-make it more memorable, re-iterate with more vivid and wild images and make sure there is a strong link from one word
-to the next.
-
-To learn a new language or any one-to-one mapping, you can simply use the link part without the story. The French word
-for chair is chaise. We can easily remember that by imagining a chair chasing (chaise) us.
-
-### #4 Locations
-
-[Loci Method](https://en.wikipedia.org/wiki/Method_of_loci) uses locations to associate to ordered or unordered
-information that you want to remember. Location can be things in your room, your office, your body, your
-neighborhood, or anything else that you know intimately. The idea is to put what you want to remember to each
-location by doing a one-to-one mapping.
-
-Let's try to remember a list of top 10 brain foods:
-
->    avocado, egg, walnut, blueberries, broccoli, coconut oil, leafy greens, turmeric, chocolate, fish
-
-Map each of those items to our body like so by **visualizing them in your mind**:
-
-* **Avocado** on top of egg head
-* Crack the **egg** head to get **walnuts** inside
-* **Coconut oil** coming out of your ears
-* **Blueberries** coming out of your nose
-* **Broccoli** coming out of your bronchus
-* **Leafy greens** around your neck
-* Your fingers look like **turmerics**
-* **Chocolate** coming out of your butt
-* Your feet smells like stinky **fish**
-
-Now, you can go to any place on your body to find the item or go from top to bottom to get the full list.
-
-### #5 Numbers
-
-[Peg System](https://en.wikipedia.org/wiki/Mnemonic_peg_system) can be used to map items to numbers, which can be
-useful for ordered or random retrieval. The idea is to map numbers to a word/image and then map that word/image to
-what you want to remember.
-
-First, we need to map numbers to a word/image, let's use these -- but you should use whatever comes natural to
-you when you think of each number:
-
-* Zero: Hero
-* One: Sun
-* Two: Twin
-* Three: Tree
-* Four: Door
-* Five: Hive
-* Six: Sticks
-* Seven: Heaven
-* Eight: Gate
-* Nine: Vine
-
-Then, remember the list of top brain foods in order like this by **visualizing them in your mind**:
-
-* **Hero** eating **avocado** for breakfast
-* **Sun** cooking **egg** on pavement
-* **Twin** babies are climbing up walls and driving mom nuts (**walnuts**)
-* **Tree** has lots of **coconuts [oil]**
-* **Door** is made of **blueberries**
-* **Hives** are being stuffed with **broccolis**
-* **Sticks** have **leafy green** vegetables on it over a fire
-* **Heaven** is passing out free **turmerics**
-* **Gate** guard demands **chocolate** on entry
-* **Vine** is wrapped around a **fish**.
-
-Now, you can think of a number, which would map to the word/image, and from that, you can get the brain food. Randomly
-select a number and you would get random access to any item. This method can be used to remember people's phone number
-as well by making a story using those words starting with the person whose phone number you want to remember.
 
 
 Leaderships
