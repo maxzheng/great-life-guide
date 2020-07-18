@@ -677,9 +677,8 @@ key points in many books. I prefer to read the original as it provides more cont
 ### #6 Love Yourself
 
 Love your fears, flaws, and failures as they are a part of you. Most people have strong negative feelings toward them and
-hence shy away and do everything they can to avoid them. While that seems to make sense, but they are actually making
-you weaker, which is less attractive. The right approach to overcome them is by loving them just like your own kids ,
-then you will become stronger and they will naturally disappear.
+hence shy away and do everything they can to avoid them. But the right approach to overcome them is by loving them just
+like your own kids, then you will become stronger and they will naturally disappear.
 
 But how do you love them, you ask? Easy, whenever you feel, see, or experience them, instead of feeling bad about it,
 replace it with love immediately:
@@ -692,6 +691,11 @@ replace it with love immediately:
 * Instead of trying to succeed by avoiding failures, love your failures as it is one of the best ways to learn and
   become stronger, therefore making
   you successful at the end. Every failure is an opportunity, take it with grace and be thankful!
+
+But does it really work? Yes! This is based on personal experience. I used to shy away from public speaking, but after
+replacing the fear with love a few times, right now I am excited about it and do it whenever I can -- you can see an
+[example at YouTube](https://www.youtube.com/watch?v=6kkHAS5kLQ4). :grin: This is also based on behavior design from
+[Tiny Habits by BJ Fogg, PhD](https://amzn.to/37YyHyK).
 
 Just love everything about yourself, and all the negativity inside and outside of you will naturally disappear, and
 **you will be stronger and become unstoppable**!
