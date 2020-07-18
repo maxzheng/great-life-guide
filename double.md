@@ -5,13 +5,13 @@ Double Your Happiness and Productivity
 
 <img src="images/happiness-productivity-by-gerd-altmann.jpg" align="right" width="400px">
 
-These 29 skills/techniques/tips will at least double your happiness and productivity with mastery, so try them today:
+These 30 skills/techniques/tips will at least double your happiness and productivity with mastery, so try them today:
 
 * [5 Memorizations](#Memorizations)
 * [11 Executions](#Executions)
 * [5 Trainings](#Trainings)
 * [3 Leaderships](#Leaderships)
-* [5 Empowerments](#Empowerments)
+* [6 Empowerments](#Empowerments)
 
 Why & How
 ---------
@@ -673,6 +673,28 @@ Of course, it's impossible to read everything and listen to everyone, so you do 
 your interests. If you are short on time, try out [Blinkist](https://www.blinkist.com/) where they provide a summary of
 key points in many books. I prefer to read the original as it provides more context. In Amazon's Kindle app, the
 `Send a Free Sample` option is a great way to preview before you buy!
+
+### #6 Love Yourself
+
+Love your fears, flaws, and failures as they are a part of you. Most people have strong negative feelings toward them and
+hence shy away and do everything they can to avoid them. While that seems to make sense, but they are actually making
+you weaker, which is less attractive. The right approach to overcome them is by loving them just like your own kids ,
+then you will become stronger and they will naturally disappear.
+
+But how do you love them, you ask? Easy, whenever you feel, see, or experience them, instead of feeling bad about it,
+replace it with love immediately:
+
+* Instead of feeling afraid, tell yourself "I love this feeling of fear" and actually create the feeling of love for it
+  and be excited. Do that a few times, and bam, you would overcome the fear!
+* Instead of thinking how much you don't like the scar on your face and how much others won't either, tell yourself that
+  you love it because that is who you are right now and everyone should respect and love you as-is -- if not, they can
+  keep their shallow love as it doesn't help you in the long run. Same for any mental scars.
+* Instead of trying to succeed by avoiding failures, love your failures as it is one of the best ways to learn and
+  become stronger, therefore making
+  you successful at the end. Every failure is an opportunity, take it with grace and be thankful!
+
+Just love everything about yourself, and all the negativity inside and outside of you will naturally disappear, and
+**you will be stronger and become unstoppable**!
 
 Updates
 -------
