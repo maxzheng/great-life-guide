@@ -5,10 +5,10 @@ Double Your Happiness and Productivity
 
 <img src="images/happiness-productivity-by-gerd-altmann.jpg" align="right" width="400px">
 
-These 30 skills/techniques/tips will at least double your happiness and productivity with mastery, so try them today:
+These 31 skills/techniques/tips will at least double your happiness and productivity with mastery, so try them today:
 
 * [5 Memorizations](#Memorizations)
-* [9 Executions](#Executions)
+* [10 Executions](#Executions)
 * [2 Thinking](#Thinking)
 * [5 Trainings](#Trainings)
 * [3 Leaderships](#Leaderships)
@@ -336,7 +336,7 @@ you can respond with content that is relevant and valuable to them.
 
 Most of the time, we focus on teaching others and kids on how to do something, or even worse, telling them exactly what
 to do -- sometimes, ending up yelling at them as they either are taking too long or don't want to do it. Neither is
-effective in the long run. To ensure others will thrive for a lifetime and learn by themselves, we must teach them to
+effective in the long run. To ensure they will thrive for a lifetime and learn by themselves, we must teach them to
 love what they do. It is harder and takes more time initially, but it will pay off in multitudes later -- you won't even
 need to lift a finger and they will just do everything by themselves driven by their passion.
 
@@ -347,29 +347,29 @@ bother you until they hit something new. Since they don't love it, they would ju
 ask whoever is next to them, and if there is no one, they would just give up or Google it to figure out the cheapest way
 to finish it. That all results in the need to micromanage, poor results, negative emotions, and lots of time wasted on
 both sides. Now if they love what they do, they won't wait until there is a request. They will talk or do
-research to understand everything before that happens without being asked. Since they undertand so much, when
+research to understand everything before that happens without being asked. Since they understand so much, when
 asked to do something (this might not even be necessary), the result is better output with higher quality, minimal time
-spent on both sides, and lots of positivity. That's win/win.
+spent on both sides, and lots of positivity. That's win/win!
 
 To teach love, here are a couple of suggestions, but generally it's about associating positive emotions to the work:
 
-1. Explain why they need to do it. What's the value to them? What's the purpose? If they know how it will help them in
+1. **Explain why they need to do it**. What's the value to them? What's the purpose? If they know how it will help them in
    the future, they will be more motivated.
-2. Use the celebration step from [Tiny Habits by BJ Fogg, PhD](https://amzn.to/37YyHyK) where you praise them for each
+2. **Use the celebration step** from [Tiny Habits by BJ Fogg, PhD](https://amzn.to/37YyHyK) where you praise them for each
    small thing they do. This will effectively turn what they do it into a habit. Always tell them how good they are
    doing. If they did something wrong, it's good to point it out and learn from it, but do it with humor if possible and
    take it easy -- no need to be too critical (negative emotion).
    See [Behavior Design](#6-behavior-design) section for more details.
-3. Use motivaiton hacks like occasionally giving them a reward, but not all the time.
+3. **Use motivaiton hacks** like occasionally giving them a reward, but not all the time.
    See [Hacking Motivation](#8-hacking-motivation) section for more details.
 
-Here are some things to NOT do, as it will have the opposite effect (teaching them to hate it and they will stop doing
-it as soon as you are not there):
+Here are some things to **NOT** do, as it will have the opposite effect (they will hate it and stop doing it when you are
+not there):
 
-1. Being angry and yelling at them. This is demotivating, even if it seems to get them to do what you want. It's only
+1. **Being angry and yelling at them**. This is demotivating, even if it seems to get them to do what you want. It's only
    temporary, and they will associate negative feelings to the task, and hence not something they would do in the future
    if they don't have to.
-2. Telling them they are stupid, suck at it, and won't ever be good enough. More than demotivating, this will cause
+2. **Telling them they are stupid, suck at it, and won't ever be good enough**. More than demotivating, this will cause
    them to have self-esteem issues, and totally mess with their believe system. This is a death sentence for their
    future, so don't do it!
 
