@@ -8,7 +8,8 @@ Double Your Happiness and Productivity
 These 30 skills/techniques/tips will at least double your happiness and productivity with mastery, so try them today:
 
 * [5 Memorizations](#Memorizations)
-* [11 Executions](#Executions)
+* [9 Executions](#Executions)
+* [2 Thinking](#Thinking)
 * [5 Trainings](#Trainings)
 * [3 Leaderships](#Leaderships)
 * [6 Empowerments](#Empowerments)
@@ -280,21 +281,6 @@ Additional Resources: [YouTube Video](https://www.youtube.com/watch?v=AdKUJxjn-R
 * **Integrity**: Do what you say otherwise they will feel betrayed
 * **Love**: Show that you care and they will care about what you say
 
-### #8 Parallel Thinking
-
-[Six Thinking Hats by Edward de Bono](https://amzn.to/2YYdkLd) will help you or your team solve problems using parallel
-thinking from six perspectives, thereby increasing the number of solutions and concensus in half the time or less:
-
-1. **White**: Discuss using *pure* facts and information.
-2. **Red**: Discuss using intuition and feelings, like *anger*. It's ok to be illogical.
-3. **Black**: Discuss *negatively* with caution.
-4. **Yellow**: Discuss positively with optimism like a ray of *sunshine*.
-5. **Green**: Discuss using creativity, innovation, and new ideas with *growth* mindset.
-6. **Blue**: Control the discussion and look at everything from the *sky* above. Start and end with blue.
-
-For your team, each person should put on each hat in the same sequence to brainstorm so the collective brain power of
-the team can be used to solve the problem rather than arguing about whose is right / better.
-
 ### #9 Hacking Motivation
 
 When you feel motivated, that is actually dopamine being released, which makes you feel really good and happy. In order
@@ -346,7 +332,37 @@ You must listen to others first with empathy if you want them to listen to you. 
 their pains, their joys, their feedbacks, or anything else on their mind. After you have listened, acknowledged, then
 you can respond with content that is relevant and valuable to them.
 
-### #11 Lateral Thinking
+## Thinking
+
+Schools teach logical thinking mostly and other forms indirectly and insignificantly, despite the fact that thinking is
+one of the most critical skills to be successful. Lateral thinking is a famous one for generating ideas. Another example
+is exploratory thinking for finding better solutions and dealing with conflicts together instead of arguments.
+Perceptional thinking can be used to better understand the values of what you see. And many more that are created by
+[Edward de Bono](https://www.linkedin.com/in/edward-de-bono-89931129)
+
+Many successful global companies, [like
+IBM](https://www.lyndacurtin.com/index.php/articles/173-ibm-chief-scientist-uses-six-thinking-hats-as-a-collaboration-tool),
+have adopted Edward's thinking methods to improve innovation and collaboration. All [schools in
+Venezuela](https://www.indigobusiness.co.uk/about-us/edward-de-bono/debono-interesting-facts) are required to
+teach his thinking methods. Research has shown that students that use his thinking methods [perform 30% to 100% better
+in all other subjects](http://www.extensor.co.uk/articles/perceptual_shift/perceptual_shift.html).
+
+### #1 Parallel Thinking
+
+[Six Thinking Hats by Edward de Bono](https://amzn.to/2YYdkLd) will help you or your team solve problems using parallel
+thinking from six perspectives, thereby increasing the number of solutions and concensus in half the time or less:
+
+1. **White**: Discuss using *pure* facts and information.
+2. **Red**: Discuss using intuition and feelings, like *anger*. It's ok to be illogical.
+3. **Black**: Discuss *negatively* with caution.
+4. **Yellow**: Discuss positively with optimism like a ray of *sunshine*.
+5. **Green**: Discuss using creativity, innovation, and new ideas with *growth* mindset.
+6. **Blue**: Control the discussion and look at everything from the *sky* above. Start and end with blue.
+
+For your team, each person should put on each hat in the same sequence to brainstorm so the collective brain power of
+the team can be used to solve the problem rather than arguing about whose is right / better.
+
+### #2 Lateral Thinking
 
 Thinking logically is called vertical thinking as you are focused in a single subject and is great for tactical work.
 For strategic and new ideas, it is better to think from diffused, eagle-in-the-sky, different, and untrod
