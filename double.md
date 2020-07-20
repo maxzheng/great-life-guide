@@ -5,11 +5,11 @@ Double Your Happiness and Productivity
 
 <img src="images/happiness-productivity-by-gerd-altmann.jpg" align="right" width="400px">
 
-These 31 skills/techniques/tips will at least double your happiness and productivity with mastery, so try them today:
+These 32 skills/techniques/tips will at least double your happiness and productivity with mastery, so try them today:
 
 * [5 Memorizations](#Memorizations)
 * [10 Executions](#Executions)
-* [2 Thinking](#Thinking)
+* [3 Thinking](#Thinking)
 * [5 Trainings](#Trainings)
 * [3 Leaderships](#Leaderships)
 * [6 Empowerments](#Empowerments)
@@ -388,7 +388,8 @@ IBM](https://www.lyndacurtin.com/index.php/articles/173-ibm-chief-scientist-uses
 have adopted Edward's thinking methods to improve innovation and collaboration. All [schools in
 Venezuela](https://www.indigobusiness.co.uk/about-us/edward-de-bono/debono-interesting-facts) are required to
 teach his thinking methods. Research has shown that students that use his thinking methods [perform 30% to 100% better
-in all other subjects](http://www.extensor.co.uk/articles/perceptual_shift/perceptual_shift.html).
+in all other subjects](http://www.extensor.co.uk/articles/perceptual_shift/perceptual_shift.html). Also teaching
+thinking can reduce crime among youngsters by 90%.
 
 ### #1 Parallel Thinking
 
@@ -452,6 +453,22 @@ Now that you know how to be a better lateral thinker, can you think of a solutio
 what's left in the box rather than what to take and a solution might just come to you. :wink:
 
 To be the next Albert Einstein, Thomas Edison, or the big ideas guy in your team, become a lateral thinker!
+
+### #3 Perceptional Thinking
+
+Study has shown that [90% of errors in thinking](https://www.brainyquote.com/quotes/edward_de_bono_454722) are due to
+perception with the remaining due to logic. Perception, not logic, drives emotions, therefore it is utmost important
+that we are able to think well perceptually to better understand the truth, make sound decisions, and improve our
+persuasion. To gain complete perception, we need to look at things from all perspectives.
+
+In [Think! Before It's Too Late](https://amzn.to/32BCsJB), Edward de Bono showed perception can be improved using:
+
+* **PMI**: Look at the **P**ositive, **M**inus, and **I**nteresting side of things.
+* **CAF**: **C**onsider **A**ll **F**actors in the situation
+* **C&S**: Look at the **C**onsequences and **S**equels of actions in the short, medium, and long term.
+* **FIP**: Focus on the **F**irst **I**mportant **P**riorities as there could be many things to consider.
+* **APC**: Look at **A**lternatives, **P**ossibilities, and **C**hoices.
+* **OPV**: Consider **O**ther **P**eople's **V**iew as well.
 
 Trainings
 ---------
