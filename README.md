@@ -148,7 +148,7 @@ This guide is updated often as I learn. To get updates, just [follow me](https:/
 Need Help?
 ----------
 
-If you want a FREE coaching session using this guide, just let me know. I would be happy to help you and others
-live a great life!
+If you want a free coaching session using this guide, simply schedule it at [http://hp.coach](http://hp.coach).
+I would be happy to help you and others live a great life! :smile:
 
-*The latest published version is available at http://agreatlife.guide for easy sharing and liking.*
+*The latest published version is available at [http://hp.guide](http://hp.guide) for easy sharing and liking.*
