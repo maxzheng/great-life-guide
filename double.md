@@ -12,7 +12,7 @@ These 32 skills/techniques/tips will at least double your happiness and producti
 * [3 Thinking](#Thinking)
 * [5 Trainings](#Trainings)
 * [3 Leaderships](#Leaderships)
-* [6 Empowerments](#Empowerments)
+* [7 Empowerments](#Empowerments)
 
 Why & How
 ---------
@@ -773,6 +773,36 @@ as one of his company cultures.
 
 Just love everything about yourself, and all the negativity inside and outside of you will naturally disappear, and
 **you will be stronger and become unstoppable**!
+
+### #7 Die Before You Die
+
+I hope you "die before you die" is a concept from Fred Kofman's book [The Meaning Revolution](https://amzn.to/3ekx28m)
+that is similar in spirit as "live your life to the fullest" or "live today like it is your last day." Steve Jobs [lived
+by a similar principle](https://www.youtube.com/watch?v=UF8uR6Z6KLc) where if he answers "no" a few days in a row to the
+question of "is this what I want to do on my last day," then he would stop and find something else to do. You never
+know, today may be your last day.
+
+That's the mentality that you need to have in order to live your life to the fullest. I am doing that right now by
+executing on my personal mission of enabling everyone to be happy and productive -- even though no one seems to want it
+and it feels like I am going against everyone in the world to help them become *truly* happy and productive, :laughing:.
+
+If you don't do that, then you might end up with regrets on your deathbed. You are definitely *not* enjoying everything
+that life has to offer by limiting yourself. Most people work about 40 hours a week, often unwillingly and
+performing at minimal as they don't enjoy the work, so they can use the income to do what they want to do. And
+that will continue until they retire. That's a significant portion of their lives doing something
+that they might not enjoy and it is one reason that I lost motivation to live 10 years ago. It's a waste of life and
+intelligence. We shouldn't do that. It might seem hard to do better sometimes, especially if you need the income for
+your family to live, but if you push yourself a little bit each day, then it's just a matter of when and not if. And you
+will be amazed at what you can accomplish later as you start to get everything you want in life, realize your dreams,
+and fully enjoy everything that life has to offer. You are just as amazing as everyone and can have everything you want
+-- nothing less. Don't sell yourself short!
+
+But why bother if we are all just going to die anyway and turn into worm food? From a technical perspective, you are
+right. But you are living *right now and still here*, and so you should make the most of it. Reality doesn't really
+matter when it comes to meaning and purpose in life, but you do. As you are intelligent, you get the privilege of
+defining your own meaning and purpose, and as long as you believe it *deeply*, then that becomes reality.
+
+> If today is your last day, will you still be doing what you plan to do? If not, you should consider doing something else.
 
 Updates
 -------
