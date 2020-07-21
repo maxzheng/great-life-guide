@@ -154,14 +154,15 @@ more time to do anything else you like.
 [FASTER by Jim Qwik](https://jimkwik.com/kwik-brain-001/) will help you learn anything faster and more effectively:
 
 * **Forget** everything you know so they don't interfere with what you are about to learn.
-* **Act** as you read by taking notes, memorize important content using memorization techniques, share with others. By
+* **Active** learning by taking notes, memorizing important content using memorization techniques, share with others. By
  doing active reading, you will remember better and gain better understanding.
-* **State** of your mind matters. Make sure you are excited and motivated about the topic. Understand why you need to
- know and how it will be useful to you in the future. You will forget what you don't care sooner or later, but will
- remember things that matter to you for a lifetime.
+* **State** of your mind, emotion, and body matters. Make sure you are excited and motivated about the topic. Understand
+ why you need to know and how it will be useful to you in the future. You will forget what you don't care sooner or
+ later, but will remember things that matter to you for a lifetime. Emotion for the content matters as your brain will
+ remember things with strong emotional attachment, and not so much otherwise. Evoke emotions and your senses as you
+ learn to add more dimensions and connections to your memory.
 * **Teach** others to further re-learn the content from another perspective.
-* **Emotion** for the content matters as your brain will remember things with strong emotional attachment, and not so
-  much otherwise. Evoke emotions and your senses as you learn to add more dimensions and connections to your memory.
+* **Entry** in your calendar as a reminder to block off time to learn often.
 * **Recall** what you know once awhile to re-enforce what you remembered.
 
 Apply **FASTER** to your reading, studying, or whenever you are learning to learn faster!
@@ -188,13 +189,8 @@ Here are a couple of different ways to [improve your reading speed](https://jimk
    When moving your eyes left to right, jump from one group of words to the next instead of moving smoothly.
    Try to use peripheral vision to read in more words -- this takes practice and time, but will let you reach 1000+ WPM.
 
-If you are using a mobile app or electronic device, like Kindle, here are some tips:
-
-1. Change the font size so that you can read the whole group of words in a single line, then just read from top to
-   bottom smoothly (without moving your eyes left to right) and try to take in multiple lines at the same time if
-   possible -- that is key to reading over 1000+ WPM.
-2. Turn off smooth scrolling and flip to the next page instead so you don't need to re-locate where you are reading when
-   scrolling.
+If you are using a mobile app or electronic device, like Kindle, turn off smooth scrolling and flip to the next page
+instead so you can easily locate the next group of words to read.
 
 ### #3 Prioritization
 
@@ -463,7 +459,7 @@ persuasion. To gain complete perception, we need to look at things from all pers
 
 In [Think! Before It's Too Late](https://amzn.to/32BCsJB), Edward de Bono showed perception can be improved using:
 
-* **PMI**: Look at the **P**ositive, **M**inus, and **I**nteresting side of things.
+* **PMI**: Look at the **P**lus, **M**inus, and **I**nteresting side of things.
 * **CAF**: **C**onsider **A**ll **F**actors in the situation
 * **C&S**: Look at the **C**onsequences and **S**equels of actions in the short, medium, and long term.
 * **FIP**: Focus on the **F**irst **I**mportant **P**riorities as there could be many things to consider.
