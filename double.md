@@ -5,12 +5,12 @@ Double Your Happiness and Productivity
 
 <img src="images/happiness-productivity-by-gerd-altmann.jpg" align="right" width="400px">
 
-These 32 skills/techniques/tips will at least double your happiness and productivity with mastery, so try them today:
+These 34 skills/techniques/tips will at least double your happiness and productivity with mastery, so try them today:
 
 * [5 Memorizations](#Memorizations)
 * [10 Executions](#Executions)
-* [3 Thinking](#Thinking)
-* [5 Trainings](#Trainings)
+* [3 Thinkings](#Thinkings)
+* [6 Trainings](#Trainings)
 * [3 Leaderships](#Leaderships)
 * [7 Empowerments](#Empowerments)
 
@@ -371,7 +371,7 @@ not there):
 
 Once they learn to love what they do, your job is done -- forever! :wink:
 
-## Thinking
+## Thinkings
 
 Schools teach logical thinking mostly and other forms indirectly and insignificantly, despite the fact that thinking is
 one of the most critical skills to be successful. Lateral thinking is a famous one for generating ideas. Another example
@@ -537,7 +537,7 @@ It can [slow down and even reverse some effects of aging](https://www.health.har
 
 Don't like to exercise? No problem. Easily make it into a habit using [Tiny Habits](https://www.youtube.com/watch?v=AdKUJxjn-R8).
 
-### #4 Sleep Well
+### #5 Sleep Well
 
 Sleeping well is [the most important step](http://agreatlife.guide/) to live a happy and productive life. Nothing works
 without it. It builds long-term memory, promotes health and growth of your body and mind, clears out toxins / stress,
@@ -556,6 +556,31 @@ In order to get the best sleep, follow **Emc²**:
    to sleep, such as 8 hours for adults or 10+ hours for kids, to get the best results. If you don't need to, don't use
    an alarm clock, but listen to your body. Sometimes, you will need more sleep to fully rejuvenate, such as when you
    are sick.
+
+### #6 Daily Routine
+
+It's good to have a routine to ensure all the important things are done regularly, nothing is dropped on the floor, and
+you are steadily getting closer to your goals.
+
+Experiment to figure out what works best for you, but feel free to use mine as a starting point to get an idea:
+
+1. Wake up at 6am.
+2. **Read book about 30 minutes to 1 hour** while in bed. Learning is important for personal growth and the brain is in
+   the best state to do that after waking up.
+3. Drink water and start to **exercise for 30 minutes**. Make/publish [Daily Exercise & Talk](http://hp.show) video.
+   Walk and eat freshly picked fruits in my backward.
+4. **Eat nutritious breakfast** and do other morning necessities.
+5. **Publish happiness/productivity article** from previous night and share on social medias.
+6. Check calendars, respond to emails and social medias to **help others be happy/productive**, and take a break.
+7. Start work at 9am. Use productivity techniques to **get everything done with high quality in half the time**!
+   E.g. Ensure the body and mind are at 100% throughout the day by taking a 5 minute break about every 30 minutes
+   to go for a walk, **play with family/kids**, or eat some brain food / drink water.
+8. During lunch break, respond to social medias and **help others be happy/productive.**
+9. Finish work at 6pm. Besides dinner and other necessities, **play with family/kids, read book, help others to be happy
+   and productive, write happiness/productivity article, and steadily build a company to enable everyone to be happy and
+   productive.**
+10. Sleep around 10pm.
+
 
 Leaderships
 -----------
