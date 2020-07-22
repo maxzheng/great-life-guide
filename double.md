@@ -779,7 +779,7 @@ Just love everything about yourself, and all the negativity inside and outside o
 I hope you "die before you die" is a concept from Fred Kofman's book [The Meaning Revolution](https://amzn.to/3ekx28m)
 that is similar in spirit as "live your life to the fullest" or "live today like it is your last day." Steve Jobs [lived
 by a similar principle](https://www.youtube.com/watch?v=UF8uR6Z6KLc) where if he answers "no" a few days in a row to the
-question of "is this what I want to do on my last day," then he would stop and find something else to do. You never
+question "Is this what I want to do on my last day?" then he would stop and find something else to do. You never
 know, today may be your last day.
 
 That's the mentality that you need to have in order to live your life to the fullest. I am doing that right now by
