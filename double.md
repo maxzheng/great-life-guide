@@ -711,6 +711,16 @@ The only [differences between an average person and a genius](https://jimkwik.co
 Steve Jobs [started out as an ordinary guy, but he believed](https://www.youtube.com/watch?v=UF8uR6Z6KLc) in and applied
 himself, then he became a genius. So you can too!
 
+To ensure that you keep believing in yourself, never do any negative self-talk, even if you are joking, and enchant
+positivity daily. Once you say anything negative, it will affect you subconsciously. When others do it, it's easy to let
+go, but not so when you do. To further protect yourself, enchant daily by saying this internally with excitement:
+
+> Today is going to be a great day! I am awesome, smart, and fun. I can do anything when I apply myself.
+> I will realize my dreams!
+
+It's a great way to start your day as it will make you feel good and enforce your beliefs and dreams, so they won't ever
+get lost.
+
 ### #2 Happiness is Internal
 
 Happiness is an internal state that you decide and must be that way to ensure you have unlimited energy to be
