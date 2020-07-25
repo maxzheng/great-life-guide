@@ -5,10 +5,10 @@ Double Your Happiness and Productivity
 
 <img src="images/happiness-productivity-by-gerd-altmann.jpg" align="right" width="400px">
 
-These 34 skills/techniques/tips will at least double your happiness and productivity with mastery, so try them today:
+These 35 skills/techniques/tips will at least double your happiness and productivity with mastery, so try them today:
 
 * [5 Memorizations](#Memorizations)
-* [10 Executions](#Executions)
+* [11 Executions](#Executions)
 * [3 Thinkings](#Thinkings)
 * [6 Trainings](#Trainings)
 * [3 Leaderships](#Leaderships)
@@ -356,7 +356,7 @@ To teach love, here are a couple of suggestions, but generally it's about associ
    doing. If they did something wrong, it's good to point it out and learn from it, but do it with humor if possible and
    take it easy -- no need to be too critical (negative emotion).
    See [Behavior Design](#6-behavior-design) section for more details.
-3. **Use motivaiton hacks** like occasionally giving them a reward, but not all the time.
+3. **Use motivation hacks** like occasionally giving them a reward, but not all the time.
    See [Hacking Motivation](#8-hacking-motivation) section for more details.
 
 Here are some things to **NOT** do, as it will have the opposite effect (they will hate it and stop doing it when you are
@@ -370,6 +370,31 @@ not there):
    future, so don't do it!
 
 Once they learn to love what they do, your job is done -- forever! :wink:
+
+### #11 Powerfully Serve Your Customers
+
+While [The Prosperous Coach](https://amzn.to/3hpnZET) is for teaching others to be successful coaches, it has a few key
+takeaways that would help you serve your customers so powerfully and transformatively that they would gladly pay a
+premium for your service. A customer can be internal/external, an employer/employee, a family/friend, or just anyone
+that you provide service to.
+
+1. **Deeply understand your customers**' history, needs, challenges, and dreams. Only when you have a full
+   understanding of them, then you are ready to serve them, otherwise you are only serving yourself. Sometimes
+   your customers may not know the full scope of they really need, so it's necessary to ask for the rationale behind the
+   requests to better meet their needs.
+2. **Push your customers to dream bigger.** It's not enough to just service their requests, which is just the minimal
+   bar. They wouldn't pay premium for that and likely will go to another provider that could do more if possible.
+   Based on what they are trying to do, and the experiences you have, offer them bigger possibilities. E.g. Where else
+   could they use your services to get more ROI? Not necessarily limited to the services that you provide, is there
+   something else your customers could be doing to be more successful?
+3. **Bigger the impact to your customers, higher the premium they will gladly pay.** If your services are making a huge
+   impact to your customers' success, then they will gladly share them with you. To make an impact, ensure your
+   customers are committed to use your services. If they don't use them, they won't see the values even if your services
+   are exceptional. If you aren't making your customers successful, then there is no reason for them to keep you.
+   If you are able to completely transform them to be the most successful version of themselves, then they will keep you
+   forever.
+
+Powerfully serve and transform your customers to be the most successful, then you will too.
 
 ## Thinkings
 
