@@ -1,18 +1,20 @@
 Double Your Happiness and Productivity
 ======================================
 
-> If you spend 30 minutes now to read this, you will **save years** later!
+> If you spend 30 minutes now to read this, you will **save years** later! And follow
+> [me](https://www.linkedin.com/in/maxzheng/), [hp.tips](http://hp.tips), or [hp.show](http://hp.show) for daily
+> updates and tips.
 
 <img src="images/happiness-productivity-by-gerd-altmann.jpg" align="right" width="400px">
 
-These 35 skills/techniques/tips will at least double your happiness and productivity with mastery, so try them today:
+These 36 skills/techniques/tips will at least double your happiness and productivity with mastery, so try them today:
 
 * [5 Memorizations](#Memorizations)
 * [11 Executions](#Executions)
 * [3 Thinkings](#Thinkings)
 * [6 Trainings](#Trainings)
 * [3 Leaderships](#Leaderships)
-* [7 Empowerments](#Empowerments)
+* [8 Empowerments](#Empowerments)
 
 Why & How
 ---------
@@ -866,6 +868,33 @@ defining your own meaning and purpose, and as long as you believe it *deeply*, t
 
 > If today is your last day, will you still be doing what you plan to do? If not, you should consider doing something else.
 
+### #8 Embrace Neurodiversity
+
+Judy Singer [coined the word neurodiversity](http://amzn.to/2ZYkvmU), which means everyone's brain
+is just different in mental functions, to more [correctly describe development disorders like autism, ADHD,
+dyslexia, etc](https://egghead.io/lessons/egghead-egghead-talks-things-you-should-know-about-neurodiversity). It
+should be embraced as it expands our collective capabilities rather than treated as an disorder that must be "fixed" and
+frowned upon by others.
+
+Many great minds of our time, such as [Albert Einstein,
+Mozart, had neurodiverse symptoms](https://neurodivergentconsulting.org/2018/06/08/the-world-needs-neurodiversity/amp/).
+Many international companies, such as SAP, Microsoft, have started to recognize the talents of neurodiverse employees as
+[studies have shown they outperform their neurotypical
+peers](https://hbr-org.cdn.ampproject.org/c/s/hbr.org/amp/2017/05/neurodiversity-as-a-competitive-advantage) in
+specialized fields using their neurodivergent skills, therefore neurodiversity is becoming a competitor advantage.
+
+Neurodivergent people [see the world differently](https://www.youtube.com/watch?v=RbwRrVw-CRo&feature=share) than
+neurotypical, so it is important that we be more mindful and supportive towards them. They may see the world in a scary
+way and simply don't know how to deal with it. Always listen with empathy and act with compassion so they can be happier
+and thrive instead of go into withdrawal.
+
+If you are neurodivergent, believe in yourself as you are simply *differently abled*, and not disabled. While you may
+have some deficits, it comes with some exceptional skills that others don't have, so take advantage of them to excel and
+be proud. To ensure negative feelings don't hold you back, simply love your flaws, fears, and failures. With love,
+they will naturally disappear quickly, and then you will only be left with exceptional skills. :smile:
+
+Embrace diversity to obtain prosperity!
+
 Updates
 -------
 
@@ -874,5 +903,6 @@ New skills/techniques/tips are added often as I learn. To get updates, [follow m
 Need Help?
 ----------
 
-If you want a coaching/presentation session for these skills/techniques/tips, please [connect and message me](https://www.linkedin.com/in/maxzheng/).
+If you want a coaching/presentation session for these skills/techniques/tips, please [connect and message
+me](https://www.linkedin.com/in/maxzheng/) or schedule a free exploratory session at [http://hp.coach](http://hp.coach).
 I would love to help you and your team double your happiness and productivity!
