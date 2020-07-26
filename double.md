@@ -700,6 +700,8 @@ But that didn't happen overnight, but in three phases over a span of 3 years:
 Therefore, to bring out the best of people, you must manage compassionately. The greater the number of people that you
 extend your compassion to, the greater your leadership. The greatest leadership extends compassion to everyone. :heart:
 
+> Listen with empathy. Act with compassion.
+
 A word of caution, as Fred Kofman told Jeff once:
 
 > Compassion without wisdom is foolish. Wisdom without compassion is ruthless.
@@ -873,7 +875,7 @@ defining your own meaning and purpose, and as long as you believe it *deeply*, t
 Judy Singer [coined the word neurodiversity](http://amzn.to/2ZYkvmU), which means everyone's brain
 is just different in mental functions, to more [correctly describe development disorders like autism, ADHD,
 dyslexia, etc](https://egghead.io/lessons/egghead-egghead-talks-things-you-should-know-about-neurodiversity). It
-should be embraced as it expands our collective capabilities rather than treated as an disorder that must be "fixed" and
+should be embraced as it expands our collective capabilities rather than treated as a disorder that must be "fixed" and
 frowned upon by others.
 
 Many great minds of our time, such as [Albert Einstein,
