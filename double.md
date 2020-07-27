@@ -7,14 +7,14 @@ Double Your Happiness and Productivity
 
 <img src="images/happiness-productivity-by-gerd-altmann.jpg" align="right" width="400px">
 
-These 36 skills/techniques/tips will at least double your happiness and productivity with mastery, so try them today:
+These 37 skills/techniques/tips will at least double your happiness and productivity with mastery, so try them today:
 
 * [5 Memorizations](#Memorizations)
 * [11 Executions](#Executions)
 * [3 Thinkings](#Thinkings)
 * [6 Trainings](#Trainings)
 * [3 Leaderships](#Leaderships)
-* [8 Empowerments](#Empowerments)
+* [9 Empowerments](#Empowerments)
 
 Why & How
 ---------
@@ -896,6 +896,28 @@ be proud. To ensure negative feelings don't hold you back, simply love your flaw
 they will naturally disappear quickly, and then you will only be left with exceptional skills. :smile:
 
 Embrace diversity to obtain prosperity!
+
+### #9 Live Your Dream Life
+
+> If you don't have a dream (life goal), chances are you won't ever get there.
+
+It's sad, but most people don't think about living their dream life. Some did when they were little, but they get
+crushed by various current reality of life, and then eventually gave up. Some simply don't have the opportunities due
+to a lack of resources, either naturally or artificially. I didn't think about it until recently because I didn't care.
+That's not living, but just surviving. We can do better.
+
+I believe everyone can live their dream life -- no matter their current environment, resources, etc. It can be
+accompished in two steps. First, it is critical to achieve 100% happiness inside of you by following the happiness steps
+in [A Great Life Guide](http://agreatlife.guide), otherwise you can be easily crushed by the harsh reality outside. Once
+you have attained true happiness, you will be fine no matter what you have, what happens to you, or what others do, and
+then you will have unlimited energy to realize your dream by changing reality to your needs -- not the other way around.
+
+Your dream can be anything you want -- something that moves your heart and you would gladly do for free. Want a big
+family? Travel the world? Build a multi-national corporation? Go to Mars? Build a planet? Travel to the end of the
+universe? There is no limits to what you can do if you believe in and apply yourself by following this guide, so don't
+sell yourself short, and **dream big**! My dream is human prosperity by enabling everyone to be happy and productive.
+
+> What is your biggest dream?
 
 Updates
 -------
