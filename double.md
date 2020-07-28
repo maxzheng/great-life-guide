@@ -899,15 +899,18 @@ Embrace diversity to obtain prosperity!
 
 ### #9 Live Your Dream Life
 
-> If you don't have a dream (life goal), chances are you won't ever get there.
+A dream is a reality that you want where you have everything that you desire. It's not necessary, but so much better
+with it. :smile:
+
+> If you don't have a dream, chances are you won't ever get there.
 
 It's sad, but most people don't think about living their dream life. Some did when they were little, but they get
 crushed by various current reality of life, and then eventually gave up. Some simply don't have the opportunities due
 to a lack of resources, either naturally or artificially. I didn't think about it until recently because I didn't care.
-That's not living, but just surviving. We can do better.
+We can do better.
 
 I believe everyone can live their dream life -- no matter their current environment, resources, etc. It can be
-accompished in two steps. First, it is critical to achieve 100% happiness inside of you by following the happiness steps
+accomplished in two steps. First, it is critical to achieve 100% happiness inside of you by following the happiness steps
 in [A Great Life Guide](http://agreatlife.guide), otherwise you can be easily crushed by the harsh reality outside. Once
 you have attained true happiness, you will be fine no matter what you have, what happens to you, or what others do, and
 then you will have unlimited energy to realize your dream by changing reality to your needs -- not the other way around.
