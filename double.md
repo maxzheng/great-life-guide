@@ -832,7 +832,8 @@ replace it with love immediately:
 
 But does it really work? Yes! This is based on personal experience. I used to shy away from public speaking, but after
 replacing the fear with love a few times, right now I am excited about it and do it whenever I can -- [watch me show
-you](https://youtu.be/pkTfJXTpzYY). :grin: This is also based on behavior design from
+you](https://youtu.be/pkTfJXTpzYY) or [see testimonial](https://www.linkedin.com/feed/update/urn:li:activity:6694962716479774721).
+:grin: This is also based on behavior design from
 [Tiny Habits by BJ Fogg, PhD](https://amzn.to/37YyHyK). And [Gary
 Vaynerchuk](https://www.linkedin.com/in/garyvaynerchuk/) advocates [elimination of fear](https://www.linkedin.com/posts/garyvaynerchuk_eliminating-fear-is-something-im-extremely-ugcPost-6690021163856347136-rhwP)
 as one of his company cultures.
