@@ -1,7 +1,7 @@
 A Great Life Guide
 ==================
 
-> **Warning**: This guide will make you [achieve 100% happiness and productivity](story.md) every day for the rest of your life!
+> **Warning**: This guide will make you [achieve 100% happiness intelligence and productivity](story.md) every day for the rest of your life!
 
 Life is great when you are able to fully understand, do, and enjoy everything that it has to offer. This lists
 the steps to achieve that in a meaningful and sustainable way, so everyone can be happy and productive.
@@ -47,7 +47,12 @@ To ensure the prosperity of humanity, we must embed these values in our hearts f
 Happiness
 ---------
 
-To be happy, just do what kids do best:
+[Happiness intelligence](https://www.longdom.org/proceedings/happiness-intelligence-hq--the-ability-to-be-happy-and-its-measurement-12348.html)
+is the ability to be happy. With mastery, you will be able to better perceive internal and external events that
+affect your happiness, have high resilience to negativity, be naturally positive, attain unlimited energy to do
+anything you want, truly enjoy your life, and have many other physical and mental health benefits from being happy.
+
+To be happy and maximize happiness intelligence, just do what kids do best:
 
 1. **Sleep well** to rejuvenate, then you are naturally energized and happy. When you didn't sleep well, you are much
    more susceptible to accidents, illnesses, and negativities (e.g. sadness, anger, hate). To sleep well, exercise to
@@ -109,11 +114,6 @@ To be productive:
 
 Putting It All Together
 -----------------------
-
-Happiness is purely an internal state that you decide. As soon as external factors are in the equation, then
-happiness will depend on them and therefore it is no longer possible to achieve full happiness. There is no need to let
-external factors in as everyone can be happy by themselves by following the happiness steps, however it is definitely
-the right thing to do to help others become happy as well or resolve issues with others by teaching and using the steps.
 
 Being happy and productive sometimes diverge, but both are necessary to sustain and achieve your full potential
 over a life time. Metaphorically, think of the happiness steps as light from the sun that disperses in all

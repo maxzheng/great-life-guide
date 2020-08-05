@@ -838,6 +838,11 @@ you](https://youtu.be/pkTfJXTpzYY) or [see testimonial](https://www.linkedin.com
 Vaynerchuk](https://www.linkedin.com/in/garyvaynerchuk/) advocates [elimination of fear](https://www.linkedin.com/posts/garyvaynerchuk_eliminating-fear-is-something-im-extremely-ugcPost-6690021163856347136-rhwP)
 as one of his company cultures.
 
+[70% of people experience impostor syndrome](https://www.linkedin.com/pulse/impostors-confidence-self-esteem-max-zheng/)
+at least once in their lives, so it's not something that you should worry about. That basically means almost everyone
+feels like he/she is an impostor, 😂, hence it's better to just drop the facade, love yourself, and your imposter will
+naturally disappear.
+
 Just love everything about yourself, and all the negativity inside and outside of you will naturally disappear, and
 **you will be stronger and become unstoppable**!
 
