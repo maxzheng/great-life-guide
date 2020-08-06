@@ -750,11 +750,11 @@ go, but not so when you do. To further protect yourself, enchant daily by saying
 It's a great way to start your day as it will make you feel good and enforce your beliefs and dreams, so they won't ever
 get lost.
 
-### #2 Happiness is Internal
+### #2 Happiness Intelligence
 
-Happiness is an internal state that you decide and must be that way to ensure you have unlimited energy to be
-productive. If you are not happy at all, productivity goes to zero. It is the single most significant factor to
-productivity. To be happy and productive at all times, simply follow [A Great Life Guide](http://agreatlife.guide/).
+Happiness intelligence is the ability to be happy. With mastery, you will have unlimited energy to be productive. If you
+are not happy at all, productivity goes to zero, therefore it is the single most significant factor to productivity. To
+achieve 100% happiness intelligence and productivity, follow the steps in [A Great Life Guide](http://agreatlife.guide/).
 
 > Happiness enables productivity. Productivity elevates happiness.
 
