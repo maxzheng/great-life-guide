@@ -7,10 +7,10 @@ Double Your Happiness and Productivity
 
 <img src="images/happiness-productivity-by-gerd-altmann.jpg" align="right" width="400px">
 
-These 37 skills/techniques/tips will at least double your happiness and productivity with mastery, so try them today:
+These 38 skills/techniques/tips will at least double your happiness and productivity with mastery, so try them today:
 
 * [5 Memorizations](#Memorizations)
-* [11 Executions](#Executions)
+* [12 Executions](#Executions)
 * [3 Thinkings](#Thinkings)
 * [6 Trainings](#Trainings)
 * [3 Leaderships](#Leaderships)
@@ -397,6 +397,57 @@ that you provide service to.
    forever.
 
 Powerfully serve and transform your customers to be the most successful, then you will too.
+
+### #12 Every Conflict is Negotiation
+
+Conflict is natural and healthy as long as it is properly negotiated, therefore embrace it and master your
+negotiation skills to ensure successful outcomes for all parties involved. As long as you are well intentioned and see
+the situation as the problem, and not your counterpart, then everything is game and aim nothing less than the desired
+outcome for yourself.
+
+In [Chris Voss](https://www.linkedin.com/in/christophervoss/)'s book [Never Split the Difference: Negotiating As If Your
+Life Depended On It](https://amzn.to/3hSZ4td), he provides the following tools to get the job done:
+
+1. A **smile** goes a long way as everyone naturally likes someone that smiles. If people like you, then you are more
+   likely to build good rapport and get more favorable deals.
+2. Say "I am **sorry** ..." to convey understanding and empathy for your counterpart to gain trust.
+3. **Label** emotions and understanding using "It seems ...", "It sounds like ...", or "I understand ..." to diffuse
+   emotions and show empathy to gain trust.
+4. Use **mirror** questions to get more information. For example, if someone says "I can't do that," then you can simply
+   respond with "can't?" to get details.
+5. Say no without saying no using **"how" and "what" questions** and let your counterpart solve your problems. E.g. How
+   can I do that if ...? What are we trying to solve?
+6. **Avoid "why" questions** as they have an implicit accusation that triggers defensiveness. Avoid other questions too
+   as they are easy to answer without much impact.
+6. Let the other party **make the first offer** as long as you are prepared to handle extreme anchors and you might get a
+   better deal than expected.
+7. If your offer is bad, start by saying that what the **counterpart might think** to get it out of the way so they
+   can't say it and use against you. It also builds trust.
+
+To negotiate for a good price, the [Ackerman
+bargaining](https://www.forbes.com/sites/forbescoachescouncil/2020/05/08/it-pays-to-master-this-one-negotiation-tactic/#483729166eaa)
+method can't be beat:
+
+1. Set a target price.
+2. Make your initial offer at 65% of target. This is an extreme anchor to lower your counterpart's expectation.
+3. Then set another two offers at 85% and 95%.
+4. Use the no questions like "how" and "what" to get your counterpart to bid against himself before making a better
+   offer. E.g. That's a generous offer, but how can I do that when the market price is ...?
+5. When you make your offers, make sure the number is exact, like $102.31, to show there are calculation and weight
+   behind the number.
+6. For the last offer at your target price, add in a nonmonetary item to show there is nothing more that you can offer.
+
+Here are some interesting facts about human psychology that can be leveraged:
+
+1. People has a tendency to avoid a loss than to have a bigger gain.
+2. People just want to be understood more than anything else.
+3. People are happy as long as they think they got the best deal even if they didn't.
+4. People don't like to be told what they should do or think.
+5. People are driven by their worldview (their beliefs or whys).
+6. People's expectations will change when presented with extremes.
+
+With the above tools and knowledge, it is easy to abuse the power, so please do use them compassionately, especially to
+the uninitiated.
 
 ## Thinkings
 
