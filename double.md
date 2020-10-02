@@ -7,12 +7,12 @@ Double Your Happiness and Productivity
 
 <img src="images/happiness-productivity-by-gerd-altmann.jpg" align="right" width="400px">
 
-These 38 skills/techniques/tips will at least double your happiness and productivity with mastery, so try them today:
+These 39 skills/techniques/tips will at least double your happiness and productivity with mastery, so try them today:
 
 * [5 Memorizations](#Memorizations)
 * [12 Executions](#Executions)
 * [3 Thinkings](#Thinkings)
-* [6 Trainings](#Trainings)
+* [7 Trainings](#Trainings)
 * [3 Leaderships](#Leaderships)
 * [9 Empowerments](#Empowerments)
 
@@ -661,6 +661,31 @@ Experiment to figure out what works best for you, but feel free to use mine as a
 
 What's your daily routine for success?
 
+### #7 Skill Development
+
+[The Talent Code](https://amzn.to/3jyCis4), by Daniel Coyle, breaks talent development into 3 components: ignition,
+master coaching, and deep practice. They apply to any skill that you want to develop, and not just for something
+that you are naturally good at.
+
+Ignition is the motivation. This can be triggered by several factors, such as passion, the need to belong to a
+group, curiosity, reward. This must be strong and self-sustaining in order to endure the strenuous coaching and
+deep practice.
+
+The quickest and best way to learn something is by learning from someone that has already done it with exceptional
+coaching skills, a master coach. It would take too long to re-learn everything from scratch and some things are not
+easily visible from your perspective. It might cost a pretty penny, but it's worth every cent as time is more precious.
+
+With everything, practice is key. To learn fast, deep practice is necessary where you can iterate and fail fast so
+there is sufficient feedbacks to strengthen the skill. To become a world-class expert, it will take many hours of deep
+practice. Depending on the type of skill, a liberal or strict approach might be better. E.g. To reproduce a piano piece,
+strict is necessary.
+
+With each deep practice, the brain wraps more [myelin](https://en.wikipedia.org/wiki/Myelin) around relevant nerve cells
+to provide insulation for electrical signals that is sent, therefore improving the speed and quality of the transmission
+by hundreds of folds, which is essentially what expert skill is at a biological level. The more myelin wrapped around
+nerve cells used by a skill, the more skillful you are. Myelin wraps but never unwraps, that means once you have learned
+a skill, you will have it for life. A gap does start to form between myelin and the nerves at around age 50 and
+therefore skills will start to deteriorate.
 
 Leaderships
 -----------
