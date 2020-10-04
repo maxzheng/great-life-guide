@@ -68,7 +68,13 @@ Anything is possible if you believe in and apply yourself!
 
 ### Unshackling Chains Holding You Back
 
-Love Yourself
+There are many artificial or archaic beliefs and emotions that hold us back, such as fear of public speaking or that we
+are not smart enough. In order for us to move at full speed, we need to unshackle us from those limiting beliefs and
+emotions that are holding us to the ground.
+
+The easiest way to do that is using the most powerful emotion at our disposal: Love. Simply love yourself completely,
+including your fears, flaws, and failures, and they will naturally disappear in no time. Read more under "Love Yourself"
+in [double.guide](http://double.guide).
 
 ### Gain Unlimited Energy with Happiness Intelligence
 
