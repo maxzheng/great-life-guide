@@ -2,8 +2,7 @@ Double Your Happiness and Productivity
 ======================================
 
 > If you spend 30 minutes now to read this, you will **save years** later! And follow
-> [me](https://www.linkedin.com/in/maxzheng/), [hp.tips](http://hp.tips), or [hp.show](http://hp.show) for daily
-> updates and tips.
+> [Max Zheng](https://www.linkedin.com/in/maxzheng/).
 
 <img src="images/happiness-productivity-by-gerd-altmann.jpg" align="right" width="400px">
 
@@ -693,7 +692,7 @@ Leaderships
 There is only so much you can do by yourself. With leadership, you can easily multiple your impact by 10 to **billions of
 times** by inspiring others to join your mission.
 
-### #1 Transcendence
+### #1 Transcendent Leadership
 
 There are many leadership styles, but the best one is
 [transcendent leadership](https://www.forbes.com/sites/kathycaprino/2018/05/01/how-to-stop-being-a-boss-and-become-a-transcendent-leader)
