@@ -30,13 +30,7 @@ Path
 Each step in the path will be a new skill and they should be done in order so subsequent steps become easier and make
 more sense.
 
-### Introduction: You Can Be a Genius
-
-Key Points:
-* What is life and a genius?
-* Intelligence, creativity, or any skill, can be developed.
-* Many geniuses started out with normal capabilities in history.
-* You can become a genius if you believe in and apply yourself!
+### Introduction: Becoming a Genius
 
 Before we can become a genius in life, we have to know what life is. From a philosophical perspective,
 Wikipedia has a very lengthy explanation on the [meaning of life](https://en.wikipedia.org/wiki/Meaning_of_life), but
@@ -78,17 +72,55 @@ in [double.guide](http://double.guide).
 
 ### Gain Unlimited Energy with Happiness Intelligence
 
-Happiness Intelligence
+[Happiness Intelligence](https://www.longdom.org/proceedings/happiness-intelligence-hq--the-ability-to-be-happy-and-its-measurement-12348.html) is the ability to be happy. Once maximized, it's possible to go back to being happy again no matter what happens
+in life, so happiness becomes a choice. Being happy without dependency will essentially give you unlimited energy to do
+what's right and realize your dreams -- even if no one believes in you.
 
-### Core Productivity
+To maximize your happiness intelligence, follow the happiness steps in [A Great Life Guide](http://hp.guide):
+
+1. Sleep well
+2. Let go of everything
+3. Enjoy the present
+4. Nuture your drives with positivity
+
+### Gain More Time with Productivity
+
+Time is the most precious resource as it's finite. While we can't actually create more time, we can become more
+productive so that we can do more in less time, therefore effectively gaining more time.
+
+To become productive, follow the produtivity steps in [A Great Life Guide](http://hp.guide):
+
+1. Activate your body, passion, and mind
+2. Be present with acceptance
+3. Concentrate on one thing at a time
+4. Do the right thing
 
 ### Common Values for Ensuring the Prosperity of Humanity
 
+Sharp tools has no affinity to the prosperity of humanity, hence it's important to have a common set of values to ensure
+that as stated in [A Great Life Guide](http://hp.guide):
+
+1. Truth: This is the foundation that everything else is built on. Without it, everything crumples.
+2. Pleasure: We only have one life to live, so let's focus on enjoyment rather than pain. :)
+3. Unity: This is what makes us human. The more we unite, the greater the humanity.
+
 ### Dreams that Make You Come Alive
 
-Live Your Dream Life
+All you need is happiness, but life becomes more exciting when you dream. As you have one life to live, make the most of
+it by figuring out and live your dream every day. Read more under "Live Your Dream Life" in
+[double.guide](http://double.guide).
+
+Here are some tips to figure out your dream:
+
+1. What are you most passionate about?
+2. If you don't have to worry about money, what would you do?
+3. What are you good at and your interests?
 
 ### Live Your Life to the Fullest Every Day
+
+As we never know what will happen tomorrow, it's important to live each day to the fullest. In order to do that, we
+should plan and do everything that's important to us in 24 hours. Carve out the number of hours that you want to spend
+with your family, friends, career, hobbies, dreams, sleep, etc.
 
 ### Memorize Anything Instantly
 
@@ -98,7 +130,6 @@ Parallel Thinking
 Lateral Thinking
 Perceptional Thinking
 Be a Player, Not a Victim
-Die Before You Die
 Embrace Neurodiversity
 
 ### Enjoy Doing Anything
