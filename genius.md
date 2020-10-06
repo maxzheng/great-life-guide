@@ -122,27 +122,77 @@ As we never know what will happen tomorrow, it's important to live each day to t
 should plan and do everything that's important to us in 24 hours. Carve out the number of hours that you want to spend
 with your family, friends, career, hobbies, dreams, sleep, etc.
 
+Better yet, turn that into a daily routine so you don't need think about what you need to do or forget to do something
+important. Read more under "Daily Routine" in [double.guide](http://double.guide)
+
 ### Memorize Anything Instantly
+
+With the right memory techniques, it's possible to remember massive amount of information easily. With ever growing
+information, that's increasingly more important. While most things can be easily looked up, it is very useful to have
+critical information readily available in your memory, which allows them to be used in a wholistic way instantly.
+
+Use the following memory techniques to memorize different information:
+
+1. Story/link system uses vivid images and stories that link together to memorize one or more words/concepts.
+2. Loci uses locations that you know intimately to map to new words/concepts, such as your body or house.
+3. Peg system maps number to words/concepts to remember them in numeric order.
+
+Read more under "Memorization" in [double.guide](http://double.guide)
 
 ### Think Differently
 
-Parallel Thinking
-Lateral Thinking
-Perceptional Thinking
-Be a Player, Not a Victim
-Embrace Neurodiversity
+Robert De Bono is the leading world thinker that has come up with many ways to improve thinking outside of traditional
+logical thinking:
+
+1. Parallel thinking is a way to use different modes of thinking in serial with others at the same time to improve
+   collaboration instead of arguing against each other.
+2. Lateral thinking uses the untrod paths to solve problems in creative ways.
+3. Perceptional thinking lets you see things from many different angles to get a full picture.
+
+Read more under "Thinkings" in [double.guide](http://double.guide).
+
+It's important to have the right mindset in terms of being responsible for all your actions and results. If you
+blame others for your misfortune, then you have given up control to others, so never do that. Whatever happens, always
+think what "I" can do to make the situation better. Read more under "Be a Player, Not a Victim" in
+[double.guide](http://double.guide).
+
+Lastly, everyone has a different brain and way of thinking, including those with autism or other neurodiverse groups,
+and that's a beautiful thing that we need to appreciate as they provide a more complete thinking rather than a few
+popular ways. Read more under "Embrace Neurodiversity" in [double.guide](http://double.guide)
 
 ### Enjoy Doing Anything
 
-Daily Routine
-Behavior Design
+The more things that you love, the more enjoyable life becomes. To be able to enjoy everything, simply love everyone and
+everything. :) To enjoy doing anything, simply generate a feeling of love whenever you do it.
+
+BJ Fogg has 3 simple steps that can be used to turn anything into a tiny habit using that concept:
+
+1. Anchor to something that you are already doing.
+2. Behavior that you want to do in the smallest increment.
+3. Celebrate by generating a feeling of accomplishment.
+
+And repeat that many times to turn the tiny habit into a big one. He also has a formula that breaks behavior into 3
+simple multipliers: motivation, ability, and prompt. Read more under "Behavior Design" in
+[double.guide](http://double.guide).
 
 ### Train Faster
 
-Learn Faster
-Read Faster
-Skill Development
-Leverage What Others Have Learned
+In order to do anything faster, we must be able to learn faster first:
+
+1. To learn faster, we should forget what we already know, act on the new content, be in a motivated mental state, learn
+   again by teaching others, attach emotion, and replay it. Read more under "Learn Faster" in
+   [double.guide](http://double.guide)
+2. To read reader, we should silence subvocalization, read in multiple words or concepts, be concentrated, and
+   optionally use a pacer. Read more under "Read Faster" in [double.guide](http://double.guide)
+
+Try to read one book a week. Each book takes a few hours to read but will save us weeks or years of time by learning and
+leveraging what others have learned from their lifetime. That is time creation and productivity in its finest. Read more
+under "Leverage What Others Have Learned" in [double.guide](http://double.guide)
+
+After reading, we need to understand how skills can be developed so that you can become an expert in
+any skill of your choosing. Daniel Coyle breaks skill development into 3 components: ignition, master coaching, and
+deep pratice. On a biological level, as your skill develops, it means more myelin is wrapped around nerve cell axons to
+allow impulses to travel hundreds of times faster. Read more under "Skill Development" in [double.guide](http://double.guide).
 
 ### Optimal State
 
