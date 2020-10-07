@@ -1,8 +1,10 @@
 Path to Genius
 ==============
 
+<img src="images/genius-by-f-schmutzer.jpg" />
+
 Genius used to be reserved for a select few naturally gifted people, or what seems to be. Based on latest research on
-human capabilites, that is no longer the case. With the proper training using the right skills and techniques, anyone
+human capabilities, that is no longer the case. With the proper training using the right skills and techniques, anyone
 can become a genius.
 
 This step-by-step guide will take you on the path to become a genius in life with all the skills and techniques
@@ -83,14 +85,14 @@ To maximize your happiness intelligence, follow the happiness steps in [A Great 
 1. Sleep well
 2. Let go of everything
 3. Enjoy the present
-4. Nuture your drives with positivity
+4. Nurture your drives with positivity
 
 ### Gain More Time with Productivity
 
 Time is the most precious resource as it's finite. While we can't actually create more time, we can become more
 productive so that we can do more in less time, therefore effectively gaining more time.
 
-To become productive, follow the produtivity steps in [A Great Life Guide](http://hp.guide):
+To become productive, follow the productivity steps in [A Great Life Guide](http://hp.guide):
 
 1. Activate your body, passion, and mind
 2. Be present with acceptance
@@ -193,7 +195,7 @@ under "Leverage What Others Have Learned" in [double.guide](http://double.guide)
 
 After reading, we need to understand how skills can be developed so that you can become an expert in
 any skill of your choosing. Daniel Coyle breaks skill development into 3 components: ignition, master coaching, and
-deep pratice. On a biological level, as your skill develops, it means more myelin is wrapped around nerve cell axons to
+deep practice. On a biological level, as your skill develops, it means more myelin is wrapped around nerve cell axons to
 allow impulses to travel hundreds of times faster. Read more under "Skill Development" in [double.guide](http://double.guide).
 
 ### Optimal State
@@ -251,7 +253,7 @@ Read more under "Public Speaking" and "Effective Communication" in [double.guide
 ### The Perfect Relationship
 
 Essentially, everything we do comes down to the relationships that we build. The world would be pretty lonely without
-good relationshps.
+good relationships.
 
 To build the perfect relationship:
 
