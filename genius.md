@@ -62,7 +62,7 @@ Einstein was [slow in learning how to speak and had a mild form of autism](http:
 college](https://www.youtube.com/watch?v=UF8uR6Z6KLc), but he believed in and applied himself, then he became a genius.
 Read more under "Believe In Yourself" in [double.guide](http://double.guide)
 
-Anything is possible if you believe in and apply yourself!
+> Anything is possible if you believe in and apply yourself!
 
 ### Unshackling Chains Holding You Back
 
@@ -99,14 +99,14 @@ To become productive, follow the productivity steps in [A Great Life Guide](http
 3. Concentrate on one thing at a time
 4. Do the right thing
 
-### Common Values for Relationships
+### Common Values for Good Relationships
 
-Sharp tools has no affinity to good relationships or humanity, hence it's important to have a common set of values to
+Sharp tools have no affinity to good relationships or humanity, hence it's important to have a common set of values to
 ensure that as stated in [A Great Life Guide](http://hp.guide):
 
-1. Truth: This is the foundation that everything else is built on. Without it, everything crumples.
-2. Pleasure: We only have one life to live, so let's focus on enjoyment rather than pain. :)
-3. Unity: This is what makes relationships. The more we unite, the greater the prosperity of humanity.
+1. **Truth**: This is the foundation that everything else is built on. Without it, everything crumples.
+2. **Pleasure**: We only have one life to live, so let's focus on enjoyment rather than pain. :)
+3. **Unity**: This is what makes relationships. The more we unite, the greater the prosperity of humanity.
 
 ### Dreams that Make You Come Alive
 
@@ -223,7 +223,7 @@ Read more under "Optimal Concentration", "Optimal Experience", and "Hacking Moti
 
 ### Make the Biggest Impact
 
-At the end of th day, it's really about the impact of your results and not about how much time was spent, therefore to
+At the end of the day, it's really about the impact of your results and not about how much time was spent, therefore to
 be successful in life, always think in terms of impact and personal growth for whatever you do. Read more under "Biggest
 Impact & Growth" in [double.guide](http://double.guide)
 
