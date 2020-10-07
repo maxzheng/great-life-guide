@@ -5,32 +5,34 @@ Genius used to be reserved for a select few naturally gifted people, or what see
 human capabilites, that is no longer the case. With the proper training using the right skills and techniques, anyone
 can become a genius.
 
-If you are ready to become a genius, read on.
+This step-by-step guide will take you on the path to become a genius in life with all the skills and techniques
+necessary to be happy, productive, live your dreams every day, and become a genius in any field of your choosing.
+
+If you are ready to become a genius in life, read on.
 
 Origin and Motivation
 ---------------------
 
 This guide is based on contents from [A Great Life Guide (hp.guide)](http://hp.guide) and
-[Double Your Happiness and Productivity (double.guide)](http://double.guide) guides but structured in a step-by-step program -- a
-guided path, hence it's called "Path to Genius" -- as the contents may be hard to digest in the wrong order.
-
+[Double Your Happiness and Productivity (double.guide)](http://double.guide) guides but structured in a step-by-step
+program -- a guided path, hence it's called "Path to Genius" -- as the contents may be hard to digest in the wrong
+order.
 
 Sign Up for Training Program
 ----------------------------
 
-This guide is available as a training program for adults and kids (7+) and customized to what is relevant to your needs
-and goals, so you will learn everything to become a genius.
+This is available as a training program for adults and kids (7+) that can customized to what is relevant to your needs
+and goals, so you will learn everything to become a genius from a genius coach.
 
 To learn more and sign up, please book an exploratory session at [http://hp.training](http://hp.training).
+
+Or train on your phone using our app [Path to Genius](http://pathtogenius.app)
 
 
 Path
 ----
 
-Each step in the path will be a new skill and they should be done in order so subsequent steps become easier and make
-more sense.
-
-### Introduction: Becoming a Genius
+### Introduction: Anything is Possible
 
 Before we can become a genius in life, we have to know what life is. From a philosophical perspective,
 Wikipedia has a very lengthy explanation on the [meaning of life](https://en.wikipedia.org/wiki/Meaning_of_life), but
@@ -44,7 +46,7 @@ Evolution](https://en.wikipedia.org/wiki/Evolution) seems sound.
 
 For a long time, many believed that intelligence or creativity is something that you are born with. Based on
 recent researches, while genes do play a role in some cases, generally they can be trained using the right skills and
-techniques as our brains and bodies are extremely adaptable and powerful in all humans. There are abundant examples in
+techniques as our brains and bodies are extremely adaptable and powerful. There are abundant examples in
 Daniel Coyle's book [The Talent Code](https://amzn.to/3jyCis4) where he explained talent is developed with the right
 combination of ignition, master coaching, and deep practice. Read more under "Skill Development" in
 [double.guide](http://double.guide)
@@ -95,14 +97,14 @@ To become productive, follow the produtivity steps in [A Great Life Guide](http:
 3. Concentrate on one thing at a time
 4. Do the right thing
 
-### Common Values for Ensuring the Prosperity of Humanity
+### Common Values for Relationships
 
-Sharp tools has no affinity to the prosperity of humanity, hence it's important to have a common set of values to ensure
-that as stated in [A Great Life Guide](http://hp.guide):
+Sharp tools has no affinity to good relationships or humanity, hence it's important to have a common set of values to
+ensure that as stated in [A Great Life Guide](http://hp.guide):
 
 1. Truth: This is the foundation that everything else is built on. Without it, everything crumples.
 2. Pleasure: We only have one life to live, so let's focus on enjoyment rather than pain. :)
-3. Unity: This is what makes us human. The more we unite, the greater the humanity.
+3. Unity: This is what makes relationships. The more we unite, the greater the prosperity of humanity.
 
 ### Dreams that Make You Come Alive
 
@@ -196,43 +198,88 @@ allow impulses to travel hundreds of times faster. Read more under "Skill Develo
 
 ### Optimal State
 
-Concentration Meditation
-Mindfulness Meditation
-Loving-Kindness Meditation
-Exercise Daily
-Sleep Well
+Before we can start to do things, we need to get our mind and body into the optimal state:
+1. Concentration meditation is useful for improving your focus and many others.
+2. Mindfulness meditation is useful for improving your awareness and many others.
+3. Loving-Kindness meditation is useful for improving your happiness and many others.
+4. Exercise daily to improve physical and mental health.
+5. Sleep well to fully rejuvenate.
+6. Eat nutritious and top brain foods, such as salmon.
+
+Read more under "Trainings" in [double.guide](http://double.guide)
 
 ### Optimal Execution
 
-Optimal Concentration
-Optimal Experience
-Hacking Motivation
+To do things well, we need:
+
+1. Full concentration. To keep concentration at an optimal state, take breaks often using the Pomodoro technique.
+2. Flow state where the work becomes immersive, time flies, and productivity peaks.
+3. Sustained motivation by knowing why we are doing it and the rewards ahead of us.
+
+Read more under "Optimal Concentration", "Optimal Experience", and "Hacking Motivation" in
+[double.guide.](http://double.guide)
 
 ### Make the Biggest Impact
 
-Biggest Impact & Growth
-Powerfully Serve Your Customers
-Prioritization
-Transcendent Leadership
-Network
+At the end of th day, it's really about the impact of your results and not about how much time was spent, therefore to
+be successful in life, always think in terms of impact and personal growth for whatever you do. Read more under "Biggest
+Impact & Growth" in [double.guide](http://double.guide)
+
+To have high impact to others, you must deliver value to them. To deliver value, start by deeply understanding others'
+needs, and then help them become successful. If others are successful, then they will gladly pay a premium for your
+services. This applies to business and personal relationships, in non-montetary terms. Read more under "Powerfully Serve Your Customers" in [double.guide](http://double.guide)
+
+As there are limited time, it is crucial to work on the most impactful thing first. Read more under "Prioritization" in
+[double.guide](http://double.guide)
+
+There is only so much that you can do alone, therefore, to make the biggest impact, you want to leverage your network
+using transcendent leadership to multiple your impact by up to billions of times. Read more under "Transcendent Leadership" and "Network" in [double.guide](http://double.guide)
 
 ### Expression that Moves People to Action
 
-Public Speaking
-Effective Communication
+To work well with others and get them to take action, we have to communicate effectively by:
+
+1. Being authentic and passionate as people are moved by them.
+2. Deeply understand what you are talking about.
+3. Convey relevant information otherwise no one will listen.
+4. Master different forms of communication to ensure information isn't lost during transit.
+
+Afraid of public speaking? Easily overcome it with love!
+
+Read more under "Public Speaking" and "Effective Communication" in [double.guide](http://double.guide)
 
 ### The Perfect Relationship
 
-Compassion for Everyone
-Every Conflict is Negotiation
+Essentially, everything we do comes down to the relationships that we build. The world would be pretty lonely without
+good relationshps.
 
-### 5Gs of Geniuses: Grit, Growth, Giving, Gratitude, and Good
+To build the perfect relationship:
 
-Teach Love, Not How
+1. Interact with empathy and act with compassion. It's important to listen first with empathy to fully understand. And
+   if there is a need to act, then do so with compassion, otherwise the relationship won't last long. This applies to
+   personal and business relationships.
+2. Understand that conflict is natural and healthy, and the problem isn't other person but the situation. To best deal
+   with the situation, master negotiation techniques, such as empathy and say no without saying no.
+
+Read more under "Compassion for Everyone" and "Every Conflict is Negotiation" in [double.guide](http://double.guide)
+
+### Genius: Grit, Growth, Giving, Gratitude, and Good
+
+To be a true genius in life, you must exhibit the 5Gs of Genius:
+
+1. **Grit** is the key to success. As long as you keep on trying, success is the only outcome.
+2. **Growth** is the key to self-development. If you keep growing, everything becomes easier and better.
+3. **Giving** is the key to relationship and development of others. The best way to give is by sharing, especially
+   teaching others to love.
+4. **Gratitude** is the key to relationship and happiness. It feels good to be thankful for what you have and what
+   others have done for you, and same when receiving.
+5. **Good** is the key to humanity. To be a genius in life, it's essential to come to the realization that we must use
+   our geniuses for the good of humanity.
+
+Read more under "Believe In Yourself" and "Teach Love, Not How" in [double.guide](http://double.guide)
 
 Updates
 -------
 
-This guide is updated often as I learn. To get updates, just [follow me](https://www.linkedin.com/in/maxzheng/).
-
-
+This guide is updated often as I learn. To get updates, just [follow Max Zheng](https://www.linkedin.com/in/maxzheng/)
+or [Human Prosperity, Inc](http://hp.enginering).
