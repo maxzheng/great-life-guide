@@ -1006,7 +1006,8 @@ sell yourself short, and **dream big**! My dream is human prosperity by enabling
 Updates
 -------
 
-New skills/techniques/tips are added often as I learn. To get updates, [follow me](https://www.linkedin.com/in/maxzheng/).
+This guide is updated often as I learn. To get updates, follow [Max Zheng](https://www.linkedin.com/in/maxzheng/)
+or [Human Prosperity, Inc](http://hp.enginering).
 
 Need Help?
 ----------
@@ -1015,4 +1016,4 @@ If you want a coaching/presentation session for these skills/techniques/tips, pl
 me](https://www.linkedin.com/in/maxzheng/) or schedule a free exploratory session at [http://hp.coach](http://hp.coach).
 I would love to help you and your team double your happiness and productivity!
 
-*The latest published version is available at http://pathtogenius.guide for easy sharing and liking.*
+*The latest published version is available at http://double.guide for easy sharing and liking.*

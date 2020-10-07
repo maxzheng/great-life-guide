@@ -283,5 +283,13 @@ Read more under "Believe In Yourself" and "Teach Love, Not How" in [double.guide
 Updates
 -------
 
-This guide is updated often as I learn. To get updates, just [follow Max Zheng](https://www.linkedin.com/in/maxzheng/)
+This guide is updated often as I learn. To get updates, follow [Max Zheng](https://www.linkedin.com/in/maxzheng/)
 or [Human Prosperity, Inc](http://hp.enginering).
+
+Need Help?
+----------
+
+If you have any questions or interested to learn more, please book an exploratory session at
+[hp.training](http://hp.training)
+
+*The latest published version is available at http://pathtogenius.guide for easy sharing and liking.*
