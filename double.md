@@ -1014,3 +1014,5 @@ Need Help?
 If you want a coaching/presentation session for these skills/techniques/tips, please [connect and message
 me](https://www.linkedin.com/in/maxzheng/) or schedule a free exploratory session at [http://hp.coach](http://hp.coach).
 I would love to help you and your team double your happiness and productivity!
+
+*The latest published version is available at http://pathtogenius.guide for easy sharing and liking.*
