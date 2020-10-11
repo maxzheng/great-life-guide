@@ -20,16 +20,13 @@ This guide is based on contents from [A Great Life Guide (hp.guide)](http://hp.g
 program -- a guided path, hence it's called "Path to Genius" -- as the contents may be hard to digest in the wrong
 order.
 
-Sign Up for Training Program
+Genius Training Program
 ----------------------------
 
 This is available as a training program for adults and kids (7+) that can customized to what is relevant to your needs
 and goals, so you will learn everything to become a genius from a genius coach.
 
-To learn more and sign up, please book an exploratory session at [http://hp.training](http://hp.training).
-
-Or train on your phone using our app [Path to Genius](http://pathtogenius.app)
-
+To learn more, please book an exploratory session at [http://hp.training](http://hp.training)
 
 Path
 ----
