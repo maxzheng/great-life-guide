@@ -23,7 +23,7 @@ order.
 Genius Training Program
 ----------------------------
 
-This is available as a training program for adults and kids (7+) that can customized to what is relevant to your needs
+This is available as a training program for adults and kids (7+) that can be customized to what is relevant to your needs
 and goals, so you will learn everything to become a genius from a genius coach.
 
 To learn more, please book an exploratory session at [http://hp.training](http://hp.training)
@@ -183,7 +183,7 @@ In order to do anything faster, we must be able to learn faster first:
 1. To learn faster, we should forget what we already know, act on the new content, be in a motivated mental state, learn
    again by teaching others, attach emotion, and replay it. Read more under "Learn Faster" in
    [double.guide](http://double.guide)
-2. To read reader, we should silence subvocalization, read in multiple words or concepts, be concentrated, and
+2. To read faster, we should silence subvocalization, read in multiple words or concepts, be concentrated, and
    optionally use a pacer. Read more under "Read Faster" in [double.guide](http://double.guide)
 
 Try to read one book a week. Each book takes a few hours to read but will save us weeks or years of time by learning and
