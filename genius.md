@@ -12,21 +12,38 @@ necessary to be happy, productive, live your dreams every day, and become a geni
 
 If you are ready to become a genius in life, read on.
 
-Origin and Motivation
----------------------
+Origin, Motivation, and Value
+-----------------------------
 
 This guide is based on contents from [A Great Life Guide (hp.guide)](http://hp.guide) and
 [Double Your Happiness and Productivity (double.guide)](http://double.guide) guides but structured in a step-by-step
 program -- a guided path, hence it's called "Path to Genius" -- as the contents may be hard to digest in the wrong
 order.
 
+After mastery of all the steps in this guide, you will become a genius in life:
+
+1. You can be happy whenever you want as happiness becomes a choice and gain unlimited energy to do anything you want
+   even if no one believes you.
+2. Your productivity will skyrocket where you can make the biggest impact with the highest growth in the least
+   amount of time. In practical terms, promotions every year, more fun & time, financial freedom, no burnout, etc.
+3. You will start to live your dreams today as you never know what will happen tomorrow.
+4. You will be able to master any skill to be successful in your career, dreams, and life.
+5. Be your true self and live the life that you want in every possible way without limits.
+
 Genius Training Program
 ----------------------------
 
-This is available as a training program for adults and kids (7+) that can be customized to what is relevant to your needs
-and goals, so you will learn everything to become a genius from a genius coach.
+This is available as a training program for adults and kids (7+) that can be customized to what is relevant to your
+needs and goals, so you will learn everything to become a genius from a genius coach.
 
-To learn more, please book an exploratory session at [http://hp.training](http://hp.training)
+To learn more, please book an introduction session at [http://hp.training](http://hp.training)
+
+After completion of the program, you will receive:
+
+1. Certificate that certifies that you are a genius in life.
+2. Invitation to be a guest on our podcast [Human Prosperity](http://podcast.hp.show) to share your life story with the
+   world.
+3. Invitation to a private LinkedIn group `Geniuses for Good` to network with other geniuses -- top entrepreneurs, etc.
 
 Path
 ----
@@ -96,9 +113,9 @@ To become productive, follow the productivity steps in [A Great Life Guide](http
 3. Concentrate on one thing at a time
 4. Do the right thing
 
-### Common Values for Good Relationships
+### Common Values to Ensure the Prosperity of Humanity
 
-Sharp tools have no affinity to good relationships or humanity, hence it's important to have a common set of values to
+Sharp tools have no affinity to prosperity of humanity, hence it's important to have a common set of values to
 ensure that as stated in [A Great Life Guide](http://hp.guide):
 
 1. **Truth**: This is the foundation that everything else is built on. Without it, everything crumples.
