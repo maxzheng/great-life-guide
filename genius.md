@@ -118,15 +118,6 @@ To become productive, follow the productivity steps in [A Great Life Guide](http
 3. Concentrate on one thing at a time
 4. Do the right thing
 
-### Common Values to Ensure the Prosperity of Humanity
-
-Sharp tools have no affinity to prosperity of humanity, hence it's important to have a common set of values to
-ensure that as stated in [A Great Life Guide](http://hp.guide):
-
-1. **Truth**: This is the foundation that everything else is built on. Without it, everything crumples.
-2. **Pleasure**: We only have one life to live, so let's focus on enjoyment rather than pain. :)
-3. **Unity**: This is what makes relationships. The more we unite, the greater the prosperity of humanity.
-
 ### Dreams that Make You Come Alive
 
 All you need is happiness, but life becomes more exciting when you dream. As you have one life to live, make the most of
@@ -285,6 +276,13 @@ To build the perfect relationship:
 Read more under "Compassion for Everyone" and "Every Conflict is Negotiation" in [double.guide](http://double.guide)
 
 ### Genius: Grit, Growth, Giving, Gratitude, and Good
+
+Sharp tools have no affinity to prosperity of humanity, hence it's important to have a common set of values to
+ensure that as stated in [A Great Life Guide](http://hp.guide):
+
+1. **Truth**: This is the foundation that everything else is built on. Without it, everything crumples.
+2. **Pleasure**: We only have one life to live, so let's focus on enjoyment rather than pain. :)
+3. **Unity**: This is what makes relationships. The more we unite, the greater the prosperity of humanity.
 
 To be a true genius in life, you must exhibit the 5Gs of Genius:
 
