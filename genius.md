@@ -48,13 +48,14 @@ After completion of the program, you will receive:
 Path
 ----
 
-### Introduction: Anything is Possible
+### Introduction
 
 Before we can become a genius in life, we have to know what life is. From a philosophical perspective,
 Wikipedia has a very lengthy explanation on the [meaning of life](https://en.wikipedia.org/wiki/Meaning_of_life), but
 in summary, the meaning is whatever that you want to be that makes you fulfilled, so you have full control of your
 meaning and destiny -- and that's a beautiful and empowering thing. On a biological perspective, [Darwin's Theory of
-Evolution](https://en.wikipedia.org/wiki/Evolution) seems sound.
+Evolution](https://en.wikipedia.org/wiki/Evolution) seems sound and what that tells us is that we mutate slightly to
+improve our chances of survival and therefore we are all different for a very good reason that we should appreciate.
 
 [Oxford Languages](https://languages.oup.com/google-dictionary-en/) defines a genius as:
 
@@ -70,6 +71,7 @@ combination of ignition, master coaching, and deep practice. Read more under "Sk
 > "If people knew how hard I had to work to gain my mastery," Michelangelo later said, "it would not seem so wonderful
 > at all."
 
+### Anything is Possible
 
 In history, there are also many examples of geniuses that started as normal or below average. Albert
 Einstein was [slow in learning how to speak and had a mild form of autism](http://content.time.com/time/specials/packages/article/0,28804,1936731_1936743_1936745,00.html) when he was a child. Steve Jobs [started out as an ordinary guy that dropped out of
