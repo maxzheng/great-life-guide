@@ -71,6 +71,9 @@ combination of ignition, master coaching, and deep practice. Read more under "Sk
 > "If people knew how hard I had to work to gain my mastery," Michelangelo later said, "it would not seem so wonderful
 > at all."
 
+With the right mindset, skills, techniques, and practice using this guide, you will become a genius in life where you
+can be happy, productive, live your dreams every day, and be a genius in any field of your choosing.
+
 ### Anything is Possible
 
 In history, there are also many examples of geniuses that started as normal or below average. Albert
