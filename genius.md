@@ -36,6 +36,10 @@ Genius Training Program
 This is available as a training program for adults and kids (7+) that can be customized to what is relevant to your
 needs and goals, so you will learn everything to become a genius from a genius coach.
 
+> For the kids program, see [kids.hp.training](http://kids.hp.training)
+
+Watch [webinar](https://youtu.be/2Yr1xJQH8n4) for an introduction.
+
 To learn more, please book an introduction session at [http://hp.training](http://hp.training)
 
 After completion of the program, you will receive:
