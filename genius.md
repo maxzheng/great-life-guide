@@ -54,12 +54,16 @@ Path
 
 ### Introduction
 
-Before we can become a genius in life, we have to know what life is. From a philosophical perspective,
-Wikipedia has a very lengthy explanation on the [meaning of life](https://en.wikipedia.org/wiki/Meaning_of_life), but
-in summary, the meaning is whatever that you want to be that makes you fulfilled, so you have full control of your
-meaning and destiny -- and that's a beautiful and empowering thing. On a biological perspective, [Darwin's Theory of
-Evolution](https://en.wikipedia.org/wiki/Evolution) seems sound and what that tells us is that we mutate slightly to
-improve our chances of survival and therefore we are all different for a very good reason that we should appreciate.
+Before we can become a genius in life, we have to know what life is.
+
+From a philosophical perspective, Wikipedia has a very lengthy explanation on the [meaning of
+life](https://en.wikipedia.org/wiki/Meaning_of_life), but in summary, the meaning is whatever that you want to be that
+makes you fulfilled, so you have full control of your meaning and destiny -- and that's a beautiful and empowering
+thing.
+
+On a biological perspective, [Darwin's Theory of Evolution](https://en.wikipedia.org/wiki/Evolution) seems sound
+and what that tells us is that we mutate slightly to improve our chances of survival and therefore we are all different
+for a very good reason that we should appreciate.
 
 [Oxford Languages](https://languages.oup.com/google-dictionary-en/) defines a genius as:
 
@@ -159,7 +163,7 @@ Read more under "Memorization" in [double.guide](http://double.guide)
 
 ### Think Differently
 
-Robert De Bono is the leading world thinker that has come up with many ways to improve thinking outside of traditional
+Edward De Bono is the leading world thinker that has come up with many ways to improve thinking outside of traditional
 logical thinking:
 
 1. Parallel thinking is a way to use different modes of thinking in serial with others at the same time to improve
