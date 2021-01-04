@@ -30,7 +30,8 @@ To ensure the prosperity of humanity, we must embed these values in our hearts f
    There is no need to choose one or the other, you can do both at the same time. You only live once, so experience
    everything that life has to offer. Don't be afraid to try everything once, as long as it is safe, because you never
    know what you like until you try -- sometimes you might need to try twice. Whatever you like to do, don't hold back
-   and go for it! One of the greatest pleasure is love, so love everyone and everything as much as you can.
+   and go for it! One of the greatest pleasure is love, so **love everyone and everything as much as you can** -- that
+   is the secret to lasting happiness and success.
 
 3. **Unity**: If we simply do what we believe is right at the expense of the our relationships, then we have won the
    battle but have lost the war. Both are important and there are ways to solve the problems so that both can be
