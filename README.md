@@ -1,7 +1,7 @@
 A Great Life Guide
 ==================
 
-> **Warning**: This guide will make you [achieve 100% happiness intelligence and productivity](story.md) every day for the rest of your life!
+> **Warning**: This guide will make you [happy and productive every day](story.md) for the rest of your life!
 
 Life is great when you are able to fully understand, do, and enjoy everything that it has to offer. This lists
 the steps to achieve that in a meaningful and sustainable way, so everyone can be happy and productive.
@@ -9,9 +9,9 @@ the steps to achieve that in a meaningful and sustainable way, so everyone can b
 Personal Mission
 ----------------
 
-To ensure that you don't get lost in the details and to gain more meaning in your life, you should have a personal mission,
-which is something that you are passionate about and want to do in your lifetime, gets you out of bed early every
-morning, you gladly do it for free, and is very *personal* to you.
+To ensure that you don't get lost in the details and to gain more meaning in your life, you should have a personal
+mission, which is something that you are passionate about and want to do in your lifetime, gets you out of bed early
+every morning, you would gladly do for free, and is very *personal* to you.
 
 My personal mission is to [enable everyone to be happy and productive](story.md).
 
@@ -29,15 +29,15 @@ To ensure the prosperity of humanity, we must embed these values in our hearts f
 2. **Pleasure**: Too often we get stuck in the dramas or necessities of life that we forget to enjoy it.
    There is no need to choose one or the other, you can do both at the same time. You only live once, so experience
    everything that life has to offer. Don't be afraid to try everything once, as long as it is safe, because you never
-   know what you like until you try -- sometimes you might need to try twice. Whatever you like to do, don't hold back
-   and go for it! One of the greatest pleasure is love, so **love everyone and everything as much as you can** -- that
-   is the secret to lasting happiness and success.
+   know what you will like until you try -- sometimes you might need to try twice. Whatever you like to do, don't hold
+   back and go for it! One of the greatest pleasure is love, so **love everyone and everything as much as you can** --
+   that is the secret to lasting happiness and productivity.
 
 3. **Unity**: If we simply do what we believe is right at the expense of the our relationships, then we have won the
    battle but have lost the war. Both are important and there are ways to solve the problems so that both can be
    satisfied, but the relationship comes first if you must choose one -- because even if we accomplish the most amazing
    feats, they are pointless if there is no one for us to share with.
-   While a single person can do amazing things, but the greatest things can only be accomplished when we work
+   While a single person can do amazing things, the greatest things can only be accomplished when we work
    together as one. That is every single living being, not just humans, as we interdepend (e.g. we need the oxygen from
    trees and more than half of your body cells are microbes!). Divisions of countries and races are superficial and only
    causes harm. It's ok to have groups, but not superficial barriers that hinder collaboration, nor thinking other
@@ -55,7 +55,7 @@ anything you want, truly enjoy your life, and have many other physical and menta
 
 To be happy and maximize happiness intelligence, just do what kids do best:
 
-1. **Sleep well** to rejuvenate, then you are naturally energized and happy. When you didn't sleep well, you are much
+1. **Sleep well** to rejuvenate, then you are naturally energized and happy. When you don't sleep well, you are much
    more susceptible to accidents, illnesses, and negativities (e.g. sadness, anger, hate). To sleep well, exercise to
    exhaust your body during the day, meditate before bed to calm your mind, comfort yourself in a nice bed, and
    consistently do it at the same time to create a rhythm -- that's Emc² from the first letters. Don't get out of bed
@@ -64,12 +64,13 @@ To be happy and maximize happiness intelligence, just do what kids do best:
 2. **Let go of everything** to reduce burden and make space for happiness. Negativity will rot the core of your body and
    mind and affect everything you do, so let it go. External things (e.g. work projects, family issues) will prevent you
    from being fully happy, so let them go. Relax, breath, and then just let them all go. You will feel lighter and ready
-   to be happy. If it's hard to let go or you feel sad without knowing why, then go back to previous step or move onto
-   next.
+   to be happy. It doesn't mean that you don't care or ignore everything, but simply not letting them affect you
+   negatively to enable you to make changes wisely and move forward. If it's hard to let go or you feel sad without
+   knowing why, then go back to previous step or move onto next.
 
-3. **Enjoy the present** for transient joy. Too often we get stuck thinking about the past or the future, and forget
-   about the present, which is when happiness can be created. Don't think about what you don't have or could have, but
-   appreciate and enjoy what you do have. Whatever you do, simply be present and enjoy it.
+3. **Enjoy the present** for more joy. Too often we get stuck thinking about the past or the future, and forget
+   about the present, which is when life happens and happiness can be created. Don't think about what you don't have or
+   could have, but appreciate and enjoy what you do have. Whatever you do, simply be present and enjoy it.
 
 4. **Nurture your drives with positivity** for lasting happiness. Identify the things that drive you, express them
    freely, and then encourage positively (e.g. praise, be thankful and loving, celebrate) and explicitly as
@@ -91,8 +92,8 @@ To be productive:
    amplifies results in multitudes. Always keep learning and thinking to push the boundary of your mind. There's
    enormous synergy between the potentials of your body, passion, and mind. Most of your capabilities are dormant until
    you push their limits, so try to push yourself a little bit each day to reach new heights. There's nothing that you
-   can't do if you believe and apply yourself. Finally, don't forget to take breaks whenever you are not at an optimal
-   state and rest well to rejuvenate so everything can function at 100% at all times.
+   can't do if you believe in and apply yourself. Finally, don't forget to take breaks whenever you are not at an
+   optimal state and rest well to rejuvenate so everything can function at 100% at all times.
 
 2. **Be mindful with acceptance** to maximize understanding and awareness of what's going on without judgement or
    expectations. Always be calm -- understand, learn, and then let go of anything that disturbs it (e.g. scan your body
@@ -117,10 +118,10 @@ Putting It All Together
 -----------------------
 
 Being happy and productive sometimes diverge, but both are necessary to sustain and achieve your full potential
-over a life time. Metaphorically, think of the happiness steps as light from the sun that disperses in all
-directions from a happiness core, while the productivity steps is focusing all that light into a single point
-with high intensity to complete your goals. With both set of steps, like the sun, you are self-sustaining and super
-powerful, therefore you can be happy while accomplishing anything you set your mind to and absolutely nothing can stop you.
+over a life time. Metaphorically, think of happiness as light from the sun that disperses in all
+directions from a happiness core, while productivity is focusing all that light into a single point
+with high intensity to complete your goals. With both, like the sun, you are self-sustaining and super
+powerful, therefore you can accomplish anything you set your mind to and absolutely nothing can stop you.
 
 Easily remember the steps using the acronym **TPU SLEN ABCD** from the first letter of each step.
 Each step should be done in order so the next step is easier to do. It takes time to master each step, but the results
@@ -150,7 +151,6 @@ This guide is updated often as I learn. To get updates, just [follow me](https:/
 Need Help?
 ----------
 
-If you want a free coaching session using this guide, simply schedule it at [http://hp.coach](http://hp.coach).
-I would be happy to help you and others live a great life! :smile:
+If you want to live a great life, book a coaching session with me at [http://hp.coach](http://hp.coach). :smile:
 
 *The latest published version is available at [http://hp.guide](http://hp.guide) for easy sharing and liking.*
