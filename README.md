@@ -136,7 +136,7 @@ Additional Resources
 Now you know how to live a great life and can gain more knowledge as you go, however to save time, here are
 some recommended resources:
 
-* [Path to Genius](genius.md): Step-by-step guide to become a genius
+* [Path to Genius](genius.md): Step-by-step guide to become a genius in life
 * [Double Your Happiness and Productivity](double.md): Skills, techniques, and tips
 * [Kwik Brain with Jim Kwik](https://podcasts.apple.com/us/podcast/kwik-brain-with-jim-kwik/id1208024744): A fun,
   fast-paced show designed to help busy people learn and achieve anything in a fraction of the time!
@@ -151,6 +151,7 @@ This guide is updated often as I learn. To get updates, just [follow me](https:/
 Need Help?
 ----------
 
-If you want to live a great life, book a coaching session with me at [http://hp.coach](http://hp.coach). :smile:
+To get started on living a great life where you can be happy and productive every day, book a free coaching session with
+me at [http://hp.coach](http://hp.coach). :smile:
 
 *The latest published version is available at [http://hp.guide](http://hp.guide) for easy sharing and liking.*
