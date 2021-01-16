@@ -125,7 +125,7 @@ directions from a happiness core, while productivity is focusing all that light 
 with high intensity to complete your goals. With both, like the sun, you are self-sustaining and super
 powerful, therefore you can accomplish anything you set your mind to and absolutely nothing can stop you.
 
-Easily remember the steps using the acronym **TPU SLEN ABCD** from the first letter of each step.
+Easily remember the steps using the acronym **SLEN ABCD TPU** from the first letter of each step.
 Each step should be done in order so the next step is easier to do. It takes time to master each step, but the results
 are immediate and increasingly substantial. When things are not going as expected, take time to rest and reflect using
 the steps. Mastery is achieved when all steps are done naturally at all times. And voilà, a great life! :smile:
