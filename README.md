@@ -78,7 +78,8 @@ To be productive:
 Values
 ------
 
-To ensure the prosperity of humanity, we must embed these values in our hearts for everything that we do:
+To build lasting relationships and ensure the prosperity of humanity, we must embed these values in our hearts for
+everything that we do:
 
 1. **Truth**: There are too much misinformation out there, so it's hard to make the right decisions. As an intelligent
    being, we must seek the truth and use it to our advantage. Don't be afraid of it. There is no need to hide it by
