@@ -6,45 +6,6 @@ A Great Life Guide
 Life is great when you are able to fully understand, do, and enjoy everything that it has to offer. This lists
 the steps to achieve that in a meaningful and sustainable way, so everyone can be happy and productive.
 
-Personal Mission
-----------------
-
-To ensure that you don't get lost in the details and to gain more meaning in your life, you should have a personal
-mission, which is something that you are passionate about and want to do in your lifetime, gets you out of bed early
-every morning, you would gladly do for free, and is very *personal* to you.
-
-My personal mission is to [enable everyone to be happy and productive](story.md).
-
-Values
-------
-
-To ensure the prosperity of humanity, we must embed these values in our hearts for everything that we do:
-
-1. **Truth**: There are too much misinformation out there, so it's hard to make the right decisions. As an intelligent
-   being, we must seek the truth and use it to our advantage. Don't be afraid of it. There is no need to hide it by
-   making up stories, etc. Never blindly believe what others say -- question everything to better understand. Our
-   universe is vast and eagerly awaits us to explore. Be excited for the opportunity! Only truth can build trust,
-   expand our wisdom, satisfy our curiosity, and build a solid foundation for everything else.
-
-2. **Pleasure**: Too often we get stuck in the dramas or necessities of life that we forget to enjoy it.
-   There is no need to choose one or the other, you can do both at the same time. You only live once, so experience
-   everything that life has to offer. Don't be afraid to try everything once, as long as it is safe, because you never
-   know what you will like until you try -- sometimes you might need to try twice. Whatever you like to do, don't hold
-   back and go for it! One of the greatest pleasure is love, so **love everyone and everything as much as you can** --
-   that is the secret to lasting happiness and productivity.
-
-3. **Unity**: If we simply do what we believe is right at the expense of the our relationships, then we have won the
-   battle but have lost the war. Both are important and there are ways to solve the problems so that both can be
-   satisfied, but the relationship comes first if you must choose one -- because even if we accomplish the most amazing
-   feats, they are pointless if there is no one for us to share with.
-   While a single person can do amazing things, the greatest things can only be accomplished when we work
-   together as one. That is every single living being, not just humans, as we interdepend (e.g. we need the oxygen from
-   trees and more than half of your body cells are microbes!). Divisions of countries and races are superficial and only
-   causes harm. It's ok to have groups, but not superficial barriers that hinder collaboration, nor thinking other
-   groups are different or inferior. We should help each other, work together, and share the fruits of labor, so
-   everyone becomes better and benefits compound. When we don't work together, great things come to an abrupt end.
-   Together, the possibilities are endless.
-
 Happiness
 ---------
 
@@ -113,6 +74,46 @@ To be productive:
    Knowledge is only half of the story, action completes it, so don't be lazy; do as much as you can and persevere.
    What is right for you might not be right for others as each person has different information, so it's important to
    respect other people's decisions and properly exchange information to reach alignment.
+
+Values
+------
+
+To ensure the prosperity of humanity, we must embed these values in our hearts for everything that we do:
+
+1. **Truth**: There are too much misinformation out there, so it's hard to make the right decisions. As an intelligent
+   being, we must seek the truth and use it to our advantage. Don't be afraid of it. There is no need to hide it by
+   making up stories, etc. Never blindly believe what others say -- question everything to better understand. Our
+   universe is vast and eagerly awaits us to explore. Be excited for the opportunity! Only truth can build trust,
+   expand our wisdom, satisfy our curiosity, and build a solid foundation for everything else.
+
+2. **Pleasure**: Too often we get stuck in the dramas or necessities of life that we forget to enjoy it.
+   There is no need to choose one or the other, you can do both at the same time. You only live once, so experience
+   everything that life has to offer. Don't be afraid to try everything once, as long as it is safe, because you never
+   know what you will like until you try -- sometimes you might need to try twice. Whatever you like to do, don't hold
+   back and go for it! One of the greatest pleasure is love, so **love everyone and everything as much as you can** --
+   that is the secret to lasting happiness and productivity.
+
+3. **Unity**: If we simply do what we believe is right at the expense of the our relationships, then we have won the
+   battle but have lost the war. Both are important and there are ways to solve the problems so that both can be
+   satisfied, but the relationship comes first if you must choose one -- because even if we accomplish the most amazing
+   feats, they are pointless if there is no one for us to share with.
+   While a single person can do amazing things, the greatest things can only be accomplished when we work
+   together as one. That is every single living being, not just humans, as we interdepend (e.g. we need the oxygen from
+   trees and more than half of your body cells are microbes!). Divisions of countries and races are superficial and only
+   causes harm. It's ok to have groups, but not superficial barriers that hinder collaboration, nor thinking other
+   groups are different or inferior. We should help each other, work together, and share the fruits of labor, so
+   everyone becomes better and benefits compound. When we don't work together, great things come to an abrupt end.
+   Together, the possibilities are endless.
+
+Personal Mission
+----------------
+
+To ensure that you don't get lost in the details and to gain more meaning in your life, you should have a personal
+mission, which is something that you are passionate about and want to do in your lifetime, gets you out of bed early
+every morning, you would gladly do for free, and is very *personal* to you.
+
+My personal mission is to [enable everyone to be happy and productive](story.md).
+
 
 Putting It All Together
 -----------------------
