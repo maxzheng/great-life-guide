@@ -113,20 +113,14 @@ Values
 To build lasting relationships and ensure the prosperity of humanity, we must embed these values in our hearts for
 everything that we do:
 
-1. **Truth**: There are too much misinformation out there, so it's hard to make the right decisions. As an intelligent
-   being, we must seek the truth and use it to our advantage. Don't be afraid of it. There is no need to hide it by
-   making up stories, etc. Never blindly believe what others say -- question everything to better understand. Our
-   universe is vast and eagerly awaits us to explore. Be excited for the opportunity! Only truth can build trust,
-   expand our wisdom, satisfy our curiosity, and build a solid foundation for everything else.
-
-2. **Pleasure**: Too often we get stuck in the dramas or necessities of life that we forget to enjoy it.
+1. **Pleasure**: Too often we get stuck in the dramas or necessities of life that we forget to enjoy it.
    There is no need to choose one or the other, you can do both at the same time. You only live once, so experience
    everything that life has to offer. Don't be afraid to try everything once, as long as it is safe, because you never
    know what you will like until you try -- sometimes you might need to try twice. Whatever you like to do, don't hold
    back and go for it! One of the greatest pleasure is love, so **love everyone and everything as much as you can** --
    that is the secret to lasting happiness and productivity.
 
-3. **Unity**: If we simply do what we believe is right at the expense of the our relationships, then we have won the
+2. **Unity**: If we simply do what we believe is right at the expense of the our relationships, then we have won the
    battle but have lost the war. Both are important and there are ways to solve the problems so that both can be
    satisfied, but the relationship comes first if you must choose one -- because even if we accomplish the most amazing
    feats, they are pointless if there is no one for us to share with.
@@ -137,6 +131,13 @@ everything that we do:
    groups are different or inferior. We should help each other, work together, and share the fruits of labor, so
    everyone becomes better and benefits compound. When we don't work together, great things come to an abrupt end.
    Together, the possibilities are endless.
+
+3. **Truth**: There are too much misinformation out there, so it's hard to make the right decisions. As an intelligent
+   being, we must seek the truth and use it to our advantage. Don't be afraid of it. There is no need to hide it by
+   making up stories, etc. Never blindly believe what others say -- question everything to better understand. Our
+   universe is vast and eagerly awaits us to explore. Be excited for the opportunity! Only truth can build trust,
+   expand our wisdom, satisfy our curiosity, and build a solid foundation for everything else.
+
 
 Personal Mission and Dreams
 ---------------------------
@@ -158,7 +159,7 @@ directions from a power core, while productivity is focusing all that light into
 with high intensity to complete your goals. With both, like the sun, you are self-sustaining and super
 powerful, therefore you can accomplish anything you set your mind to and absolutely nothing can stop you.
 
-Easily remember the steps using the acronym **BEES LOVE ABCD** from the first letter of each step. And **TPU** for the
+Easily remember the steps using the acronym **BEES LOVE ABCD** from the first letter of each step. And **PUT** for the
 values.
 Each step should be done in order so the next step is easier to do. It takes time to master each step, but the results
 are immediate and increasingly substantial. When things are not going as expected, take time to rest and reflect using
