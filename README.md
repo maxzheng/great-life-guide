@@ -17,16 +17,16 @@ start each day and action powerfully.
    aren't enough oxygen. Try to do it at least a few times a day for a few minutes, or whenever you need an extra boost.
 
 2. **Eat naturally and intelligently** to efficiently get nutrients from food. With today's fast paced society, we
-   often eat quickly and haphazardly, which causes many digestion-related health issues, such as indigestion. The qualty
-   of your fuel translates to the quality of your power. Eat natural, organic, less processed, and balanced food as much
-   as possible as they contain more nurients with less toxins. Apply food combining techniques to improve
+   often eat quickly and haphazardly, which causes many digestion-related health issues, such as indigestion. The
+   quality of your fuel translates to the quality of your power. Eat natural, organic, less processed, and balanced food
+   as much as possible as they contain more nutrients with less toxins. Apply food combining techniques to improve
    digestion whenever possible.
 
 3. **Empower yourself with positive emotions, motions, and states.** Negative emotions disempower you as they drain
    your power or control. When you feel a negative emotion, immediately replace it with a positive one by generating the
    feeling so you are always empowered to make changes for the better in any situation. When you move, do so positively
    -- powerful, intentional, and in good form. Complete your movements in positive states (good posture, happy
-   facial expression, etc). Your motions and states can change how you feel, and vice versa, as emotion is energy in
+   facial expression, etc.). Your motions and states can change how you feel, and vice versa, as emotion is energy in
    motion.
 
 4. **Sleep well** to rejuvenate your energy and more. When you don't sleep well, you are much
@@ -56,16 +56,18 @@ To maximize your happiness, just do what kids do best:
    -- ensure it is 100% under your control, otherwise you are setting yourself up for a roller coaster ride that you
    might not enjoy. Think happy and therefore you are.
 
-3. **Openly express positivity** to boost your happiness. Identify the things that makes you happy you, express them
-   openly, and then encourage positively (e.g. praise, be thankful and loving, celebrate) and explicitly as
+3. **Overflow with positivity** to boost your happiness. Identify the things that makes you happy you, do and express
+   them openly, and then encourage positively (e.g. praise, be thankful and loving, celebrate) and explicitly as
    assuming the obvious is often wrong and easily misinterpreted as otherwise. Be thankful for what you have
    each day. Give to others whenever possible, especially wisdom and compassion. Tell your love ones that you
    love them as much as possible. Celebrate every win -- big or small! Focus on the positive side, the
-   solutions, and the actions that you can take to become happier rather than the problem.
+   solutions, and the actions that you can take to become happier rather than the problem. Kids' love for their family,
+   friends, and things are pure, sincere, and overflowing. :heart:
 
 4. **Enjoy the present** to live your life. Too often we get stuck thinking about the past or the future, and forget
    about the present, which is when life happens and happiness can be created. Don't think about what you don't have or
-   could have, but appreciate and enjoy what you do have. Whatever you do, simply be present and enjoy it.
+   could have, but appreciate and enjoy what you do have. Whatever you do, simply be present and enjoy it. Kids are
+   naturally gifted in this and it is why they are so happy all the time.
 
 
 <img src="images/great-life-by-paige-cody.jpg">
