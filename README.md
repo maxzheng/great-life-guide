@@ -6,47 +6,74 @@ A Great Life Guide
 Life is great when you are able to fully understand, do, and enjoy everything that it has to offer. This lists
 the steps to achieve that in a meaningful and sustainable way, so everyone can be happy and productive.
 
-Happiness
----------
+Power
+-----
 
-[Happiness intelligence](https://www.longdom.org/proceedings/happiness-intelligence-hq--the-ability-to-be-happy-and-its-measurement-12348.html)
-is the ability to be happy. With mastery, you will be able to better perceive internal and external events that
-affect your happiness, have high resilience to negativity, be naturally positive, attain unlimited energy to do
-anything you want, truly enjoy your life, and have many other physical and mental health benefits from being happy.
+Before we can do anything, we must have power -- the energy that fuels everything we do. To attain unlimited power,
+start each day and action powerfully.
 
-To be happy and maximize happiness intelligence, just do what kids do best:
+1. **Breathe deeply** to fully oxygenate your cells and remove toxins. Most of the time, we breathe
+   too shallow due to the changing nature of our activities. Your body and brain won't function optimally when there
+   aren't enough oxygen. Try to do it at least a few times a day for a few minutes, or whenever you need an extra boost.
 
-1. **Sleep well** to rejuvenate, then you are naturally energized and happy. When you don't sleep well, you are much
+2. **Eat naturally and intelligently** to efficiently get nutrients from food. With today's fast paced society, we
+   often eat quickly and haphazardly, which causes many digestion-related health issues, such as indigestion. The qualty
+   of your fuel translates to the quality of your power. Eat natural, organic, less processed, and balanced food as much
+   as possible as they contain more nurients with less toxins. Apply food combining techniques to improve
+   digestion whenever possible.
+
+3. **Empower yourself with positive emotions, motions, and states.** Negative emotions disempower you as they drain
+   your power or control. When you feel a negative emotion, immediately replace it with a positive one by generating the
+   feeling so you are always empowered to make changes for the better in any situation. When you move, do so positively
+   -- powerful, intentional, and in good form. Complete your movements in positive states (good posture, happy
+   facial expression, etc). Your motions and states can change how you feel, and vice versa, as emotion is energy in
+   motion.
+
+4. **Sleep well** to rejuvenate your energy and more. When you don't sleep well, you are much
    more susceptible to accidents, illnesses, and negativities (e.g. sadness, anger, hate). To sleep well, exercise to
    exhaust your body during the day, meditate before bed to calm your mind, comfort yourself in a nice bed, and
    consistently do it at the same time to create a rhythm -- that's Emc² from the first letters. Don't get out of bed
    until you finish sleeping!
 
-2. **Let go of everything** to reduce burden and make space for happiness. Negativity will rot the core of your body and
+
+Happiness
+---------
+
+To maximize your happiness, just do what kids do best:
+
+1. **Let go of everything** to reduce burden and make space for happiness. Negativity will rot the core of your body and
    mind and affect everything you do, so let it go. External things (e.g. work projects, family issues) will prevent you
    from being fully happy, so let them go. Relax, breath, and then just let them all go. You will feel lighter and ready
    to be happy. It doesn't mean that you don't care or ignore everything, but simply not letting them affect you
    negatively to enable you to make changes wisely and move forward. If it's hard to let go or you feel sad without
    knowing why, then go back to previous step or move onto next.
 
-3. **Enjoy the present** for more joy. Too often we get stuck thinking about the past or the future, and forget
+2. **Vary your perception** for lasting happiness. What makes you happy is based on how and what you perceive, such as
+   your perceived progress, state, meaning, and bond. When there is gap between what you have vs expect, then
+   unhappiness grows. Change how you perceive by changing the meaning of what you perceive. If you create a belief that
+   you are happy with what you have no matter what, then you are. Change your belief system to enable you to be happy
+   every day, and then you will. If you don't want to change how you perceive, then you need to change what you perceive
+   -- ensure it is 100% under your control, otherwise you are setting yourself up for a roller coaster ride that you
+   might not enjoy. Think happy and therefore you are.
+
+3. **Openly express positivity** to boost your happiness. Identify the things that makes you happy you, express them
+   openly, and then encourage positively (e.g. praise, be thankful and loving, celebrate) and explicitly as
+   assuming the obvious is often wrong and easily misinterpreted as otherwise. Be thankful for what you have
+   each day. Give to others whenever possible, especially wisdom and compassion. Tell your love ones that you
+   love them as much as possible. Celebrate every win -- big or small! Focus on the positive side, the
+   solutions, and the actions that you can take to become happier rather than the problem.
+
+4. **Enjoy the present** to live your life. Too often we get stuck thinking about the past or the future, and forget
    about the present, which is when life happens and happiness can be created. Don't think about what you don't have or
    could have, but appreciate and enjoy what you do have. Whatever you do, simply be present and enjoy it.
 
-4. **Nurture your drives with positivity** for lasting happiness. Identify the things that drive you, express them
-   freely, and then encourage positively (e.g. praise, be thankful and loving, celebrate) and explicitly as
-   assuming the obvious is often wrong and easily misinterpreted as otherwise. If you don't feel driven, then manually
-   push yourself to get started. When you get negative feelings while doing something good, let them go and then try to
-   manifest positive feelings (e.g. excited, happy) by thinking about them or how what you are doing will help you in
-   the future -- that trains your mind to enjoy doing good things. Kids are naturally driven as they enjoy playing and
-   their love for family, friends, and things are pure, sincere, and overflowing. :heart:
 
 <img src="images/great-life-by-paige-cody.jpg">
 
 Productivity
 ------------
 
-To be productive:
+To maximize your productivity:
 
 1. **Activate your body, passion, and mind** to maximize potential. Start the day with nutritious food. Exercise
    regularly to strengthen your body. Do what you love and be your true self to let your passion flow abundantly as it
@@ -66,14 +93,17 @@ To be productive:
    of limited time, and then focus on only one at a time to avoid overloading and context switching. If we do just that,
    everything actually gets done faster with higher quality.
 
-4. **Do the right thing** to maximize performance. The fastest way to get things done is by doing the right thing as
+4. **Do the right thing in the right way** to maximize performance. The fastest way to get things done is by doing the
+   right thing as
    doing the wrong thing requires redo and some things can not be undone. Sometimes it's tempting to do the wrong thing
    for a short-term gain, but there are always consequences. In the long run, doing the right thing wins as it builds
    momentum from previous accomplishments. Always understand why you do something before how in order to do your best.
    Once you know what to do, then do it with everything that you got and don't let anything hold you back.
    Knowledge is only half of the story, action completes it, so don't be lazy; do as much as you can and persevere.
    What is right for you might not be right for others as each person has different information, so it's important to
-   respect other people's decisions and properly exchange information to reach alignment.
+   respect other people's decisions and properly exchange information to reach alignment. When you don't get the results
+   you expect, then iterate or pivot -- learn from it and find a better way. The shortest path to success is learning
+   from and leveraging others.
 
 Values
 ------
@@ -106,26 +136,28 @@ everything that we do:
    everyone becomes better and benefits compound. When we don't work together, great things come to an abrupt end.
    Together, the possibilities are endless.
 
-Personal Mission
-----------------
+Personal Mission and Dreams
+---------------------------
 
 To ensure that you don't get lost in the details and to gain more meaning in your life, you should have a personal
 mission, which is something that you are passionate about and want to do in your lifetime, gets you out of bed early
-every morning, you would gladly do for free, and is very *personal* to you.
+every morning, you would gladly do for free, and is very *personal* to you. It's exciting to figure out and work
+towards your dreams too. Your personal mission and dreams will provide you with a direction to focus your energy and
+become more fulfilled.
 
-My personal mission is to [enable everyone to be happy and productive](story.md).
-
+My personal mission is to [enable everyone to be happy and productive](story.md) with a dream of human prosperity.
 
 Putting It All Together
 -----------------------
 
 Being happy and productive sometimes diverge, but both are necessary to sustain and achieve your full potential
 over a life time. Metaphorically, think of happiness as light from the sun that disperses in all
-directions from a happiness core, while productivity is focusing all that light into a single point
+directions from a power core, while productivity is focusing all that light into a single point
 with high intensity to complete your goals. With both, like the sun, you are self-sustaining and super
 powerful, therefore you can accomplish anything you set your mind to and absolutely nothing can stop you.
 
-Easily remember the steps using the acronym **SLEN ABCD TPU** from the first letter of each step.
+Easily remember the steps using the acronym **BEES LOVE ABCD** from the first letter of each step. And **TPU** for the
+values.
 Each step should be done in order so the next step is easier to do. It takes time to master each step, but the results
 are immediate and increasingly substantial. When things are not going as expected, take time to rest and reflect using
 the steps. Mastery is achieved when all steps are done naturally at all times. And voilà, a great life! :smile:
