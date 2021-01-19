@@ -48,21 +48,21 @@ To maximize your happiness, just do what kids do best:
    negatively to enable you to make changes wisely and move forward. If it's hard to let go or you feel sad without
    knowing why, then go back to previous step or move onto next.
 
-2. **Vary your perception** for lasting happiness. What makes you happy is based on how and what you perceive, such as
-   your perceived progress, state, meaning, and bond. When there is gap between what you have vs expect, then
-   unhappiness grows. Change how you perceive by changing the meaning of what you perceive. If you create a belief that
-   you are happy with what you have no matter what, then you are. Change your belief system to enable you to be happy
-   every day, and then you will. If you don't want to change how you perceive, then you need to change what you perceive
-   -- ensure it is 100% under your control, otherwise you are setting yourself up for a roller coaster ride that you
-   might not enjoy. Think happy and therefore you are.
-
-3. **Overflow with positivity** to boost your happiness. Identify the things that makes you happy you, do and express
+2. **Overflow with positivity** to boost your happiness. Identify the things that makes you happy you, do and express
    them openly, and then encourage positively (e.g. praise, be thankful and loving, celebrate) and explicitly as
    assuming the obvious is often wrong and easily misinterpreted as otherwise. Be thankful for what you have
    each day. Give to others whenever possible, especially wisdom and compassion. Tell your love ones that you
    love them as much as possible. Celebrate every win -- big or small! Focus on the positive side, the
    solutions, and the actions that you can take to become happier rather than the problem. Kids' love for their family,
    friends, and things are pure, sincere, and overflowing. :heart:
+
+3. **Vary your perception** for lasting happiness. What makes you happy is based on how and what you perceive, such as
+   your perceived progress, state, meaning, and bond. When there is gap between what you have vs expect, then
+   unhappiness grows. Change how you perceive by changing the meaning of what you perceive. If you create a belief that
+   you are happy with what you have no matter what, then you are. Change your belief system to enable you to be happy
+   every day, and then you will. If you don't want to change how you perceive, then you need to change what you perceive
+   -- ensure it is 100% under your control, otherwise you are setting yourself up for a roller coaster ride that you
+   might not enjoy. Think happy and therefore you are.
 
 4. **Enjoy the present** to live your life. Too often we get stuck thinking about the past or the future, and forget
    about the present, which is when life happens and happiness can be created. Don't think about what you don't have or
