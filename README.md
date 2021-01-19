@@ -133,11 +133,18 @@ everything that we do:
    everyone becomes better and benefits compound. When we don't work together, great things come to an abrupt end.
    Together, the possibilities are endless.
 
-3. **Truth**: There are too much misinformation out there, so it's hard to make the right decisions. As an intelligent
+3. **Curiosity**: The old saying "curiosity kills the cat" is better rephrased as "curiosity transforms the cat into a
+   lion." Be curious about people, places, and things, so that we are open to fully understand and improve.
+   Without it, we would stay the same and there would be no improvements, therefore prosperity would stagnant. To
+   maximize prosperity, we must always be curious about everything -- in the past, present, and future.
+
+4. **Truth**: There are too much misinformation out there, so it's hard to make the right decisions. As an intelligent
    being, we must seek the truth and use it to our advantage. Don't be afraid of it. There is no need to hide it by
    making up stories, etc. Never blindly believe what others say -- question everything to better understand. Our
    universe is vast and eagerly awaits us to explore. Be excited for the opportunity! Only truth can build trust,
    expand our wisdom, satisfy our curiosity, and build a solid foundation for everything else.
+
+
 
 
 Personal Mission and Dreams
@@ -160,8 +167,8 @@ directions from a power core, while productivity is focusing all that light into
 with high intensity to complete your goals. With both, like the sun, you are self-sustaining and super
 powerful, therefore you can accomplish anything you set your mind to and absolutely nothing can stop you.
 
-Easily remember the steps using the acronym **BEES LOVE ABCD** from the first letter of each step. And **PUT** for the
-values.
+Easily remember the steps using the acronym **BEES LOVE ABCD** from the first letter of each step. And **PUCT** for the
+values pact.
 Each step should be done in order so the next step is easier to do. It takes time to master each step, but the results
 are immediate and increasingly substantial. When things are not going as expected, take time to rest and reflect using
 the steps. Mastery is achieved when all steps are done naturally at all times. And voilà, a great life! :smile:
