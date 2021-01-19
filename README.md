@@ -25,9 +25,10 @@ start each day and action powerfully.
 3. **Empower yourself with positive emotions, motions, and states.** Negative emotions disempower you as they drain
    your power or control. When you feel a negative emotion, immediately replace it with a positive one by generating the
    feeling so you are always empowered to make changes for the better in any situation. When you move, do so positively
-   -- powerful, intentional, and in good form. Complete your movements in positive states (good posture, happy
+   -- powerful, intentional, and in good form. Complete your movements in positive physical states (good posture, happy
    facial expression, etc.). Your motions and states can change how you feel, and vice versa, as emotion is energy in
-   motion.
+   motion. Negative thoughts can drain your mental energy, so maintain a positive mental state at all times by replacing
+   negative thoughts with positive ones that empowers you. Focus on what you can do and how they can make things better.
 
 4. **Sleep well** to rejuvenate your energy and more. When you don't sleep well, you are much
    more susceptible to accidents, illnesses, and negativities (e.g. sadness, anger, hate). To sleep well, exercise to
