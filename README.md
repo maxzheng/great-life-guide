@@ -16,7 +16,7 @@ start each day and action powerfully.
    too shallow due to the changing nature of our activities. Your body and brain won't function optimally when there
    aren't enough oxygen. Try to do it at least a few times a day for a few minutes, or whenever you need an extra boost.
 
-2. **Eat naturally and intelligently** to efficiently get nutrients from food. With today's fast paced society, we
+2. **Eat intelligently** to efficiently get nutrients from food. With today's fast paced society, we
    often eat quickly and haphazardly, which causes many digestion-related health issues, such as indigestion. The
    quality of your fuel translates to the quality of your power. Eat natural, organic, less processed, and balanced food
    as much as possible as they contain more nutrients with less toxins. Apply food combining techniques to improve
