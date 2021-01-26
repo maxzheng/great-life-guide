@@ -32,9 +32,9 @@ start each day and action powerfully.
 
 4. **Sleep well** to rejuvenate your energy and more. When you don't sleep well, you are much
    more susceptible to accidents, illnesses, and negativities (e.g. sadness, anger, hate). To sleep well, exercise to
-   exhaust your body during the day, meditate before bed to calm your mind, comfort yourself in a nice bed, and
-   consistently do it at the same time to create a rhythm -- that's Emc² from the first letters. Don't get out of bed
-   until you finish sleeping!
+   exhaust your body during the day, meditate before/after bed to calm your mind and emotion, comfort yourself in a nice
+   bed, and consistently do it at the same time to create a rhythm -- that's Emc² from the first letters. Don't get out
+   of bed until you finish sleeping!
 
 
 Happiness
