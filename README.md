@@ -105,8 +105,8 @@ To maximize your productivity:
    Knowledge is only half of the story, action completes it, so don't be lazy; do as much as you can and persevere.
    What is right for you might not be right for others as each person has different information, so it's important to
    respect other people's decisions and properly exchange information to reach alignment. When you don't get the results
-   you expect, then iterate or pivot -- learn from it and find a better way. The shortest path to success is learning
-   from and leveraging others.
+   you expect, then iterate or pivot -- learn from it and find a better way. Embrace failure as it is one of the best
+   ways to learn and the doorstep to success. The shortest path to success is learning from and leveraging others.
 
 Values
 ------
