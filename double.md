@@ -6,12 +6,12 @@ Double Your Happiness and Productivity
 
 <img src="images/happiness-productivity-by-gerd-altmann.jpg" align="right" width="400px">
 
-These 39 skills/techniques/tips will at least double your happiness and productivity with mastery, so try them today:
+These 40 skills/techniques/tips will at least double your happiness and productivity with mastery, so try them today:
 
 * [5 Memorizations](#Memorizations)
 * [12 Executions](#Executions)
 * [3 Thinkings](#Thinkings)
-* [7 Trainings](#Trainings)
+* [8 Trainings](#Trainings)
 * [3 Leaderships](#Leaderships)
 * [9 Empowerments](#Empowerments)
 
@@ -685,6 +685,28 @@ by hundreds of folds, which is essentially what expert skill is at a biological 
 nerve cells used by a skill, the more skillful you are. Myelin wraps but never unwraps, that means once you have learned
 a skill, you will have it for life. A gap does start to form between myelin and the nerves at around age 50 and
 therefore skills will start to deteriorate.
+
+Brain Programming
+-----------------
+
+Based on Neuro Linguistic Programming (NLP), your brain stores information based on your five senses -- mostly based on visual, auditory, and kinesthetic where one of them dominates (modalities). As it is stored as a picture or movie, you can easily change them to re-program how you feel to empower you. E.g. You can use it to easily get over traumatic events, phobias, addictions, or become more motivated about doing chores.
+
+To reduce the emotional effect of a memory, as you recall the memory, change
+it from a movie to a still picture, reduce the size, put yourself into it to disassociate, change it to black and white,
+erase it with an eraser, play it backward, make changes to empower you (e.g. make it funny by adding a clown nose to
+someone that makes you scared or change the voice to be cartoonish). Repeat it a few times to complete the
+re-programming or whenever you need to re-enforce the effect.
+
+To boost the emotional effect, do the opposite of the previous step or recall a memory where you feel a certain way and
+try to copy the vividness and other submodalities onto something that you want to feel the same way. E.g. If you want to
+feel motivated to study, remember a moment when you are very motivated and then notice how the memory is stored and how
+you feel, and copy as much as you can from that memory to your study.
+
+To take a one step further, you can simply recall or create the emotion that you want and then think of anything that
+you want to associate the emotion to. Repeat the process until the emotion is attached to the memory or action.
+
+Use this to change how you feel about anything in the past, present, or future, so you are empowered to take actions to
+help you succeed rather than being held back due to bad programming.
 
 Leaderships
 -----------
