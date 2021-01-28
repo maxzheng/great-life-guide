@@ -686,8 +686,7 @@ nerve cells used by a skill, the more skillful you are. Myelin wraps but never u
 a skill, you will have it for life. A gap does start to form between myelin and the nerves at around age 50 and
 therefore skills will start to deteriorate.
 
-Brain Programming
------------------
+### #8 Brain Programming
 
 Based on Neuro Linguistic Programming (NLP), your brain stores information based on your five senses -- mostly based on visual, auditory, and kinesthetic where one of them dominates (modalities). As it is stored as a picture or movie, you can easily change them to re-program how you feel to empower you. E.g. You can use it to easily get over traumatic events, phobias, addictions, or become more motivated about doing chores.
 
