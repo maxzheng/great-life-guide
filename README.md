@@ -1,10 +1,11 @@
 A Great Life Guide
 ==================
 
-> **Warning**: This guide will make you [happy and productive every day](story.md) for the rest of your life!
+> **Warning**: This guide will make you [powerful, happy, productive, and prosperous every day](story.md) for the rest of your life!
 
 Life is great when you are able to fully understand, do, and enjoy everything that it has to offer. This lists
-the steps to achieve that in a meaningful and sustainable way, so everyone can be happy and productive.
+the steps to achieve that in a meaningful and sustainable way, so everyone can be powerful, happy, productive, and
+prosperous.
 
 Power
 -----
@@ -108,6 +109,38 @@ To maximize your productivity:
    you expect, then iterate or pivot -- learn from it and find a better way. Embrace failure as it is one of the best
    ways to learn and the doorstep to success. The shortest path to success is learning from and leveraging others.
 
+Prosperity
+----------
+
+To maximize prosperity:
+
+1. **Begin with big and meaningful dreams.** To ensure that you don't get lost in the details and to gain more meaning
+   in your life, you should have big dreams and a personal mission, which is something that you are passionate about
+   and want to do in your lifetime, gets you out of bed early every morning, you would gladly do for free, and is very
+   *personal* to you. It's exciting to figure out and work towards your dreams. Your personal mission and dreams will
+   provide you with a direction to focus your energy and become more fulfilled. The more people that will be helped
+   translates to more meaning and fulfilment. Dreams are supposed to be inspiring, so don't be afraid to dream big! Then
+   do whatever it takes to ensure your reality allows you to make good progress towards your dreams. Once you have
+   realized your dream, it's time to dream bigger!
+
+2. **Embed good values in your heart** to ensure you do what's most important to you. At the minimal, start with these
+   values to build long-lasting relationships: pleasure, unity, curiosity, and truth. Write down your values with
+   priority and ensure all your dreams and actions align to them. The congruence will give you power and the lack of it
+   could destroy you.
+
+3. **Start each day with intentions and end with retention.** There are many things that happen in a day, so you won't
+   know what you will get at the end of the day unless your intentions are set. Once you have set your intentions for
+   the day, then your energy will naturally be focused on achieving them. Use intentions that work for you, but here
+   is a generic one -- say it with lots of feeling for each word: I am going to be powerful, happy, productive, and
+   prosperous today! At the end of the day, take some time to recall and appreciate what you have learned and
+   accomplished today so you can better retain what you have done to make tomorrow even better.
+
+4. **Take massive actions.** At the end of the day, nothing happens without action. And big dreams require massive
+   actions. Prioritize what you need to work on each day and get as many of them done as possible. The more that you do,
+   the closer you are to your dreams and prosperity. Don't be afraid to take the wrong actions as it will happen -- just
+   learn from it to minimize future recurrence. Give each action more meaning by remembering how it helps to achieve
+   your dream. Enjoy and appreciate each action completed. And never ever stop!!
+
 Values
 ------
 
@@ -133,7 +166,7 @@ everything that we do:
    everyone becomes better and benefits compound. When we don't work together, great things come to an abrupt end.
    Together, the possibilities are endless.
 
-3. **Curiosity**: The old saying "curiosity kills the cat" is better rephrased as "curiosity transforms the cat into a
+3. **Curiosity**: The old saying "curiosity killed the cat" is better rephrased as "curiosity transformed the cat into a
    lion." Be curious about people, places, and things, so that we are open to fully understand and improve.
    Without it, we would stay the same and there would be no improvements, therefore prosperity would stagnant. To
    maximize prosperity, we must always be curious about everything -- in the past, present, and future.
@@ -144,31 +177,17 @@ everything that we do:
    universe is vast and eagerly awaits us to explore. Be excited for the opportunity! Only truth can build trust,
    expand our wisdom, satisfy our curiosity, and build a solid foundation for everything else.
 
-
-
-
-Personal Mission and Dreams
----------------------------
-
-To ensure that you don't get lost in the details and to gain more meaning in your life, you should have a personal
-mission, which is something that you are passionate about and want to do in your lifetime, gets you out of bed early
-every morning, you would gladly do for free, and is very *personal* to you. It's exciting to figure out and work
-towards your dreams too. Your personal mission and dreams will provide you with a direction to focus your energy and
-become more fulfilled.
-
-My personal mission is to [enable everyone to be happy and productive](story.md) with a dream of human prosperity.
-
 Putting It All Together
 -----------------------
 
 Being happy and productive sometimes diverge, but both are necessary to sustain and achieve your full potential
 over a life time. Metaphorically, think of happiness as light from the sun that disperses in all
 directions from a power core, while productivity is focusing all that light into a single point
-with high intensity to complete your goals. With both, like the sun, you are self-sustaining and super
+with high intensity to complete your dreams. With both, like the sun, you are self-sustaining and super
 powerful, therefore you can accomplish anything you set your mind to and absolutely nothing can stop you.
 
-Easily remember the steps using the acronym **BEES LOVE ABCD** from the first letter of each step. And **PUCT** for the
-values pact.
+Easily remember the steps using the acronym **BEES LOVE ABCD BEST** from the first letter of each step. And **PUCT** for
+the values pact.
 Each step should be done in order so the next step is easier to do. It takes time to master each step, but the results
 are immediate and increasingly substantial. When things are not going as expected, take time to rest and reflect using
 the steps. Mastery is achieved when all steps are done naturally at all times. And voilà, a great life! :smile:
