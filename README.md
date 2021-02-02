@@ -128,11 +128,11 @@ To maximize prosperity:
    priority and ensure all your dreams and actions align to them. The congruence will give you power and the lack of it
    could destroy you.
 
-3. **Start each day with intentions and end with retention.** There are many things that happen in a day, so you won't
+3. **Start each day with intentions and end with reflection.** There are many things that happen in a day, so you won't
    know what you will get at the end of the day unless your intentions are set. Once you have set your intentions for
    the day, then your energy will naturally be focused on achieving them. Use intentions that work for you, but here
    is a generic one -- say it with lots of feeling for each word: I am going to be powerful, happy, productive, and
-   prosperous today! At the end of the day, take some time to recall and appreciate what you have learned and
+   prosperous today! At the end of the day, take some time to reflect and appreciate what you have learned and
    accomplished today so you can better retain what you have done to make tomorrow even better.
 
 4. **Take massive actions.** At the end of the day, nothing happens without action. And big dreams require massive
