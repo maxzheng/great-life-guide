@@ -29,7 +29,9 @@ start each day and action powerfully.
    -- powerful, intentional, and in good form. Complete your movements in positive physical states (good posture, happy
    facial expression, etc.). Your motions and states can change how you feel, and vice versa, as emotion is energy in
    motion. Negative thoughts can drain your mental energy, so maintain a positive mental state at all times by replacing
-   negative thoughts with positive ones that empowers you. Focus on what you can do and how they can make things better.
+   negative thoughts with positive ones that empowers you. Fear can easily inhibit your thinking brain without your
+   knowledge and drastically reduce your energy, so replace that with calmness or excitement. Focus on what you can do
+   and how they can make things better.
 
 4. **Sleep well** to rejuvenate your energy and more. When you don't sleep well, you are much
    more susceptible to accidents, illnesses, and negativities (e.g. sadness, anger, hate). To sleep well, exercise to
@@ -181,7 +183,7 @@ everything that we do:
 Mastery
 -------
 
-To master life, there are a few things that you need to have absolute understanding and command of:
+To master life, there are a few areas that you need to have absolute understanding and command of:
 
 1. **Life**: There are many theories about the origin of life, however that we began is interesting but keep in mind
    that they are theories and the truth is they are of no consequence in how we live it. Some theories leverage fear,
@@ -193,19 +195,20 @@ To master life, there are a few things that you need to have absolute understand
    you -- completely in your own hands and no one elses. Appreciate the fact that you are conscious, act consciously to
    realize your dreams without fear or limits, and do good to expand the prosperity of humanity -- that's pretty
    meaningful. There can be many struggles and sufferings in life, but they are nothing more than obstacles in an
-   obstacle course of life to help you become stronger and pave the way to define your unique identity.
+   obstacle course of life that you can appreciate as they help you become stronger and pave the way to define your
+   unique identity.
 
-2. **Identity**: Who are you? Most people don't think too much about that until they have a midlife crisis or other
-   traumatic event. Without knowing who you are, what you want out of life, and what everything means to you, it will be
-   hard for you to achieve the outcome that you want as you are likely doing others' biddings. Take some time for
-   yourself to think about those things and explicitly define your identity, beliefs, values, purpose, meaning, personal
-   mission, and dreams. What society or others expect isn't necessary something that you need to follow. That's where it
-   starts, however it ends is totally up to you so you can achieve the outcome that you want for *your* life. If you
-   have a hard time defining your identity, then it means you haven't experienced enough pains and pleasures of life --
-   go out and do more. In order to create your unique identity, you may need to break down your existing primitive and
-   societal identity, which can lead to suffering, such as depression -- understand and appreciate that it is a part of
-   the life journey. Becoming your authentic self is liberating and empowering. Your unique identity will guide the
-   fine-tuning of your control.
+2. **Identity**: Who are you? Why do you do what you do? Most people don't think too much about that until they have a
+   midlife crisis or other traumatic event. Without knowing who you are, what you want out of life, and what everything
+   means to you, it will be hard for you to achieve the outcome that you want as you are likely doing others' biddings.
+   Take some time for yourself to think about those things and explicitly define your identity, beliefs, values,
+   purpose, meaning, personal mission, and dreams. What society or others expect isn't necessary something that you need
+   to follow. That's where it starts, however it ends is totally up to you so you can achieve the outcome that you want
+   for *your* life. If you have a hard time defining your identity, then it means you haven't experienced enough pains
+   and pleasures of life -- go out and do more. In order to create your unique identity, you may need to break down your
+   existing primitive and societal identity, which can lead to suffering, such as depression -- understand and
+   appreciate that it is a part of the life journey. Becoming your authentic self is liberating and empowering. Your
+   unique identity will guide the fine-tuning of your control.
 
 3. **Control**: What separates us from animals is our ability to have absolute and conscious control of ourselves
    instead of relying on instincts alone. That ability allowed humanity to achieve many of its greatnesses. The lack of
@@ -217,19 +220,19 @@ To master life, there are a few things that you need to have absolute understand
    now, which has nothing to do with any thoughts, actions, or events. The sadness associated with
    failure can be changed to appreciation at will regardless of the thought that failure does help you grow. Consciously
    change your emotions, thoughts, actions, and events and train your brain with associations that support you instead
-   of destroy. You can feel depressed, happy, or not at any moment or for any event -- it's really a choice.
-   You can think negatively, positively, or nothing at all about anything. You can take any action at any time or not.
-   They can be tied together or isolated. All of them is a choice and a skill that you can master independently, so that
-   they can be leveraged more effectively together. Absolute and conscious control will help you take your skills to new
-   heights.
+   of destroy. You can decide to feel depressed, happy, or not at any moment or for any event -- it's really a choice.
+   You can decide to think negatively, positively, or nothing at all about anything. You can decide to take any action
+   at any time or not. They can be tied together or isolated. All of them is a choice and a skill that you can master
+   independently, so that they can be leveraged more effectively together. Absolute and conscious control will help you
+   take your skills to new heights.
 
 4. **Skills**: All the steps in this guide are skills. Power steps improve your ability to gain unlimited energy.
    Happiness steps improve your ability to be happy every day. Productivity steps improve your ability to be productive.
    Prosperity steps improve your ability to be prosperous. It's important to understand everything that we do is a
    skill, therefore there are ways to improve them. Natural talent is where you start, but where it ends is completely
    up to you. Skills can be pushed to world-class levels using deliberate practice with passion and coaching. Identify
-   the smallest unit of improvement, figure out the best approach, practice, and continously iterate based on feedback.
-   Life itself is a skill. Learn to live a great life or let life push you around -- the choice is up to you.
+   the smallest unit of improvement, figure out the best approach, practice, rest, and continously iterate based on
+   feedback. Life itself is a skill. Learn to live a great life or let life push you around -- the choice is up to you.
 
 You might have noticed that all 4 areas have something in common, and that's how things are today is where you start and
 where it ends is 100% completely up to you. You life is in your own hands and no one else's -- no matter what happens in
