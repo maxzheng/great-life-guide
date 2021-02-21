@@ -228,11 +228,12 @@ To master life, there are a few areas that you need to have absolute understandi
 
 4. **Skills**: All the steps in this guide are skills. Power steps improve your ability to gain unlimited energy.
    Happiness steps improve your ability to be happy every day. Productivity steps improve your ability to be productive.
-   Prosperity steps improve your ability to be prosperous. It's important to understand everything that we do is a
-   skill, therefore there are ways to improve them. Natural talent is where you start, but where it ends is completely
-   up to you. Skills can be pushed to world-class levels using deliberate practice with passion and coaching. Identify
-   the smallest unit of improvement, figure out the best approach, practice, rest, and continously iterate based on
-   feedback. Life itself is a skill. Learn to live a great life or let life push you around -- the choice is up to you.
+   Prosperity steps improve your ability to be prosperous. Everything that you do is a skill, such as how you feel,
+   think, and act. That's a wonderful as it means everything can be improved with effort and the right approach. Natural
+   talent is where you start, but where it ends is completely up to you. Skills can be pushed to world-class levels
+   using deliberate practice with passion and coaching. Identify the smallest unit of improvement, figure out the best
+   approach, practice, rest, and continously iterate based on feedback. Life itself is a skill. Learn to live a great
+   life or let life push you around -- the choice is up to you.
 
 You might have noticed that all 4 areas have something in common, and that's how things are today is where you start and
 where it ends is 100% completely up to you. You life is in your own hands and no one else's -- no matter what happens in
