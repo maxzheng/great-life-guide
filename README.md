@@ -183,7 +183,7 @@ everything that we do:
 Mastery
 -------
 
-To master life, there are a few areas that you need to have absolute understanding and command of:
+To gain mastery in life, there are a few areas that you need to have absolute understanding and command of:
 
 1. **Life**: There are many theories about the origin of life, however that we began is interesting but keep in mind
    that they are theories and the truth is they are of no consequence in how we live it. Some theories leverage fear,
