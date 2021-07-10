@@ -8,9 +8,9 @@ the steps to achieve that in a meaningful and sustainable way, so everyone can b
 prosperous.
 
 The greatness of your life is based on the choices and actions that you take and nothing more -- your background and
-circumstances, while they might cause some resistance, don't matter at the end (e.g. If there is a will, there is a
+circumstances, while they might cause some resistance, don't matter at the end (e.g., if there is a will, there is a
 way. Anything is possible if you put in the right effort and want it bad enough.). If you want to change your life,
-simply take different choices and actions (e.g. Choose to feel good for doing what is necessary and right instead of
+simply take different choices and actions (e.g., choose to feel good for doing what is necessary and right instead of
 doing wrong things that feel good). This guide provides some of that and if used consistently, a great life is
 guaranteed. One more thing, greatness isn't about achievement, but the mastery of life, which means you can *choose* to
 do nothing and can still be great. :wink: The key to mastery is everything becomes *your choice and responsibility* and
@@ -43,7 +43,7 @@ start each day and action powerfully.
    and how they can make things better.
 
 4. **Sleep well** to rejuvenate your energy and more. When you don't sleep well, you are much
-   more susceptible to accidents, illnesses, and negativities (e.g. sadness, anger, hate). To sleep well, exercise to
+   more susceptible to accidents, illnesses, and negativities (e.g., sadness, anger, hate). To sleep well, exercise to
    exhaust your body during the day, meditate before/after bed to calm your mind and emotion, comfort yourself in a nice
    bed, and consistently do it at the same time to create a rhythm -- that's Emc² from the first letters. Don't get out
    of bed until you finish sleeping!
@@ -55,14 +55,14 @@ Happiness
 To maximize your happiness, just do what kids do best:
 
 1. **Let go of everything** to reduce the burden and make space for happiness. Negativity will rot the core of your body
-   and mind and affect everything you do, so let it go. External things (e.g. work projects, family issues) will prevent
-   you from being fully happy, so let them go. Relax, breathe, and then just let them all go. You will feel lighter and
-   ready to be happy. It doesn't mean that you don't care or ignore everything, but simply not letting them affect you
-   negatively enables you to make changes wisely and move forward. If it's hard to let go or you feel sad without
-   knowing why, then go back to the previous step or move onto the next.
+   and mind and affect everything you do, so let it go. External things (e.g., work projects, family issues) will
+   prevent you from being fully happy, so let them go. Relax, breathe, and then just let them all go. You will feel
+   lighter and ready to be happy. It doesn't mean that you don't care or ignore everything, but simply not letting them
+   affect you negatively enables you to make changes wisely and move forward. If it's hard to let go or you feel sad
+   without knowing why, then go back to the previous step or move onto the next.
 
 2. **Overflow with positivity** to boost your happiness. Identify the things that make you happy, do and express
-   them openly, and then encourage positively (e.g. praise, be thankful and loving, celebrate) and explicitly as
+   them openly, and then encourage positively (e.g., praise, be thankful and loving, celebrate) and explicitly as
    assuming the obvious is often wrong and easily misinterpreted as otherwise. Be thankful for what you have
    each day. Give to others whenever possible, especially wisdom and compassion. Tell your loved ones that you
    love them as much as possible. Celebrate every win -- big or small! Focus on the positive side, the
@@ -99,8 +99,8 @@ To maximize your productivity:
    optimal state and rest well to rejuvenate so everything can function at 100% at all times.
 
 2. **Be mindful with acceptance** to maximize understanding and awareness of what's going on without judgment or
-   expectations. Always be calm -- understand, learn, and then let go of anything that disturbs it (e.g. scan your body
-   and mind often for any tension and loosen them). Stay focused while being aware of the surrounding (e.g. understand
+   expectations. Always be calm -- understand, learn, and then let go of anything that disturbs it (e.g., scan your body
+   and mind often for any tension and loosen them). Stay focused while being aware of the surrounding (e.g., understand
    your emotions and enjoy them but don't let them take over). No matter what others say or do to you, retain the
    calmness and clarity to make decisions wisely.
 
@@ -145,7 +145,7 @@ To maximize prosperity:
    is a generic one -- say it with lots of feeling for each word: I am going to be powerful, happy, productive, and
    prosperous today! At the end of the day, take some time to reflect and appreciate what you have learned and
    accomplished today so you can better retain what you have done to make tomorrow even better. Do the same for each
-   action you take (e.g. meeting).
+   action you take (e.g., meeting).
 
 4. **Take massive actions.** At the end of the day, nothing happens without action. And big dreams require massive
    actions. Prioritize what you need to work on each day and get as many of them done as possible. The more that you do,
@@ -171,7 +171,7 @@ everything that we do:
    satisfied, but the relationship comes first if you must choose one -- because even if we accomplish the most amazing
    feats, they are pointless if there is no one for us to share with.
    While a single person can do amazing things, the greatest things can only be accomplished when we work
-   together as one. That is every single living being, not just humans, as we interdepend (e.g. we need the oxygen from
+   together as one. That is every single living being, not just humans, as we interdepend (e.g., we need the oxygen from
    trees and more than half of your body cells are microbes!). Divisions of countries and races are superficial and only
    cause harm. It's ok to have groups, but not superficial barriers that hinder collaboration, nor thinking other
    groups are different or inferior. We should help each other, work together, and share the fruits of labor, so
