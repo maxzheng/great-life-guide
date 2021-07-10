@@ -7,6 +7,15 @@ Life is great when you can fully understand, do, and enjoy everything that it ha
 the steps to achieve that in a meaningful and sustainable way, so everyone can be powerful, happy, productive, and
 prosperous.
 
+The greatness of your life is based on the choices and actions that you take and nothing more -- your background and
+circumstances, while they might cause some resistance, don't matter at the end (e.g. If there is a will, there is a
+way. Anything is possible if you put in the right effort and want it bad enough.). If you want to change your life,
+simply take different choices and actions (e.g. Choose to feel good for doing what is necessary and right instead of
+doing wrong things that feel good). This guide provides some of that and if used consistently, a great life is
+guaranteed. One more thing, greatness isn't about achievement, but the mastery of life, which means you can *choose* to
+do nothing and can still be great. :wink: The key to mastery is everything becomes *your choice and responsibility* and
+no one else's -- the way you feel about anything, the actions you take, the dreams that you want to achieve, etc.
+
 Power
 -----
 
@@ -190,7 +199,7 @@ To gain mastery in life, there are a few areas that you need to have absolute un
    safety, or purpose to turn them into truths. In reality, we don't need any of that. It's ok to begin without purpose
    so that you can define your own -- that's actually empowering even if it might not feel that way
    initially. It's ok to die when our time is up, but you are definitely welcome to try to change that. Understand the
-   truth that we are stardust and the materials that we are made of never actually die but changes to
+   truth that we are stardust and the materials that we are made of never actually die but change to
    different forms in a neverending cycle of life and death. However, that's only where we begin, how it ends is up to
    you -- completely in your own hands and no one else's. Appreciate the fact that you are conscious, act consciously to
    realize your dreams without fear or limits, and do good to expand the prosperity of humanity -- that's pretty
