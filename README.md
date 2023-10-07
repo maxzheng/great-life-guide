@@ -1,7 +1,9 @@
 A Great Life Guide
 ==================
 
-> **Warning**: This guide will make you [powerful, happy, productive, and prosperous every day](story.md) for the rest of your life!
+> **Warning**: This guide will make you powerful, happy, productive, and prosperous every day for the rest of your life!
+
+**TLDR;** Feel great instantly by doing the 4 LOVE steps under Happiness section, especially the first two: **L**et go of everything and **O**verflow with positivity. 
 
 Life is great when you can fully understand, do, and enjoy everything that it has to offer. This lists
 the steps to achieve that in a meaningful and sustainable way, so everyone can be powerful, happy, productive, and
