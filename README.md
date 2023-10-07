@@ -272,15 +272,10 @@ some recommended resources:
 * [Brains On!](https://www.brainson.org/): An award-winning science podcast for kids and curious adults
 * [TED Talks](https://www.youtube.com/user/TEDtalksDirector): Ideas worth spreading
 
-Updates
--------
-
-This guide is updated often as I learn. To get updates, just [follow me](https://www.linkedin.com/in/maxzheng/).
-
-Need Help?
+Questions?
 ----------
 
-To get started on living a great life where you can be happy and productive every day, book a free coaching session with
-me at [http://hp.coach](http://hp.coach). :smile:
+Contact me on [LinkedIn](https://www.linkedin.com/in/maxzheng/).
+ :smile:
 
-*The latest published version is available at [http://hp.guide](http://hp.guide) for easy sharing and liking.*
+*The latest published version is available at [http://agreatlife.guide](http://agreatlife.guide) for easy sharing and liking.*
